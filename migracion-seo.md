@@ -6,8 +6,6 @@ author:
   twitter: emirodgar
 ---
 
-<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-
 # Migración SEO
 
 Este es un ejemplo de SEO
@@ -15,5 +13,3 @@ Este es un ejemplo de SEO
 Y este otr mejoro
 
 ## por aquúi H2
-
-</section>
