@@ -1,5 +1,7 @@
-     {::nomarkdown}
-     <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+# example
+    
+ {::nomarkdown}
+ <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
           <h1 class="mb-0">CHULETA
             <span class="text-primary">SEO</span>
