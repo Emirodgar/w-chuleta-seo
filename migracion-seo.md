@@ -69,6 +69,7 @@ A través de Google Search Console y Bing Search Console podremos cargar dicho f
 Una vez ejecutada la migración debemos buscar posibles errores y subsanarlos a la mayor brevedad. Para ello recomiendo llevar a cabo las siguienes acciones:
 
 - **Análisis del log de servidor**: Veremos en tiempo real qué páginas están dando error y podremos solucionarlo lo antes posible.
+
 - **Análisis de enlazado interno**: A través de aplicaciones como ScreamingFrog analizaremos todas las páginas en busca de enlaces internos erróneos (páginas que han sido enlazadas de forma incorrecta y generar páginas de error) y otro tipo de problemas.
 
 Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que podremos encontrar problemas casi en tiempo real. A continuación muestro otra opción a medio y largo plazo (como control) ya que a corto plazo no será efectiva pues tarda en actualizar los datos.
