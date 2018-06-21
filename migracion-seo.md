@@ -10,7 +10,6 @@ author:
 
 No pierdas posicionamiento ni tráfico SEO al cambiar de dominio, estructura o de plantilla web. Te enseño a seguir los pasos adecuados para asegurar una migración correcta.
 
-Y este otr mejoro
 
 ## 1- Analizamos la estructura actual
 
@@ -18,7 +17,7 @@ El primer paso es identificar todas las páginas que componen nuestro sitio web.
 
 ## 2- Cualificamos y clasificamos las páginas existentes
 
-En este paso clasificaremos y organizaremos todas las páginas que hemos identificado según los criterios de **posicionamiento**, **tráfico y **conversión**. Nuestro objetivo será disponer de dos bloques principales: páginas que queremos conservar y las que no.
+En este paso clasificaremos y organizaremos todas las páginas que hemos identificado según los criterios de **posicionamiento**, **tráfico** y **conversión**. Nuestro objetivo será disponer de dos bloques principales: páginas que queremos conservar y las que no.
 
 ### Página relevantes 
 
@@ -46,3 +45,11 @@ Las páginas de baja calidad o que no se mantendrán en la nueva versión serán
 
 No deben ser redireccionadas y debemos asegurarnos que el código de estado HTTP devuelto es un error (así evitamos que se indexen).
   
+## 4- Comprobamos que la página es accesible
+
+Es bastante común que durante el desarrollo de una nueva web ésta sea bloqueada a la indexación de los buscadores para evitar miradas indiscretas y contenido duplicado. A veces ocurre que cuando se publica en producción les mecanismos que impiden su indexación siguen presentes y lastran su posicionamiento.
+
+Para asegurarnos que nuestra nueva página es accesible, justo antes de la migración debemos comprobar que:
+
+- No se está bloqueando desde el fichero robots.txt.
+- No incluye la meta etiqueta noindex.
