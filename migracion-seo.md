@@ -10,9 +10,9 @@ author:
 
 # Migración SEO
 
-Este es un ejemplo
+Este es un ejemplo de SEO
 
-Y este otro
+Y este otr mejoro
 
 ## por aquúi H2
 
