@@ -8,12 +8,9 @@ author:
 
 # Migración SEO
 
-<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-
 Este es un ejemplo de SEO d migación
 
 Y este otr mejoro
 
 ## por aquúi H2
 
-</section>
