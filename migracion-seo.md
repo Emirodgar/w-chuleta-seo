@@ -52,4 +52,25 @@ Es bastante común que durante el desarrollo de una nueva web ésta sea bloquead
 Para asegurarnos que nuestra nueva página es accesible, justo antes de la migración debemos comprobar que:
 
 - No se está bloqueando desde el fichero robots.txt.
-- No incluye la meta etiqueta noindex.
+- No incluye la meta etiqueta noindex ni nofollow.
+
+## 5- Comprobamos los códigos de medición
+
+Es muy importante -de cara a poder evaluar el impacto de la migración- validar que los códidos de medición (plataforma analítica web, campañas de pago, modelos de atribución, etc) están presentes en la nueva página. De no ser así, debemos incluirlos antes de la migración.
+
+## 6- Envío y supervisión de la nueva estructura
+
+Para ayudar a los buscadores a entender el cambio de estructura es importante, además de las redirecciones aplicadas en el fichero de mapeado, que dispongamos de un fichero sitemap XML que incluya todas las páginas relevantes de nuestro sitio web que queremos posicionar.
+
+A través de Google Search Console y Bing Search Console podremos cargar dicho fichero y analizar la evolución de las páginas que son indexadas, las que dan error, etc.
+
+## 7- Comprobaciones finales
+
+Una vez ejecutada la migración debemos buscar posibles errores y subsanarlos a la mayor brevedad. Para ello recomiendo llevar a cabo las siguienes acciones:
+
+- **Análisis del log de servidor**: Veremos en tiempo real qué páginas están dando error y podremos solucionarlo lo antes posible.
+- **Análisis de enlazado interno**: A través de aplicaciones como ScreamingFrog analizaremos todas las páginas en busca de enlaces internos erróneos (páginas que han sido enlazadas de forma incorrecta y generar páginas de error) y otro tipo de problemas.
+
+Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que podremos encontrar problemas casi en tiempo real. A continuación muestro otra opción a medio y largo plazo (como control) ya que a corto plazo no será efectiva pues tarda en actualizar los datos.
+
+- **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
