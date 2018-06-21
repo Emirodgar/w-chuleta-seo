@@ -16,17 +16,19 @@ Y este otr mejoro
 
 El primer paso es identificar todas las páginas que componen nuestro sitio web. Para ello podemos hacer uso de herramientas como Google Search Console, ScreamingFrog, los ficheros sitemaps o los logs de servidor.
 
-## 2- Identificamos las páginas relevantes
+## 2- Cualificamos y clasificamos las páginas existentes
 
-En este paso clasificaremos y organizaremos todas las páginas que hemos identificado según los criterios de **posicionamiento**, **tráfico y **conversión**.
+En este paso clasificaremos y organizaremos todas las páginas que hemos identificado según los criterios de **posicionamiento**, **tráfico y **conversión**. Nuestro objetivo será disponer de dos bloques principales: páginas que queremos conservar y las que no.
 
-Nuestro objetivo será disponer de varios bloques: páginas bien posicionadas, páginas que generan buen tráfico y páginas que asisten a la conversión.
+### Página relevantes 
+
+Dentro de este bloque ubicamos las páginas con un buen posicioamiento SEO, páginas que generan buen tráfico, páginas que asisten a la conversión y páginas que nos interesa conservar a nivel interno.
+
+### Páginas con baja calidad
   
-## 3- Excluimos páginas poco relevantes
-
 Al igual que hemos identificado las páginas que queremos conservar debido a su relevancia, tenemos que ser conscientes de aquellas que no lo son. Crearemos otros dos bloques: páginas que actualmente dan error y páginas que no tendrán equivalente en la nueva versión.
 
-## 4- Creamos el fichero de mapeado o redirección
+## 3- Creamos el fichero de mapeado o redirección
 
 El objetivo de esta migración es que los buscadores entiendan el cambio de página web sin que éste afecte al posicionamiento ni a la experiencia de los usuarios.
 
@@ -34,7 +36,7 @@ Para ello necesitamos aplicar redirecciones 301 (permanentes) entre las URLs de 
 
 ### Páginas relevantes para la estrategia SEO
 
-Serán redireccionadas, una a una a su versión en la nueva web. Si no existiera, se recomienda crearla.
+Serán redireccionadas, una a una a su versión en la nueva web. Si no existiera, se recomienda crearla para poder mantener la popularidad y posicionamiento existentes.
 
 ### Páginas de baja calidad
 
