@@ -13,11 +13,15 @@ En ciertas ocasiones, con páginas de baja calidad, contenido duplicado o inform
 
 ## 1- Eliminar a través de Google Search Console
 
-> Si no tenemos dado de alta en Search Console el dominio del que queremos eliminar una página, tendremos que hacerlo.
+Si no tenemos dado de alta el dominio en Search Console, lo creamos. 
+
+### La página existe
 
 Si se trata de **una página que existe** y simplemente queremos retirarla del índice de búsqueda de Google, debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: Search Console > Índice de Google > Eliminar URLs. Por desgracia, debemos incluir de una en una cada página que queramos eliminar.
 
-En el caso de que se trate de un contenido que **ya no existe y que aún así sigue indexado en Google**, debemos utilizar la [herramienta de eliminación de contenido obsoleto](https://www.google.com/webmasters/tools/removals).
+### La página ya no existe
+
+La página ya no existe: En el caso de que se trate de un contenido que **ya no existe y que aún así sigue indexado en Google**, debemos utilizar la [herramienta de eliminación de contenido obsoleto](https://www.google.com/webmasters/tools/removals).
 
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una **accion temporal** por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
 
