@@ -1,12 +1,12 @@
 ---
 description: Proceso para eliminar páginas/URLs del índice de los buscadores, en concreto, Google, aunque el proceso es extensible al resto.
 lang: es_ES
-permalink: eliminar-url-indexada-google
+permalink: eliminar-pagina-indexada-google
 author:
   twitter: emirodgar
 ---
 
-# Eliminar URLs indexadas en Google
+# Eliminar páginas/URLs indexadas en Google
 
 En ciertas ocasiones, con páginas de baja calidad, contenido duplicado o información que no tendría que haber sido indexada, nos vemos forzados a **eliminar dicho contenido de los buscadores**. En esta chuleta me referiré en exclusiva a Google aunque el proceso es extensible -en su mayor parte- al resto de buscadores.
 
