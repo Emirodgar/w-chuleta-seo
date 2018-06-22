@@ -17,13 +17,13 @@ Si no tenemos dado de alta el dominio en Search Console, lo creamos.
 
 ### La página existe
 
-Si se trata de **una página que existe** y simplemente queremos retirarla del índice de búsqueda de Google, debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: Search Console > Índice de Google > Eliminar URLs. Por desgracia, debemos incluir de una en una cada página que queramos eliminar.
+Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: Índice de Google > **Eliminar URLs**. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
 
 ### La página ya no existe
 
-La página ya no existe: En el caso de que se trate de un contenido que **ya no existe y que aún así sigue indexado en Google**, debemos utilizar la [herramienta de eliminación de contenido obsoleto](https://www.google.com/webmasters/tools/removals).
+En el caso de que se trate de un contenido que **ya no existe y que aún así sigue indexado en Google**, debemos utilizar la [herramienta de eliminación de contenido obsoleto](https://www.google.com/webmasters/tools/removals).
 
-Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una **accion temporal** por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una **accion temporal** (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
 
 ## 2- Evitar de nuevo su indexación
 
