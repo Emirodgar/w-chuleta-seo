@@ -37,8 +37,17 @@ Si nos corre mucha prisa la eliminación de dicha página y queremos evitar que 
 
 - Aplicar una redirección 301 (permanente) hacia una página similar o hacia la página principal del sitio.
 
-## 3- Consejo adicional
+## 3- Eliminar ficheros indexados
+
+Si se han indexado ficheros ubicados en nuestro servidor, es recomendable bloquear el acceso a los mismos y únicamente permitir los documentos orientados a la página web. Para ello, en el caso del servidor Apache debemos bloquear el [listado de directorios](https://wiki.apache.org/httpd/DirectoryListings) haciendo uso de esta instrucción en nuestro fichero .htaccess:  
+
+```
+Options -Indexes
+```
+
+## 4- Consejos adicionales
 
 Si se trata de páginas que sabemos que, tras un tiempo publicadas no queremos que sigan indexadas, podemos hacer uso de la etiqueta [unavailable_after](https://googleblog.blogspot.com/2007/07/robots-exclusion-protocol-now-with-even.html) de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information) ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
+
