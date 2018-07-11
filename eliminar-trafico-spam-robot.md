@@ -14,7 +14,7 @@ A continuación detallo algunos pasos para prevenir y minimizar el impacto de es
 
 ## 1- Identificar el tráfico de baja calidad
 
-El primer paso será asegurarnos de que realmente tenemos tráfico SPAM y de robots. Por norma general este tipo de tráfico se caracteriza por:
+El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de robots. Por norma general este tipo de tráfico se caracteriza por:
 
  - Poco tiempo en el sitio.
  - Alto porcentaje de rebote.
