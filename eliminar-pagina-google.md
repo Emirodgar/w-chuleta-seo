@@ -39,11 +39,12 @@ Si nos corre mucha prisa la eliminación de dicha página y queremos evitar que 
 
 ## 3- Eliminar ficheros indexados
 
-Si se han indexado ficheros ubicados en nuestro servidor, es recomendable bloquear el acceso a los mismos y únicamente permitir los documentos orientados a la página web. Para ello, en el caso del servidor Apache debemos bloquear el [listado de directorios](https://wiki.apache.org/httpd/DirectoryListings) haciendo uso de esta instrucción en nuestro fichero .htaccess:  
+Si se han indexado ficheros ubicados en nuestro servidor, es recomendable bloquear el acceso a los mismos y únicamente permitir los documentos orientados a la página web. Para ello, en el caso del **servidor Apache**, debemos bloquear el [listado de directorios](https://wiki.apache.org/httpd/DirectoryListings) haciendo uso de esta instrucción en nuestro fichero .htaccess:  
 
 ```
 Options -Indexes
 ```
+Para que funcione, la opción **AllowOverides** debe estar a **on**. Una vez activado, si accedemos a un directorio, éste no debe mostrar el listado de los documentos que contiene sino un error de acceso.
 
 ## 4- Consejos adicionales
 
