@@ -64,6 +64,8 @@ Para ayudar a los buscadores a entender el cambio de estructura es importante, a
 
 A través de Google Search Console y Bing Search Console podremos cargar dicho fichero y analizar la evolución de las páginas que son indexadas, las que dan error, etc.
 
+A mayores, utilizaremos la [herramienta de cambio de dirección](https://support.google.com/webmasters/answer/83106?hl=es) de Google Search Console para informar al buscador del cambio de dominio.
+
 ## 7- Comprobaciones finales
 
 Una vez ejecutada la migración debemos buscar posibles errores y subsanarlos a la mayor brevedad. Para ello recomiendo llevar a cabo las siguienes acciones:
