@@ -31,7 +31,8 @@ Para evitar que una página se indexe tenemos a nuestra disposición varios mét
 
 - Añadir la [etiqueta noindex](https://developers.google.com/search/reference/robots_meta_tag?hl=es#directivas-de-indexacin-y-publicacin-vlidas) en el header de la página.
 - Hacer que la página genere un [error 410](https://es.wikipedia.org/wiki/HTTP_410) (indicando que ésta ya no existe).
-- Bloquear la página con el [comando disallow](http://www.robotstxt.org/robotstxt.html) desde el fichero robots.txt. Cuando hablamos de secciones, es la medida más óptima puesto que podemos usar expresiones regulares para que, con una instrucción, se aplique el bloqueo a múltiples páginas evitando así tener que ir bloqueando una por una.
+
+Si tenemos problemas para utilizar la etiqueta noindex, tenemos la opción de bloquear la página con el [comando disallow](http://www.robotstxt.org/robotstxt.html) desde el fichero robots.txt. Cuando hablamos de secciones, es la medida más óptima puesto que podemos usar expresiones regulares para que, con una instrucción, se aplique el bloqueo a múltiples páginas evitando así tener que ir bloqueando una por una. No es recomendable utilizar noindex y disallow en el mismo proyecto; o una opción o la otra.
 
 Si nos corre mucha prisa la eliminación de dicha página y queremos evitar que aparezca un error, podemos hacer lo siguiente:
 
