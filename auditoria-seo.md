@@ -83,4 +83,19 @@ Disponer de **enlaces de calidad** es realmente importante para conseguir un bue
 
  - [Ahrefs](https://ahrefs.com/)
  - [Majestic SEO](https://majestic.com/)
+ 
+## Análisis de competidores
+
+Es importante determinar quiénes son nuestros principales **competidores orgánicos** y en qué posición se encuentran los **competidores reales**. Analizar su visibilidad SEO y términos por los que posicionan nos darán una clara imagen de dónde se encuentran respecto a nosotros y cómo de fácil o difícil serán nuestros objetivos. 
+
+También podemos conocer qué optimizaciones SEO tienen, desde qué dominiosdel sector  han conseguido enlaces y otra información que podríamos replicar en nuestra página.
+
+## Optimizar el contenido
+
+Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el contenido es de valor para los usuarios y está bien presentado. Doy algunos ejemplos:
+
+ - Uso de cabeceras HTML (H1, H2, etc.)
+ - Pequeños párrafos en lugar de grandes piezas de contenido
+ - Uso de material multimedia como imágenes o vídeos
+ - Uso de enlaces complementarios
 
