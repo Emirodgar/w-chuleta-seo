@@ -16,12 +16,15 @@ El primer punto debe ser conocer cuántas páginas tenemos indexadas en Google y
 
 ### Eliminar las páginas de poco valor
 
-Reducir el número de páginas indexadas en importante para que los robots se centren únicamente en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente importante. Ejemplo de las páginas que no nos interesa posicionar son:
+Reducir el número de páginas indexadas en importante para que los robots se centren únicamente en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente importante. Aquí explico el proceso para [eliminar una web](https://chuletaseo.com/eliminar-pagina-indexada-google). Ejemplo de las páginas que no nos interesa posicionar son:
 
  - Resultados de búsquedas
  - Categorías / archivos
  - Páginas con poco contenido, similares entre ellas o poco relevantes para SEO
+ 
+### Comprobar problemas de indexación
 
+A través de Google Search Console podremos analizar si el buscador está teniendo problemas para indexar nuestra página. Debemos acceder a Índice > cobertura para ver en detalle las URLs que son válidas y las que están generando error. Podemos hacer una segunda validación con [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) en busca de páginas obsoletas, que dan error o bloqueadas.
 
 ## Comprobar si la web es Mobile-Friendly
 
@@ -50,7 +53,25 @@ El tiempo de acceso a una web es crucial tanto para usuarios como para buscadore
  - Comprimir GZIP las peticiones entre servidor y usuario
  - Utilizar un CDN
  
- Algunas de las herramientas que podemos utilizar son:
+Algunas de las herramientas que podemos utilizar son:
  
  - [GTMetrix](https://gtmetrix.com/), [Webpagetest](https://www.webpagetest.org/) o [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/) para conocer problemas en el tiempo de carga.
  - [Kraken](https://kraken.io/) para optimizar el tamaño de las imágenes.
+ 
+## Análisis del tráfico orgánico
+ 
+El siguiente paso será analizar nuestro tráfico orgánico. El objetivo es conocer nuestra situación actual y la evolución seguida hasta este momento. A través de este análisis debemos ser capaces de identificar fortalezas y debilidades que se traduzcan en acciones.
+
+ - Páginas que más tráfico SEO reciben
+ - Términos por los que estamos posicionando
+ - Opciones de mejora para captar más tráfico
+ - Conversión del tráfico orgánico
+ 
+## Monitorizar posicionamiento web
+ 
+El siguiente paso será conocer por qué términos estamos posicionando y cruzar dicha información con el análisis del punto anterior. Así podremos saber qué camino de mejora tenemos por delante y las páginas y términos que debemos trabajar.
+
+## Análisis del perfil de enlazado
+
+Disponer de enlaces de calidad es realmente importante para conseguir un buen posicionamiento SEO.
+
