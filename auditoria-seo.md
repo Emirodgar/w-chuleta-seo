@@ -32,6 +32,12 @@ A través de Google Searh Console, en el mismo apartado que antes Índice > cobe
 
 Podemos completar este informe con herramientas externas como [Broken Link Check](http://www.brokenlinkcheck.com/).
 
+### Verificar la arquitectura del sitio
+
+Un sitio bien estructurado será más sencillo de indexar y procesar por los buscadores además de que facilitará nuestra optimización SEO. Debemos intentar que todas las páginas se enlacen entre sí dentro de niveles jerárquicos lógicos y siguiendo un patrón fácilmente reconocible. El uso de breadcrumbs y sitemap XML facilitará también el trabajo a los robots de búsqueda.
+
+No deberíamos de disponer de ninguna URL a más de tres clics de la página principal (nivel de profundidad).
+
 ## Comprobar si la web es Mobile-Friendly
 
 Desde comienzos de 2018, Google da prioridad al contenido mobile ([Mobile First Indexing](https://webmasters.googleblog.com/2018/03/rolling-out-mobile-first-indexing.html)) por lo que una acción prioritaria para nuestra auditoría SEO debe ser asegurarnos de que nuestra web es accesible desde cualquier dispositivo mobile.
@@ -48,6 +54,8 @@ Nuestra página puede ser accedida de múltiples formas por lo que tenemos que a
  - https://www.mipagina.com
  
 Debemos aplicar una **redirección 301** de todas las versiones hacia la que decidamos que será la permitida.
+
+A mayores, podemos consultar el informe de HTML duplicados dentro de Google Search Console para identificar otras páginas internas que estén generando contenido duplicado.
 
 ## Optimiza el tiempo de carga
  
@@ -98,4 +106,8 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
  - Pequeños párrafos en lugar de grandes piezas de contenido
  - Uso de material multimedia como imágenes o vídeos
  - Uso de enlaces complementarios
+ 
+ ## Atrapa al usuario
+ 
+Es extramadamente importante que el tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si por el contrario vuelve a Google para visitar a un competidor orgánico.
 
