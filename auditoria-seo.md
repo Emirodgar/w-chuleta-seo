@@ -24,7 +24,13 @@ Reducir el número de páginas indexadas en importante para que los robots se ce
  
 ### Comprobar problemas de indexación
 
-A través de Google Search Console podremos analizar si el buscador está teniendo problemas para indexar nuestra página. Debemos acceder a Índice > cobertura para ver en detalle las URLs que son válidas y las que están generando error. Podemos hacer una segunda validación con [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) en busca de páginas obsoletas, que dan error o bloqueadas.
+A través de Google Search Console podremos analizar si el buscador está teniendo problemas para indexar nuestra página. Debemos acceder a Índice > cobertura > Válidas para ver en detalle las URLs que son válidas y las que están generando error. Podemos hacer una segunda validación con [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) en busca de páginas obsoletas, que dan error o bloqueadas.
+
+### Solucionar errores de enlazado interno
+
+A través de Google Searh Console, en el mismo apartado que antes Índice > cobertura > Error, podemos consultar aquellas páginas que han generado error al ser visitadas por Google. Es importante descubir y corregir el problema para evitar que se sigan detectado errores. Normalmente estos problemas se origina por un mal enlazado interno o por [eliminar páginas](https://chuletaseo.com/eliminar-pagina-indexada-google) sin haber sido [migradas correctamente](https://chuletaseo.com/migracion-seo).
+
+Podemos completar este informe con herramientas externas como [Broken Link Check](http://www.brokenlinkcheck.com/).
 
 ## Comprobar si la web es Mobile-Friendly
 
@@ -73,5 +79,8 @@ El siguiente paso será conocer por qué términos estamos posicionando y cruzar
 
 ## Análisis del perfil de enlazado
 
-Disponer de enlaces de calidad es realmente importante para conseguir un buen posicionamiento SEO.
+Disponer de **enlaces de calidad** es realmente importante para conseguir un buen posicionamiento SEO. Debemos conseguir que nos enlacen páginas de la misma temática, diferentes dominios y con enlaces dentro de contenido. Es importante retirar cualquier **enlace tóxico** que nos pueda acarrera una penalización. Para revisar el perfil de enlazado podemos utilizar alguna de las siguientes herramientas:
+
+ - [Ahrefs](https://ahrefs.com/)
+ - [Majestic SEO](https://majestic.com/)
 
