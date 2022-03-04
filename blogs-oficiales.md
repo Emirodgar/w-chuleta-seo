@@ -9,6 +9,9 @@ author:
 
 # Listado de los blogs oficiales
 
+[Inicio](https://chuletaseo.com/) / Primeros pasos en SEO / listado blogs oficiales
+
+
 Cuando queremos conocer información fiable, actualizada y de primera mano, lo más sensato es acudir a las fuentes de información oficial.
 
 - [Blog de **Google** (Search Blog)](https://developers.google.com/search/blog)
@@ -17,5 +20,6 @@ Cuando queremos conocer información fiable, actualizada y de primera mano, lo m
 
 Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter de [Google Search Central](https://twitter.com/googlesearchc).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY1MTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjA4MzQ0NzcsLTEwNTY1MTMxMjZdfQ
+==
 -->
