@@ -11,11 +11,11 @@ author:
 
 Cuando queremos conocer información fiable, actualizada y de primera mano, lo más sensato es acudir a las fuentes de información oficial.
 
-- Blog de **Google** (Search Blog): https://developers.google.com/search/blog 
-- Blog de **Bing**: https://blogs.bing.com/
-- Blog de **Yandex**: https://webmaster.yandex.ru/blog/
+- [Blog de **Google** (Search Blog)](https://developers.google.com/search/blog)
+- [Blog de **Bing**](https://blogs.bing.com/)
+- [Blog de **Yandex**](https://webmaster.yandex.ru/blog/)
 
-Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter:  https://twitter.com/googlesearchc
+Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter de [Google Search Central](https://twitter.com/googlesearchc).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDM3ODU2NV19
+eyJoaXN0b3J5IjpbLTEwNTY1MTMxMjZdfQ==
 -->
