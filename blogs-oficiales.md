@@ -1,7 +1,7 @@
 ---
 description: Listado de los blogs oficiales de los principales buscadores
 lang: es_ES
-permalink: auditoria-seo
+permalink: blogs-oficiales
 author:
   twitter: emirodgar
   
@@ -17,5 +17,5 @@ Cuando queremos conocer información fiable, actualizada y de primera mano, lo m
 
 Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter:  https://twitter.com/googlesearchc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUzMDc0MDRdfQ==
+eyJoaXN0b3J5IjpbMTUwMDM3ODU2NV19
 -->
