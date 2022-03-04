@@ -4,7 +4,7 @@
       <h1 class="mb-0">CHULETA
          <span class="text-primary">SEO</span>
       </h1>
-      <div class="subheading mb-5">Proyecto open source creado por ·
+      <div class="subheading mb-5">Proyecto creado por ·
          <a href="https://emirodgar.com">Emirodgar</a>
       </div>
       <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. En base a mi experiencia he creado estas chuletas para ayudar a quién lo necesite.</p>
@@ -45,7 +45,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzE1MDI0NywxMTUzNTg2MDc0LC0xMT
-Q4MDYyMjQsMTI1NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5MDM3
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDM0NDMwMDAsMTE1MzU4NjA3NCwtMT
+E0ODA2MjI0LDEyNTY1NzkxNjgsMTM0NDExMTUwMywxNzgzOTAz
+NzAxXX0=
 -->
