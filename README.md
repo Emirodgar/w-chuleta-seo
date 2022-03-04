@@ -8,6 +8,13 @@
          <a href="https://emirodgar.com">Emirodgar</a>
       </div>
       <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. En base a mi experiencia he creado estas chuletas para ayudar a quién lo necesite.</p>
+
+<div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
+        <h2>Strategic Planning</h2>
+        <p>Everything we do starts with a rigorous strategic planning process.</p>
+</div>
+
+
       <ul class="list-inline list-social-icons mb-0">
          <li class="list-inline-item">
             <a href="https://emirodgar.com/">
@@ -45,5 +52,5 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTE5ODU1NywxNzgzOTAzNzAxXX0=
+eyJoaXN0b3J5IjpbMTM0NDExMTUwMywxNzgzOTAzNzAxXX0=
 -->
