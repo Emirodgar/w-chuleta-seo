@@ -41,18 +41,10 @@
             </span>
             </a>
          </li>
-         <li class="list-inline-item">
-            <a href="https://github.com/Emirodgar">
-            <span class="fa-stack fa-lg">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-            </span>
-            </a>
-         </li>
       </ul>
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgzNjAxNzgsLTExNDgwNjIyNCwxMj
-U2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbMTE1MzU4NjA3NCwtMTE0ODA2MjI0LDEyNT
+Y1NzkxNjgsMTM0NDExMTUwMywxNzgzOTAzNzAxXX0=
 -->
