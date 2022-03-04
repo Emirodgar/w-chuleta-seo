@@ -10,8 +10,16 @@
       <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. En base a mi experiencia he creado estas chuletas para ayudar a quién lo necesite.</p>
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
-        <h2>Primeros pasos en SEO</h2>
+        <h2>Fuentes de información</h2>
+        <p></p>
         <p><a href="https://chuletaseo.com/blogs-oficiales">Blogs oficiales de los buscadores</a> / <a href="https://chuletaseo.com/perfiles-oficiales-google">Perfiles oficiales de Google</a> / <a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
+</div>
+
+<br/>
+
+<div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
+        <h2>Primeros pasos en SEO</h2>
+        <p></p>
 </div>
 
 <br/><br/>
@@ -45,7 +53,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM0NDMwMDAsMTE1MzU4NjA3NCwtMT
+eyJoaXN0b3J5IjpbLTE1ODg5MjMyODMsMTE1MzU4NjA3NCwtMT
 E0ODA2MjI0LDEyNTY1NzkxNjgsMTM0NDExMTUwMywxNzgzOTAz
 NzAxXX0=
 -->
