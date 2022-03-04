@@ -5,15 +5,13 @@ permalink: perfiles-oficiales-google
   
 ---
 
-# Perfiles sociales oficiales de Google
+# Perfiles oficiales de Google
 
 Una buena forma de estar al día es suscribirnos a los perfiles y contenidos más relacionados con nuestros productos y servicios. La principal fuente de información deben de ser los [blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales), no obstante existen otras muchas fuentes de información relevante.
 
 A continuación tenemos el listado de canales oficiales de Google.
 
---------------
 ## Blogs generales
---------------
 
 - Google:  [goo.gl/7m92Nj](http://goo.gl/7m92Nj)
 - Think With Google:  [goo.gl/75oPW0](http://goo.gl/75oPW0)
@@ -23,16 +21,13 @@ A continuación tenemos el listado de canales oficiales de Google.
 -   Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
 -  Ads Developer: [goo.gl/HGjkyg5](https://googleadsdeveloper.blogspot.com/)
 
---------------
 ## Blogs SEO y Marketing Digital
---------------
 
 -   Inside Search:  [goo.gl/ShngX3](http://goo.gl/ShngX3)
 -   Webmaster:  [goo.gl/c6fMu6](http://goo.gl/c6fMu6)
 
---------------
+
 ## Blogs de productos específicos
---------------
 
 -   Google News:  [goo.gl/6ECpH7](http://goo.gl/6ECpH7)
 -   Earth & Maps:  [goo.gl/zVX9Go](http://goo.gl/zVX9Go)
@@ -44,9 +39,7 @@ A continuación tenemos el listado de canales oficiales de Google.
 -   Translate:  [goo.gl/TI4ud0](http://goo.gl/TI4ud0)
 -   Shopping:  [goo.gl/1BXHif](http://goo.gl/1BXHif)
 
---------------
 ## Blogs de publicidad
---------------
 
 -   Inside AdWords:  [goo.gl/DbktUp](http://goo.gl/DbktUp)
 -   Inside AdSense:  [goo.gl/UfnfbL](http://goo.gl/UfnfbL)
@@ -56,9 +49,7 @@ A continuación tenemos el listado de canales oficiales de Google.
 -   Mobile Ads:  [goo.gl/BnUzuu](http://goo.gl/BnUzuu)
 -   Agency:  [goo.gl/bsjdYf](http://goo.gl/bsjdYf)
 
---------------
 ## Canales de Youtube
---------------
 
 -   YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
 -   YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
@@ -67,9 +58,7 @@ A continuación tenemos el listado de canales oficiales de Google.
   - [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
   - [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
 
---------------
 ## Foros de ayuda
---------------
 
 -   Google Products Forums:  [goo.gl/qo30kj](http://goo.gl/qo30kj)
 -   Google Search Forum:  [goo.gl/e5QV5O](http://goo.gl/e5QV5O)
@@ -109,9 +98,7 @@ A continuación tenemos el listado de canales oficiales de Google.
 -   Google Mobile Help Forum:  [goo.gl/Hd0PlC](http://goo.gl/Hd0PlC)
 -   Google Tag Manager:  [goo.gl/iKu2g5](http://goo.gl/iKu2g5)
 
---------------
 ## Perfiles de Twitter oficiales
---------------
 
 - Accelerate with Google [https://twitter.com/AccelwithGoogle](https://twitter.com/AccelwithGoogle)
 - Android Studio: [https://twitter.com/androidstudio](https://twitter.com/androidstudio)
@@ -144,11 +131,9 @@ A continuación tenemos el listado de canales oficiales de Google.
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
 
---------------
 ** Webs adicionales **
---------------
 
 Una página interesante es https://seoasked.com/ ya que nos permite buscar entre todos los tweets relacionados con SEO realizados por el equipo de Google. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MTkxODI4XX0=
+eyJoaXN0b3J5IjpbMTg2MDY2MzM4NywyNDUxOTE4MjhdfQ==
 -->
