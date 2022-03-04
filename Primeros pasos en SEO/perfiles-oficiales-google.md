@@ -7,7 +7,7 @@ permalink: perfiles-oficiales-google
 
 # Perfiles sociales oficiales de Google
 
-Una buena forma de estar al día es suscribirnos a los perfiles y contenidos más relacionados con nuestros productos y servicios. La principal fuente de información deben de ser los blogs oficiales de los buscadores, no obstante
+Una buena forma de estar al día es suscribirnos a los perfiles y contenidos más relacionados con nuestros productos y servicios. La principal fuente de información deben de ser los [blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales), no obstante existen otras muchas fuentes de información relevante.
 
 A continuación tenemos el listado de canales oficiales de Google.
 
@@ -150,5 +150,5 @@ Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](h
 
 Una página interesante es https://seoasked.com/ ya que nos permite buscar entre todos los tweets relacionados con SEO realizados por el equipo de Google. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODAyMzE4MF19
+eyJoaXN0b3J5IjpbMjQ1MTkxODI4XX0=
 -->
