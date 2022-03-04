@@ -11,7 +11,7 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Primeros pasos en SEO</h2>
-        <p>Listado de <a href="https://chuletaseo.com/blogs-oficiales">blogs oficiales</a></p> / <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
+        <p><a href="https://chuletaseo.com/blogs-oficiales">Listado de blogs oficiales</a></p> / <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
 </div>
 
 <br/><br/>
@@ -53,6 +53,6 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgwNjIyNCwxMjU2NTc5MTY4LDEzND
-QxMTE1MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbLTE5OTgzNjAxNzgsLTExNDgwNjIyNCwxMj
+U2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
