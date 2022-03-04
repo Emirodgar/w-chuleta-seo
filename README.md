@@ -11,7 +11,7 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Fuentes de información</h2>
-        <p>La información es poder. Estar al día de todas las novedades en la evolución del SEO es crítico. Una buena idea es revisar los <a href="https://chuletaseo.com/blogs-oficiales">blogs oficiales de los buscadores</a> así como otros perfiles </p>
+        <p>La información es poder. Estar al día de todas las novedades en la evolución del SEO es crítico. Una buena idea es revisar los <a href="https://chuletaseo.com/blogs-oficiales">blogs oficiales de los buscadores</a>. Google dispone de más de un centenar de perfiles sociales </p>
         <p> / <a href="https://chuletaseo.com/perfiles-oficiales-google">Perfiles oficiales de Google</a> / <a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
 </div>
 
@@ -53,7 +53,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTA3MzE0MSwxMTUzNTg2MDc0LC0xMT
+eyJoaXN0b3J5IjpbMTA5MDQzNjE5NiwxMTUzNTg2MDc0LC0xMT
 Q4MDYyMjQsMTI1NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5MDM3
 MDFdfQ==
 -->
