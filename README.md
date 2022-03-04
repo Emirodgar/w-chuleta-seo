@@ -1,6 +1,4 @@
-```
 <iframe src="https://emirodgar.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-```
 
 <section class="p-3 p-lg-5 d-flex d-column">
    <div class="my-auto">
@@ -48,5 +46,5 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbLTExNjIxMTIwNDcsMTc4MzkwMzcwMV19
 -->
