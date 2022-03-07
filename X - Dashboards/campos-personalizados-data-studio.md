@@ -108,15 +108,20 @@ case
 
 ```
 CASE 
- WHEN País = "US" AND Medium = "cpc" THEN "US - Paid" 
- ELSE "other" 
+ when País = "es" and Medium = "cpc" THEN "ES - PPC" 
+ ELSE "otro" 
 END
 ```
 
 ### Validar si un campo no tiene valor
 
-CASE WHENMedium != "cpc" THEN "free" ELSE "paid" END
+```
+CASE 
+ WHEN Medium != "cpc" THEN "orgánico" 
+ ELSE "pago" 
+ END
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MDY5MzQ2LC0yMDY3OTA3MTgxLC0xOD
-A3MDExNzkxLC0xNDQyNjMzMTA0XX0=
+eyJoaXN0b3J5IjpbMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMT
+gwNzAxMTc5MSwtMTQ0MjYzMzEwNF19
 -->
