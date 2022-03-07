@@ -54,6 +54,19 @@ Si trabajamos en las URLs con parámetros o subcarpetas idiomáticas, podemos r�
 ```
 CASE WHEN CONTAINS_TEXT(Landing Page,"/es/") THEN "Español" WHEN CONTAINS_TEXT(Landing Page,"/fr/") THEN "Francés" WHEN CONTAINS_TEXT(Landing Page,"/de/") THEN "Alemán" WHEN CONTAINS_TEXT(Landing Page,"/it/") THEN "Italiano" else "Inglés" end
 ```
+
+## Convierte fechas a días transcurridos
+
+A veces una simple fecha no nos aporta información suficiente pero si calculamos los días que han pasado desde ese momento podemos accionar análisis
+
+```
+case 
+ when DATE_DIFF(TODAY(), Publicado) < 30 then "Crawled Last 30 days" 
+ when DATE_DIFF(TODAY(), Publicado) < 60 then "Crawled Last 60 days" 
+ when DATE_DIFF(TODAY(), Publicado) < 90 then "Crawled Last 90 days" 
+ when DATE_DIFF(TODAY(), Publicado) < 180 then "Crawled Last 180 days" 
+ else "Crawled Last 180+ Days" end
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI2MzMxMDRdfQ==
+eyJoaXN0b3J5IjpbMTc5ODgzNjcwMCwtMTQ0MjYzMzEwNF19
 -->
