@@ -61,12 +61,12 @@ A veces una simple fecha no nos aporta información suficiente pero si calculamo
 
 ```
 case 
- when DATE_DIFF(TODAY(), Publicado) < 30 then "Crawled Last 30 days" 
- when DATE_DIFF(TODAY(), Publicado) < 60 then "Crawled Last 60 days" 
- when DATE_DIFF(TODAY(), Publicado) < 90 then "Crawled Last 90 days" 
- when DATE_DIFF(TODAY(), Publicado) < 180 then "Crawled Last 180 days" 
- else "Crawled Last 180+ Days" end
+ when DATE_DIFF(TODAY(), Publicado) < 30 then "Publicado hace 30 días" 
+ when DATE_DIFF(TODAY(), Publicado) < 60 then "Publicado hace 60 días" 
+ when DATE_DIFF(TODAY(), Publicado) < 90 then "Publicado hace 90 días" 
+ when DATE_DIFF(TODAY(), Publicado) < 180 then "Publicado hace 180 días" 
+ else "Publicado hace más de 180 días" end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODgzNjcwMCwtMTQ0MjYzMzEwNF19
+eyJoaXN0b3J5IjpbMTkwNzc4NDExMSwtMTQ0MjYzMzEwNF19
 -->
