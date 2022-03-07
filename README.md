@@ -22,6 +22,13 @@
         <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
 </div>
 
+<br/>
+
+<div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
+        <h2>Dashboards y reporting</h2>
+        <p><a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a></p>
+</div>
+
 <br/><br/>
 
       <ul class="list-inline list-social-icons mb-0">
@@ -53,7 +60,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTg3MzU3MywxMTUzNTg2MDc0LC0xMT
-Q4MDYyMjQsMTI1NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5MDM3
-MDFdfQ==
+eyJoaXN0b3J5IjpbNzk1MzczOTg4LDEyNTU4NzM1NzMsMTE1Mz
+U4NjA3NCwtMTE0ODA2MjI0LDEyNTY1NzkxNjgsMTM0NDExMTUw
+MywxNzgzOTAzNzAxXX0=
 -->
