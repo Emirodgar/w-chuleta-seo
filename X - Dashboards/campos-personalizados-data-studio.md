@@ -57,7 +57,7 @@ CASE WHEN CONTAINS_TEXT(Landing Page,"/es/") THEN "Español" WHEN CONTAINS_TEXT(
 
 ## Convierte fechas a días transcurridos
 
-A veces una simple fecha no nos aporta información suficiente pero si calculamos los días que han pasado desde ese momento podemos accionar análisis
+A veces una simple fecha no nos aporta información suficiente, pero si calculamos los días que han pasado desde ese momento, podemos accionar análisis de forma más sencilla.
 
 ```
 case 
@@ -68,5 +68,5 @@ case
  else "Publicado hace más de 180 días" end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzc4NDExMSwtMTQ0MjYzMzEwNF19
+eyJoaXN0b3J5IjpbNTQyNDkzMjUsLTE0NDI2MzMxMDRdfQ==
 -->
