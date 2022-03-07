@@ -1,7 +1,7 @@
 ---
 description: Listado de los blogs oficiales de los principales buscadores
 lang: es_ES
-permalink: blogs-oficiales
+permalink: campos-personalizados-
 author:
   twitter: emirodgar
   
@@ -27,7 +27,11 @@ REGEXP_EXTRACT(URL , '^https://[^/]+/([^/]+)/' )
 
 ## Agrupar palabras por su clasificación en las SERPs
 
-A través de Google Search Console sólo podemos obtener el posicionamiento medio de cada término por el que generamos impresiones o clics. Si buscamos la agrupación de los mismos por página (página 1, página 2, etc) o por rango de posicione
+A través de Google Search Console sólo podemos obtener el posicionamiento medio de cada término por el que generamos impresiones o clics. Si buscamos la agrupación de los mismos por página (página 1, página 2, etc.) o por rango de posiciones (Top3, Top5, etc.) podemos hacerlo de la siguiente manera.
+
+```
+case when REGEXP_MATCH(Rank Absolute, "1|2|3") then "Top 1-3" when regexp_match(Rank Absolute, "4|5|6|7|8|9|10") then "Top 4-10" when regexp_match(Rank Absolute, "11|12|13|14|15|16|17|18|19|20") then "Top 11-20" when REGEXP_CONTAINS(Rank Absolute, "[21-50]") then "Top 21-50" when regexp_Contains(Rank Absolute, "[51-100]*") then "Top 51-100" end
+```
 
 ## Agrupar búsquedas por intención del usuario
 
@@ -36,5 +40,5 @@ Analizando los términos por los que hemos generado impresiones o clics (Google 
     case when REGEXP_CONTAINS(Keyword, "how|why|does|which|when|who|which|guide|tutorial|learn|examples|resource|ideas|tips") then "Informational Intent" when regexp_contains(Keyword, "best|top|vs|review|cheap|comparison") then "Transactional Intent" when REGEXP_CONTAINS(Keyword, "Buy|price|cheap|expensive|recommendation|recommended|near me|firm|coupon|order|purchase|pricing") then "Transactional Intent" END
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI4NDcwODVdfQ==
+eyJoaXN0b3J5IjpbMTUzMDA1MDk1M119
 -->
