@@ -119,9 +119,19 @@ END
 CASE 
  WHEN Medium != "cpc" THEN "orgánico" 
  ELSE "pago" 
- END
+END
+```
+
+### Incluir un valor en un bloque lógico
+
+```
+CASE 
+ WHEN Precio < 20 THEN "Pequeño" 
+ WHEN Precio >= 20 and Precio < 100 THEN "Mediano" 
+ WHEN Precio >= 100 THEN "Grande" 
+END
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMT
-gwNzAxMTc5MSwtMTQ0MjYzMzEwNF19
+eyJoaXN0b3J5IjpbMTczNTQyMDMyLDE5ODcyMjkyNzQsLTIwNj
+c5MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ==
 -->
