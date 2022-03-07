@@ -41,12 +41,12 @@ Analizando los términos por los que hemos generado impresiones o clics (Google 
 
 ## Clasificar URLs por categorías
 
-Es importante en cualquier estrategia analizar los bloques lógicos. En el caso de Data Studio podemos
+Es importante en cualquier estrategia analizar los bloques lógicos, además de tener siempre la visión global. En el caso de Data Studio podemos agrupar y crear nuestros propios bloques en función de lo que nos interese monitorizar.
 
 ```
 case when REGEXP_CONTAINS(Address, "blog") then "Blog Posts" when regexp_contains(Address, "white-papers|news|case-studies|insights") then "White papers, Case studies, News, Insights" when regexp_contains(Address, "careers|about-us|contact|job-opportunities|clients|reviews|our-work|our-team|join-team") then "Branded Pages" when regexp_contains(Address, "hospitality-travel-tourism|expertise|economic-development|energy|higher-education|technology|financial-services") then "Services Pages" when regexp_contains(Address, "tag") then "Tag Pages" when Regexp_contains(Address, "/page") then "Paginated" else "Unclassified"
-``
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI3ODA4NDRdfQ==
+eyJoaXN0b3J5IjpbMzM5MDE3MjEyXX0=
 -->
