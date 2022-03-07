@@ -47,6 +47,13 @@ Es importante en cualquier estrategia analizar los bloques lógicos, además de 
 case when REGEXP_CONTAINS(Address, "blog") then "Blog Posts" when regexp_contains(Address, "white-papers|news|case-studies|insights") then "White papers, Case studies, News, Insights" when regexp_contains(Address, "careers|about-us|contact|job-opportunities|clients|reviews|our-work|our-team|join-team") then "Branded Pages" when regexp_contains(Address, "hospitality-travel-tourism|expertise|economic-development|energy|higher-education|technology|financial-services") then "Services Pages" when regexp_contains(Address, "tag") then "Tag Pages" when Regexp_contains(Address, "/page") then "Paginated" else "Unclassified"
 ```
 
+## Crear un campo de idioma
+
+Si trabajamos en las URLs con parámetros o subcarpetas idiomáticas, podemos rápidamente crear un campo específico para poder agrupar los análisis de forma rápida por este campo.
+
+```
+CASE WHEN CONTAINS_TEXT(Landing Page,"/es/") THEN "Español" WHEN CONTAINS_TEXT(Landing Page,"/fr/") THEN "Francés" WHEN CONTAINS_TEXT(Landing Page,"/de/") THEN "Alemán" WHEN CONTAINS_TEXT(Landing Page,"/it/") THEN "Italiano" else "Inglés" end
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDE3MjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NDI2MzMxMDRdfQ==
 -->
