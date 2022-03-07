@@ -1,7 +1,7 @@
 ---
 description: Listado de los blogs oficiales de los principales buscadores
 lang: es_ES
-permalink: campos-personalizados-
+permalink: campos-personalizados-data-studio
 author:
   twitter: emirodgar
   
@@ -39,6 +39,14 @@ Analizando los términos por los que hemos generado impresiones o clics (Google 
 
     case when REGEXP_CONTAINS(Keyword, "how|why|does|which|when|who|which|guide|tutorial|learn|examples|resource|ideas|tips") then "Informational Intent" when regexp_contains(Keyword, "best|top|vs|review|cheap|comparison") then "Transactional Intent" when REGEXP_CONTAINS(Keyword, "Buy|price|cheap|expensive|recommendation|recommended|near me|firm|coupon|order|purchase|pricing") then "Transactional Intent" END
 
+## Clasificar URLs por categorías
+
+Es importante en cualquier estrategia analizar los bloques lógicos. En el caso de Data Studio podemos
+
+```
+case when REGEXP_CONTAINS(Address, "blog") then "Blog Posts" when regexp_contains(Address, "white-papers|news|case-studies|insights") then "White papers, Case studies, News, Insights" when regexp_contains(Address, "careers|about-us|contact|job-opportunities|clients|reviews|our-work|our-team|join-team") then "Branded Pages" when regexp_contains(Address, "hospitality-travel-tourism|expertise|economic-development|energy|higher-education|technology|financial-services") then "Services Pages" when regexp_contains(Address, "tag") then "Tag Pages" when Regexp_contains(Address, "/page") then "Paginated" else "Unclassified"
+``
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDA1MDk1M119
+eyJoaXN0b3J5IjpbLTEwOTI3ODA4NDRdfQ==
 -->
