@@ -9,6 +9,16 @@ author:
 
 # Campos personalizados en Google Data Studio
 
+## Crear un filtro para tráfico de marca y no marca
+
+```
+case 
+ when REGEXP_CONTAINS(Keyword, 'chuletaseo|chuleta^|chuleta seo') then "Marca" 
+ when REGEXP_CONTAINS(Keyword, '(not provided)|(not set)|(unavailable)') then "Sin especificar" 
+ else "No marca" 
+end
+```
+
 ## Extraer marca de la URL
 
 Trabajando con URLs es difícil discernir el dominio (o marca) de las mismas. Para facilitar ese análisis podemos crear una dimensión o campo personalizado que incluya únicamente ese valor.
@@ -90,6 +100,6 @@ case
  else "Publicado hace más de 180 días" end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNjc5MDcxODEsLTE4MDcwMTE3OTEsLT
+E0NDI2MzMxMDRdfQ==
 -->
