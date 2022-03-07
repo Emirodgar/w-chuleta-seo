@@ -60,6 +60,7 @@ case
  when regexp_contains(Address, "careers|about-us|contact|job-opportunities|clients|reviews|our-work|our-team|join-team") then "Branded Pages" 
  when regexp_contains(Address, "hospitality-travel-tourism|expertise|economic-development|energy|higher-education|technology|financial-services") then "Services Pages" 
  when regexp_contains(Address, "tag") then "Tag Pages" when Regexp_contains(Address, "/page") then "Paginated" else "Unclassified"
+end
 ```
 
 ## Crear un campo de idioma
@@ -67,12 +68,18 @@ case
 Si trabajamos en las URLs con parámetros o subcarpetas idiomáticas, podemos rápidamente crear un campo específico para poder agrupar los análisis de forma rápida por este campo.
 
 ```
-CASE WHEN CONTAINS_TEXT(Landing Page,"/es/") THEN "Español" WHEN CONTAINS_TEXT(Landing Page,"/fr/") THEN "Francés" WHEN CONTAINS_TEXT(Landing Page,"/de/") THEN "Alemán" WHEN CONTAINS_TEXT(Landing Page,"/it/") THEN "Italiano" else "Inglés" end
+case 
+ when CONTAINS_TEXT(Landing Page,"/es/") then "Español" 
+ when CONTAINS_TEXT(Landing Page,"/fr/") THEN "Francés" 
+ when CONTAINS_TEXT(Landing Page,"/de/") THEN "Alemán" 
+ when CONTAINS_TEXT(Landing Page,"/it/") THEN "Italiano" 
+ else "Inglés" 
+end
 ```
 
 ## Convierte fechas a días transcurridos
 
-A veces una simple fecha no nos aporta información suficiente, pero si calculamos los días que han pasado desde ese momento, podemos accionar análisis de forma más sencilla.
+A veces una simple fecha no nos aporta información suficiente, pero si calculamos los días que han pasado desde ese momento, podemos accionar análisis de manera más sencilla.
 
 ```
 case 
@@ -83,5 +90,6 @@ case
  else "Publicado hace más de 180 días" end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzYxNjQ3LC0xNDQyNjMzMTA0XX0=
+eyJoaXN0b3J5IjpbLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ
+==
 -->
