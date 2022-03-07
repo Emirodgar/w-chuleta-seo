@@ -11,6 +11,8 @@ author:
 
 ## Crear un filtro para tráfico de marca y no marca
 
+En cualquier estrategia SEO es esencial diferenciar los análisis entre marca y no marca. Con el siguiendo código podremos crear fácilmente este campo.
+
 ```
 case 
  when REGEXP_CONTAINS(Keyword, 'chuletaseo|chuleta^|chuleta seo') then "Marca" 
@@ -100,6 +102,6 @@ case
  else "Publicado hace más de 180 días" end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc5MDcxODEsLTE4MDcwMTE3OTEsLT
-E0NDI2MzMxMDRdfQ==
+eyJoaXN0b3J5IjpbMTAyNTUzMjAxOSwtMjA2NzkwNzE4MSwtMT
+gwNzAxMTc5MSwtMTQ0MjYzMzEwNF19
 -->
