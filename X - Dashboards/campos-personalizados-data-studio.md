@@ -101,7 +101,22 @@ case
  when DATE_DIFF(TODAY(), Publicado) < 180 then "Publicado hace 180 días" 
  else "Publicado hace más de 180 días" end
 ```
+
+## Otros ejemplos útiles
+
+### Cómo utilizar reglas condicionales
+
+```
+CASE 
+ WHEN País = "US" AND Medium = "cpc" THEN "US - Paid" 
+ ELSE "other" 
+END
+```
+
+### Validar si un campo no tiene valor
+
+CASE WHENMedium != "cpc" THEN "free" ELSE "paid" END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTUzMjAxOSwtMjA2NzkwNzE4MSwtMT
-gwNzAxMTc5MSwtMTQ0MjYzMzEwNF19
+eyJoaXN0b3J5IjpbNDM5MDY5MzQ2LC0yMDY3OTA3MTgxLC0xOD
+A3MDExNzkxLC0xNDQyNjMzMTA0XX0=
 -->
