@@ -36,7 +36,8 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Dashboards y reporting</h2>
-        <p>Tan importante es diseñar y ejecutar una correcta estrategia SEO como presentar su evolución y datos conseguidos. Para ello, apoyarnos en un dashboard SEO adecuado será crucial. <a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a> / <a href="https://chuletaseo.com/eliminar-trafico-spam-robot">Eliminar tráfico SPAM</a> </p>
+        <p>Tan importante es diseñar y ejecutar una correcta estrategia SEO como presentar su evolución y datos conseguidos. Para ello, apoyarnos en un dashboard SEO adecuado será crucial. </p>
+        <p> <a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a> / <a href="https://chuletaseo.com/eliminar-trafico-spam-robot">Eliminar tráfico SPAM</a> </p>
 </div>
 
 <br/><br/>
@@ -70,7 +71,8 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzE1MDAwMywtNDQ5NTY5MTQsMjA3ND
-gwODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTExNDgwNjIy
-NCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbLTEzNDA2NDMwMDQsLTQ0OTU2OTE0LDIwNz
+Q4MDg5NjYsMTI1NTg3MzU3MywxMTUzNTg2MDc0LC0xMTQ4MDYy
+MjQsMTI1NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5MDM3MDFdfQ
+==
 -->
