@@ -19,7 +19,7 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Primeros pasos en SEO</h2>
-        <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a></p>
+        <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> </p>
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDgwODk2NiwxMjU1ODczNTczLDExNT
-M1ODYwNzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LDEzNDQxMTE1
-MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbMTE2NTA2NjE5MywyMDc0ODA4OTY2LDEyNT
+U4NzM1NzMsMTE1MzU4NjA3NCwtMTE0ODA2MjI0LDEyNTY1Nzkx
+NjgsMTM0NDExMTUwMywxNzgzOTAzNzAxXX0=
 -->
