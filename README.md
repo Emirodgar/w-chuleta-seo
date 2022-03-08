@@ -26,12 +26,13 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Indexación</h2>
-        <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> </p>
+        <p><a href="https://chuletaseo.com/eliminar-pagina-indexada-google">Eliminar páginas del índice de Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> / a href="https://chuletaseo.com/migracion-seo">Migración SEO</a>
+ </p>
 </div>
 
 <br/>
 
-https://chuletaseo.com/eliminar-pagina-indexada-google
+
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Dashboards y reporting</h2>
@@ -69,7 +70,7 @@ https://chuletaseo.com/eliminar-pagina-indexada-google
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzM5MjQ1NiwtNDQ5NTY5MTQsMjA3ND
+eyJoaXN0b3J5IjpbLTk0MzE1MDAwMywtNDQ5NTY5MTQsMjA3ND
 gwODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTExNDgwNjIy
 NCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
