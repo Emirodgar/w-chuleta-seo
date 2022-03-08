@@ -25,6 +25,15 @@
 <br/>
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
+        <h2>Indexación</h2>
+        <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> </p>
+</div>
+
+<br/>
+
+https://chuletaseo.com/eliminar-pagina-indexada-google
+
+<div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Dashboards y reporting</h2>
         <p>Tan importante es diseñar y ejecutar una correcta estrategia SEO como presentar su evolución y datos conseguidos. Para ello, apoyarnos en un dashboard SEO adecuado será crucial. <a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a> / <a href="https://chuletaseo.com/eliminar-trafico-spam-robot">Eliminar tráfico SPAM</a> </p>
 </div>
@@ -60,7 +69,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTU2OTE0LDIwNzQ4MDg5NjYsMTI1NT
-g3MzU3MywxMTUzNTg2MDc0LC0xMTQ4MDYyMjQsMTI1NjU3OTE2
-OCwxMzQ0MTExNTAzLDE3ODM5MDM3MDFdfQ==
+eyJoaXN0b3J5IjpbMTgyNzM5MjQ1NiwtNDQ5NTY5MTQsMjA3ND
+gwODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTExNDgwNjIy
+NCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
