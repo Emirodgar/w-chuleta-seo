@@ -26,7 +26,7 @@
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Indexación</h2>
-        <p><a href="https://chuletaseo.com/eliminar-pagina-indexada-google">Eliminar páginas del índice de Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> / <a href="https://chuletaseo.com/migracion-seo">Migración SEO</a>
+        <p><a href="https://chuletaseo.com/eliminar-pagina-indexada-google">Eliminar páginas del índice de Google</a> / <a href="https://chuletaseo.com/migracion-seo">Migración SEO</a>
  </p>
 </div>
 
@@ -71,8 +71,8 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODgyOTc4MiwtMTM0MDY0MzAwNCwtND
-Q5NTY5MTQsMjA3NDgwODk2NiwxMjU1ODczNTczLDExNTM1ODYw
-NzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMT
-c4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbLTE4MjQ2NjkyMjksMTEwODgyOTc4MiwtMT
+M0MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgwODk2NiwxMjU1ODcz
+NTczLDExNTM1ODYwNzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LD
+EzNDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
