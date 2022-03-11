@@ -28,6 +28,7 @@ RewriteEngine on
 RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
+Cuando forzamoe el acceso seguro a través de `https`, es recomendable también habilitar HSTS (HTTP Strict Transport Security) para una configuraci
 # Note: It’s also recommended to enable HTTP Strict Transport Security (HSTS)
 # on your HTTPS website to help prevent man-in-the-middle attacks.
 # See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
@@ -36,5 +37,5 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
     Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
 </IfModule>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTM4NDM3NV19
+eyJoaXN0b3J5IjpbMTczMTU4ODY1MiwtNjk1Mzg0Mzc1XX0=
 -->
