@@ -85,23 +85,23 @@ Redirect 301 / http://newsite.com/
 
 ### Redirección de una subcarpeta a otro dominio
 
-RedirectMatch 301 /subdirectory(.*) http://www.newsite.com/newfolder/$1
+    RedirectMatch 301 /seo(.*) http://chuletaseo.com/seo/$1
 
 ### Redirección para eliminar una subcarpeta
 
-RedirectMatch 301 ^/carpeta/(.*)$ /$1
+RedirectMatch 301 ^/seo/(.*)$ /$1
 
 
 ### Redirección para cambiar de subcarpeta
 
-RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
+    RedirectMatch 301 ^/seo/(.*)$ /posicionamiento-web/$1
 
 ### Excluir una URL de ser redireccionada
 
 Esto es útil si tenemos un dominio redireccionado y queremos que el fichero `robots.txt` siga estando accesible para los robots de los buscadores.
 
-RewriteEngine On
-RewriteRule ^robots.txt - [L]
+    RewriteEngine On
+    RewriteRule ^robots.txt - [L]
 
 ## Seguridad
 
@@ -122,9 +122,9 @@ De los siguientes dos bloques sólo tendremos que usar uno de ellos, que depende
 
 ### Bloquear acceso a ficheros ocultos y directorios
 
-RewriteCond %{SCRIPT_FILENAME} -d [OR]
-RewriteCond %{SCRIPT_FILENAME} -f
-RewriteRule "(^|/)\." - [F]
+    RewriteCond %{SCRIPT_FILENAME} -d [OR]
+    RewriteCond %{SCRIPT_FILENAME} -f
+    RewriteRule "(^|/)\." - [F]
 
 ### Bloquear el acceso a los tipos de fichero que queramos
 
@@ -146,7 +146,7 @@ Sólo debemos utilizar uno de los dos bloques, que dependerá de la versión de 
 
 De esta forma obligamos a que sólo se pueda acceder a los ficheros que generan un HTML que nosotros controlamos y los usuarios no pueden navegador por los directorios ni visualizar otros elementos no cruciales para la página web.
 
-Options All -Indexes
+    Options All -Indexes
 
 ### Bloquear el hotlinking de imágenes
 
@@ -166,10 +166,10 @@ Evita que otras páginas empleen tus imágenes a costa de los recursos de tu ser
 
 Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después bastará con incluir el siguiente código en el fichero `.htaccess`.
 
-AuthType Basic
-AuthName "Nombre"
-AuthUserFile /home/fellowship/.htpasswd
-Require valid-user
+    AuthType Basic
+    AuthName "Nombre"
+    AuthUserFile /home/fellowship/.htpasswd
+    Require valid-user
 
 ### Bloquear con contraseña el accceso a ficheros
 
@@ -187,8 +187,8 @@ Require valid-user
 
 ### Evitar que el sitio sea incluido en un iframe
 
-SetEnvIf Request_URI "/starry-night" allow_framing=true
-Header set X-Frame-Options SAMEORIGIN env=!allow_framing
+    SetEnvIf Request_URI "/starry-night" allow_framing=true
+    Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
 
 ## Rendimiento
@@ -304,7 +304,7 @@ Al eliminar la cabecera `ETag`, se impide el acceso a las cachés y que los nave
 
 ### Enviar imágenes en formato .WebP
 
-El siguiente código sólo funcionará si existe un fichero de imagen de mismo nombre pero con extensión -webp de tla forma qu
+El siguiente código sólo funcionará si existe un fichero de imagen de mismo nombre pero con extensión `.webp` de tal forma que si el servidor detecta compatibilidad en el navegador, sustituirá la imagen actual por su versión `.webp`.
 
     RewriteEngine On
     RewriteCond %{HTTP_ACCEPT} image/webp
@@ -312,6 +312,6 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
     RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM2MjU0NDEsNDk2NTk0NjkyLC02OT
+eyJoaXN0b3J5IjpbLTExNTc1MDMwMTMsNDk2NTk0NjkyLC02OT
 UzODQzNzVdfQ==
 -->
