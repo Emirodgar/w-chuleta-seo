@@ -1,7 +1,7 @@
 ---
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
-permalink: configurar-servidor-apache-htaccess
+permalink: codigos-htaccess-apache
 author:
   twitter: emirodgar
   
@@ -28,14 +28,16 @@ RewriteEngine on
 RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-Cuando forzamoe el acceso seguro a través de `https`, es recomendable también habilitar HSTS (HTTP Strict Transport Security) para una configuraci
-# Note: It’s also recommended to enable HTTP Strict Transport Security (HSTS)
-# on your HTTPS website to help prevent man-in-the-middle attacks.
-# See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
+Cuando forzamoe el acceso seguro a través de `https`, es recomendable también habilitar `HSTS` (*HTTP Strict Transport Security*) para una configuración de seguridad más completa.
+
 <IfModule mod_headers.c>
-    # Remove "includeSubDomains" if you don't want to enforce HSTS on all subdomains
     Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
 </IfModule>
+
+## Forzar la barra final
+
+RewriteCond %{REQUEST_URI} /+[^\.]+$
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTU4ODY1MiwtNjk1Mzg0Mzc1XX0=
+eyJoaXN0b3J5IjpbNTk0OTEyMjc3LC02OTUzODQzNzVdfQ==
 -->
