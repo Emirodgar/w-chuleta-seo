@@ -118,8 +118,28 @@ Dentro de un servidor web existen muchos ficheros y no sólo los que están orie
 
 Sólo debemos utilizar uno de los dos bloques, que dependerá de la versión de Apache que estemos utilizando.
 
-## Bloquear l
+## Bloquear la navegación por directorios
+
+De esta forma obligamos a que sólo se pueda acceder a los ficheros que generan un HTML que nosotros controlamos y los usuarios no pueden navegador por los directorios ni visualizar otros elementos no cruciales para la página web.
+
+Options All -Indexes
+
+## Bloquear el hotlinking de imágenes
+
+Evita que
+
+    RewriteEngine on
+    # Remove the following line if you want to block blank referrer too
+    RewriteCond %{HTTP_REFERER} !^$
+    
+    RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
+    RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
+    
+    # If you want to display a “blocked” banner in place of the hotlinked image,
+    # replace the above rule with:
+    # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjMzMjU5Myw0OTY1OTQ2OTIsLTY5NT
-M4NDM3NV19
+eyJoaXN0b3J5IjpbLTIwNDAwMDAzMjMsNDk2NTk0NjkyLC02OT
+UzODQzNzVdfQ==
 -->
