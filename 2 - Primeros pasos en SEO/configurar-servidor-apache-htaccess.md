@@ -48,6 +48,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} (.+)/$
 RewriteRule ^ %1 [R=301,L]
 
+### Configurar páginas aso
+
 ## Redirecciones
 
 ### Redirección simple
@@ -263,13 +265,14 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
 ### Deshabilitar ETags
 
+Al eliminar la cabecera `ETag`, se impide el acceso a las cachés y que los navegadores puedan validar los archivos, por lo que se ven obligados a confiar en la cabecera `Cache-Control` y `Expires` que hayamos definido en el punto anterior.
 
+    <IfModule mod_headers.c>
+        Header unset ETag
+    </IfModule>
+    FileETag None
 
-<IfModule mod_headers.c>
-    Header unset ETag
-</IfModule>
-FileETag None
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjMyMjYzLDQ5NjU5NDY5MiwtNjk1Mz
-g0Mzc1XX0=
+eyJoaXN0b3J5IjpbLTUzMTE0NDc5NCw0OTY1OTQ2OTIsLTY5NT
+M4NDM3NV19
 -->
