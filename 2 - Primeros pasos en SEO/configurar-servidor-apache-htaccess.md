@@ -85,7 +85,7 @@ RewriteRule ^robots.txt - [L]
 
 Si, por seguridad, queremos evitar cualquier acceso al sitio (por ejemplo, en una intranet) podemos configurarlo de la siguiente manera. La parte de `xxx.xxx.xxx.xxx` deberá ser sustituida por nuestra dirección IP, ya que será la única a la que el servidor permita acceso.
 
-De los siguientes dos bloques sólo tendremos que usar uno de ellos, que dep
+De los siguientes dos bloques sólo tendremos que usar uno de ellos, que dependerá de la versión de Apache que estemos usando, 2.2 o 2.4.
 
     ## Apache 2.2
     Order deny,allow
@@ -96,7 +96,26 @@ De los siguientes dos bloques sólo tendremos que usar uno de ellos, que dep
     Require all denied
     Require ip xxx.xxx.xxx.xxx
 
+### Bloquear acceso a ficheros ocultos y directorios
+
+RewriteCond %{SCRIPT_FILENAME} -d [OR]
+RewriteCond %{SCRIPT_FILENAME} -f
+RewriteRule "(^|/)\." - [F]
+
+### Bloquear el acceso a los tipos de fichero que queramos
+
+Dentro de un servidor web existen muchos ficheros y no sólo los que están orientados a ser ejecutados y
+
+<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
+    ## Apache 2.2
+    Order allow,deny
+    Deny from all
+    Satisfy All
+
+    ## Apache 2.4
+    # Require all denied
+</FilesMatch>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzAyMTU1MSw0OTY1OTQ2OTIsLTY5NT
+eyJoaXN0b3J5IjpbMTkzNzQwODg5Niw0OTY1OTQ2OTIsLTY5NT
 M4NDM3NV19
 -->
