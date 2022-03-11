@@ -126,20 +126,19 @@ Options All -Indexes
 
 ## Bloquear el hotlinking de imágenes
 
-Evita que otras páginas utilicen tus imágenes a costa de los recursos de tu servidor web.
+Evita que otras páginas empleen tus imágenes a costa de los recursos de tu servidor web.
 
     RewriteEngine on
-    # Elimina la siguiente línea si quieres bloquear
+    # Elimina la siguiente línea si quieres bloquear las peticiones de referers desconocidos
     RewriteCond %{HTTP_REFERER} !^$
     
     RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
     RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
     
-    # If you want to display a “blocked” banner in place of the hotlinked image,
-    # replace the above rule with:
+    # Si quieres mostrar una imagen avisando del bloqueo, en lugar de la línea anterior, usa la siguiente:
     # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODUxMjAxOSw0OTY1OTQ2OTIsLTY5NT
-M4NDM3NV19
+eyJoaXN0b3J5IjpbOTk1MzQ4MDQyLDQ5NjU5NDY5MiwtNjk1Mz
+g0Mzc1XX0=
 -->
