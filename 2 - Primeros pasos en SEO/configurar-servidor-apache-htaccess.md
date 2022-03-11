@@ -38,6 +38,19 @@ Cuando forzamoe el acceso seguro a través de `https`, es recomendable también 
 
 RewriteCond %{REQUEST_URI} /+[^\.]+$
 RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+
+## Eliminar la barra final
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+
+## Redirecciones
+
+## Redirección simple
+
+Redirect 301 /oldpage.html http://www.example.com/newpage.html
+Redirect 301 /oldpage2.html http://www.example.com/folder/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0OTEyMjc3LC02OTUzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjgxOTE0NjUsLTY5NTM4NDM3NV19
 -->
