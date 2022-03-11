@@ -9,6 +9,8 @@ author:
 
 # Listado de códigos para .htaccess de Apache
 
+## Accesos a la página
+
 ### Forzar el acceso con www
 
 RewriteEngine on
@@ -71,7 +73,14 @@ RedirectMatch 301 ^/carpeta/(.*)$ /$1
 
 RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
 
+### Excluir una URL de ser redireccionada
+
+Esto es útil si tenemos un dominio redireccionado y queremos que el fichero `robots.txt` siga estando accesible para los robots de los buscadores.
+
+RewriteEngine On
+RewriteRule ^robots.txt - [L]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMjI2MzAxLDQ5NjU5NDY5MiwtNjk1Mz
-g0Mzc1XX0=
+eyJoaXN0b3J5IjpbLTg0MTM5OTgxOCw0OTY1OTQ2OTIsLTY5NT
+M4NDM3NV19
 -->
