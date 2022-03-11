@@ -135,10 +135,36 @@ Evita que otras páginas empleen tus imágenes a costa de los recursos de tu ser
     RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
     RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
     
-    # Si quieres mostrar una imagen avisando del bloqueo, en lugar de la línea anterior, usa la siguiente:
+    # Si quieres mostrar una imagen avisando del bloqueo, sustituye línea anterior por:
     # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 
+## Bloquear acccesos con contraseña
+
+First you need to create a  `.htpasswd`  file somewhere in the system:
+
+htpasswd -c /home/fellowship/.htpasswd boromir
+
+Then you can use it for authentication:
+
+AuthType Basic
+AuthName "One does not simply"
+AuthUserFile /home/fellowship/.htpasswd
+Require valid-user
+
+### [](https://github.com/phanan/htaccess#password-protect-a-file-or-several-files)Password Protect a File or Several Files
+
+AuthName "One still does not simply"
+AuthType Basic
+AuthUserFile /home/fellowship/.htpasswd
+
+<Files "one-ring.o">
+Require valid-user
+</Files>
+
+<FilesMatch ^((one|two|three)-rings?\.o)$>
+Require valid-user
+</FilesMatch>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MzQ4MDQyLDQ5NjU5NDY5MiwtNjk1Mz
-g0Mzc1XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc5NTc2NjMsNDk2NTk0NjkyLC02OT
+UzODQzNzVdfQ==
 -->
