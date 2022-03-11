@@ -261,7 +261,15 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
         ExpiresByType image/svg+xml                         "access plus 1 month"
     </IfModule>
 
+### Deshabilitar ETags
+
+
+
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTExOTU2OSw0OTY1OTQ2OTIsLTY5NT
-M4NDM3NV19
+eyJoaXN0b3J5IjpbLTQ3NjMyMjYzLDQ5NjU5NDY5MiwtNjk1Mz
+g0Mzc1XX0=
 -->
