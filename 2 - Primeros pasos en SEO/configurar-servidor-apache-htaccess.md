@@ -195,43 +195,42 @@ Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se gua
 
 ### Comprimir los ficheros de texto
 
-<IfModule mod_deflate.c>
-
-        # Force compression for mangled headers.
-        # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
-        <IfModule mod_setenvif.c>
-            <IfModule mod_headers.c>
-                SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
-                RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+    <IfModule mod_deflate.c>
+    
+            # Force compression for mangled headers.
+            # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
+            <IfModule mod_setenvif.c>
+                <IfModule mod_headers.c>
+                    SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+                    RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+                </IfModule>
             </IfModule>
+        
+            # Compress all output labeled with one of the following MIME-types
+            # (for Apache versions below 2.3.7, you don't need to enable `mod_filter`
+            #  and can remove the `<IfModule mod_filter.c>` and `</IfModule>` lines
+            #  as `AddOutputFilterByType` is still in the core directives).
+            <IfModule mod_filter.c>
+                AddOutputFilterByType DEFLATE application/atom+xml \
+                                              application/javascript \
+                                              application/json \
+                                              application/rss+xml \
+                                              application/vnd.ms-fontobject \
+                                              application/x-font-ttf \
+                                              application/x-web-app-manifest+json \
+                                              application/xhtml+xml \
+                                              application/xml \
+                                              font/opentype \
+                                              image/svg+xml \
+                                              image/x-icon \
+                                              text/css \
+                                              text/html \
+                                              text/plain \
+                                              text/x-component \
+                                              text/xml
+            </IfModule>
+        
         </IfModule>
-    
-        # Compress all output labeled with one of the following MIME-types
-        # (for Apache versions below 2.3.7, you don't need to enable `mod_filter`
-        #  and can remove the `<IfModule mod_filter.c>` and `</IfModule>` lines
-        #  as `AddOutputFilterByType` is still in the core directives).
-        <IfModule mod_filter.c>
-            AddOutputFilterByType DEFLATE application/atom+xml \
-                                          application/javascript \
-                                          application/json \
-                                          application/rss+xml \
-                                          application/vnd.ms-fontobject \
-                                          application/x-font-ttf \
-                                          application/x-web-app-manifest+json \
-                                          application/xhtml+xml \
-                                          application/xml \
-                                          font/opentype \
-                                          image/svg+xml \
-                                          image/x-icon \
-                                          text/css \
-                                          text/html \
-                                          text/plain \
-                                          text/x-component \
-                                          text/xml
-        </IfModule>
-    
-    </IfModule>
-
 
 ### Establecer el tiempo que será cacheado un elemento (expire headers)
 
@@ -311,7 +310,8 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
     RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
     RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OT
-UzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsND
+k2NTk0NjkyLC02OTUzODQzNzVdfQ==
 -->
