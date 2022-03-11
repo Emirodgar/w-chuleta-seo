@@ -118,13 +118,13 @@ Dentro de un servidor web existen muchos ficheros y no sólo los que están orie
 
 Sólo debemos utilizar uno de los dos bloques, que dependerá de la versión de Apache que estemos utilizando.
 
-## Bloquear la navegación por directorios
+### Bloquear la navegación por directorios
 
 De esta forma obligamos a que sólo se pueda acceder a los ficheros que generan un HTML que nosotros controlamos y los usuarios no pueden navegador por los directorios ni visualizar otros elementos no cruciales para la página web.
 
 Options All -Indexes
 
-## Bloquear el hotlinking de imágenes
+### Bloquear el hotlinking de imágenes
 
 Evita que otras páginas empleen tus imágenes a costa de los recursos de tu servidor web.
 
@@ -138,9 +138,9 @@ Evita que otras páginas empleen tus imágenes a costa de los recursos de tu ser
     # Si quieres mostrar una imagen avisando del bloqueo, sustituye línea anterior por:
     # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 
-## Bloquear acccesos con contraseña
+### Bloquear acccesos con contraseña
 
-First you need to create a  `.htpasswd`  file somewhere in the system:
+Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después, debes incluir en tu `.htaccess` el siguiente código para hacer referencia a dicho fichero.
 
 htpasswd -c /home/fellowship/.htpasswd boromir
 
@@ -165,6 +165,6 @@ Require valid-user
 Require valid-user
 </FilesMatch>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc5NTc2NjMsNDk2NTk0NjkyLC02OT
-UzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbLTgxNzAzMzMxOSw0OTY1OTQ2OTIsLTY5NT
+M4NDM3NV19
 -->
