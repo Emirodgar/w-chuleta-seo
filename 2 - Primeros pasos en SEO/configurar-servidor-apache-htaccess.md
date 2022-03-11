@@ -83,7 +83,9 @@ RewriteRule ^robots.txt - [L]
 
 ### Que no entre nadie salvo yo (mi ip)
 
-Si, por seguridad, queremos ev
+Si, por seguridad, queremos evitar cualquier acceso al sitio (por ejemplo, en una intranet) podemos configurarlo de la siguiente manera. La parte de `xxx.xxx.xxx.xxx` deberá ser sustituida por nuestra dirección IP, ya que será la única a la que el servidor permita acceso.
+
+De los siguientes dos bloques sólo tendremos que usar uno de ellos, que dep
 
     ## Apache 2.2
     Order deny,allow
@@ -91,10 +93,10 @@ Si, por seguridad, queremos ev
     Allow from xxx.xxx.xxx.xxx
     
     ## Apache 2.4
-    # Require all denied
-    # Require ip xxx.xxx.xxx.xxx
+    Require all denied
+    Require ip xxx.xxx.xxx.xxx
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjI2NjU2NCw0OTY1OTQ2OTIsLTY5NT
+eyJoaXN0b3J5IjpbMTk0NzAyMTU1MSw0OTY1OTQ2OTIsLTY5NT
 M4NDM3NV19
 -->
