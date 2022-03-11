@@ -16,23 +16,13 @@ RewriteCond %{HTTP_HOST} ^example\.com [NC]
 RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
 
 
-### [](https://github.com/phanan/htaccess#force-non-www)Force non-www
-
-It’s  [still](http://www.sitepoint.com/domain-www-or-no-www/)  [open](https://devcenter.heroku.com/articles/apex-domains)  [for](http://yes-www.org/)  [debate](http://no-www.org/)  whether www or non-www is the way to go, so if you happen to be a fan of bare domains, here you go:
+### Forzar el acceso sin www
 
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
 RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 
-### [](https://github.com/phanan/htaccess#force-non-www-in-a-generic-way)Force non-www in a Generic Way
-
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^www\.
-RewriteCond %{HTTPS}s ^on(s)|off
-RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
-RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
-
-### [](https://github.com/phanan/htaccess#force-https)Force HTTPS
+### Forzar el acceso seguro con HTTPS
 
 RewriteEngine on
 RewriteCond %{HTTPS} !on
@@ -46,5 +36,5 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
     Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
 </IfModule>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA4MzUxMzddfQ==
+eyJoaXN0b3J5IjpbLTY5NTM4NDM3NV19
 -->
