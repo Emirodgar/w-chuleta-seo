@@ -138,16 +138,12 @@ Evita que otras páginas empleen tus imágenes a costa de los recursos de tu ser
     # Si quieres mostrar una imagen avisando del bloqueo, sustituye línea anterior por:
     # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 
-### Bloquear acccesos con contraseña
+### Bloquear accceso a todo el sitio con contraseña
 
-Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después, debes incluir en tu `.htaccess` el siguiente código para hacer referencia a dicho fichero.
-
-htpasswd -c /home/fellowship/.htpasswd boromir
-
-Then you can use it for authentication:
+Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después bastará con incluir el siguiente código en el fichero `.htaccess`.
 
 AuthType Basic
-AuthName "One does not simply"
+AuthName "Nombre"
 AuthUserFile /home/fellowship/.htpasswd
 Require valid-user
 
@@ -165,6 +161,6 @@ Require valid-user
 Require valid-user
 </FilesMatch>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzAzMzMxOSw0OTY1OTQ2OTIsLTY5NT
+eyJoaXN0b3J5IjpbLTQwMjM3NjA4Myw0OTY1OTQ2OTIsLTY5NT
 M4NDM3NV19
 -->
