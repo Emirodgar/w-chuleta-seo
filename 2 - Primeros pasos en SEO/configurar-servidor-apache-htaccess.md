@@ -104,18 +104,22 @@ RewriteRule "(^|/)\." - [F]
 
 ### Bloquear el acceso a los tipos de fichero que queramos
 
-Dentro de un servidor web existen muchos ficheros y no sólo los que están orientados a ser ejecutados y
+Dentro de un servidor web existen muchos ficheros y no sólo los que están orientados a ser ejecutados y accesibles para los visitantes. Por ejemplo, copias de seguridad, logs, archivos de configuración, etc. Con este código podremos determinar aquellos que no queremos que sean accedidos vía web.
 
-<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
-    ## Apache 2.2
-    Order allow,deny
-    Deny from all
-    Satisfy All
+    <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
+        ## Apache 2.2
+        Order allow,deny
+        Deny from all
+        Satisfy All
+    
+      ## Apache 2.4
+       Require all denied
+    </FilesMatch>
 
-    ## Apache 2.4
-    # Require all denied
-</FilesMatch>
+Sólo debemos utilizar uno de los dos bloques, que dependerá de la versión de Apache que estemos utilizando.
+
+## Bloquear l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzQwODg5Niw0OTY1OTQ2OTIsLTY5NT
+eyJoaXN0b3J5IjpbLTkwNjMzMjU5Myw0OTY1OTQ2OTIsLTY5NT
 M4NDM3NV19
 -->
