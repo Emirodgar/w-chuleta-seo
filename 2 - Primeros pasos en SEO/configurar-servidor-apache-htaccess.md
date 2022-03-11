@@ -9,6 +9,11 @@ author:
 
 # Listado de códigos para .htaccess de Apache
 
+- Accesos a la página
+- Redirecciones
+- Seguridad
+- Rendimiento
+
 ## Accesos a la página
 
 ### Forzar el acceso con www
@@ -48,7 +53,24 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} (.+)/$
 RewriteRule ^ %1 [R=301,L]
 
-### Configurar páginas aso
+### Configurar páginas asociadas a códigos de estado
+
+    ErrorDocument 500 "Ha ocurrido un error 500."
+    ErrorDocument 401 http://error.example.com/mordor.html
+    ErrorDocument 404 /errors/halflife3.html
+
+### Forzar la descarga de un tipo de fichero
+
+    <Files *.pdf>
+        ForceType application/octet-stream
+        Header set Content-Disposition attachment
+    </Files>
+
+### Evitar la descarga de un tipo de fichero
+
+<FilesMatch "\.(tex|log|aux)$">
+    Header set Content-Type text/plain
+</FilesMatch>
 
 ## Redirecciones
 
@@ -273,6 +295,6 @@ Al eliminar la cabecera `ETag`, se impide el acceso a las cachés y que los nave
     FileETag None
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTE0NDc5NCw0OTY1OTQ2OTIsLTY5NT
-M4NDM3NV19
+eyJoaXN0b3J5IjpbOTk1Mjc0MDYzLDQ5NjU5NDY5MiwtNjk1Mz
+g0Mzc1XX0=
 -->
