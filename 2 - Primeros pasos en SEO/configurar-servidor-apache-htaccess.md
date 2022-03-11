@@ -294,7 +294,24 @@ Al eliminar la cabecera `ETag`, se impide el acceso a las cachés y que los nave
     </IfModule>
     FileETag None
 
+### Codificar los ficheros con UTF-8
+
+    # Use UTF-8 encoding for anything served text/plain or text/html
+    AddDefaultCharset utf-8
+    
+    # Force UTF-8 for a number of file formats
+    AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+
+### Enviar imágenes en formato .WebP
+
+El siguiente código sólo funcionará si existe un fichero de imagen de mismo nombre pero con extensión -webp de tla forma qu
+
+    RewriteEngine On
+    RewriteCond %{HTTP_ACCEPT} image/webp
+    RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+    RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1Mjc0MDYzLDQ5NjU5NDY5MiwtNjk1Mz
-g0Mzc1XX0=
+eyJoaXN0b3J5IjpbLTEzNDM2MjU0NDEsNDk2NTk0NjkyLC02OT
+UzODQzNzVdfQ==
 -->
