@@ -18,40 +18,40 @@ author:
 
 ### Forzar el acceso con www
 
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^example\.com [NC]
-RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^example\.com [NC]
+    RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
 
 
 ### Forzar el acceso sin www
 
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
-RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+    RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 
 ### Forzar el acceso seguro con HTTPS
 
-RewriteEngine on
-RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+    RewriteEngine on
+    RewriteCond %{HTTPS} !on
+    RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-Cuando forzamoe el acceso seguro a través de `https`, es recomendable también habilitar `HSTS` (*HTTP Strict Transport Security*) para una configuración de seguridad más completa.
+Cuando forzamos el acceso seguro a través de `https`, es recomendable también habilitar `HSTS` (*HTTP Strict Transport Security*) para una configuración de seguridad más completa.
 
-<IfModule mod_headers.c>
-    Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
-</IfModule>
+    <IfModule mod_headers.c>
+        Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
+    </IfModule>
 
 
 ### Forzar la barra final
 
-RewriteCond %{REQUEST_URI} /+[^\.]+$
-RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+    RewriteCond %{REQUEST_URI} /+[^\.]+$
+    RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
 
 ### Eliminar la barra final
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} (.+)/$
-RewriteRule ^ %1 [R=301,L]
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [R=301,L]
 
 ### Configurar páginas asociadas a códigos de estado
 
@@ -68,24 +68,24 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Evitar la descarga de un tipo de fichero
 
-<FilesMatch "\.(tex|log|aux)$">
-    Header set Content-Type text/plain
-</FilesMatch>
+    <FilesMatch "\.(tex|log|aux)$">
+        Header set Content-Type text/plain
+    </FilesMatch>
 
 ## Redirecciones
 
 ### Redirección simple
 
-Redirect 301 /oldpage.html http://www.example.com/newpage.html
-Redirect 301 /oldpage2.html http://www.example.com/folder/
+    Redirect 301 /seo.html http://chuletaseo.com/seo.html
+    Redirect 301 /posicionamiento-web.html /seo.html
 
 ### Redirección de todo el sitio a un nuevo dominio
 
-Redirect 301 / http://newsite.com/
+Redirect 301 / https://chuletaseo.org/
 
 ### Redirección de una subcarpeta a otro dominio
 
-    RedirectMatch 301 /seo(.*) http://chuletaseo.com/seo/$1
+    RedirectMatch 301 /seo(.*) https://chuletaseo.org/seo/$1
 
 ### Redirección para eliminar una subcarpeta
 
@@ -312,6 +312,6 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
     RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1MDMwMTMsNDk2NTk0NjkyLC02OT
+eyJoaXN0b3J5IjpbLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OT
 UzODQzNzVdfQ==
 -->
