@@ -54,7 +54,11 @@ RewriteRule ^ %1 [R=301,L]
 Redirect 301 /oldpage.html http://www.example.com/newpage.html
 Redirect 301 /oldpage2.html http://www.example.com/folder/
 
-### Redirección de un dominio a otro
+### Redirección de todo el sitio a un nuevo dominio
+
+Redirect 301 / http://newsite.com/
+
+### Redirección de una subcarpeta a otro dominio
 
 RedirectMatch 301 /subdirectory(.*) http://www.newsite.com/newfolder/$1
 
@@ -62,11 +66,12 @@ RedirectMatch 301 /subdirectory(.*) http://www.newsite.com/newfolder/$1
 
 RedirectMatch 301 ^/carpeta/(.*)$ /$1
 
-RedirectMatch 301 ^/(.*).html/1/(.*) /$1.html$2
-RedirectMatch 301 ^/manual/(.*)$ http://www.php.net/manual/$1
+
+### Redirección para cambiar de subcarpeta
+
 RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
-RedirectMatch 301 ^/z/(.*)$ http://static.askapache.com/$1
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMxODQzMjIsNDk2NTk0NjkyLC02OT
-UzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbNTQxMjI2MzAxLDQ5NjU5NDY5MiwtNjk1Mz
+g0Mzc1XX0=
 -->
