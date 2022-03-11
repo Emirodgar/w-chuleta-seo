@@ -138,7 +138,7 @@ Evita que otras páginas empleen tus imágenes a costa de los recursos de tu ser
     # Si quieres mostrar una imagen avisando del bloqueo, sustituye línea anterior por:
     # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
 
-### Bloquear accceso a todo el sitio con contraseña
+### Bloquear con contraseña el accceso al sitio
 
 Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después bastará con incluir el siguiente código en el fichero `.htaccess`.
 
@@ -147,20 +147,30 @@ AuthName "Nombre"
 AuthUserFile /home/fellowship/.htpasswd
 Require valid-user
 
-### [](https://github.com/phanan/htaccess#password-protect-a-file-or-several-files)Password Protect a File or Several Files
+### Bloquear con contraseña el accceso a ficheros
 
-AuthName "One still does not simply"
-AuthType Basic
-AuthUserFile /home/fellowship/.htpasswd
+    AuthName "Nombre"
+    AuthType Basic
+    AuthUserFile /home/fellowship/.htpasswd
+    
+    <Files "one-ring.o">
+    Require valid-user
+    </Files>
+    
+    <FilesMatch ^((one|two|three)-rings?\.o)$>
+    Require valid-user
+    </FilesMatch>
 
-<Files "one-ring.o">
-Require valid-user
-</Files>
+### Evitar que el sitio sea incluido en un iframe
 
-<FilesMatch ^((one|two|three)-rings?\.o)$>
-Require valid-user
-</FilesMatch>
+SetEnvIf Request_URI "/starry-night" allow_framing=true
+Header set X-Frame-Options SAMEORIGIN env=!allow_framing
+
+
+## Rendimiento
+
+### Comprimir los ficheros de t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjM3NjA4Myw0OTY1OTQ2OTIsLTY5NT
-M4NDM3NV19
+eyJoaXN0b3J5IjpbMzg4MzMyNjcxLDQ5NjU5NDY5MiwtNjk1Mz
+g0Mzc1XX0=
 -->
