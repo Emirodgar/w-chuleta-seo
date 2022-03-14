@@ -1,6 +1,7 @@
 ---
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
+layout: chuletaseo
 permalink: codigos-htaccess-apache
 author:
   twitter: https://github.com/phanan/htaccess
@@ -312,6 +313,7 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTAyODA2LC0xNzE5MDYxNjg5LC0xOD
-kyMTcxMDY1LDQ5NjU5NDY5MiwtNjk1Mzg0Mzc1XX0=
+eyJoaXN0b3J5IjpbMTk1NDgzMTYyOSw3NDQ1MDI4MDYsLTE3MT
+kwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OTUzODQz
+NzVdfQ==
 -->
