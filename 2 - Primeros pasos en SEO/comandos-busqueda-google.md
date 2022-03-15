@@ -9,9 +9,9 @@ permalink: comandos-busqueda-google
   
 ---
 
-Google es un gran buscador y como tal nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
+Google es un gran buscador y como tal, nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
 
-Para ello dispone de una serie de comandos específicos que nos ayudarán a encontrar exactamente lo que estamos buscando. Los podemos utilizar directamente desde la barra de navegación de Google.
+Para ello dispone de una serie de **comandos específicos** que nos ayudarán a encontrar exactamente lo que estamos buscando. **Los podemos utilizar directamente desde la barra de navegación de Google**.
 
 ## 1 - Búsqueda entre comillas
 
@@ -82,14 +82,15 @@ Salamanca before:2018-06-01 after:2016-06-01
 
 Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de forma más eficiente, podemos hacer uso de estos comandos para llevar a cabo un análisis SEO rápido.
 
-- site:emirodgar.com para ver las páginas que ha descubierto e indexado (desde GSC es más fiable)
-- site:emirodgar.com intext:[] para descubrir si se ha indexado contenido que no debería
-- site:emirodgar.com intitle:[] para descubrir posibles títulos duplicados
-- site:emirodgar.com inurl:http para descubir posible contenido duplicado con la versión no segura
-- site:emirodgar.com -www para identificar otros subdominios de los que no estemos al tanto
-- site:emirodgar.com filetype:xml OR filetype:pdf OR filetype:txt para identificar posibles ficheros indexados que no sean páginas HTML
--site:emirodgar.com inurl:? para identificar posibles parámetros en las URL
-- site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
+- `site:emirodgar.com` para ver las páginas que ha descubierto e indexado (desde GSC es más fiable)
+- `site:emirodgar.com intext:[]` para descubrir si se ha indexado contenido que no debería
+- `site:emirodgar.com intitle:[]` para descubrir posibles títulos duplicados
+- `site:emirodgar.com inurl:http` para descubir posible contenido duplicado con la versión no segura
+- `site:emirodgar.com -www` para identificar otros subdominios de los que no estemos al tanto
+- `site:emirodgar.com filetype:xml OR filetype:pdf OR filetype:txt` para identificar posibles ficheros indexados que no sean páginas HTML
+- `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
+- `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzM1ODMyOCwtNTIyODIwODkyXX0=
+eyJoaXN0b3J5IjpbLTIxMzcwNzg5NiwxMjM3MzU4MzI4LC01Mj
+I4MjA4OTJdfQ==
 -->
