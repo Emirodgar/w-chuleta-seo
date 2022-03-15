@@ -317,7 +317,13 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
 
 ### Activar noindex para todo el sitio
 
-En el caso de que queramos desindexar todo un dominio, 
+En el caso de que queramos desindexar todo un dominio, podemos activar las directivas `noindex` y `nofollow` de la siguiente manera:
+
+    <ifModule mod_headers.c>
+    Header set X-Robots-Tag "noindex, nofollow"
+    </ifModule>
+
+Si lo queremos hacer únicamente para una subcarpeta
 
     <ifModule mod_headers.c>
     Header set X-Robots-Tag "noindex, nofollow"
@@ -327,7 +333,7 @@ En el caso de que queramos desindexar todo un dominio,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDkwMTc1MSwtMTc0MjIzODc3NSw3ND
-Q1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0
-NjkyLC02OTUzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbMTQ3MDAzMiwtMTc0MjIzODc3NSw3NDQ1MD
+I4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0Njky
+LC02OTUzODQzNzVdfQ==
 -->
