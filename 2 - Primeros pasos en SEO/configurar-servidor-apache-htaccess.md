@@ -79,6 +79,8 @@ Cuando forzamos el acceso seguro a través de `https`, es recomendable también 
 
 ## Redirecciones
 
+Cuando realizamos una [migración SEO](https://chuletaseo.com/migracion-seo) es vital que apliquemos redirecciones para ayudar tanto a buscadores como a usuarios a entender la nueva estructura de URL.
+
 ### Redirección simple
 
     Redirect 301 /seo.html http://chuletaseo.com/seo.html
@@ -336,8 +338,8 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDg2MzA3MiwxNzM0NDAzNDgxLC0xMD
-kwMTI2MDAsLTE3NDIyMzg3NzUsNzQ0NTAyODA2LC0xNzE5MDYx
-Njg5LC0xODkyMTcxMDY1LDQ5NjU5NDY5MiwtNjk1Mzg0Mzc1XX
-0=
+eyJoaXN0b3J5IjpbLTUwOTM0ODE3LDE3MzQ0MDM0ODEsLTEwOT
+AxMjYwMCwtMTc0MjIzODc3NSw3NDQ1MDI4MDYsLTE3MTkwNjE2
+ODksLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OTUzODQzNzVdfQ
+==
 -->
