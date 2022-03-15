@@ -5,7 +5,7 @@ lang: es_ES
 layout: chuletaseo
 permalink: codigos-htaccess-apache
 date: 14/03/2022
-folder:
+folder: primeros-pasos
 author:
   twitter: https://github.com/phanan/htaccess
   
@@ -334,7 +334,7 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTYxNzI5LC0xMDkwMTI2MDAsLTE3ND
-IyMzg3NzUsNzQ0NTAyODA2LC0xNzE5MDYxNjg5LC0xODkyMTcx
-MDY1LDQ5NjU5NDY5MiwtNjk1Mzg0Mzc1XX0=
+eyJoaXN0b3J5IjpbMTczNDQwMzQ4MSwtMTA5MDEyNjAwLC0xNz
+QyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMTg5MjE3
+MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
 -->
