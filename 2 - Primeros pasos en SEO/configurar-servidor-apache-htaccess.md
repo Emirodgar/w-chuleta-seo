@@ -323,17 +323,18 @@ En el caso de que queramos desindexar todo un dominio, podemos activar las direc
     Header set X-Robots-Tag "noindex, nofollow"
     </ifModule>
 
-Si lo queremos hacer únicamente para una subcarpeta
+Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo así:
 
-    <ifModule mod_headers.c>
-    Header set X-Robots-Tag "noindex, nofollow"
-    </ifModule>
+    <If "%{REQUEST_URI} =~ m#^/seo/#">
+    Header set X-Robots-Tag "noindex"
+    </If>
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDAzMiwtMTc0MjIzODc3NSw3NDQ1MD
-I4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0Njky
-LC02OTUzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTAxMjYwMCwtMTc0MjIzODc3NSw3ND
+Q1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0
+NjkyLC02OTUzODQzNzVdfQ==
 -->
