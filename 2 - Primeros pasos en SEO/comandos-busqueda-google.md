@@ -88,8 +88,8 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - site:emirodgar.com inurl:http para descubir posible contenido duplicado con la versión no segura
 - site:emirodgar.com -www para identificar otros subdominios de los que no estemos al tanto
 - site:emirodgar.com filetype:xml OR filetype:pdf OR filetype:txt para identificar posibles ficheros indexados que no sean páginas HTML
--site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
+-site:emirodgar.com inurl:? para identificar posibles parámetros en las URL
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MjcwMTldfQ==
+eyJoaXN0b3J5IjpbLTUyMjgyMDg5Ml19
 -->
