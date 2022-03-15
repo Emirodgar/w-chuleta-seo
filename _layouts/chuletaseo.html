@@ -11,7 +11,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<h1><a style="font-size: 2.95em;" href="https://chuletaseo.com">ChuletaSEO</a></h1>
+					<h1><a style="font-size: 2.45em;" href="https://chuletaseo.com">ChuletaSEO</a></h1><br/>
           <h1>Suscríbete a la <strong><a href="https://newsletter.chuletaseo.com">newsletter</a></strong> <br/>y todos los jueves tendrás el mejor<br />
 					<a href="https://newsletter.chuletaseo.com">resumen SEO</a>.</h1>
 				</div>
@@ -22,7 +22,57 @@
 
 				<!-- One -->
 					<section id="one">
+						<header class="major">
+							<h1>{{ page.title }}</h1>
+
+              {% if page.folder %}
+					<div class="meta mb-3">
 						
+						<span class="date">
+							{% if page.date_modified == null %}
+							 Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
+							 {% else %}
+							 Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
+							{% endif %}
+						</span>
+							
+						
+						<span class="time">{% assign words = content | number_of_words %}
+						{% if words < 360 %}
+						  1 minuto de lectura
+						{% else %}
+						  {{ words | divided_by:180 }} minutos de lectura
+						{% endif %}</span>
+
+						{% if page.folder == "primeros-pasos-seo" %}
+						<span><a href="{{ site.url }}#primeros-pasos-seo">Primeros pasos en SEO</a></span>
+					  	{% endif %}
+
+						{% if page.folder == "indexacion" %}
+						<span><a href="{{ site.url }}#indexacion">Indexación</a></span>
+						{% endif %}
+
+						{% if page.folder == "fuentes-informacion" %}
+						<span><a href="{{ site.url }}#fuentes-informacion">Fuentes de información</a></span>
+						{% endif %}
+
+						{% if page.folder == "contenidos" %}
+						<span><a href="{{ site.url }}#contenidos">Contenidos</a></span>
+						{% endif %}
+
+						{% if page.folder == "enlazado" %}
+						<span><a href="{{ site.url }}#enlazado">Enlazado</a></span>
+						{% endif %}
+
+						{% if page.folder == "dashboard-reporting" %}
+						<span><a href="{{ site.url }}#dashboard-reporting">Dashboard y reporting</a></span>
+						{% endif %}
+
+					</div>
+					{% endif %}
+
+						</header>            
+
             {{ content }}
 
 						<ul class="actions">
@@ -32,7 +82,7 @@
 
 				<!-- Two -->
 					<section id="two">
-						<h2>Recent Work</h2>
+						<h2>Categorías</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
@@ -41,7 +91,7 @@
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
-								<h3>Primeros pasos en SEO/h3>
+								<h3>Primeros pasos en SEO</h3>
 								<p>Todo lo que necesitas para comenzar a definir una estrategia SEO.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
