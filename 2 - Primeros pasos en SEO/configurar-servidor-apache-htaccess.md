@@ -19,6 +19,8 @@ author:
 
 ## Accesos a la página
 
+En este apartado encontraremos códigos que pueden condicionar el acceso a una página, tanto a nivel de URL como de seguridad.
+
 ### Forzar el acceso con www
 
     RewriteEngine on
@@ -334,7 +336,8 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDQwMzQ4MSwtMTA5MDEyNjAwLC0xNz
-QyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMTg5MjE3
-MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
+eyJoaXN0b3J5IjpbNjEyMDgyMjI0LDE3MzQ0MDM0ODEsLTEwOT
+AxMjYwMCwtMTc0MjIzODc3NSw3NDQ1MDI4MDYsLTE3MTkwNjE2
+ODksLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OTUzODQzNzVdfQ
+==
 -->
