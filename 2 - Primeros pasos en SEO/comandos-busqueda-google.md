@@ -1,13 +1,13 @@
 ---
+title: Comandos de búsqueda para Google
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
+layout: chuletaseo
 permalink: comandos-busqueda-google
-author:
-  twitter: emirodgar
+date: 14/03/2022
+folder: primeros-pasos-seo
   
 ---
-
-# Comandos de búsqueda para Google
 
 Google es un gran buscador y como tal nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
 
@@ -15,7 +15,7 @@ Para ello dispone de una serie de comandos específicos que nos ayudarán a enco
 
 ## 1 - Búsqueda entre comillas
 
-El hecho de entrecomillar una palabra o frase nos ayudará a que ésta esté siempre presente en todos los resultados. Si no aparece tal como lo hemos seleccionado, Google no nos lo mostrará. Ideal para conseguir búsquedas exactas.
+El hecho de entrecomillar una palabra o frase nos ayudará a que esta esté siempre presente en todos los resultados. Si no aparece tal como lo hemos seleccionado, Google no nos lo mostrará. Ideal para conseguir búsquedas exactas.
 
 ```
 "auditoría seo" técnica
@@ -23,7 +23,7 @@ El hecho de entrecomillar una palabra o frase nos ayudará a que ésta esté sie
 
 ## 2- Buscar dentro de un dominio
 
-Para buscar únicamente dentro de un dominio debemos utilizar el comando site de la siguiente forma:
+Para buscar únicamente dentro de un dominio debemos utilizar el comando `site` de la siguiente forma:
 
 ```
 site:emirodgar.com
@@ -39,7 +39,7 @@ Podemos realizar varias búsquedas combinando elementos. Por ejemplo:
 
 ## 4- Buscar términos en la URL
 
-No sólo podemos buscar a través del contenido de una página sino que también podemos limitar los resultados a aquellos que contienen los términos en su URL.
+No sólo podemos buscar a través del contenido de una página, sino que también podemos limitar los resultados a aquellos que contienen los términos en su URL.
 
 ```
 inurl:seo
@@ -54,7 +54,7 @@ filetype:pdf
 
 ## 6- Buscar términos cercanos
 
-Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, si queremos buscar emirodgar + 3 palabras cualquiera + consultor SEO, podríamos usar el siguiente comando:
+Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, si queremos buscar `emirodgar + 3 palabras cualquiera + consultor SEO`, podríamos usar el siguiente comando:
  
 ```
 "emirodgar" AROUND(3) "consultor seo"
@@ -64,7 +64,7 @@ Sólo se tendrían en cuenta frases con tres palabras o menos entre ambos térmi
 
 ## 7- Excluir términos
 
-En el caso de que queramos buscar un término pero excluyendo todos los resultados que no nos interesen lo podemos hacer utilizando el guión alto "-" justo delante de lo que queremos excluir.
+En el caso de que queramos buscar un término, pero excluyendo todos los resultados que no nos interesen, lo podemos hacer empleando el guion alto "-" justo delante de lo que queremos excluir.
 ```
 Google -analytics
 ```
@@ -91,5 +91,5 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTk2NjIwN119
+eyJoaXN0b3J5IjpbNTM0MjcwMTldfQ==
 -->
