@@ -88,7 +88,7 @@ Cuando realizamos una [migración SEO](https://chuletaseo.com/migracion-seo) es 
 
 ### Redirección de todo el sitio a un nuevo dominio
 
-Redirect 301 / https://chuletaseo.org/
+    Redirect 301 / https://chuletaseo.org/
 
 ### Redirección de una subcarpeta a otro dominio
 
@@ -96,7 +96,7 @@ Redirect 301 / https://chuletaseo.org/
 
 ### Redirección para eliminar una subcarpeta
 
-RedirectMatch 301 ^/seo/(.*)$ /$1
+    RedirectMatch 301 ^/seo/(.*)$ /$1
 
 
 ### Redirección para cambiar de subcarpeta
@@ -338,7 +338,7 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTM0ODE3LDE3MzQ0MDM0ODEsLTEwOT
+eyJoaXN0b3J5IjpbMzQwNjI3OTM1LDE3MzQ0MDM0ODEsLTEwOT
 AxMjYwMCwtMTc0MjIzODc3NSw3NDQ1MDI4MDYsLTE3MTkwNjE2
 ODksLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OTUzODQzNzVdfQ
 ==
