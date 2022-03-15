@@ -15,6 +15,7 @@ author:
 - Redirecciones
 - Seguridad
 - Rendimiento
+- SEO
 
 ## Accesos a la página
 
@@ -312,9 +313,21 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
     RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
     RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
+## SEO
+
+### Activar noindex para todo el sitio
+
+En el caso de que queramos desindexar todo un dominio, 
+
+    <ifModule mod_headers.c>
+    Header set X-Robots-Tag "noindex, nofollow"
+    </ifModule>
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIyMzg3NzUsNzQ0NTAyODA2LC0xNz
-E5MDYxNjg5LC0xODkyMTcxMDY1LDQ5NjU5NDY5MiwtNjk1Mzg0
-Mzc1XX0=
+eyJoaXN0b3J5IjpbLTc2NDkwMTc1MSwtMTc0MjIzODc3NSw3ND
+Q1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0
+NjkyLC02OTUzODQzNzVdfQ==
 -->
