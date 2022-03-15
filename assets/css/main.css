@@ -3219,3 +3219,8 @@ input, select, textarea {
 			}
 
 	}
+	.subtitle {
+		color: #8f8f8f;
+		margin-bottom: 1rem!important;
+		margin-top: -1.5rem;
+	}

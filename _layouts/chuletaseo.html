@@ -27,15 +27,15 @@
 							<h1>{{ page.title }}</h1>
 
               {% if page.folder %}
-					<div class="meta mb-3">
+					<div class="subtitle">
 						
 						<span class="date">
 							{% if page.date_modified == null %}
 							 Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
 							 {% else %}
 							 Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
-							{% endif %}
-						</span>
+							{% endif %} / 
+						</span> 
 							
 						
 						<span class="time">{% assign words = content | number_of_words %}
@@ -43,7 +43,7 @@
 						  1 minuto de lectura
 						{% else %}
 						  {{ words | divided_by:180 }} minutos de lectura
-						{% endif %}</span>
+						{% endif %} / </span>
 
 						{% if page.folder == "primeros-pasos-seo" %}
 						<span><a href="{{ site.url }}#primeros-pasos-seo">Primeros pasos en SEO</a></span>
