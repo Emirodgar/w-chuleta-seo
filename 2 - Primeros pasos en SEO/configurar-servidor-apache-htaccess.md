@@ -1,4 +1,5 @@
 ---
+title: Listado de códigos para .htaccess (Apache)
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
 layout: chuletaseo
@@ -8,8 +9,6 @@ author:
   twitter: https://github.com/phanan/htaccess
   
 ---
-
-# Listado de códigos para .htaccess de Apache
 
 - Accesos a la página
 - Redirecciones
@@ -334,7 +333,7 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAxMjYwMCwtMTc0MjIzODc3NSw3ND
-Q1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsNDk2NTk0
-NjkyLC02OTUzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTExMjI1OSwtMTA5MDEyNjAwLC0xNz
+QyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMTg5MjE3
+MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
 -->
