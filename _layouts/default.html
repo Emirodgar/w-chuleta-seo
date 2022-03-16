@@ -72,12 +72,6 @@
               </div>
 					{% endif %}
 
-          {% if page.toc!= null %}
-          <h4>Tabla de contenidos</h4>
-            <a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
-            <div id="ergtoc" hidden>{% include toc.html html=content %}</div>
-          {% endif %}
-
 						</header>            
 
             {{ content }}
