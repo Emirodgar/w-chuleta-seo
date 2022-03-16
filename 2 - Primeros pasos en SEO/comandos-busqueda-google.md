@@ -1,9 +1,8 @@
 ---
 title: Comandos de búsqueda para Google
 description: Mejora tus búsquedas en Google con estos trucos y comandos
-lang: es_ES
-layout: chuletaseo
 date: 14/03/2022
+folder: primeros-pasos-seo
 folder: primeros-pasos-seo
 permalink: comandos-busqueda-google
   
@@ -91,6 +90,6 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcwNzg5NiwxMjM3MzU4MzI4LC01Mj
-I4MjA4OTJdfQ==
+eyJoaXN0b3J5IjpbMTY4NjcxOTAwNiwtMjEzNzA3ODk2LDEyMz
+czNTgzMjgsLTUyMjgyMDg5Ml19
 -->
