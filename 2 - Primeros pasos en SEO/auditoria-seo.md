@@ -14,7 +14,7 @@ folder: primeros-pasos-seo
 
 ### ¿Estamos enviando a Google las páginas importantes?
 
-El primer punto debe ser conocer cuántas páginas tenemos indexadas en Google y si estas coinciden con las que nos interesa posicionar. Podemos cruzar información entre las que enviamos en el sitemap y las que realmente ha indexado Google. 
+El primer punto debe ser conocer cuántas páginas tenemos indexadas en Google y si estas coinciden con las que nos interesa posicionar. Podemos cruzar información entre las que enviamos en el *sitemap* y las que realmente ha indexado Google. 
 
 ### Eliminar las páginas de poco valor
 
@@ -120,5 +120,5 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NzEwMTA2LC02NDYwMTc2MTJdfQ==
+eyJoaXN0b3J5IjpbMjExMDI3NTA0NCwtNjQ2MDE3NjEyXX0=
 -->
