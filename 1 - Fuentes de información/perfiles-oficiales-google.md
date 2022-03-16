@@ -1,11 +1,11 @@
 ---
+title: Perfiles oficiales de Google
 description: Listado de todos los perfiles oficiales de Google
-lang: es_ES
+date: 14/03/2022
+folder: fuentes-informacion
 permalink: perfiles-oficiales-google
   
 ---
-
-# Perfiles oficiales de Google
 
 Una buena forma de estar al día es suscribirnos a los perfiles y contenidos más relacionados con nuestros productos y servicios. La principal fuente de información deben de ser los [blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales), no obstante existen otras muchas fuentes de información relevante.
 
@@ -135,5 +135,5 @@ Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](h
 
 Una página interesante es https://seoasked.com/ ya que nos permite buscar entre todos los tweets relacionados con SEO realizados por el equipo de Google. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDY2MzM4N119
+eyJoaXN0b3J5IjpbLTEyNjc4OTQ1NzUsMTg2MDY2MzM4N119
 -->
