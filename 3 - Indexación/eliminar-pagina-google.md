@@ -14,11 +14,11 @@ En ciertas ocasiones, con páginas de baja calidad, contenido duplicado o inform
 1. Índice
 {:toc}
 
-## 1- Eliminar a través de Google Search Console
+## Eliminar a través de Google Search Console
 
 Si no tenemos dado de alta el dominio en Search Console, lo creamos. 
 
-### 1.1 - La página existe
+### La página existe
 
 Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: Índice de Google > **Eliminar URLs**. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
 
@@ -59,6 +59,6 @@ Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information) ,ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTYyOTY5Niw1NTAyODc5NjYsNDY0NT
-A0Mjk5LC0xMzMxNDc4NjYwLDY3NzM5NzY0Nl19
+eyJoaXN0b3J5IjpbLTE4Nzk2OTIzNTEsNTUwMjg3OTY2LDQ2ND
+UwNDI5OSwtMTMzMTQ3ODY2MCw2NzczOTc2NDZdfQ==
 -->
