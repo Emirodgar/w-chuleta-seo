@@ -24,7 +24,7 @@ El hecho de entrecomillar una palabra o frase nos ayudará a que esta esté siem
 Para buscar únicamente dentro de un dominio debemos utilizar el comando `site` de la siguiente forma:
 
 ```
-site:emirodgar.com
+site:chuletaseo.com
 ```
 
 ## 3- Búsquedas combinadas
@@ -89,6 +89,6 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTY2OTA2NCwtMjEzNzA3ODk2LDEyMz
-czNTgzMjgsLTUyMjgyMDg5Ml19
+eyJoaXN0b3J5IjpbMTQ1MDgwNTYyNywtNjQ1NjY5MDY0LC0yMT
+M3MDc4OTYsMTIzNzM1ODMyOCwtNTIyODIwODkyXX0=
 -->
