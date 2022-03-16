@@ -11,7 +11,8 @@ Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs
 
 ## Listado de newsletter SEO
 
-- [Chuleta SEO](https://newsletter.chuletaseo.com)
+- [ChuletaSEO](https://newsletter.chuletaseo.com)
+- [SEOFOMO](https://www.seofomo.co/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTEyOTY0XX0=
+eyJoaXN0b3J5IjpbLTIwMDcxNDY1MjldfQ==
 -->
