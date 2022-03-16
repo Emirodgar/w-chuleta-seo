@@ -9,7 +9,7 @@ date_modified: 16/03/2022
   
 ---
 
-- [UnCSS](https://uncss-online.com/): herramienta para identificar el código CSS que estamos usando.
+- [UnCSS](https://uncss-online.com/): herramienta para identificar el código CSS que estamos usando. De esta forma podremos eliminar el que no s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjgyMjcxOV19
+eyJoaXN0b3J5IjpbNTk0Mzg1MjM4XX0=
 -->
