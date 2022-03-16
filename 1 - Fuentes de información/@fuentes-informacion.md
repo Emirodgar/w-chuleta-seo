@@ -17,7 +17,7 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 ## Otros canales
 
-- Newsletter SEO
+- [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDIwNDUxN119
+eyJoaXN0b3J5IjpbLTU5NzgwNjc3MV19
 -->
