@@ -4,6 +4,7 @@ description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
 permalink: codigos-htaccess-apache
 date: 14/03/2022
+date_modified: 16/03/2022
 folder: primeros-pasos-seo
 author:
   twitter: https://github.com/phanan/htaccess
@@ -336,7 +337,7 @@ Para más información acerca de la directiva `meta robots`, podemos ir a la [do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjA0NjkxMiwyMDQ3MDYxMTQ4LDEyMj
+eyJoaXN0b3J5IjpbLTc4ODg3MzM3OCwyMDQ3MDYxMTQ4LDEyMj
 Q3MTc2MywzNDA2Mjc5MzUsMTczNDQwMzQ4MSwtMTA5MDEyNjAw
 LC0xNzQyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMT
 g5MjE3MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
