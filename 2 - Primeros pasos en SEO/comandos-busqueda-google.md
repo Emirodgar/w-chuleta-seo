@@ -8,7 +8,7 @@ permalink: comandos-busqueda-google
 
 ---
 
-Google es un gran buscador y como tal, nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
+Google es un gran buscador, y como tal, nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
 
 <ul>
 {:toc}
@@ -94,7 +94,7 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzA1Njg5NywtMTYyNTI1NTAsLTY0NT
-Y2OTA2NCwtMjEzNzA3ODk2LDEyMzczNTgzMjgsLTUyMjgyMDg5
-Ml19
+eyJoaXN0b3J5IjpbLTEwMDM4NjY3NTksLTE2MjUyNTUwLC02ND
+U2NjkwNjQsLTIxMzcwNzg5NiwxMjM3MzU4MzI4LC01MjI4MjA4
+OTJdfQ==
 -->
