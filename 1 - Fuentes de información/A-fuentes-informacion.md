@@ -15,15 +15,13 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 - [Blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales) 
 - [Perfiles oficiales de Google](https://chuletaseo.com/perfiles-oficiales-google)
 
-## Guías oficiales
-
-
 
 ## Otros recursos
 
-- [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
+- [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo)
+- [Guías SEO](https://chuletaseo.com/guia-seo)
 - Las páginas de https://seoasked.com/ y https://seotweets.io/ recopilan información interesante acerca del mundo SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0Mz
-cyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbMTc1NTI1OTExMywtMTM4ODg0OTE2Myw1MT
+M2NTM0MDEsMTQzNzI2NzU3NV19
 -->
