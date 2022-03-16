@@ -9,6 +9,8 @@ folder: primeros-pasos-seo
   
 ---
 
+{:toc}
+
 ## Auditar las páginas indexadas
 
 ### ¿Estamos enviando a Google las páginas importantes?
@@ -119,5 +121,5 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 Es extramadamente importante que el tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si por el contrario vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE2MTAyMTRdfQ==
+eyJoaXN0b3J5IjpbLTQ3Nzg1ODg2Ml19
 -->
