@@ -29,6 +29,7 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 ### Castellano
 
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMxNTMwNV19
+eyJoaXN0b3J5IjpbODQ0NTk2NDg1LC0xMzUzMTUzMDVdfQ==
 -->
