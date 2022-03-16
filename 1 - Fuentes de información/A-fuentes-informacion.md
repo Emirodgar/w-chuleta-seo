@@ -19,9 +19,11 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 
 
-## Otros canales
+## Otros recursos
 
 - [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
+- Las páginas de https://seoasked.com/ y https://seotweets.io/ recopilan información interesante acerca del mundo SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0Mz
+cyNjc1NzVdfQ==
 -->
