@@ -7,7 +7,7 @@
       <div class="subheading mb-5">Proyecto creado por ·
          <a href="https://emirodgar.com">Emirodgar</a>
       </div>
-      <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. En base a mi experiencia he creado estas chuletas para ayudar a quién lo necesite.</p>
+      <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. Basándome en mi experiencia, he creado estas chuletas para ayudar a quién lo necesite.</p>
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Fuentes de información</h2>
@@ -71,8 +71,8 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ2NjkyMjksMTEwODgyOTc4MiwtMT
-M0MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgwODk2NiwxMjU1ODcz
-NTczLDExNTM1ODYwNzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LD
-EzNDQxMTE1MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbLTE2NzM2MDI1MTMsLTE4MjQ2NjkyMjksMT
+EwODgyOTc4MiwtMTM0MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgw
+ODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTExNDgwNjIyNC
+wxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
