@@ -2,11 +2,10 @@
 title: Auditoría SEO
 description: Pasos y acciones para desarrollar una correcta auditoría SEO.
 lang: es_ES
-permalink: auditoria-seo
-layout: chuletaseo
 date: 16/03/2022
 folder: primeros-pasos-seo
-  
+permalink: auditoria-seo
+
 ---
 
 
@@ -120,5 +119,6 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDI3NTA0NCwtNjQ2MDE3NjEyXX0=
+eyJoaXN0b3J5IjpbNjY2ODY5NzU1LDIxMTAyNzUwNDQsLTY0Nj
+AxNzYxMl19
 -->
