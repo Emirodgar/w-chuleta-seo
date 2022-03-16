@@ -20,9 +20,9 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a al
 
 Entender cómo funciona Google y [aprender a exprimir su buscador con comandos personalizados](https://chuletaseo.com/comandos-busqueda-google), es básico.
 
-A partir de aquí, comenzaremos por definir una estrategia SEO que nos permita  y una auditoría SEO para entender el punto de partida que tenemos y cómo podemos mejorarlo.
+A partir de aquí, comenzaremos por definir una estrategia SEO que nos permita visualizar el camino que seguiremos y una [auditoría SEO](https://chuletaseo.com/auditoria-seo) para entender el punto de partida que tenemos y cómo podemos mejorarlo.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjAwMDgzN119
+eyJoaXN0b3J5IjpbODk2MzExNTU0XX0=
 -->
