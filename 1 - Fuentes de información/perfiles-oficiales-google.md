@@ -130,10 +130,7 @@ A continuación tenemos el listado de canales oficiales de Google.
 - Think with Google: [https://twitter.com/thinkwithgoogle](https://twitter.com/thinkwithgoogle)
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
-
-** Webs adicionales **
-
-Una página interesante es https://seoasked.com/ ya que nos permite buscar entre todos los tweets relacionados con SEO realizados por el equipo de Google. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc4OTQ1NzUsMTg2MDY2MzM4N119
+eyJoaXN0b3J5IjpbLTE4MjI5Mzc1NTYsLTEyNjc4OTQ1NzUsMT
+g2MDY2MzM4N119
 -->
