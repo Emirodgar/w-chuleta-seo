@@ -14,7 +14,11 @@ El SEO o Posicionamiento web en buscadores es un conjunto de acciones y técnica
 
 Una parte importante es estar correctamente informado de cómo evolucionan los algoritmos de los buscadores. Para ello es crucial disponer de buenas [fuentes de información](https://chuletaseo.com/fuentes-informacion).
 
-Si tienes poco tiempo o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) que nos haga un resumen semanal rápido nos ayudará. 
+Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) nos ayudará a estar informados de lo más relevante. 
+
+## Primeros pasos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTQ1MjY1NF19
+eyJoaXN0b3J5IjpbMTUyOTA5OTUyNl19
 -->
