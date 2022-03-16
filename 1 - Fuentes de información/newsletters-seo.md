@@ -13,6 +13,7 @@ Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs
 
 - [ChuletaSEO](https://newsletter.chuletaseo.com)
 - [SEOFOMO](https://www.seofomo.co/)
+- [SEOtweets](https://www.seotweets.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxNDY1MjldfQ==
+eyJoaXN0b3J5IjpbLTY4MDIwMTA5OF19
 -->
