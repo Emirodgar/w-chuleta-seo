@@ -1,5 +1,6 @@
 ---
-description: Listado de los blogs oficiales de los principales buscadores
+title: Campos personalizados en Google Data Studio
+description: Saca más rendimiento a Data Studio creando campos específicos para tus necesidades
 lang: es_ES
 permalink: campos-personalizados-data-studio
 author:
@@ -7,7 +8,6 @@ author:
   
 ---
 
-# Campos personalizados en Google Data Studio
 
 ## Crear un filtro para tráfico de marca y no marca
 
@@ -132,6 +132,6 @@ CASE
 END
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTQyMDMyLDE5ODcyMjkyNzQsLTIwNj
-c5MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mzg3OTE4NiwxOTg3MjI5Mjc0LC0yMD
+Y3OTA3MTgxLC0xODA3MDExNzkxLC0xNDQyNjMzMTA0XX0=
 -->
