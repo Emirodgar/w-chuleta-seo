@@ -17,7 +17,7 @@ El primer punto debe ser conocer cuántas páginas tenemos indexadas en Google y
 
 ### Eliminar las páginas de poco valor
 
-Reducir el número de páginas indexadas en fundamental para que los robots se centren en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente importantes. Aquí explico el proceso para [eliminar una web](https://chuletaseo.com/eliminar-pagina-indexada-google). Ejemplo de las páginas que no nos interesa posicionar son:
+Reducir el número de páginas indexadas en fundamental para que los robots se centren en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente relevantes. Aquí explico el proceso para [eliminar una web](https://chuletaseo.com/eliminar-pagina-indexada-google). Ejemplo de las páginas que no nos interesa posicionar son:
 
  - Resultados de búsquedas
  - Categorías / archivos
@@ -119,6 +119,6 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxOTE0NjksMjExMDI3NTA0NCwtNj
-Q2MDE3NjEyXX0=
+eyJoaXN0b3J5IjpbMTI0NDM1Njg2LDIxMTAyNzUwNDQsLTY0Nj
+AxNzYxMl19
 -->
