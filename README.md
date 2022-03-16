@@ -1,3 +1,7 @@
+---
+layout: chuletaseo
+  
+---
 
 <section class="p-3 p-lg-5 d-flex d-column">
    <div class="my-auto">
@@ -71,7 +75,7 @@
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM2MDI1MTMsLTE4MjQ2NjkyMjksMT
+eyJoaXN0b3J5IjpbLTE3MjE4MjY3MDAsLTE4MjQ2NjkyMjksMT
 EwODgyOTc4MiwtMTM0MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgw
 ODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTExNDgwNjIyNC
 wxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMzcwMV19
