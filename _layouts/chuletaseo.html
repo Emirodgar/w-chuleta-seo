@@ -26,50 +26,56 @@
 						<header class="major">
 							<h1>{{ page.title }}</h1>
 
+              {% if page.toc!= null %}
+              <h4>Tabla de contenidos</h4>
+                <a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
+                <div id="ergtoc" hidden>{% include toc.html html=content %}</div>
+              {% endif %}
+
               {% if page.folder %}
-					<div class="subtitle">
-						
-						<span class="date">
-							{% if page.date_modified == null %}
-							 Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
-							 {% else %}
-							 Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
-							{% endif %} - 
-						</span> 
-							
-						
-						<span class="time">{% assign words = content | number_of_words %}
-						{% if words < 360 %}
-						  1 minuto de lectura
-						{% else %}
-						  {{ words | divided_by:180 }} minutos de lectura
-						{% endif %} </span> - 
+              <div class="subtitle">
+                
+                <span class="date">
+                  {% if page.date_modified == null %}
+                  Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
+                  {% else %}
+                  Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
+                  {% endif %} - 
+                </span> 
+                  
+                
+                <span class="time">{% assign words = content | number_of_words %}
+                {% if words < 360 %}
+                  1 minuto de lectura
+                {% else %}
+                  {{ words | divided_by:180 }} minutos de lectura
+                {% endif %} </span> - 
 
-						{% if page.folder == "primeros-pasos-seo" %}
-						<span><a href="{{ site.url }}#primeros-pasos-seo">Primeros pasos en SEO</a></span>
-					  	{% endif %}
+                {% if page.folder == "primeros-pasos-seo" %}
+                <span><a href="{{ site.url }}#primeros-pasos-seo">Primeros pasos en SEO</a></span>
+                  {% endif %}
 
-						{% if page.folder == "indexacion" %}
-						<span><a href="{{ site.url }}#indexacion">Indexación</a></span>
-						{% endif %}
+                {% if page.folder == "indexacion" %}
+                <span><a href="{{ site.url }}#indexacion">Indexación</a></span>
+                {% endif %}
 
-						{% if page.folder == "fuentes-informacion" %}
-						<span><a href="{{ site.url }}#fuentes-informacion">Fuentes de información</a></span>
-						{% endif %}
+                {% if page.folder == "fuentes-informacion" %}
+                <span><a href="{{ site.url }}#fuentes-informacion">Fuentes de información</a></span>
+                {% endif %}
 
-						{% if page.folder == "contenidos" %}
-						<span><a href="{{ site.url }}#contenidos">Contenidos</a></span>
-						{% endif %}
+                {% if page.folder == "contenidos" %}
+                <span><a href="{{ site.url }}#contenidos">Contenidos</a></span>
+                {% endif %}
 
-						{% if page.folder == "enlazado" %}
-						<span><a href="{{ site.url }}#enlazado">Enlazado</a></span>
-						{% endif %}
+                {% if page.folder == "enlazado" %}
+                <span><a href="{{ site.url }}#enlazado">Enlazado</a></span>
+                {% endif %}
 
-						{% if page.folder == "dashboard-reporting" %}
-						<span><a href="{{ site.url }}#dashboard-reporting">Dashboard y reporting</a></span>
-						{% endif %}
+                {% if page.folder == "dashboard-reporting" %}
+                <span><a href="{{ site.url }}#dashboard-reporting">Dashboard y reporting</a></span>
+                {% endif %}
 
-					</div>
+              </div>
 					{% endif %}
 
 						</header>            
