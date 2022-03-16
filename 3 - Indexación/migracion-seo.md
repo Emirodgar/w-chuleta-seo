@@ -1,4 +1,5 @@
 ---
+title: Migración SEO
 description: Aprende a realizar una correcta migración SEO para evitar perder tráfico y posicionamiento.
 lang: es_ES
 date: 16/03/2022
@@ -7,8 +8,6 @@ permalink: migracion-seo
 
 
 ---
-
-# Migración SEO
 
 No pierdas posicionamiento ni tráfico SEO al cambiar de dominio, estructura o de plantilla web. Te enseño a seguir los pasos adecuados para asegurar una migración correcta.
 
@@ -80,5 +79,5 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE4MzI1MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTM2NjQzMDZdfQ==
 -->
