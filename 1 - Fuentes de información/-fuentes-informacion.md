@@ -17,12 +17,11 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 ## Guías oficiales
 
-- Guía de Google: [How Google Search Works](https://developers.google.com/search/docs/beginner/how-search-works). Ideal para disponer de una idea base alineada con las directrices de uso de Google.
-- [Guía de optimización en buscadores (SEO) para principiantes (Google)](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=es)
+
 
 ## Otros canales
 
 - [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUxMzQzNzhdfQ==
+eyJoaXN0b3J5IjpbMTQzNzI2NzU3NSwtMTkzNTEzNDM3OF19
 -->
