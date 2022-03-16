@@ -15,9 +15,13 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 - [Blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales) 
 - [Perfiles oficiales de Google](https://chuletaseo.com/perfiles-oficiales-google)
 
+## Guías oficiales
+
+- Guía de Google: How Google Search Works
+
 ## Otros canales
 
 - [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzgwNjc3MV19
+eyJoaXN0b3J5IjpbMTc4MjQ4MzE3N119
 -->
