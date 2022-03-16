@@ -94,18 +94,18 @@ El siguiente paso será conocer por qué términos estamos posicionando y cruzar
 
 ### Análisis del perfil de enlazado
 
-Disponer de **enlaces de calidad** es realmente importante para conseguir un buen posicionamiento SEO. Debemos conseguir que nos enlacen páginas de la misma temática, diferentes dominios y con enlaces dentro de contenido. Es importante retirar cualquier **enlace tóxico** que nos pueda acarrera una penalización. Para revisar el perfil de enlazado podemos utilizar alguna de las siguientes herramientas:
+Disponer de **enlaces de calidad** es realmente importante para conseguir un buen posicionamiento SEO. Debemos conseguir que nos enlacen páginas de la misma temática, diferentes dominios y con enlaces dentro de contenido. Es importante retirar cualquier **enlace tóxico** que nos pueda acarrear una penalización. Para revisar el perfil de enlazado podemos utilizar alguna de las siguientes herramientas:
 
  - [Ahrefs](https://ahrefs.com/)
  - [Majestic SEO](https://majestic.com/)
  
 ### Análisis de competidores
 
-Es importante determinar quiénes son nuestros principales **competidores orgánicos** y en qué posición se encuentran los **competidores reales**. Analizar su visibilidad SEO y términos por los que posicionan nos darán una clara imagen de dónde se encuentran respecto a nosotros y cómo de fácil o difícil serán nuestros objetivos. 
+El primer paso será determinar quiénes son nuestros principales **competidores orgánicos** y en qué posición se encuentran los **competidores reales**. Analizar su visibilidad SEO y términos por los que posicionan nos darán una clara imagen de dónde se encuentran respecto a nosotros y cómo de fácil o difícil serán nuestros objetivos. 
 
-También podemos conocer qué optimizaciones SEO tienen, desde qué dominiosdel sector  han conseguido enlaces y otra información que podríamos replicar en nuestra página.
+También podemos conocer qué optimizaciones SEO tienen, desde qué dominios del sector  han conseguido enlaces y otra información que podríamos replicar en nuestra página.
 
-## Contenido y usbilidad
+## Contenido y usabilidad
 
 ### Optimizar el contenido
 
@@ -118,8 +118,8 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
  
 ### Atrapa al usuario
  
-Es extramadamente importante que el tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si por el contrario vuelve a Google para visitar a un competidor orgánico.
+Es extremadamente importante que el tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Nzg1ODg2Ml19
+eyJoaXN0b3J5IjpbLTk2ODg3NjAwOF19
 -->
