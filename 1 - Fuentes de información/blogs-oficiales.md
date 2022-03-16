@@ -4,8 +4,6 @@ description: Listado de los blogs oficiales de los principales buscadores
 date: 14/03/2022
 folder: fuentes-informacion
 permalink: blogs-oficiales
-author:
-  twitter: emirodgar
   
 ---
 
@@ -17,5 +15,5 @@ Cuando queremos conocer información fiable, actualizada y de primera mano, lo m
 
 Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter de [Google Search Central](https://twitter.com/googlesearchc).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY5MjU4NjZdfQ==
+eyJoaXN0b3J5IjpbNzI3OTgzOTM2XX0=
 -->
