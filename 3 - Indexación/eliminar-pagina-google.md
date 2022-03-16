@@ -6,7 +6,7 @@ permalink: eliminar-pagina-indexada-google
 folder: indexacion
 toc: 1
 date: 15/02/2021
-date_updated: 16/03/2022
+date_modified: 16/03/2022
 layout: chuletaseo
   
 ---
@@ -59,6 +59,6 @@ Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information) ,ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDE5MzM1LC0xMzMxNDc4NjYwLDY3Nz
+eyJoaXN0b3J5IjpbNDY0NTA0Mjk5LC0xMzMxNDc4NjYwLDY3Nz
 M5NzY0Nl19
 -->
