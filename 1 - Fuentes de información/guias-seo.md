@@ -19,7 +19,7 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 
 ### Inglés 
 
-- *2021* / Beginer's guide to SEO
+- *2021* / [ContentKing Beginer's guide to SEO](https://www.contentkingapp.com/academy/seo-guide/)
 -   _2020 /_  [Google's Search Optimisation Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 -   _2020 /_  [Moz's Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)
 -   _2020 /_  [Search Engine Land’s Guide To SEO](http://searchengineland.com/guide/seo)
@@ -32,5 +32,5 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgyNjI2MzQsLTEzNTMxNTMwNV19
+eyJoaXN0b3J5IjpbODEwNTQyOTEyLC0xMzUzMTUzMDVdfQ==
 -->
