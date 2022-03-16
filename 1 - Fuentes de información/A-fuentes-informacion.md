@@ -21,13 +21,13 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 
 ## Guías no oficiales
 
-Algunas de las empresas más grandes del sector han creado sus propias [guías SEO](https://chuletaseo.com/guias-seo). Es interesante de cara a asentar conceptos básicos y profundizar en áreas que no dominamos tanto.
+Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han creado sus propias [guías SEO](https://chuletaseo.com/guias-seo). Es interesante de cara a asentar conceptos básicos y profundizar en áreas que no dominamos tanto.
 
 ## Otros recursos
 
-- [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletter con una gran calidad.
-- Las páginas de https://seoasked.com/ y https://seotweets.io/ recopilan información interesante acerca del mundo SEO.
+- [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
+- Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTM4MTk0MiwxNzU1MjU5MTEzLC0xMz
+eyJoaXN0b3J5IjpbLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMz
 g4ODQ5MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
 -->
