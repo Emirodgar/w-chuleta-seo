@@ -42,7 +42,7 @@ Podemos realizar varias búsquedas combinando elementos. Por ejemplo:
 "consultor SEO" OR "posicionamiento web"
 ```
 
-## 4- Buscar términos en la URL
+## Buscar términos en la URL
 
 No sólo podemos buscar a través del contenido de una página, sino que también podemos limitar los resultados a aquellos que contienen los términos en su URL.
 
@@ -96,7 +96,7 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDkwNDE4MywtMTY3NjgwODc4LC0yMT
+eyJoaXN0b3J5IjpbLTI3MDk2MjE2OCwtMTY3NjgwODc4LC0yMT
 M4NjcyMzUsLTE2MjUyNTUwLC02NDU2NjkwNjQsLTIxMzcwNzg5
 NiwxMjM3MzU4MzI4LC01MjI4MjA4OTJdfQ==
 -->
