@@ -3225,4 +3225,4 @@ input, select, textarea {
 		margin-top: -1.5rem;
 	}
 
-	h2 a {text-decoration: none;}
+	h2 a {border-bottom: none;}
