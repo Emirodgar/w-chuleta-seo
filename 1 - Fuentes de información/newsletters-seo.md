@@ -14,6 +14,7 @@ Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs
 - [ChuletaSEO](https://newsletter.chuletaseo.com)
 - [SEOFOMO](https://www.seofomo.co/)
 - [SEOtweets](https://www.seotweets.io/)
+- [Marie Haynes](https://www.mariehaynes.com/seo-newsletter/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDIwMTA5OF19
+eyJoaXN0b3J5IjpbLTIxNDI5OTcwNzZdfQ==
 -->
