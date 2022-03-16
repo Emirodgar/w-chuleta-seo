@@ -9,7 +9,6 @@ folder: primeros-pasos-seo
   
 ---
 
-{:toc}
 
 ## Auditar las páginas indexadas
 
@@ -121,5 +120,5 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjAxNzYxMl19
+eyJoaXN0b3J5IjpbOTE4NzEwMTA2LC02NDYwMTc2MTJdfQ==
 -->
