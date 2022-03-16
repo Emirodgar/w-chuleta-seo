@@ -10,11 +10,10 @@ author:
   
 ---
 
-- Accesos a la página
-- Redirecciones
-- Seguridad
-- Rendimiento
-- SEO
+Configurar un servidor web debe hacerse con sumo cuidado, ya que podríamos dejar la página inaccesible si no sabemos lo que 
+
+1. Índice
+{:toc}
 
 ## Accesos a la página
 
@@ -337,8 +336,8 @@ Para más información acerca de la directiva `meta robots`, podemos ir a la [do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzA2MTE0OCwxMjI0NzE3NjMsMzQwNj
-I3OTM1LDE3MzQ0MDM0ODEsLTEwOTAxMjYwMCwtMTc0MjIzODc3
-NSw3NDQ1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsND
-k2NTk0NjkyLC02OTUzODQzNzVdfQ==
+eyJoaXN0b3J5IjpbMTk0MTIxMjA0OSwyMDQ3MDYxMTQ4LDEyMj
+Q3MTc2MywzNDA2Mjc5MzUsMTczNDQwMzQ4MSwtMTA5MDEyNjAw
+LC0xNzQyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMT
+g5MjE3MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
 -->
