@@ -19,7 +19,7 @@ El primer punto debe ser conocer cuántas páginas tenemos indexadas en Google y
 
 ### Eliminar las páginas de poco valor
 
-Reducir el número de páginas indexadas en fundamental para que los robots se centren en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente relevantes. Aquí explico el proceso para [eliminar una web](https://chuletaseo.com/eliminar-pagina-indexada-google). Ejemplo de las páginas que no nos interesa posicionar son:
+Reducir el número de páginas indexadas en fundamental para que los robots se centren en aquellas relevantes. Menos páginas, más sencillo optimizar aquellas realmente importantes. Aquí explico el proceso para [eliminar una web](https://chuletaseo.com/eliminar-pagina-indexada-google). Ejemplo de las páginas que no nos interesa posicionar son:
 
  - Resultados de búsquedas
  - Categorías / archivos
@@ -31,7 +31,7 @@ A través de Google Search Console podremos analizar si el buscador está tenien
 
 ### Solucionar errores de enlazado interno
 
-A través de Google Searh Console, en el mismo apartado que antes Índice > cobertura > Error, podemos consultar aquellas páginas que han generado error al ser visitadas por Google. Es fundamental descubrir y corregir el problema para evitar que se sigan detectando errores. Normalmente, estos problemas se origina por un mal enlazado interno o por [eliminar páginas](https://chuletaseo.com/eliminar-pagina-indexada-google) sin haber sido [migradas correctamente](https://chuletaseo.com/migracion-seo).
+A través de Google Searh Console, en el mismo apartado que antes Índice > cobertura > Error, podemos consultar aquellas páginas que han generado error al ser visitadas por Google. El objetivo es descubrir y corregir el problema para evitar que se sigan detectando errores. Normalmente, estos problemas se origina por un mal enlazado interno o por [eliminar páginas](https://chuletaseo.com/eliminar-pagina-indexada-google) sin haber sido [migradas correctamente](https://chuletaseo.com/migracion-seo).
 
 Podemos completar este informe con herramientas externas como [Broken Link Check](http://www.brokenlinkcheck.com/).
 
@@ -121,6 +121,6 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDc2MTYwNywyMTEwMjc1MDQ0LC02ND
-YwMTc2MTJdfQ==
+eyJoaXN0b3J5IjpbLTU4MDUyODExNiwxODc0NzYxNjA3LDIxMT
+AyNzUwNDQsLTY0NjAxNzYxMl19
 -->
