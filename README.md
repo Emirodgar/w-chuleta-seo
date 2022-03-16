@@ -3,11 +3,6 @@
       <h1 class="mb-0">CHULETA
          <span class="text-primary">SEO</span>
       </h1>
-      <div class="subheading mb-5">Proyecto creado por ·
-         <a href="https://emirodgar.com">Emirodgar</a>
-      </div>
-      <p class="mb-5">Me llamo Emilio, estudié Ingeniería Informática en Salamanca y durante más de 10 años he trabajado en el ámbito del SEO. Basándome en mi experiencia, he creado estas chuletas para ayudar a quién lo necesite.</p>
-
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2>Fuentes de información</h2>
         <p>La información es poder. Estar al día de todas las novedades en la evolución del SEO es crítico. Una buena idea es revisar las fuentes de información oficiales.</p>
@@ -39,40 +34,12 @@
         <p> <a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a> / <a href="https://chuletaseo.com/eliminar-trafico-spam-robot">Eliminar tráfico SPAM</a> </p>
 </div>
 
-<br/><br/>
-
-      <ul class="list-inline list-social-icons mb-0">
-         <li class="list-inline-item">
-            <a href="https://emirodgar.com/">
-            <span class="fa-stack fa-lg">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-link fa-stack-1x fa-inverse"></i>
-            </span>
-            </a>
-         </li>
-         <li class="list-inline-item">
-            <a href="https://twitter.com/emirodgar">
-            <span class="fa-stack fa-lg">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-            </span>
-            </a>
-         </li>
-         <li class="list-inline-item">
-            <a href="https://es.linkedin.com/in/emirodgar">
-            <span class="fa-stack fa-lg">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-            </span>
-            </a>
-         </li>
-      </ul>
    </div>
 </section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NDQ1NjYxLC0xNzIxODI2NzAwLC0xOD
-I0NjY5MjI5LDExMDg4Mjk3ODIsLTEzNDA2NDMwMDQsLTQ0OTU2
-OTE0LDIwNzQ4MDg5NjYsMTI1NTg3MzU3MywxMTUzNTg2MDc0LC
-0xMTQ4MDYyMjQsMTI1NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5
-MDM3MDFdfQ==
+eyJoaXN0b3J5IjpbMTU5OTc5MjA5NywtMTcyMTgyNjcwMCwtMT
+gyNDY2OTIyOSwxMTA4ODI5NzgyLC0xMzQwNjQzMDA0LC00NDk1
+NjkxNCwyMDc0ODA4OTY2LDEyNTU4NzM1NzMsMTE1MzU4NjA3NC
+wtMTE0ODA2MjI0LDEyNTY1NzkxNjgsMTM0NDExMTUwMywxNzgz
+OTAzNzAxXX0=
 -->
