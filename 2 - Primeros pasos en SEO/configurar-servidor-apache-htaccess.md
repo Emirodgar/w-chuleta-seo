@@ -321,7 +321,7 @@ El siguiente código sólo funcionará si existe un fichero de imagen de mismo n
 
 ### Activar noindex para todo el sitio
 
-En el caso de que queramos desindexar todo un dominio, podemos activar las directivas `noindex` y `nofollow` de la siguiente manera:
+En el caso de que queramos desindexar todo un dominio, podemos activar las directivas `noindex` y `nofollow` de la etiqueta `meta robots` de la siguiente manera:
 
     <ifModule mod_headers.c>
     Header set X-Robots-Tag "noindex, nofollow"
@@ -333,13 +333,13 @@ Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo as
     Header set X-Robots-Tag "noindex"
     </If>
 
-
+Para más información acerca de la directiva `meta robots`, podemos ir a la [documentación oficial de Google](https://developers.google.com/search/docs/advanced/robots/robots_meta_tag?hl=es).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNjI3OTM1LDE3MzQ0MDM0ODEsLTEwOT
-AxMjYwMCwtMTc0MjIzODc3NSw3NDQ1MDI4MDYsLTE3MTkwNjE2
-ODksLTE4OTIxNzEwNjUsNDk2NTk0NjkyLC02OTUzODQzNzVdfQ
-==
+eyJoaXN0b3J5IjpbMTIyNDcxNzYzLDM0MDYyNzkzNSwxNzM0ND
+AzNDgxLC0xMDkwMTI2MDAsLTE3NDIyMzg3NzUsNzQ0NTAyODA2
+LC0xNzE5MDYxNjg5LC0xODkyMTcxMDY1LDQ5NjU5NDY5MiwtNj
+k1Mzg0Mzc1XX0=
 -->
