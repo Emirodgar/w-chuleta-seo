@@ -6,6 +6,12 @@ folder: fuentes-informacion
 permalink: newsletter-seo
   
 ---
+
+Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales) nos ayudará a estar al día de las noticias y nuevas funcionalidades, pero si queremos profundizar en el mundo SEO **será necesario adquirir información más allá de los canales oficiales**.
+
+## Listado de newsletter SEO
+
+- [Chuleta SEO](https://newsletter.chuletaseo.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4NDg5NzNdfQ==
+eyJoaXN0b3J5IjpbNDIxOTEyOTY0XX0=
 -->
