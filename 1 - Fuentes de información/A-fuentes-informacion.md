@@ -3,7 +3,7 @@ title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
 date: 14/03/2022
 folder: fuentes-informacion
-permalink: fuentes- informacion
+permalink: fuentes-informacion
   
 ---
 
@@ -23,5 +23,5 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 - [Newsletter SEO](https://chuletaseo.com/newsletter-seo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzI2NzU3NV19
+eyJoaXN0b3J5IjpbNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
 -->
