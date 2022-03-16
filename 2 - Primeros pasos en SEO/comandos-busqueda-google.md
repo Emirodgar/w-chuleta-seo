@@ -10,6 +10,8 @@ permalink: comandos-busqueda-google
 
 Google es un gran buscador y como tal, nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
 
+{:toc}
+
 Para ello dispone de una serie de **comandos específicos** que nos ayudarán a encontrar exactamente lo que estamos buscando. **Los podemos utilizar directamente desde la barra de navegación de Google**.
 
 ## 1 - Búsqueda entre comillas
@@ -90,6 +92,6 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjk4NzI3OCwtNjQ1NjY5MDY0LC0yMT
-M3MDc4OTYsMTIzNzM1ODMyOCwtNTIyODIwODkyXX0=
+eyJoaXN0b3J5IjpbLTE2MjUyNTUwLC02NDU2NjkwNjQsLTIxMz
+cwNzg5NiwxMjM3MzU4MzI4LC01MjI4MjA4OTJdfQ==
 -->
