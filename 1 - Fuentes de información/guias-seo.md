@@ -15,6 +15,10 @@ permalink: guias-seo
 
 ## Otras guías SEO
 
+Siempre recomendaré comenzar por las guías oficiales para disponer de una base SEO adecuada. A partir de ahí, podremos cualificar y mejorar nuestros conocimientos con otras. El siguiente listado está clasificado por idioma y año en el que se creó la guía, aunque todas ellas han ido sufriendo actualizaciones.
+
+### Inglés 
+
 -   _2020 /_  [Google's Search Optimisation Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 -   _2020 /_  [Moz's Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)
 -   _2020 /_  [Search Engine Land’s Guide To SEO](http://searchengineland.com/guide/seo)
@@ -22,9 +26,9 @@ permalink: guias-seo
 
 ----------
 
-**Castellano**
+### Castellano
 
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg2OTQ1OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNTMxNTMwNV19
 -->
