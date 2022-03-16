@@ -20,7 +20,7 @@ Si no tenemos dado de alta el dominio en Search Console, lo creamos.
 
 ### La página existe
 
-Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: Índice de Google > **Eliminar URLs**. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
+Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal). Podemos acceder a la misma a través de: `Índice de Google` > Eliminar URLs**. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
 
 ### La página ya no existe
 
@@ -61,7 +61,7 @@ Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information), ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY1OTQxOTEsMTg1OTM3NTUzLDE5Mz
-c4NjU1ODEsNTUwMjg3OTY2LDQ2NDUwNDI5OSwtMTMzMTQ3ODY2
-MCw2NzczOTc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzc5NzkwMywxODU5Mzc1NTMsMTkzNz
+g2NTU4MSw1NTAyODc5NjYsNDY0NTA0Mjk5LC0xMzMxNDc4NjYw
+LDY3NzM5NzY0Nl19
 -->
