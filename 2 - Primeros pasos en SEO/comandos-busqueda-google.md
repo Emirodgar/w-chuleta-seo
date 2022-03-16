@@ -18,7 +18,7 @@ Google es un gran buscador, y como tal, nos permite interactuar tanto con las b�
 
 Para ello dispone de una serie de **comandos específicos** que nos ayudarán a encontrar exactamente lo que estamos buscando. **Los podemos utilizar directamente desde la barra de navegación de Google**.
 
-## 1 - Búsqueda entre comillas
+## Búsqueda entre comillas
 
 El hecho de entrecomillar una palabra o frase nos ayudará a que esta esté siempre presente en todos los resultados. Si no aparece tal como lo hemos seleccionado, Google no nos lo mostrará. Ideal para conseguir búsquedas exactas.
 
@@ -26,7 +26,7 @@ El hecho de entrecomillar una palabra o frase nos ayudará a que esta esté siem
 "auditoría seo" técnica
 ```
 
-## 2- Buscar dentro de un dominio
+## Buscar dentro de un dominio
 
 Para buscar únicamente dentro de un dominio debemos utilizar el comando `site` de la siguiente forma:
 
@@ -34,7 +34,7 @@ Para buscar únicamente dentro de un dominio debemos utilizar el comando `site` 
 site:chuletaseo.com
 ```
 
-## 3- Búsquedas combinadas
+## Búsquedas combinadas
 
 Podemos realizar varias búsquedas combinando elementos. Por ejemplo:
 
@@ -50,14 +50,14 @@ No sólo podemos buscar a través del contenido de una página, sino que tambié
 inurl:seo
 ```
 
-## 5- Buscar por tipo de fichero
+## Buscar por tipo de fichero
 
 Si queremos centrar nuestra búsqueda únicamente en un formato específico -por ejemplo PDF o XML- podemos hacer uso del siguiente comando:
 ```
 filetype:pdf
 ```
 
-## 6- Buscar términos cercanos
+## Buscar términos cercanos
 
 Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, si queremos buscar `emirodgar + 3 palabras cualquiera + consultor SEO`, podríamos usar el siguiente comando:
  
@@ -67,7 +67,7 @@ Este comando nos ayudará a buscar dos términos relacionados especificando cuá
 
 Sólo se tendrían en cuenta frases con tres palabras o menos entre ambos términos.
 
-## 7- Excluir términos
+## Excluir términos
 
 En el caso de que queramos buscar un término, pero excluyendo todos los resultados que no nos interesen, lo podemos hacer empleando el guion alto "-" justo delante de lo que queremos excluir.
 ```
@@ -75,7 +75,7 @@ Google -analytics
 ```
 En este caso buscaríamos información sobre Google pero excluyendo el producto de Analytics
 
-## 8- Especificar rango de tiempo
+## Especificar rango de tiempo
 
 Para concretar las búsquedas en un rango de tiempo concreto tan sólo tendremos que especificar las fechas de la siguiente forma:
 
@@ -96,7 +96,7 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY4MDg3OCwtMjEzODY3MjM1LC0xNj
-I1MjU1MCwtNjQ1NjY5MDY0LC0yMTM3MDc4OTYsMTIzNzM1ODMy
-OCwtNTIyODIwODkyXX0=
+eyJoaXN0b3J5IjpbLTg5NDkwNDE4MywtMTY3NjgwODc4LC0yMT
+M4NjcyMzUsLTE2MjUyNTUwLC02NDU2NjkwNjQsLTIxMzcwNzg5
+NiwxMjM3MzU4MzI4LC01MjI4MjA4OTJdfQ==
 -->
