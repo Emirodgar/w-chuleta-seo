@@ -2,6 +2,7 @@
 title: Primeros pasos en SEO
 description: Aprende SEO de la mejor manera y con recursos gratuitos
 date: 14/03/2022
+date_modified: 16/03/2022
 folder: primeros-pasos-seo
 permalink: primeros-pasos-seo
   
@@ -15,5 +16,5 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 
 Si tienes poco tiempo o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) que nos haga un resumen semanal rápido nos ayudará. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MjIyNzg0XX0=
+eyJoaXN0b3J5IjpbLTIyOTQ1MjY1NF19
 -->
