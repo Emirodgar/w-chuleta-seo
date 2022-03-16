@@ -12,7 +12,7 @@
 <br/>
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
-        <h2><a href="https://chuletaseo.com/fuentes-informacion">Primeros pasos en SEO</h2>
+        <h2><a href="https://chuletaseo.com/primeros-pasos-seo">Primeros pasos en SEO</a></h2>
         <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> </p>
 </div>
 
@@ -39,9 +39,9 @@
 
 <br/><br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODY2OTkwNywtMTY2MDQ0NzA5MCwtMT
-cyMTgyNjcwMCwtMTgyNDY2OTIyOSwxMTA4ODI5NzgyLC0xMzQw
-NjQzMDA0LC00NDk1NjkxNCwyMDc0ODA4OTY2LDEyNTU4NzM1Nz
-MsMTE1MzU4NjA3NCwtMTE0ODA2MjI0LDEyNTY1NzkxNjgsMTM0
-NDExMTUwMywxNzgzOTAzNzAxXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ0NzQyNTksLTE2NjA0NDcwOTAsLT
+E3MjE4MjY3MDAsLTE4MjQ2NjkyMjksMTEwODgyOTc4MiwtMTM0
+MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgwODk2NiwxMjU1ODczNT
+czLDExNTM1ODYwNzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LDEz
+NDQxMTE1MDMsMTc4MzkwMzcwMV19
 -->
