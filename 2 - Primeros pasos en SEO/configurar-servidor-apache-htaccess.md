@@ -2,7 +2,6 @@
 title: Listado de códigos para .htaccess (Apache)
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
-layout: chuletaseo
 permalink: codigos-htaccess-apache
 date: 14/03/2022
 folder: primeros-pasos-seo
@@ -338,8 +337,8 @@ Para más información acerca de la directiva `meta robots`, podemos ir a la [do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDcxNzYzLDM0MDYyNzkzNSwxNzM0ND
-AzNDgxLC0xMDkwMTI2MDAsLTE3NDIyMzg3NzUsNzQ0NTAyODA2
-LC0xNzE5MDYxNjg5LC0xODkyMTcxMDY1LDQ5NjU5NDY5MiwtNj
-k1Mzg0Mzc1XX0=
+eyJoaXN0b3J5IjpbMjA0NzA2MTE0OCwxMjI0NzE3NjMsMzQwNj
+I3OTM1LDE3MzQ0MDM0ODEsLTEwOTAxMjYwMCwtMTc0MjIzODc3
+NSw3NDQ1MDI4MDYsLTE3MTkwNjE2ODksLTE4OTIxNzEwNjUsND
+k2NTk0NjkyLC02OTUzODQzNzVdfQ==
 -->
