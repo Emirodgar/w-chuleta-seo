@@ -1,10 +1,11 @@
 ---
 title: Comandos de búsqueda para Google
 description: Mejora tus búsquedas en Google con estos trucos y comandos
-date: 14/03/2022
+lang: es_ES
+date: 16/03/2022
 folder: primeros-pasos-seo
 permalink: comandos-busqueda-google
-  
+
 ---
 
 Google es un gran buscador y como tal, nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
@@ -89,6 +90,6 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDgwNTYyNywtNjQ1NjY5MDY0LC0yMT
+eyJoaXN0b3J5IjpbLTg1Mjk4NzI3OCwtNjQ1NjY5MDY0LC0yMT
 M3MDc4OTYsMTIzNzM1ODMyOCwtNTIyODIwODkyXX0=
 -->
