@@ -52,7 +52,7 @@ Options -Indexes
 ```
 Para que funcione, la opción `AllowOverides` debe estar a `on`. Una vez activado, si accedemos a un directorio, este no debe mostrar el listado de los documentos que contiene, sino un error de acceso.
 
-> 
+> Existen multitud de [opciones que podemos configurar en Apache](codigos-htaccess-apache) para mejorar el rendimiento y añadir funcionalidades SEO a nuestra página.
 
 ## Consejos adicionales
 
@@ -61,7 +61,7 @@ Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information), ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTM3NTUzLDE5Mzc4NjU1ODEsNTUwMj
-g3OTY2LDQ2NDUwNDI5OSwtMTMzMTQ3ODY2MCw2NzczOTc2NDZd
-fQ==
+eyJoaXN0b3J5IjpbLTE4MDY1OTQxOTEsMTg1OTM3NTUzLDE5Mz
+c4NjU1ODEsNTUwMjg3OTY2LDQ2NDUwNDI5OSwtMTMzMTQ3ODY2
+MCw2NzczOTc2NDZdfQ==
 -->
