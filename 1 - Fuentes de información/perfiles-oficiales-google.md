@@ -11,6 +11,9 @@ Una buena forma de estar al día es suscribirnos a los perfiles y contenidos má
 
 A continuación tenemos el listado de canales oficiales de Google.
 
+1. Íncide de contenidos
+{:toc}
+
 ## Blogs generales
 
 - Google:  [goo.gl/7m92Nj](http://goo.gl/7m92Nj)
@@ -131,6 +134,6 @@ A continuación tenemos el listado de canales oficiales de Google.
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI5Mzc1NTYsLTEyNjc4OTQ1NzUsMT
-g2MDY2MzM4N119
+eyJoaXN0b3J5IjpbMzc2NDE4MDgsLTEyNjc4OTQ1NzUsMTg2MD
+Y2MzM4N119
 -->
