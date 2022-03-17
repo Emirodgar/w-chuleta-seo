@@ -1,5 +1,5 @@
 ---
-title: Fuentes de información SEO
+title: Informes SEO
 description: Para estar al día en el posicionamiento web
 date: 14/03/2022
 date_modified: 17/03/2022
@@ -34,6 +34,6 @@ permalink: informes-seo
 - [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgyODAxNzMsMTMwNDgzODIxLC0zOD
-A3MTQ2MzldfQ==
+eyJoaXN0b3J5IjpbLTE4MTg5MDY0MjAsLTEzMDgyODAxNzMsMT
+MwNDgzODIxLC0zODA3MTQ2MzldfQ==
 -->
