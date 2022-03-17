@@ -14,19 +14,28 @@ permalink: algoritmos-google
 
 ## Listado de cambios de algoritmo
 
+1.
+{:toc}
+
 ### Actualizaciones Core
 - 17 de noviembre de 2021
 
 ### Actualizaciones SPAM
  - 3 de noviembre de 2021
 
-- ### 2021
-  - **Cambio sin confirmar** — _17 de diciembre, 2021_
-  - **Product Reviews Update** — *1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
-  - **November 2021 Core Update**  — *17 de noviembre, 2021*
-  - **November 2021 Spam Update** — *3 de noviembre, 2021*: Google ataca de nuevo las páginas SPAM o con bajo valor.
+## Actualizaciones específicas
+
+#### Product Reviews Update
+
+*1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
+ 
+ Page Title Rewrites** — August 16, 2021:
+
+### Actualizaciones sin confirmar
+  - 17 de diciembre de 2021
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODUxNTk1M119
+eyJoaXN0b3J5IjpbLTI4MTE3Nzk3NF19
 -->
