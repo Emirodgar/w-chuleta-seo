@@ -24,6 +24,7 @@ permalink: algoritmos-google
 ### Actualizaciones SPAM
  - 3 de noviembre de 2021
  - 28 de julio de 2021
+ - 23 de junio de 2021
 
 ### Actualizaciones específicas
 
@@ -35,13 +36,16 @@ permalink: algoritmos-google
 
 16 de agosto de 2021: Google reescribirá los títulos que considere que no aportan valor a los usuarios y que no están alineados con su intención de búsqueda.
 
-#### Page Experience Update — June 25, 2021
+#### Page Experience Update 
+
+25 de junio de 2021: Las Core Web Vitals entran en acción y comenzarán a impactar en los resultados.
 
 ### Actualizaciones sin confirmar
+
   - 17 de diciembre de 2021
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTQ2OTk5M119
+eyJoaXN0b3J5IjpbNDAyNzcxNjQwXX0=
 -->
