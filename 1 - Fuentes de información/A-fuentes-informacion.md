@@ -14,6 +14,7 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 - [Blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales) 
 - [Perfiles oficiales de Google](https://chuletaseo.com/perfiles-oficiales-google)
+- [Calendario de eventos de Google](https://www.google.com/webmasters/connect/?hl=es)
 
 ## Recibe actualizaciones en tu correo
 
@@ -28,6 +29,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMz
-g4ODQ5MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
+eyJoaXN0b3J5IjpbLTgzODIyOTU4MywtNzc1MDQxMzQwLDE3NT
+UyNTkxMTMsLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1
+NzVdfQ==
 -->
