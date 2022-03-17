@@ -21,11 +21,11 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 
 ## Aspectos complementarios
 
-Entender cómo funciona Google y [aprender a exprimir su buscador con comandos personalizados](https://chuletaseo.com/comandos-busqueda-google), es básico.
+- <a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTA4NTg2MSwyMDI5NDIyOTQ5LDgyMj
-kwNjg3Miw4OTYzMTE1NTRdfQ==
+eyJoaXN0b3J5IjpbNzI1NDMxMDc0LDE0NzUwODU4NjEsMjAyOT
+QyMjk0OSw4MjI5MDY4NzIsODk2MzExNTU0XX0=
 -->
