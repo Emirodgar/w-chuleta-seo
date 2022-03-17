@@ -19,6 +19,11 @@ permalink: informes-seo
 --------------
 - [Informe de seguimiento & KPIs](https://docs.google.com/spreadsheets/d/1zWkOVpXJ_jlHK96gz414KEryDgqIYg9V0huyvKOofzE/edit#gid=0) 
 - [Seguimiento de tareas](https://docs.google.com/spreadsheets/d/1S4oO4Ss0MYlyUDm_AaRLCd5r6r3NUUd9E5LAyPa7fFM/edit?usp=sharing)
+
+## Otras referencias
+
+- [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
+- [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbMTMwNDgzODIxLC0zODA3MTQ2MzldfQ==
 -->
