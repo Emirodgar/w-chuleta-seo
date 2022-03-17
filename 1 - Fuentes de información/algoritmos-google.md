@@ -14,6 +14,12 @@ permalink: algoritmos-google
 
 ## Listado de cambios de algoritmo
 
+### Actualizaciones Core
+- 17 de noviembre de 2021
+
+### Actualizaciones SPAM
+ - 3 de noviembre de 2021
+
 - ### 2021
   - **Cambio sin confirmar** — _17 de diciembre, 2021_
   - **Product Reviews Update** — *1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
@@ -22,5 +28,5 @@ permalink: algoritmos-google
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ0NjE2MDJdfQ==
+eyJoaXN0b3J5IjpbLTUyODUxNTk1M119
 -->
