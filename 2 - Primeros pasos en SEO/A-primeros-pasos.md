@@ -22,12 +22,13 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a al
  3. Objetivos SEO
  4. Conversión SEO
  
- ## Aspectos complementarios
+
+## Aspectos complementarios
 
 Entender cómo funciona Google y [aprender a exprimir su buscador con comandos personalizados](https://chuletaseo.com/comandos-busqueda-google), es básico.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3MzUwMSw4OTYzMTE1NTRdfQ==
+eyJoaXN0b3J5IjpbNTU4MDY0MzEsODk2MzExNTU0XX0=
 -->
