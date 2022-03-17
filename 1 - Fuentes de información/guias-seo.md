@@ -18,7 +18,6 @@ permalink: guias-seo
 Google Search Console es quizá la herramienta más importante para gestionar el SEO en dicho buscador. A través de las siguientes guías oficiales aprenderemos a manejar y hacer buen uso de dicha herramienta.
 
 - [Guía de Search Console básica]( https://developers.google.com/search/docs/beginner/search-console)
-
 - [Guía de Search Console avanzada](https://developers.google.com/search/docs/advanced/guidelines/search-console)
 
 ## Otras guías SEO
@@ -40,5 +39,5 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjY5NDA0NiwtMTM1MzE1MzA1XX0=
+eyJoaXN0b3J5IjpbMTM4NTEwOTgzNiwtMTM1MzE1MzA1XX0=
 -->
