@@ -29,7 +29,9 @@ permalink: algoritmos-google
 
 *1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
  
- Page Title Rewrites** — August 16, 2021:
+ #### Page Title Rewrites
+
+16 de agosto de 2021: Google reescribirá los títulos que considere que no aportan valor a los usuarios y que no están alineados con su intención de búsqueda.
 
 ### Actualizaciones sin confirmar
   - 17 de diciembre de 2021
@@ -37,5 +39,5 @@ permalink: algoritmos-google
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTE3Nzk3NF19
+eyJoaXN0b3J5IjpbLTk0NTY4MTI0OV19
 -->
