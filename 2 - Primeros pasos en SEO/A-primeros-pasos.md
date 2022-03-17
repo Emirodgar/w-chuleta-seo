@@ -20,13 +20,14 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a al
  1. [Auditoría SEO](https://chuletaseo.com/auditoria-seo)
  2. Estrategia SEO
  3. Objetivos SEO
- 4. 
+ 4. Conversión SEO
+ 
+ ## Aspectos complementarios
 
 Entender cómo funciona Google y [aprender a exprimir su buscador con comandos personalizados](https://chuletaseo.com/comandos-busqueda-google), es básico.
 
-A partir de aquí, comenzaremos por definir una estrategia SEO que nos permita visualizar el camino que seguiremos y una  para entender el punto de partida que tenemos y cómo podemos mejorarlo.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc1MDE1OCw4OTYzMTE1NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDg3MzUwMSw4OTYzMTE1NTRdfQ==
 -->
