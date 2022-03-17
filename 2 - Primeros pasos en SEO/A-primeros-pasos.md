@@ -10,10 +10,7 @@ permalink: primeros-pasos-seo
 
 ## ¿Cómo comienzo en SEO?
 
-El SEO o Posicionamiento web en buscadores es un conjunto de acciones y técnicas para mejorar el posicionamiento (visibilidad) de una página web dentro de los resultados orgánicos de los motores de búsqueda.
-
-Una parte importante es estar correctamente informado de cómo evolucionan los algoritmos de los buscadores. Para ello es crucial disponer de buenas [fuentes de información](https://chuletaseo.com/fuentes-informacion). 
-Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) nos ayudará a estar informados de lo más relevante. 
+Una parte importante es estar correctamente informado de cómo evolucionan los algoritmos de los buscadores. Para ello es crucial disponer de buenas [fuentes de información](https://chuletaseo.com/fuentes-informacion).  Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) nos ayudará a estar informados de lo más relevante. 
 
 ## Primeros pasos en SEO
 
@@ -30,5 +27,5 @@ Entender cómo funciona Google y [aprender a exprimir su buscador con comandos p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MDY0MzEsODk2MzExNTU0XX0=
+eyJoaXN0b3J5IjpbLTEzNzE0NjI5ODUsODk2MzExNTU0XX0=
 -->
