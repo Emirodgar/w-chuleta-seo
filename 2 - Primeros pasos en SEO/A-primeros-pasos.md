@@ -2,7 +2,7 @@
 title: Primeros pasos en SEO
 description: Aprende SEO de la mejor manera y con recursos gratuitos
 date: 14/03/2022
-date_modified: 16/03/2022
+date_modified: 17/03/2022
 folder: primeros-pasos-seo
 permalink: primeros-pasos-seo
   
@@ -27,5 +27,5 @@ Entender cómo funciona Google y [aprender a exprimir su buscador con comandos p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE0NjI5ODUsODk2MzExNTU0XX0=
+eyJoaXN0b3J5IjpbODIyOTA2ODcyLDg5NjMxMTU1NF19
 -->
