@@ -12,9 +12,11 @@ permalink: algoritmos-google
 - https://algoroo.com/
 - https://cognitiveseo.com/signals/
 
-## Listado de algoritmos
+## Listado de cambios de algoritmo
+
+- 2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTAyODI3MF19
+eyJoaXN0b3J5IjpbMTAzNjA2ODU1OV19
 -->
