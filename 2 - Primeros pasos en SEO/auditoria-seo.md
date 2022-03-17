@@ -120,7 +120,11 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
  
 El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
+### Guías externas
+
+- [Auditoría SEO de Semrush](https://www.semrush.com/blog/seo-audit/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDUyODExNiwxODc0NzYxNjA3LDIxMT
-AyNzUwNDQsLTY0NjAxNzYxMl19
+eyJoaXN0b3J5IjpbLTg1MzQ4NjM4OSwtNTgwNTI4MTE2LDE4Nz
+Q3NjE2MDcsMjExMDI3NTA0NCwtNjQ2MDE3NjEyXX0=
 -->
