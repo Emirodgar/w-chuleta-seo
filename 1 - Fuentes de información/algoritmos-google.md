@@ -9,7 +9,12 @@ permalink: algoritmos-google
 
 ## Herramientas para hacer seguimiento de cambios de algoritmo
 
-- 
+- https://algoroo.com/
+- https://cognitiveseo.com/signals/
+
+## Listado de algoritmos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2ODY2NTczXX0=
+eyJoaXN0b3J5IjpbMjA0NTAyODI3MF19
 -->
