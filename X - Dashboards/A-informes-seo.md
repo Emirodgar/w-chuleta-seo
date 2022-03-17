@@ -1,0 +1,23 @@
+---
+title: Fuentes de información SEO
+description: Para estar al día en el posicionamiento web
+date: 14/03/2022
+folder: informes-seo
+permalink: informes-seo
+  
+---
+
+## Templates de Google Data Studio
+
+- [Medir la velocidad de un sitio]( https://www.searchenginejournal.com/build-speed-dashboards-google-data-studio/321343/)
+
+- [Migración web http vs https](https://simoncox.com/article/using-google-data-studio-to-review-your-http-to-https-migration)
+
+- [Impacto de marca](https://www.morrowlytics.co.uk/google-data-studio/benchmarking-your-search-penetration/)
+
+- [Analizar cambios de posición de palabras clave]( https://datastudio.google.com/u/0/reporting/1Fm7x1vc0vLokRhGf0WqaMd52mw7wjaSI/page/6zXD)
+
+- [Rastreo e indexación de ScreamingFrog](https://datastudio.google.com/reporting/4ce5740d-318d-42bb-befc-5dfb6c7e28f0/page/p_mignxmm5rc)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NTg3MTA5N119
+-->
