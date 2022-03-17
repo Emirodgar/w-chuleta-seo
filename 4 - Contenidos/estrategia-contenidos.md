@@ -7,7 +7,11 @@ https://www.andy-chadwick.com/content/creating-content-hubs
 
 ## Selecciona las palabras clave que quieres trabajar
 
-## En
+## Mapea las palabras con las URL existentes
+
+## Crea nuevas URLs
+
+## Crea un plan de contenidos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3OTQ4MTJdfQ==
+eyJoaXN0b3J5IjpbMTQzNjA1MzVdfQ==
 -->
