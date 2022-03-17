@@ -14,7 +14,8 @@ permalink: algoritmos-google
 
 ## Listado de cambios de algoritmo
 
-1.
+
+1. 
 {:toc}
 
 ### Actualizaciones Core
@@ -47,9 +48,10 @@ permalink: algoritmos-google
 ### Actualizaciones sin confirmar
 
   - 17 de diciembre de 2021
+  - 2 de octubre de 2021
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkxNzU1ODNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDkzMDkyMjddfQ==
 -->
