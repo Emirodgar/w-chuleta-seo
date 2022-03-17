@@ -14,9 +14,10 @@ permalink: algoritmos-google
 
 ## Listado de cambios de algoritmo
 
-- 2
+- 2021
+  - **Sin confirmar** - _17 de diciembre, 2021_: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjA2ODU1OV19
+eyJoaXN0b3J5IjpbLTgzNDEwNTU0NV19
 -->
