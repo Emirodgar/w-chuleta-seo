@@ -29,11 +29,14 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 
-## Seguimiento de cambios de algoritmo
+## Foros SEO
 
+- https://webmasters.stackexchange.com/questions
+- https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters
+- https://www.webmasterworld.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjQzMzQyMiwtNzc1MDQxMzQwLDE3NT
+eyJoaXN0b3J5IjpbLTQwODI5MTcyMiwtNzc1MDQxMzQwLDE3NT
 UyNTkxMTMsLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1
 NzVdfQ==
 -->
