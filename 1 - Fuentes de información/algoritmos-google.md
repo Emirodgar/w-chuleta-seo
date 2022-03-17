@@ -40,6 +40,10 @@ permalink: algoritmos-google
 
 25 de junio de 2021: Las Core Web Vitals entran en acción y comenzarán a impactar en los resultados.
 
+#### Passage Indexing
+
+10 de febrero de 2021: El algoritmo tendrá en cuenta el acceso directo a fragmentos de contenidos previamente indexados y que coinciden con la búsqueda de los usuarios.
+
 ### Actualizaciones sin confirmar
 
   - 17 de diciembre de 2021
@@ -47,5 +51,5 @@ permalink: algoritmos-google
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNzcxNjQwXX0=
+eyJoaXN0b3J5IjpbLTE0MzkxNzU1ODNdfQ==
 -->
