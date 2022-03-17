@@ -14,12 +14,12 @@ permalink: algoritmos-google
 
 ## Listado de cambios de algoritmo
 
-- 2021
+- ### 2021
   - **Sin confirmar** — _17 de diciembre, 2021_: 
-  - **Product Reviews Update** — *1 de diciembre, 2021*:
-  - 
+  - **Product Reviews Update** — *1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
+  - November 2021 Core Update  —  17 de noviembre, 2021:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTU5ODAyNl19
+eyJoaXN0b3J5IjpbMTkxMTU2MzAyOV19
 -->
