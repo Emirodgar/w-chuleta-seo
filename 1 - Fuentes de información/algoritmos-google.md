@@ -19,11 +19,13 @@ permalink: algoritmos-google
 
 ### Actualizaciones Core
 - 17 de noviembre de 2021
+- 1 de julio de 2021
 
 ### Actualizaciones SPAM
  - 3 de noviembre de 2021
+ - 28 de julio de 2021
 
-## Actualizaciones específicas
+### Actualizaciones específicas
 
 #### Product Reviews Update
 
@@ -33,11 +35,13 @@ permalink: algoritmos-google
 
 16 de agosto de 2021: Google reescribirá los títulos que considere que no aportan valor a los usuarios y que no están alineados con su intención de búsqueda.
 
+#### Page Experience Update — June 25, 2021
+
 ### Actualizaciones sin confirmar
   - 17 de diciembre de 2021
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTY4MTI0OV19
+eyJoaXN0b3J5IjpbMTIxOTQ2OTk5M119
 -->
