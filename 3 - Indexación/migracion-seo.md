@@ -48,7 +48,7 @@ No deben ser redireccionadas y debemos asegurarnos que el código de estado HTTP
   
 ## 4- Comprobamos que la página es accesible
 
-Es bastante común que durante el desarrollo de una nueva web ésta sea bloqueada a la indexación de los buscadores para evitar miradas indiscretas y contenido duplicado. A veces ocurre que cuando se publica en producción les mecanismos que impiden su indexación siguen presentes y lastran su posicionamiento.
+Es bastante común que durante el desarrollo de una nueva web ésta sea bloqueada a la indexación de los buscadores para evitar miradas indiscretas y contenido duplicado. A veces ocurre que cuando se publica en producción los mecanismos que impiden su indexación siguen presentes y lastran su posicionamiento.
 
 Para asegurarnos que nuestra nueva página es accesible, justo antes de la migración debemos comprobar que:
 
@@ -81,5 +81,6 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzA4NzAzMCwtMTM5MzY2NDMwNl19
+eyJoaXN0b3J5IjpbNjg4NTAwMDUyLC0zOTMwODcwMzAsLTEzOT
+M2NjQzMDZdfQ==
 -->
