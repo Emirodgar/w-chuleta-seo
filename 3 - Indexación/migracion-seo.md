@@ -30,13 +30,13 @@ Al igual que hemos identificado las páginas que queremos conservar debido a su 
 
 ## 3- Creamos el fichero de mapeado o redirección
 
-El objetivo de esta migración es que los buscadores entiendan el cambio de página web sin que éste afecte al posicionamiento ni a la experiencia de los usuarios.
+El objetivo de esta migración es que los buscadores entiendan el cambio de página web sin que este afecte al posicionamiento ni a la experiencia de los usuarios.
 
-Para ello necesitamos aplicar redirecciones 301 (permanentes) entre las URLs de la página antigua hacia la nueva página. Para hacer sencillo este paso recomiendo crear un fichero de mapeado o redirección donde indicamos, por cada URL de la vieja estructura que queremos mantener, cuál será su equivalente en la nueva página.
+Para ello necesitamos aplicar redirecciones 301 (permanentes) entre las URLs de la página antigua hacia la nueva página. Para hacer sencillo este paso, recomiendo crear un fichero de mapeado o redirección donde indicamos, por cada URL de la vieja estructura que queremos mantener, cuál será su equivalente en la nueva página.
 
 ### Páginas relevantes para la estrategia SEO
 
-Serán redireccionadas, una a una a su versión en la nueva web. Si no existiera, se recomienda crearla para poder mantener la popularidad y posicionamiento existentes.
+Serán redireccionadas, una a una, a su versión en la nueva web. Si no existiera, se recomienda generarla para poder mantener la popularidad y posicionamiento existentes.
 
 ### Páginas de baja calidad
 
@@ -54,6 +54,8 @@ Para asegurarnos que nuestra nueva página es accesible, justo antes de la migra
 
 - No se está bloqueando desde el fichero robots.txt.
 - No incluye la meta etiqueta noindex ni nofollow.
+
+> En este punto es importante validar que el certificado de seguridad SSL es válido. Para ello podemos hacer uso de esta herramienta.
 
 ## 5- Comprobamos los códigos de medición
 
@@ -79,5 +81,6 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM2NjQzMDZdfQ==
+eyJoaXN0b3J5IjpbLTExMzY4MTIwMjksLTEzOTM2NjQzMDZdfQ
+==
 -->
