@@ -55,7 +55,7 @@ Para asegurarnos que nuestra nueva página es accesible, justo antes de la migra
 - No se está bloqueando desde el fichero robots.txt.
 - No incluye la meta etiqueta noindex ni nofollow.
 
-> En este punto es importante validar que el certificado de seguridad SSL es válido. Para ello podemos hacer uso de esta herramienta.
+> En este punto es importante validar que el certificado de seguridad SSL es válido. Para ello podemos hacer uso de [esta herramienta](https://www.ssllabs.com/ssltest/index.html).
 
 ## 5- Comprobamos los códigos de medición
 
@@ -81,6 +81,5 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración ya que po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY4MTIwMjksLTEzOTM2NjQzMDZdfQ
-==
+eyJoaXN0b3J5IjpbLTM5MzA4NzAzMCwtMTM5MzY2NDMwNl19
 -->
