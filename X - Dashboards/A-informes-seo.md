@@ -17,7 +17,7 @@ permalink: informes-seo
 - [Impacto de marca](https://www.morrowlytics.co.uk/google-data-studio/benchmarking-your-search-penetration/)
 - [Analizar cambios de posición de palabras clave]( https://datastudio.google.com/u/0/reporting/1Fm7x1vc0vLokRhGf0WqaMd52mw7wjaSI/page/6zXD)
 - [Rastreo e indexación de ScreamingFrog](https://datastudio.google.com/reporting/4ce5740d-318d-42bb-befc-5dfb6c7e28f0/page/p_mignxmm5rc)
-- [Medir el rendimiento (performance) con un gráfico de burbujas](https://datastudio.google.com/reporting/1e5b5f6a-38d7-4547-a54b-69594681a09b/page/xFbeC/preview)
+- [Medir el rendimiento (performance) con un gráfico de burbujas](https://developers.google.com/search/blog/2022/04/performance-optimization-bubble-chart)
 
 
 
@@ -35,6 +35,6 @@ permalink: informes-seo
 - [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMwNTczMzUsLTEzMDgyODAxNzMsMT
-MwNDgzODIxLC0zODA3MTQ2MzldfQ==
+eyJoaXN0b3J5IjpbMjEwMzM5NTI4LC0xMzA4MjgwMTczLDEzMD
+Q4MzgyMSwtMzgwNzE0NjM5XX0=
 -->
