@@ -8,7 +8,9 @@ date_modified: 16/03/2022
   
 ---
 
+> Para la parte de indexación de Javascript, recomiendo echar un vistazo a https://devdocs.io/ un gran portal con mucha información acerca de programación.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MzcwMDU0XX0=
+eyJoaXN0b3J5IjpbLTE2OTk2MjQxMjRdfQ==
 -->
