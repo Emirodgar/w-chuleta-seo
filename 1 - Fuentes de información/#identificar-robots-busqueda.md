@@ -1,7 +1,7 @@
 ---
 title: Cómo identificar los robots de búsqueda
 description: 
-date: 17/03/2022
+date: 04/05/2022
 folder: fuentes-informacion
 permalink: identificar-robots-busqueda
   
@@ -26,5 +26,5 @@ En el caso del robot de búsqueda de Bing, hace uso de los siguientes user-agent
 
 `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/**W.X.Y.Z** Mobile Safari/537.36 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzk3OTE1NV19
+eyJoaXN0b3J5IjpbMTY2MzA4OTc4MywxODU3OTc5MTU1XX0=
 -->
