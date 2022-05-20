@@ -31,9 +31,9 @@ date_modified: 16/03/2022
 
 ## Plugins recomendados
 
-- [Asset CleanUp: Page Speed Booster](https://es.wordpress.org/plugins/wp-asset-clean-up/): Si queremos mejorar los tiempos de carga, este plugin es ideal. Necesitaremos una curva de aprendizaje puesto que trata temas bastante técnicos, pero una vez controlado, la mejora en tiempos de carga y experi
+- [Asset CleanUp: Page Speed Booster](https://es.wordpress.org/plugins/wp-asset-clean-up/): Si queremos mejorar los tiempos de carga, este plugin es ideal. Necesitaremos una curva de aprendizaje puesto que trata temas bastante técnicos, pero una vez controlado, la mejora en tiempos de carga y experiencia de usuario será notable.
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTkzNTQzNywxNTc3NTcxMzg1XX0=
+eyJoaXN0b3J5IjpbLTE2NzUzOTk3NjAsMTU3NzU3MTM4NV19
 -->
