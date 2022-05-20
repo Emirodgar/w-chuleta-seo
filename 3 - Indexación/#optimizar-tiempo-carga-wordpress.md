@@ -29,7 +29,11 @@ date_modified: 16/03/2022
 
 9️⃣ Usa el complemento para la optimización de la base de datos "Optimize Database after Deleting Revisions"
 
+## Plugins recomendados
+
+- [Asset CleanUp: Page Speed Booster](https://es.wordpress.org/plugins/wp-asset-clean-up/): Si queremos mejorar los tiempos de carga, este plugin es ideal. Necesitaremos una curva de aprendizaje puesto que trata temas bastante técnicos, pero una vez controlado, la mejora en tiempos de carga y experi
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzU3MTM4NV19
+eyJoaXN0b3J5IjpbMTYwOTkzNTQzNywxNTc3NTcxMzg1XX0=
 -->
