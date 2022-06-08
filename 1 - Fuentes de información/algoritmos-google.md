@@ -17,7 +17,7 @@ permalink: algoritmos-google
 - https://algoroo.com/
 - https://cognitiveseo.com/signals/
 
-## Tipos de 
+## Tipos de actualizaciones del algoritmo
 
 ### Actualizaciones Core
 
@@ -69,6 +69,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU4NTc4MDgsOTMwMzE0OTMyLC0xOD
-A5MzA5MjI3XX0=
+eyJoaXN0b3J5IjpbMzU4MDMxMzA0LDkzMDMxNDkzMiwtMTgwOT
+MwOTIyN119
 -->
