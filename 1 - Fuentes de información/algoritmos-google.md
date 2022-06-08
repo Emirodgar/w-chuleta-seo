@@ -1,7 +1,8 @@
+
 ---
 title: Listado de los algoritmos de Google
 description: 
-date: 17/03/2022
+date: 08/06/2022
 folder: fuentes-informacion
 permalink: algoritmos-google
   
@@ -19,6 +20,7 @@ permalink: algoritmos-google
 {:toc}
 
 ### Actualizaciones Core
+- 25 de mayo de 2022
 - 17 de noviembre de 2021
 - 1 de julio de 2021
 
@@ -53,5 +55,5 @@ permalink: algoritmos-google
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkzMDkyMjddfQ==
+eyJoaXN0b3J5IjpbOTMwMzE0OTMyLC0xODA5MzA5MjI3XX0=
 -->
