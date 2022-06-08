@@ -7,8 +7,6 @@ permalink: algoritmos-google
   
 ---
 
-# Cambios de algoritmo (Google)
-
 1. 
 {:toc}
 
@@ -69,6 +67,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MDMxMzA0LDkzMDMxNDkzMiwtMTgwOT
-MwOTIyN119
+eyJoaXN0b3J5IjpbMTM2OTMwODYwLDM1ODAzMTMwNCw5MzAzMT
+Q5MzIsLTE4MDkzMDkyMjddfQ==
 -->
