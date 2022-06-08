@@ -1,4 +1,3 @@
-
 ---
 title: Listado de los algoritmos de Google
 description: 
@@ -69,6 +68,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDgyNTcyNiw5MzAzMTQ5MzIsLTE4MD
+eyJoaXN0b3J5IjpbMTUxMjg2MTE0MCw5MzAzMTQ5MzIsLTE4MD
 kzMDkyMjddfQ==
 -->
