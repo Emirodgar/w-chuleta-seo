@@ -20,9 +20,23 @@ permalink: algoritmos-google
 {:toc}
 
 ### Actualizaciones Core
+
+Una core update es una actualización cuyo objetivo es mejorar la presentación de los resultados dentro de las SERPs y adaptarse a los últimos cambios que van ocurriendo dentro del entorno web. Es decir, impacta principalmente en la forma en que Google presenta y organiza la información, por lo que no hay un curso de acción específico que debamos trabajar sobre nuestras páginas para salir beneficiados.
+
+#### ¿Qué hacer si he sido impactado de forma negativa por una Core Update?
+
+Google ha recalcado muchas veces que no hay ninguna acción específica que llevar a cabo para recuperarse de una caída tras una actualización core. De hecho, salir perjudicados tras una actualización de este tipo no tiene por qué significar que hay algo malo en nuestra página. Podría ser simplemente que nuestros competidores orgánicos lo han hecho mejor.
+
+Recomiendo [leer este artículo si hemos sido impactados negativamente para saber si nuestra página está alineada con las necesidades del buscador](https://developers.google.com/search/blog/2019/08/core-updates?hl=es). Es posible que recuperemos cierta visibilidad SEO entre actualizaciones, aunque el cambio más grande siempre viene cuando ocurre otra actualización core. 
+
 - 25 de mayo de 2022
 - 17 de noviembre de 2021
 - 1 de julio de 2021
+
+#### Enlaces de interés
+
+- https://developers.google.com/search/blog/2019/08/core-updates?hl=es
+- https://www.mariehaynes.com/google-core-updates/
 
 ### Actualizaciones SPAM
  - 3 de noviembre de 2021
@@ -55,5 +69,6 @@ permalink: algoritmos-google
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMzE0OTMyLC0xODA5MzA5MjI3XX0=
+eyJoaXN0b3J5IjpbLTY5NDgyNTcyNiw5MzAzMTQ5MzIsLTE4MD
+kzMDkyMjddfQ==
 -->
