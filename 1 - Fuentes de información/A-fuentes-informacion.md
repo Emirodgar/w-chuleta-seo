@@ -1,7 +1,7 @@
 ---
 title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
-date: 14/03/2022
+date: 08/06/2022
 folder: fuentes-informacion
 permalink: fuentes-informacion
   
@@ -28,6 +28,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
+- Nuestra sección de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) para hacer seguimiento y alinearnos de los cambios que ocurren con el buscador.
 
 ## Foros SEO
 
@@ -36,7 +37,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - https://www.webmasterworld.com/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODI5MTcyMiwtNzc1MDQxMzQwLDE3NT
-UyNTkxMTMsLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDI0MjY4ODYsLTQwODI5MTcyMiwtNz
+c1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4NDkxNjMsNTEzNjUz
+NDAxLDE0MzcyNjc1NzVdfQ==
 -->
