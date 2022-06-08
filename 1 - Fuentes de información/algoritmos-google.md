@@ -7,16 +7,17 @@ permalink: algoritmos-google
   
 ---
 
+# Cambios de algoritmo (Google)
+
+1. 
+{:toc}
+
 ## Herramientas para hacer seguimiento de cambios de algoritmo
 
 - https://algoroo.com/
 - https://cognitiveseo.com/signals/
 
-## Listado de cambios de algoritmo
-
-
-1. 
-{:toc}
+## Tipos de 
 
 ### Actualizaciones Core
 
@@ -68,6 +69,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjg2MTE0MCw5MzAzMTQ5MzIsLTE4MD
-kzMDkyMjddfQ==
+eyJoaXN0b3J5IjpbLTE2NDU4NTc4MDgsOTMwMzE0OTMyLC0xOD
+A5MzA5MjI3XX0=
 -->
