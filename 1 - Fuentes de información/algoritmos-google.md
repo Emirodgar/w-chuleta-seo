@@ -12,6 +12,8 @@ permalink: algoritmos-google
 
 ## Herramientas para hacer seguimiento de cambios de algoritmo
 
+Google realiza múltiples cambios sobre su algoritmo, algunos los anuncia de forma oficial pero otros no. En el caso de estos últimos y para poner en conexto una subida o bajada de nuestro tráfico orgánico, podemos hacer uso de herramientas que monitorizan cambios en las SERPs.
+
 - https://algoroo.com/
 - https://cognitiveseo.com/signals/
 
@@ -47,7 +49,7 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 *1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
  
- #### Page Title Rewrites
+#### Page Title Rewrites
 
 16 de agosto de 2021: Google reescribirá los títulos que considere que no aportan valor a los usuarios y que no están alineados con su intención de búsqueda.
 
@@ -67,6 +69,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTMwODYwLDM1ODAzMTMwNCw5MzAzMT
+eyJoaXN0b3J5IjpbOTg2MDc0NDE3LDM1ODAzMTMwNCw5MzAzMT
 Q5MzIsLTE4MDkzMDkyMjddfQ==
 -->
