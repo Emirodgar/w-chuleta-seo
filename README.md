@@ -6,7 +6,7 @@
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2><a href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></h2>
         <p>La información es poder. Estar al día de todas las novedades en la evolución del SEO es crítico. Una buena idea es revisar las fuentes de información oficiales.</p>
-        <p><a href="https://chuletaseo.com/blogs-oficiales">Blogs oficiales</a> / <a href="https://chuletaseo.com/algoritmos-google">Cambios de algoritmo de Google</a>
+        <p><a href="https://chuletaseo.com/algoritmos-google">Cambios de algoritmo de Google</a> / <a href="https://chuletaseo.com/blogs-oficiales">Blogs oficiales</a>
  </p>
 </div>
 
@@ -38,9 +38,10 @@
 
 <br/><br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk1NjYxNjUsNzUwOTExMDkzLC0xNj
-YwNDQ3MDkwLC0xNzIxODI2NzAwLC0xODI0NjY5MjI5LDExMDg4
-Mjk3ODIsLTEzNDA2NDMwMDQsLTQ0OTU2OTE0LDIwNzQ4MDg5Nj
-YsMTI1NTg3MzU3MywxMTUzNTg2MDc0LC0xMTQ4MDYyMjQsMTI1
-NjU3OTE2OCwxMzQ0MTExNTAzLDE3ODM5MDM3MDFdfQ==
+eyJoaXN0b3J5IjpbMTU5NzYyMTU4NywtMTg4OTU2NjE2NSw3NT
+A5MTEwOTMsLTE2NjA0NDcwOTAsLTE3MjE4MjY3MDAsLTE4MjQ2
+NjkyMjksMTEwODgyOTc4MiwtMTM0MDY0MzAwNCwtNDQ5NTY5MT
+QsMjA3NDgwODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTEx
+NDgwNjIyNCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMz
+cwMV19
 -->
