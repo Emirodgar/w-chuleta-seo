@@ -33,13 +33,9 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 ## Portales de referencia SEO
 
 - **[Search Engine Journal](https://www.searchenginejournal.com/)**  
-**Website**
+- **[Search Engine Land](https://searchengineland.com/)**  
+- **[Search Engine Roundtable](https://www.seroundtable.com/)**  
 
-**[Search Engine Land](https://searchengineland.com/)**  
-**Website**
-
-**[Search Engine Roundtable](https://www.seroundtable.com/)**  
-**Website**
 
 ## Foros SEO
 
@@ -49,7 +45,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODI3NzIzOCwtMTM0MjQyNjg4NiwtND
-A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
-OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
+eyJoaXN0b3J5IjpbMjI4NzcyMTQzLC0xMzQyNDI2ODg2LC00MD
+gyOTE3MjIsLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMzg4ODQ5
+MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
 -->
