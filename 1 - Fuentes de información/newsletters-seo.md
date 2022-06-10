@@ -34,8 +34,8 @@ Una parte importante del SEO es saber reportar correctamente nuestra informació
 - [Growth Memo](https://www.kevin-indig.com/tag/gm/)
 - [Marketing Brew](https://www.marketingbrew.com/)
 - [Let's talk Shop](https://lukecarthy.com/lets-talk-shop-newsletter/)
-- [The official Google Trends newsletter](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform)
+- [Newsletter oficial de Google Trends](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform)
 - [The Marginalised Marketer](https://iamazeemdigital.com/the-marginalised-marketer-newsletter/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzE5MTIyNywxNzY5MTI0OTldfQ==
+eyJoaXN0b3J5IjpbODIwODMxODc3LDE3NjkxMjQ5OV19
 -->
