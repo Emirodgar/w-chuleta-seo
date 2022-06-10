@@ -1,6 +1,13 @@
+---
+title: Los mejores eventos SEO (inglés y español)
+description: Accede a las presentaciones y vídeos de los eventos SEO más conocidos
+date: 10/06/2022
+folder: fuentes-informacion
+permalink: eventos-seo
+  
+---
 
-
-A lo largo del año tienen lugar múltiples eventos del sector. A conitnuación dejamos un
+A lo largo del año tienen lugar múltiples eventos del sector que generan una serie de presentaciones, vídeos y recursos a los que podemos acceder a través de los siguientes enlaces:
 
 ## Eventos en inglés
 
@@ -20,5 +27,5 @@ A lo largo del año tienen lugar múltiples eventos del sector. A conitnuación 
 - [SEO on the beach](https://seonthebeach.es/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY1MzUzN119
+eyJoaXN0b3J5IjpbLTExMTA5NjQ1MDNdfQ==
 -->
