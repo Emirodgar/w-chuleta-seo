@@ -27,6 +27,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 ## Otros recursos
 
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
+- [Listado de Podcast SEO]()
 - Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 - Nuestra sección de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) para hacer seguimiento y alinearnos de los cambios que ocurren con el buscador.
 
@@ -45,7 +46,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA5MDkwNDksLTEzNDI0MjY4ODYsLT
-QwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4
-NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbLTc4ODYxOTc1NywtMTM0MjQyNjg4NiwtND
+A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
+OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
 -->
