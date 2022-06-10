@@ -1,7 +1,8 @@
+
 ---
 title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
-date: 08/06/2022
+date: 10/06/2022
 folder: fuentes-informacion
 permalink: fuentes-informacion
   
@@ -35,9 +36,10 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - https://webmasters.stackexchange.com/questions
 - https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters
 - https://www.webmasterworld.com/
+- Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI0MjY4ODYsLTQwODI5MTcyMiwtNz
-c1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4NDkxNjMsNTEzNjUz
-NDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbMTA3OTAwODEyNiwtMTM0MjQyNjg4NiwtND
+A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
+OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
 -->
