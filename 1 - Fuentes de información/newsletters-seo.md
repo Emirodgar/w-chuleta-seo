@@ -1,4 +1,3 @@
-
 ---
 title: Las mejores newsletter SEO
 description: Listado de portales que ofrecen newsletters relacionadas con el SEO, el marketing y la analítica web
@@ -38,5 +37,5 @@ Una parte importante del SEO es saber reportar correctamente nuestra informació
 - [The official Google Trends newsletter](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform)
 - [The Marginalised Marketer](https://iamazeemdigital.com/the-marginalised-marketer-newsletter/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTEyNDk5XX0=
+eyJoaXN0b3J5IjpbLTk1MzE5MTIyNywxNzY5MTI0OTldfQ==
 -->
