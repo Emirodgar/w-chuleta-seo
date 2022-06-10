@@ -21,7 +21,7 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la [newsletter SEO](https://newsletter.chuletaseo.com). Cada jueves recibirás en tu email las noticias más relevantes de la semana.
 
 
-## Otros recursos
+## Cómo empezar en SEO
 
 - [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación inicial puede ser revisar las guías oficiales de los buscadores, donde nos detallarán los principcios básicos del SEO.
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
@@ -44,7 +44,7 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY3MjkyNDgsLTEzNDI0MjY4ODYsLT
-QwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4
-NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbNTYxMTA2NjQzLC0xMzQyNDI2ODg2LC00MD
+gyOTE3MjIsLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMzg4ODQ5
+MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
 -->
