@@ -3,6 +3,7 @@ title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
 date: 10/06/2022
 folder: fuentes-informacion
+author: Emirodgar
 permalink: fuentes-informacion
   
 ---
@@ -44,7 +45,8 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMTA2NjQzLC0xMzQyNDI2ODg2LC00MD
-gyOTE3MjIsLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMzg4ODQ5
-MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
+eyJoaXN0b3J5IjpbMTc5NDA0MDExNiw1NjExMDY2NDMsLTEzND
+I0MjY4ODYsLTQwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkx
+MTMsLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ
+==
 -->
