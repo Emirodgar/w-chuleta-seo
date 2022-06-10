@@ -28,7 +28,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - [Listado de Podcast SEO](https://chuletaseo.com/podcast-seo): Si prefieres esuchar a leer, los podcast serán tu aliado. Lo único, debes saber que la mayoría de ellos están en inglés.
-- Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
+- Las páginas [SparkToro](https://sparktoro.com/trending), [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 - Nuestra sección de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) para hacer seguimiento y alinearnos de los cambios que ocurren con el buscador.
 
 ## Portales de referencia SEO
@@ -46,7 +46,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NjI1NjIsLTEzNDI0MjY4ODYsLTQwOD
-I5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4NDkx
-NjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbLTIwODk0MjEzMjUsLTEzNDI0MjY4ODYsLT
+QwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4
+NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
 -->
