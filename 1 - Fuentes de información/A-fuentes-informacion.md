@@ -30,15 +30,26 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Las páginas [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 - Nuestra sección de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) para hacer seguimiento y alinearnos de los cambios que ocurren con el buscador.
 
+## Portales de referencia SEO
+
+- **[Search Engine Journal](https://www.searchenginejournal.com/)**  
+**Website**
+
+**[Search Engine Land](https://searchengineland.com/)**  
+**Website**
+
+**[Search Engine Roundtable](https://www.seroundtable.com/)**  
+**Website**
+
 ## Foros SEO
 
-- https://webmasters.stackexchange.com/questions
-- https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters
-- https://www.webmasterworld.com/
+- [Comunidad Webmasters de Stack Exchange](https://webmasters.stackexchange.com/questions)
+- [Comunidad de Google](https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters)
+- [Webmaster World](https://www.webmasterworld.com/)
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MTE0Nzk2LC0xMzQyNDI2ODg2LC00MD
-gyOTE3MjIsLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMzg4ODQ5
-MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
+eyJoaXN0b3J5IjpbMTczODI3NzIzOCwtMTM0MjQyNjg4NiwtND
+A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
+OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
 -->
