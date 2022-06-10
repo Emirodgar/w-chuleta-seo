@@ -1,6 +1,6 @@
 
 
-A lo largo del año hay múltiples eventos del sect
+A lo largo del año hay múltiples eventos del sector que tienen lugar.
 
 ## Eventos en inglés
 
@@ -19,5 +19,5 @@ A lo largo del año hay múltiples eventos del sect
 - [SEO on the beach](https://seonthebeach.es/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODM0Nzg3XX0=
+eyJoaXN0b3J5IjpbLTEwODAxMjg5ODVdfQ==
 -->
