@@ -23,7 +23,7 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 
 ## Otros recursos
 
-- [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación puede ser revisar las guías oficiales de los b
+- [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación inicial puede ser revisar las guías oficiales de los buscadores, donde nos detallarán los principcios básicos del SEO.
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - [Listado de Podcast SEO](https://chuletaseo.com/podcast-seo): Si prefieres esuchar a leer, los podcast serán tu aliado. Lo único, debes saber que la mayoría de ellos están en inglés.
 - Las páginas [SparkToro](https://sparktoro.com/trending), [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
@@ -44,7 +44,7 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzEzMjAzMSwtMTM0MjQyNjg4NiwtND
-A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
-OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
+eyJoaXN0b3J5IjpbLTExNTY3MjkyNDgsLTEzNDI0MjY4ODYsLT
+QwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4
+NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
 -->
