@@ -19,7 +19,7 @@ A mayores, existen otras guías SEO oficiales que detallan el funcionamiento de 
 - [Cómo funciona la búsqueda de Google](https://developers.google.com/search/docs/beginner/how-search-works?hl=es). Ideal para disponer de una idea base alineada con las directrices de uso de Google.
 - [Directrices de Google](https://developers.google.com/search/docs/advanced/guidelines/overview?hl=es) para disponer de una página adecuada a su robot de búsqueda y evitar penalizaciones.
 
-## Guías de GoogSearch Console
+## Guías de Google Search Console
 
 Google Search Console es quizá la herramienta más importante para gestionar el SEO en dicho buscador. A través de las siguientes guías oficiales aprenderemos a manejar y hacer buen uso de dicha herramienta.
 
@@ -40,10 +40,10 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 
 ----------
 
-### Castellano
+### Español / Castellano
 
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNDIwNzQ3LC0xMzUzMTUzMDVdfQ==
+eyJoaXN0b3J5IjpbLTk3ODM1ODQ0OCwtMTM1MzE1MzA1XX0=
 -->
