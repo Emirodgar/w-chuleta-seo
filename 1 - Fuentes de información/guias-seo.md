@@ -1,7 +1,7 @@
 ---
-title: Listado de los blogs oficiales
+title: Guías SEO oficiales
 description: Listado de los blogs oficiales de los principales buscadores
-date: 14/03/2022
+date: 10/06/2022
 folder: fuentes-informacion
 permalink: guias-seo
   
@@ -39,5 +39,5 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTEwOTgzNiwtMTM1MzE1MzA1XX0=
+eyJoaXN0b3J5IjpbMTE3MDkyMDQ2NywtMTM1MzE1MzA1XX0=
 -->
