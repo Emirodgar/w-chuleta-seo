@@ -1,6 +1,6 @@
 
 
-A lo largo del año hay múltiples eventos del sector que tienen lugar.
+A lo largo del año tienen lugar múltiples eventos del sector. A conitnuación dejamos un
 
 ## Eventos en inglés
 
@@ -13,11 +13,12 @@ A lo largo del año hay múltiples eventos del sector que tienen lugar.
 - [WTSWorkshop](https://www.womenintechseo.com/blog/wtsworkshop-schedule/)
 - [SEO Mastery Summit](https://seomasterysummit.com/)
 - [Siteimprove Webinars](https://www.siteimprove.com/events/)
+- [LondonSEO meetup](https://londonseomeetup.com/xl-replay/)
 
 ## Eventos en español
 
 - [SEO on the beach](https://seonthebeach.es/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAxMjg5ODVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDY1MzUzN119
 -->
