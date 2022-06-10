@@ -1,4 +1,3 @@
-
 ---
 title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
@@ -39,7 +38,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTAwODEyNiwtMTM0MjQyNjg4NiwtND
-A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
-OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
+eyJoaXN0b3J5IjpbNzc2MTE0Nzk2LC0xMzQyNDI2ODg2LC00MD
+gyOTE3MjIsLTc3NTA0MTM0MCwxNzU1MjU5MTEzLC0xMzg4ODQ5
+MTYzLDUxMzY1MzQwMSwxNDM3MjY3NTc1XX0=
 -->
