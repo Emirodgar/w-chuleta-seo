@@ -9,11 +9,17 @@ permalink: guias-seo
 
 ## Guías oficiales de buscadores
 
+Google dispone de guías oficiales para adaptar el SEO de nuestras páginas a sus directrices y beneficiarnos así de una mayor visibilidad evitando problemas en el rastreo e indexación.
+
+- [Guía SEO de Google para principiantes](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=es)
+- [Guía SEO de Google para expertos](https://developers.google.com/search/docs/advanced/guidelines/get-started?hl=es)
+
+A mayores, existen otras guías SEO oficiales que detallan el funcionamiento de los robots de búsqueda o las directrices que los webmasters deben cumplir para alinearse son los intereses de Google y evitar ser penalizados.
+
 - [Cómo funciona la búsqueda de Google](https://developers.google.com/search/docs/beginner/how-search-works?hl=es). Ideal para disponer de una idea base alineada con las directrices de uso de Google.
-- [Guía de optimización en buscadores (SEO) para principiantes](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=es). Excelente aproximación al SEO desde el punto de vista de Google.
 - [Directrices de Google](https://developers.google.com/search/docs/advanced/guidelines/overview?hl=es) para disponer de una página adecuada a su robot de búsqueda y evitar penalizaciones.
 
-## Guías de Search Console
+## Guías de GoogSearch Console
 
 Google Search Console es quizá la herramienta más importante para gestionar el SEO en dicho buscador. A través de las siguientes guías oficiales aprenderemos a manejar y hacer buen uso de dicha herramienta.
 
@@ -39,5 +45,5 @@ Siempre recomendaré comenzar por las guías oficiales para disponer de una base
 -   _2019 /_  [Qué es el SEO: una guía paso a paso](https://neilpatel.com/es/que-es-seo-una-guia-paso-a-paso/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDkyMDQ2NywtMTM1MzE1MzA1XX0=
+eyJoaXN0b3J5IjpbMzMzNDIwNzQ3LC0xMzUzMTUzMDVdfQ==
 -->
