@@ -20,15 +20,10 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la [newsletter SEO](https://newsletter.chuletaseo.com). Cada jueves recibirás en tu email las noticias más relevantes de la semana.
 
-## Guías SEO oficiales
-
-
-
-
-Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han creado sus propias [guías SEO](https://chuletaseo.com/guias-seo). Es interesante de cara a asentar conceptos básicos y profundizar en áreas que no dominamos tanto.
 
 ## Otros recursos
 
+- [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación puede ser revisar las guías oficiales de los b
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - [Listado de Podcast SEO](https://chuletaseo.com/podcast-seo): Si prefieres esuchar a leer, los podcast serán tu aliado. Lo único, debes saber que la mayoría de ellos están en inglés.
 - Las páginas [SparkToro](https://sparktoro.com/trending), [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
@@ -49,7 +44,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjk1MjU0MSwtMTM0MjQyNjg4NiwtND
+eyJoaXN0b3J5IjpbMTY0NzEzMjAzMSwtMTM0MjQyNjg4NiwtND
 A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
 OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
 -->
