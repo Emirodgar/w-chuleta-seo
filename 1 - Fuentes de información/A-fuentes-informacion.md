@@ -20,7 +20,12 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 
 Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la [newsletter SEO](https://newsletter.chuletaseo.com). Cada jueves recibirás en tu email las noticias más relevantes de la semana.
 
-## Guías no oficiales
+## Guías SEO oficiales
+
+Google dispone de guías oficiales para adaptar el SEO de nuestras páginas a sus directrices y beneficiarnos así de una mayor visibilidad evitando problemas en el rastreo e indexación.
+
+- Guía SEO de Google para principiantes
+- Guía SEO de Google para expertos
 
 Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han creado sus propias [guías SEO](https://chuletaseo.com/guias-seo). Es interesante de cara a asentar conceptos básicos y profundizar en áreas que no dominamos tanto.
 
@@ -46,7 +51,7 @@ Algunas de las empresas más grandes del sector (Ahref, Moz, Semrush, etc.) han 
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk0MjEzMjUsLTEzNDI0MjY4ODYsLT
-QwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkxMTMsLTEzODg4
-NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ==
+eyJoaXN0b3J5IjpbMTIwNDE3NzUyOCwtMTM0MjQyNjg4NiwtND
+A4MjkxNzIyLC03NzUwNDEzNDAsMTc1NTI1OTExMywtMTM4ODg0
+OTE2Myw1MTM2NTM0MDEsMTQzNzI2NzU3NV19
 -->
