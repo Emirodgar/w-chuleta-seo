@@ -38,9 +38,9 @@ permalink: informes-seo
 
 ## Scripts en Ptyhon
 
-- Exportar y normalizar datos de GA3 y GA4 
+- [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg0OTA3NjMsLTQwMTQwOTc3NCwxMj
-ExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4MzgyMSwtMzgwNzE0
-NjM5XX0=
+eyJoaXN0b3J5IjpbLTQxMTI3OTcxOCwtNDAxNDA5Nzc0LDEyMT
+E5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgzODIxLC0zODA3MTQ2
+MzldfQ==
 -->
