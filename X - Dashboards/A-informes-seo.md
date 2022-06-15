@@ -35,7 +35,12 @@ permalink: informes-seo
 
 - [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
+
+## Scripts en Ptyhon
+
+- Exportar y normalizar datos de GA3 y GA4 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTQwOTc3NCwxMjExOTQyMDY2LC0xMz
-A4MjgwMTczLDEzMDQ4MzgyMSwtMzgwNzE0NjM5XX0=
+eyJoaXN0b3J5IjpbLTE3Mjg0OTA3NjMsLTQwMTQwOTc3NCwxMj
+ExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4MzgyMSwtMzgwNzE0
+NjM5XX0=
 -->
