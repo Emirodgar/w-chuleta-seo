@@ -123,8 +123,10 @@ El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscand
 ### Guías externas
 
 - [Auditoría SEO de Semrush](https://www.semrush.com/blog/seo-audit/)
+- [How to Perform an SEO Audit in 18 Steps](https://www.semrush.com/blog/seo-audit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzQ4NjM4OSwtNTgwNTI4MTE2LDE4Nz
-Q3NjE2MDcsMjExMDI3NTA0NCwtNjQ2MDE3NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0ODY1MTA4MDMsLTg1MzQ4NjM4OSwtNT
+gwNTI4MTE2LDE4NzQ3NjE2MDcsMjExMDI3NTA0NCwtNjQ2MDE3
+NjEyXX0=
 -->

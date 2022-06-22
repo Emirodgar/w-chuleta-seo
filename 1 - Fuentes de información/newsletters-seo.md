@@ -1,7 +1,7 @@
 ---
-title: Listado de newsletter SEO
-description: Listado de portales que ofrecen newsletters relacionadas con el SEO
-date: 14/03/2022
+title: Las mejores newsletter SEO
+description: Listado de portales que ofrecen newsletters relacionadas con el SEO, el marketing y la analítica web
+date: 10/06/2022
 folder: fuentes-informacion
 permalink: newsletter-seo
   
@@ -15,6 +15,29 @@ Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs
 - [SEOFOMO](https://www.seofomo.co/)
 - [SEOtweets](https://www.seotweets.io/)
 - [Marie Haynes](https://www.mariehaynes.com/seo-newsletter/)
+- [The SEO MBA](https://seomba.substack.com/)
+- [WTSNewsletter](https://www.womenintechseo.com/newsletter/)
+- [SEO Notebook](https://seonotebook.com/)
+- [Search News you can use](https://www.mariehaynes.com/seo-newsletter/)
+- [SEO for lunch](https://nickleroy.com/newsletter/)
+- [Rich Snippets](https://app.firewards.com/join/trafficthinktank/q6XwG)
+- [SEOPatía](https://seopatia.estevecastells.com/)
+- [The SEO Freelancer](https://www.theseofreelancer.com/)
+
+## Newsletters de marketing y analítica web
+
+Una parte importante del SEO es saber reportar correctamente nuestra información. Sigue estas newsletter de marketing y analítica para aprender a hacer [informes SEO](https://chuletaseo.com/informes-seo) adaptados a cada estrategia.
+
+- [Google Sheets Tips Weekly](https://www.benlcollins.com/google-sheets-tips/)
+- [The Simmer](https://www.simoahava.com/newsletter/)
+- [The Marketing <> Analytics Intersect](https://www.kaushik.net/avinash/marketing-analytics-intersect-newsletter/)
+- [TL;DR Marketing](https://tldrmarketing.com/)
+- [Growth Memo](https://www.kevin-indig.com/tag/gm/)
+- [Marketing Brew](https://www.marketingbrew.com/)
+- [Let's talk Shop](https://lukecarthy.com/lets-talk-shop-newsletter/)
+- [Newsletter oficial de Google Trends](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform)
+- [The Marginalised Marketer](https://iamazeemdigital.com/the-marginalised-marketer-newsletter/)
+- [Roar!](https://www.everybodyroar.com/subscribe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI5OTcwNzZdfQ==
+eyJoaXN0b3J5IjpbLTQyMDMyNDQwNywxNzY5MTI0OTldfQ==
 -->

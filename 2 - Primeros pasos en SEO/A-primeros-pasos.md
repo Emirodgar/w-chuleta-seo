@@ -11,7 +11,7 @@ permalink: primeros-pasos-seo
 
 Una parte importante es estar correctamente informado de cómo evolucionan los algoritmos de los buscadores. Para ello es crucial disponer de buenas [fuentes de información](https://chuletaseo.com/fuentes-informacion).  Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) nos ayudará a estar informados de lo más relevante. 
 
-## Primeros pasos en SEO
+## Primeros pasos en SEO 
 
  1. [Auditoría SEO](https://chuletaseo.com/auditoria-seo)
  2. Estrategia SEO
@@ -21,11 +21,11 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 
 ## Aspectos complementarios
 
-Entender cómo funciona Google y [aprender a exprimir su buscador con comandos personalizados](https://chuletaseo.com/comandos-busqueda-google), es básico.
+- <a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTQyMjk0OSw4MjI5MDY4NzIsODk2Mz
-ExNTU0XX0=
+eyJoaXN0b3J5IjpbNzI1NDMxMDc0LDE0NzUwODU4NjEsMjAyOT
+QyMjk0OSw4MjI5MDY4NzIsODk2MzExNTU0XX0=
 -->

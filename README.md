@@ -6,14 +6,14 @@
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2><a href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></h2>
         <p>La información es poder. Estar al día de todas las novedades en la evolución del SEO es crítico. Una buena idea es revisar las fuentes de información oficiales.</p>
-        <p><a href="https://chuletaseo.com/blogs-oficiales">Blogs oficiales de los buscadores</a> / <a href="https://chuletaseo.com/perfiles-oficiales-google">Perfiles oficiales de Google</a></p>
+        <p><a href="https://chuletaseo.com/algoritmos-google">Cambios de algoritmo de Google</a> / <a href="https://chuletaseo.com/blogs-oficiales">Blogs oficiales</a>
+ </p>
 </div>
 
 <br/>
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
         <h2><a href="https://chuletaseo.com/primeros-pasos-seo">Primeros pasos en SEO</a></h2>
-        <p><a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a> / <a href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a> </p>
 </div>
 
 <br/>
@@ -29,9 +29,8 @@
 
 
 <div class="section-container" style="background: #f5f5f5;padding: 3.75rem;margin-top: 0.9375rem;text-align: center;">
-        <h2>Dashboards y reporting</h2>
+        <h2><a href="https://chuletaseo.com/informes-seo">Dashboards y reporting</a></h2>
         <p>Tan importante es diseñar y ejecutar una correcta estrategia SEO como presentar su evolución y datos conseguidos. Para ello, apoyarnos en un dashboard SEO adecuado será crucial. </p>
-        <p> <a href="https://chuletaseo.com/campos-personalizados-data-studio">Campos personalizados en Data Studio</a> / <a href="https://chuletaseo.com/eliminar-trafico-spam-robot">Eliminar tráfico SPAM</a> </p>
 </div>
 
    </div>
@@ -39,9 +38,10 @@
 
 <br/><br/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ0NzQyNTksLTE2NjA0NDcwOTAsLT
-E3MjE4MjY3MDAsLTE4MjQ2NjkyMjksMTEwODgyOTc4MiwtMTM0
-MDY0MzAwNCwtNDQ5NTY5MTQsMjA3NDgwODk2NiwxMjU1ODczNT
-czLDExNTM1ODYwNzQsLTExNDgwNjIyNCwxMjU2NTc5MTY4LDEz
-NDQxMTE1MDMsMTc4MzkwMzcwMV19
+eyJoaXN0b3J5IjpbMTU5NzYyMTU4NywtMTg4OTU2NjE2NSw3NT
+A5MTEwOTMsLTE2NjA0NDcwOTAsLTE3MjE4MjY3MDAsLTE4MjQ2
+NjkyMjksMTEwODgyOTc4MiwtMTM0MDY0MzAwNCwtNDQ5NTY5MT
+QsMjA3NDgwODk2NiwxMjU1ODczNTczLDExNTM1ODYwNzQsLTEx
+NDgwNjIyNCwxMjU2NTc5MTY4LDEzNDQxMTE1MDMsMTc4MzkwMz
+cwMV19
 -->

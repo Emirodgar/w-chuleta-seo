@@ -8,6 +8,13 @@ author:
   
 ---
 
+## Eliminar el dominio de las URL
+
+Si nuestro informe sólo contiene información de un dominio principal, sin ningún subdominio, entonces es interesante eliminar dicho dominio para dejar únicamente la información relevante (el *path* de la URL).
+
+Pasaríamos de tener `chuletaseo.com/ejemplo` a `/ejemplo` lo cual hará más sencillo los análisis. Para ello necesitaremos crear un campo personalizado con la siguiente fórmula (ojo, si el dominio no termina en `.com`, habrá que adaptarlo).
+
+    REGEXP_EXTRACT(Landing  Page,  ".*\\.com/(.*)$")
 
 ## Crear un filtro para tráfico de marca y no marca
 
@@ -132,6 +139,7 @@ CASE
 END
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzg3OTE4NiwxOTg3MjI5Mjc0LC0yMD
-Y3OTA3MTgxLC0xODA3MDExNzkxLC0xNDQyNjMzMTA0XX0=
+eyJoaXN0b3J5IjpbLTIwNzYwNjE1NDEsNDU2NjE3Mzc1LDE5OD
+cyMjkyNzQsLTIwNjc5MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2
+MzMxMDRdfQ==
 -->
