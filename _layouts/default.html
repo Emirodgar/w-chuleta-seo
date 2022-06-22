@@ -1,83 +1,160 @@
-<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE HTML>
+<html>
+	<head>
+		{% seo %}
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/style.css" />
+    	<link rel="icon" href="assets/img/hash.png" />
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-W9GZ3MP');</script>
+		<!-- End Google Tag Manager -->
+	</head>
+	<body class="is-preload">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9GZ3MP"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 
-  <head>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-W9GZ3MP');</script>
-    <!-- End Google Tag Manager -->
-    <link rel="icon" href="img/hash.png">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    {% seo %}
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<h1><a style="font-size: 2.45em;border-bottom:none;" href="https://chuletaseo.com">ChuletaSEO</a></h1><br/>
+          <h1>Suscríbete a la <strong><a href="https://newsletter.chuletaseo.com">newsletter</a></strong> <br/>y todos los jueves tendrás el mejor<br />
+					<a href="https://newsletter.chuletaseo.com">resumen SEO</a>.</h1>
+				</div>
+			</header>
 
-    <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+		<!-- Main -->
+			<div id="main">
 
-    <!-- Custom styles for this template -->
-    <link href="css/resume.min.css" rel="stylesheet">
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h1>{{ page.title }}</h1>
 
-  </head>
+              {% if page.folder %}
+              <div class="subtitle">
+                
+                <span class="date">
+                  {% if page.date_modified == null %}
+                  Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
+                  {% else %}
+                  Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
+                  {% endif %} - 
+                </span> 
+                  
+                
+                <span class="time">{% assign words = content | number_of_words %}
+                {% if words < 360 %}
+                  1 minuto de lectura
+                {% else %}
+                  {{ words | divided_by:180 }} minutos de lectura
+                {% endif %} </span> - 
 
-  <body id="page-top">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9GZ3MP"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-      <a class="navbar-brand js-scroll-trigger emirodgar" href="https://chuletaseo.com">
-        <h1>CHULETA SEO</h1>
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://chuletaseo.com">Inicio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://chuletaseo.com">Información</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://chuletaseo.com">Primeros pasos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://chuletaseo.com">Indexación</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://chuletaseo.com">Dashboards</a>
-        </ul>
-      </div>
-    </nav>
+                {% if page.folder == "primeros-pasos-seo" %}
+                <span><a href="{{ site.url }}/primeros-pasos-seo">Primeros pasos en SEO</a></span>
+                  {% endif %}
 
-    <div class="container-fluid p-0">
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="main">
-       {{ content }}
-      </div>
-    </div>
+                {% if page.folder == "indexacion" %}
+                <span><a href="{{ site.url }}/indexacion">Indexación</a></span>
+                {% endif %}
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+                {% if page.folder == "fuentes-informacion" %}
+                <span><a href="{{ site.url }}/fuentes-informacion">Fuentes de información</a></span>
+                {% endif %}
 
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+                {% if page.folder == "contenidos" %}
+                <span><a href="{{ site.url }}/contenidos">Contenidos</a></span>
+                {% endif %}
 
-    <!-- Custom scripts for this template -->
-    <script src="js/resume.min.js"></script>
+                {% if page.folder == "enlazado" %}
+                <span><a href="{{ site.url }}/enlazado">Enlazado</a></span>
+                {% endif %}
 
-  </body>
+                {% if page.folder == "informes-seo" %}
+                <span><a href="{{ site.url }}/informes-seo">Dashboard y reporting</a></span>
+                {% endif %}
 
+              </div>
+					{% endif %}
+
+						</header>            
+
+            {{ content }}
+
+						<ul class="actions">
+							<li><a href="https://newsletter.chuletaseo.com" class="button">Quiero estar al día en SEO</a></li>
+						</ul>
+					</section>
+
+				<!-- Two -->
+					<section id="two">
+						<h2>Categorías</h2>
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+								<h3>Fuentes de información</h3>
+								<p>Importante para estar al día de los cambios del sector.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
+								<h3>Primeros pasos en SEO</h3>
+								<p>Comienza con lo básico para tu estrategia SEO.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
+								<h3>Indexación</h3>
+								<p>SEO técnico para facilitar rastreo e indexación.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
+								<h3>Contenido</h3>
+								<p>Contenidos optimizados y de calidad orientados a la conversión.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+								<h3>Enlazado</h3>
+								<p>Estrategias de enlazado internas y externas.</p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+								<h3>Dashboards y reporting</h3>
+								<p>Utiliza las métricas y gráficas adecuadas.</p>
+							</article>
+						</div>
+					</section>
+
+
+
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a target="_blank" href="https://twitter.com/emirodgar" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a target="_blank" href="https://es.linkedin.com/in/emirodgar" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a target="_blank" href="https://newsletter.chuletaseo.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>ChuletaSEO - 2022</li> <li> <a href="https://emirodgar.com">Emirodgar</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
