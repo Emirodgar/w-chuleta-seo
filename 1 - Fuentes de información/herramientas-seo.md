@@ -232,9 +232,8 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 -   [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 - [Holded CRM](https://www.holded.com/es/precios)
 - [Unsplash](https://unsplash.com/es)
-- [Canva])https://www.canva.com/es_es/)
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNDc4OTg4XX0=
+eyJoaXN0b3J5IjpbLTE1NjAwMjYzNzcsMzcxNDc4OTg4XX0=
 -->
