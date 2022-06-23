@@ -1,4 +1,3 @@
-
 ---
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
@@ -237,5 +236,5 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk0NDM2MThdfQ==
+eyJoaXN0b3J5IjpbMzcxNDc4OTg4XX0=
 -->
