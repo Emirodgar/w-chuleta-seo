@@ -1,7 +1,7 @@
 ---
 title: Listado de los algoritmos de Google
 description: 
-date: 08/06/2022
+date: 14/07/2022
 folder: fuentes-informacion
 permalink: algoritmos-google
   
@@ -9,6 +9,10 @@ permalink: algoritmos-google
 
 1. 
 {:toc}
+
+## Listado oficial
+
+Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking).
 
 ## Herramientas para hacer seguimiento de cambios de algoritmo
 
@@ -69,6 +73,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MDc0NDE3LDM1ODAzMTMwNCw5MzAzMT
-Q5MzIsLTE4MDkzMDkyMjddfQ==
+eyJoaXN0b3J5IjpbMTk1MzMwNTM4Niw5ODYwNzQ0MTcsMzU4MD
+MxMzA0LDkzMDMxNDkzMiwtMTgwOTMwOTIyN119
 -->
