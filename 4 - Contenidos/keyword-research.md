@@ -1,6 +1,6 @@
 ---
 title: Cómo realizar un keyword research
-description: Aprende a trabajar los contenidos SEO de forma eficiente
+description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
 date: 16/08/2022
 date_modified: 23/08/2022
 folder: contenidos
@@ -63,9 +63,9 @@ Por norma general suele ser un listado de términos cualificados por volumen de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTg4NzY2NiwtMjU1OTkwMjc3LDEyNj
-I3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2Njcy
-NCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLT
-g3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2
-MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMj
+YyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3
+MjQsLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC
+04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1
+NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
 -->
