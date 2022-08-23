@@ -53,15 +53,15 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 Tipo, como tal, sólo existe uno, pero el objetivo puede ser diferente en función de lo que estemos buscando. En proyectos nuevos, nos interesa obtener todos los términos para poder definir la arquitectura de nuestro sitio web, en proyectos existentes nos puede ayudar a identificar términos que no estamos usando para cualificar la estrategia de contenidos u optimizar los contenidos existentes.
 
-### ¿Qué relación existe entre el análisis de palabras clave y el Inbound Marketing?
+### ¿Qué relación existe entre el análisis de palabras clave y el Inbound marketing?
 
-Conocer las palabras clave por las que queremos posicionar es clave para cualquier estrategia SEO. Cada término tendrá un enfoque distinto, algunos estarán relacionados con la búsqueda de conocimiento (informacional) y otros orientados a las ventas (transaccional).   
+Conocer las palabras clave por las que queremos posicionar es clave para cualquier estrategia SEO. Cada término tendrá un enfoque distinto, algunos estarán relacionados con la búsqueda de conocimiento (informacional) y otros orientados a las ventas (transaccional). Clasificar cada término según el comportamiento, permitirá alinear el keyword research a una estrategia de Inbound marketing.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQxMjU0LDEyNjI3Njc4MDAsMTc2MT
-Q2ODMzNiw3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYw
-NCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLTg3NjgxNDUzOSwtOD
-k4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYy
-MTg1NSwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3Nj
+E0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLTEzNjE1NTI2
+MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4MTQ1MzksLT
+g5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAxMTI2LC01MjM2
+MjE4NTUsLTEwMTY1MjMzODldfQ==
 -->
