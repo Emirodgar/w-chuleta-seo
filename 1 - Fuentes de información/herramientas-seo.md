@@ -225,7 +225,8 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [Unsplash](https://unsplash.com/es): repositorio de imágenes gratuitas
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
+- [Removal AI](https://removal.ai/): para eliminar el fond
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI2ODYzNTYsLTEyNzk1MTAxOTgsLT
-E1NjAwMjYzNzcsMzcxNDc4OTg4XX0=
+eyJoaXN0b3J5IjpbMTMyMTUwNDgwOSwtMTI3OTUxMDE5OCwtMT
+U2MDAyNjM3NywzNzE0Nzg5ODhdfQ==
 -->
