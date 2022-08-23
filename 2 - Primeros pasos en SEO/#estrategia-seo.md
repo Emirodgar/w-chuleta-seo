@@ -28,8 +28,13 @@ Otras herramientas no tan conocidas (ni tampoco con tanta funcionalidad) son las
 
 ## Mejorar una estrategia SEO existente
 
-Cuando 
+Cuando trabajamos una estrategia que está en curso, a veces hay algunos aspectos que podemos optimizar para mejorar su rendimiento.
+
+ 1. Actualizar contenido existente
+ 2. Trabajar los datos estructurados
+ 3. Identificar palabras clave con baja competencia ([keyword research](https://chuletaseo.com/keyword-research))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODA0MTEwNSw3MzcwOTkzNzQsLTEzNT
-Y2NDg5NTddfQ==
+eyJoaXN0b3J5IjpbLTEwMzI0MDg2MzAsNzM3MDk5Mzc0LC0xMz
+U2NjQ4OTU3XX0=
 -->
