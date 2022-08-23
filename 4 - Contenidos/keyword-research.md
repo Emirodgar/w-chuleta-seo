@@ -20,6 +20,7 @@ También conocido como **análisis de palabras clave** o ***keyword analysis***,
 
 ## Herramientas
 
+
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). Entre las más destacadas, se encuentran:
 
 - [Google Trends](https://trends.google.com/trends/?geo=US): para identificar tendencias de búsqueda en múltiples países. Recomiendo instalar la extensión [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es) para añadir nuevas funcionalidades a Trends.
@@ -30,7 +31,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTY2NDk2NywtODk4MzcyOTM0LDE1OD
+eyJoaXN0b3J5IjpbLTg3NjgxNDUzOSwtODk4MzcyOTM0LDE1OD
 YyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUy
 MzM4OV19
 -->
