@@ -18,6 +18,8 @@ También conocido como **análisis de palabras clave** o ***keyword analysis***,
 - /2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
 - /2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
 
+<section  id="cs_herramientas">
+
 ## Herramientas
 
 
@@ -31,11 +33,14 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 
+</section>
+
 ## Preguntas y respuestas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04Nz
-Y4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAx
-MTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
+eyJoaXN0b3J5IjpbLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOT
+E1OTg3NzIzLC04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2
+MjM1LC0xMTE1NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzOD
+ldfQ==
 -->
