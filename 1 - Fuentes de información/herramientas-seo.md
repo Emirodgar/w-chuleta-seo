@@ -201,11 +201,11 @@ https://twitter.com/shanejones/status/1536624001895768066
 - [Redirection Plugin](https://es.wordpress.org/plugins/redirection/) - gestiona redirecciones 301 y maneja errores 404
 - [ShortPixel](https://es.wordpress.org/plugins/shortpixel-image-optimiser/) - optimizar imágenes
 - [SiteKit by Google Plugin](https://es.wordpress.org/plugins/google-site-kit/)
-- TablePress - feature-rich tables in posts
-- WP Rocket - all-in-one website performance
-- WP Show Posts - list posts anywhere on any page
-- Yoast SEO - all-in-one SEO solution ( sitemaps, on-page, etc )
-- GeneratePress - lightweight and beautiful WP theme
+- [TablePress](https://es.wordpress.org/plugins/tablepress/)
+- [WP Rocket](https://wp-rocket.me/es/) - mejorar el rendimiento de Wordpress
+- [WP Show Posts](https://es.wordpress.org/plugins/wp-show-posts/)
+- [Yoast SEO](https://es.wordpress.org/plugins/wordpress-seo/) - solución SEO
+- RankMath - solución SEO
 
 ## Otras herramientas SEO
 
@@ -230,6 +230,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU1NDM3NzcsLTE1NjAwMjYzNzcsMz
+eyJoaXN0b3J5IjpbLTEzMjE4NjY0NzIsLTE1NjAwMjYzNzcsMz
 cxNDc4OTg4XX0=
 -->
