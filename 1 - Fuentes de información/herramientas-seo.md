@@ -198,9 +198,9 @@ https://twitter.com/shanejones/status/1536624001895768066
 - [AkiSmet Antispam](https://akismet.com/)
 - [Disqus](https://disqus.com/)
 - [Easy Table of Contents](https://es.wordpress.org/plugins/easy-table-of-contents/)
-- Re Redirection Plugin - manage all 301s and monitor 404s
-- ShortPixel - image size optimizer plugin
-- SiteKit by Google Plugin - check traffic inside WP
+- [Redirection Plugin](https://es.wordpress.org/plugins/redirection/) - gestiona redirecciones 301 y maneja errores 404
+- [ShortPixel](https://es.wordpress.org/plugins/shortpixel-image-optimiser/) - optimizar imágenes
+- [SiteKit by Google Plugin](https://es.wordpress.org/plugins/google-site-kit/)
 - TablePress - feature-rich tables in posts
 - WP Rocket - all-in-one website performance
 - WP Show Posts - list posts anywhere on any page
@@ -230,6 +230,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMzIyNSwtMTU2MDAyNjM3NywzNzE0Nz
-g5ODhdfQ==
+eyJoaXN0b3J5IjpbLTIwMjU1NDM3NzcsLTE1NjAwMjYzNzcsMz
+cxNDc4OTg4XX0=
 -->
