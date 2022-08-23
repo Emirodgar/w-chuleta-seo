@@ -16,13 +16,15 @@ También conocido como análisis de palabras clave o keyword analysis, se trata 
 
 - https://ahrefs.com/blog/keyword-research/
 - https://moz.com/keyword-research-guide
-- 
+- https://backlinko.com/keyword-research
 
 ## Herramientas
+
+En el apartado de herramientas SEO disponemos de un bloque específico para hacer keyword research.
 
 ### Extensiones para Google Chrome
 
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volumenes directamente en nuestras búsquedas de Google. Es gratuito.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjk2MDg2MSwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbLTg5MDQxNTU3OCwtMTAxNjUyMzM4OV19
 -->
