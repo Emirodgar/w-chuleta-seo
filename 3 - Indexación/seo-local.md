@@ -12,12 +12,29 @@ permalink: seo-local
 
 A la hora de trabajar el SEO local, existen una serie de factores que determinarán nuestro futuro posicionamiento. 
 
-- **Enlaces**: al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
-- **Google My Business**: disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
-- **Comportamiento**: que los usuarios que interactúan con nuestros resultados (llamas, solicitud de ruta, interacción con imágenes) tengan una buena experiencia, es clave para que sigamos mejorando nuestro posicionamiento.
-- **Valoraciones**: uno de los mecanismos más populares para determinar la calidad de una empresa son las valoraciones. Consigue valoraciones de diferentes fuentes, con contenido y que incluyan términos relacionados con los servicios que se ofrecen.
-- Factores SEO onpage: que nuestra página esté optimizada, ofrezca una buena experiencia a los usuarios y que ofrezca respuesta a lo que están buscando, será clave para el éxito.
-- **Menciones**: conseguir menciones (que no necesariamente enlaces) ayudará a que nuestro posicionamiento local se vea reforzado.
+### Enlaces
+
+Al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
+
+### Google My Business
+
+Disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
+
+### Comportamiento
+
+Que los usuarios que interactúan con nuestros resultados (llamas, solicitud de ruta, interacción con imágenes) tengan una buena experiencia, es clave para que sigamos mejorando nuestro posicionamiento.
+
+###  Valoraciones
+
+Uno de los mecanismos más populares para determinar la calidad de una empresa son las valoraciones. Consigue valoraciones de diferentes fuentes, con contenido y que incluyan términos relacionados con los servicios que se ofrecen.
+
+### Factores SEO onpage
+
+Que nuestra página esté optimizada, ofrezca una buena experiencia a los usuarios y que ofrezca respuesta a lo que están buscando, será clave para el éxito.
+
+### Menciones
+
+Conseguir menciones (que no necesariamente enlaces) ayudará a que nuestro posicionamiento local se vea reforzado.
 
 
 ## Cursos gratuitos y guías
@@ -46,8 +63,9 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 ## Noticias relacionadas
 
-- [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
+- [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa, vía email, cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU3MzU1OTMsLTcxNzI0MjIzOSw3Mj
-I3MjAwMDYsMTQzNjI3NTE1NywtMTkyNTk3MzcxM119
+eyJoaXN0b3J5IjpbNjcxOTQxMjcsLTE0NzU3MzU1OTMsLTcxNz
+I0MjIzOSw3MjI3MjAwMDYsMTQzNjI3NTE1NywtMTkyNTk3Mzcx
+M119
 -->
