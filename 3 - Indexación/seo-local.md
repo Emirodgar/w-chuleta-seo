@@ -46,7 +46,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 ## Noticias relacionadas
 
-- [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa.
+- [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2OTcyNDg1LC0xOTI1OTczNzEzXX0=
+eyJoaXN0b3J5IjpbMTQzNjI3NTE1NywtMTkyNTk3MzcxM119
 -->
