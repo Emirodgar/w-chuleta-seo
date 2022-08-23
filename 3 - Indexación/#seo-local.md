@@ -13,8 +13,12 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 - [**Near Media**](https://www.nearmedia.co/)
 - [**Moz Blog’s Local Column**](https://moz.com/blog/category/local-seo)
 - [**The Institute for Local Self Reliance**](https://ilsr.org/ilsr-reports/)
-- 
+- [**Local University**](https://localu.org/)
+- [**Street Fight**](https://streetfightmag.com/)
 
+## 
+
+Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [**The American Independent Business Alliance**](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MzI2NDM0XX0=
+eyJoaXN0b3J5IjpbNjI5MjAyOTg5XX0=
 -->
