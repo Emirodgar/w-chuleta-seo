@@ -163,12 +163,6 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [Importar URLs de un Sitemap XML](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/copy)
 - [Unlimited Sheets](https://workspace.google.com/marketplace/app/unlimited_sheets/849237026639?hl=es)
 
-## Explotación de datos y análisis
-
--   [Orange Data Mining](https://orangedatamining.com/)
-- [SEO testing](https://seotesting.com/)
-- [Exploding topics](https://explodingtopics.com/)
-
 
 ## Scripts para SEO en Python
 
@@ -186,6 +180,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 - [Scrapear preguntas de usuarios](https://www.holisticseo.digital/python-seo/scrape-paa-questions/)
 - [Scrapear resultados de SEO local](https://colab.research.google.com/drive/1t6566fBeU9Ym87R_pyMSqVyJ1bPYKxSc?usp=sharing)
 - [Sugerencias de términos SEO](https://colab.research.google.com/drive/1xk5HYisMsdAy0ezZrpAQQX89Q5B8sP_q?usp=sharing#scrollTo=_69YqWISrtfh)
+- [Listado de scripts que usan GPT3 (Inteligencia artificial)](https://www.seotraininglondon.org/gpt-3-google-sheets-marketers/)
 
 ## Plugins SEO para Wordpress
 
@@ -202,6 +197,11 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 - [WP Rocket](https://wp-rocket.me/es/) - mejorar el rendimiento de Wordpress
 - [WP Show Posts](https://es.wordpress.org/plugins/wp-show-posts/)
 
+## Explotación de datos y análisis
+
+- [Orange Data Mining](https://orangedatamining.com/)
+- [SEO testing](https://seotesting.com/)
+- [Exploding topics](https://explodingtopics.com/)
 
 ## Otras herramientas SEO
 
@@ -218,10 +218,10 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 -   [Built With](https://builtwith.com/emirodgar.com): para obtener información acerca de la tecnología usada en un dominio
 -   [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 - [Holded CRM](https://www.holded.com/es/precios)
-- [Unsplash](https://unsplash.com/es)
+- [Unsplash](https://unsplash.com/es): repositorio de imágenes grat
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc1NzE2NzYsLTE1NjAwMjYzNzcsMz
-cxNDc4OTg4XX0=
+eyJoaXN0b3J5IjpbLTk0MTg2NTIxNSwtMTU2MDAyNjM3NywzNz
+E0Nzg5ODhdfQ==
 -->
