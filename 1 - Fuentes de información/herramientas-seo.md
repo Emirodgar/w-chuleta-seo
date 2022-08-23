@@ -15,7 +15,7 @@ permalink: herramientas-seo
 Si queremos una suite que nos permita entender cómo está en términos SEO una página, podemos hacer uso de las siguientes herramientas:
 
 -   [Sitechecker](https://sitechecker.pro/)
--   [Seositecheckup/](https://seositecheckup.com/)
+-   [Seositecheckup](https://seositecheckup.com/)
 -   [Seolyzer](https://seolyzer.io/)
 -   [Woorank](https://www.woorank.com/)
 -   [Website Auditor](http://www.seopowersuite.es/website-auditor/)
@@ -225,6 +225,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY5Mzc3NDQsLTE1NjAwMjYzNzcsMz
-cxNDc4OTg4XX0=
+eyJoaXN0b3J5IjpbLTE3NTA5MTc0NywtMTU2MDAyNjM3NywzNz
+E0Nzg5ODhdfQ==
 -->
