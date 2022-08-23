@@ -63,7 +63,7 @@ Por norma general suele ser un listado de términos cualificados por volumen de 
 
 ### ¿Cuál es el proceso de keyword research?
 
-Primero realizamos una búsqueda de todos los términos que consideramos relevantes para nuestra estrategia. Podemos analizar el sector, el mercado y también a los principales competidores. Segundo, analizamos y seleccionamos aquellos términos que consideramos relevantes. Clasificamos cada término en función de su intención de búsqueda y hacemos el enganche con la página: si irá en una página independiente, será un término secundario, será utilizado en 
+Primero realizamos una búsqueda de todos los términos que consideramos relevantes para nuestra estrategia. Podemos analizar el sector, el mercado y también a los principales competidores. Segundo, analizamos y seleccionamos aquellos términos que consideramos importantes. Clasificamos cada término en función de su intención de búsqueda y hacemos el enganche con la página: si irá en una página independiente, será un término secundario, será utilizado en el plan de contenidos del blog, etc.
 
 
 
@@ -124,7 +124,7 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjM2ODU2OCwtNzYwNjcyMDk2LC0xNT
+eyJoaXN0b3J5IjpbMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNT
 A3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4
 MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC
 0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2ODE0NTM5LC04OTgz
