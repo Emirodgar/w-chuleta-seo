@@ -57,11 +57,15 @@ Tipo, como tal, sólo existe uno, pero el objetivo puede ser diferente en funci�
 
 Conocer las palabras clave por las que queremos posicionar es clave para cualquier estrategia SEO. Cada término tendrá un enfoque distinto, algunos estarán relacionados con la búsqueda de conocimiento (informacional) y otros orientados a las ventas (transaccional). Clasificar cada término según el comportamiento, permitirá alinear el keyword research a una estrategia de Inbound marketing.
 
+### ¿Cuál es el entregable de un keyword research?
+
+Por norma general suele ser un listado de
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3Nj
-E0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLTEzNjE1NTI2
-MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4MTQ1MzksLT
-g5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAxMTI2LC01MjM2
-MjE4NTUsLTEwMTY1MjMzODldfQ==
+eyJoaXN0b3J5IjpbMjAyNjgwNzM3OSwtMjU1OTkwMjc3LDEyNj
+I3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2Njcy
+NCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLT
+g3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2
+MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUyMzM4OV19
 -->
