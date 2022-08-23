@@ -110,9 +110,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [Local search results checker](https://www.brightlocal.com/local-search-results-checker/)
 -   [Moz local search](https://moz.com/local/search)
 -   [Google search location](https://serps.com/tools/google-search-location/)
-- [Google Review Link Generator](https://whitespark.ca/google-review-link-generator/): para conseguir un enlace corto que poder compartir con nuestros clientes y que nos dejen valoraciones en nuestro perfil.
-- [SERPerator](https://mobilemoxie.com/tools/mobile-serp-test/): realiza búsquedas geolocalizadas por país, ciudad e incluso código postal.
-- [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
+- [SERPerator](https://mobilemoxie.com/tools/mobile-serp-test/): nos permite hacer búsquedas geolocalizadas.
 
 ## Analítica web / medición resultados
 
@@ -164,6 +162,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
  - https://chrome.google.com/webstore/detail/gsc-crawl-stats-downloade/bpekjbefojkhefgcfhfeohjfncbpioam/related
 - [AWR Search: Emula búsquedas desde cualquier parte del mundo](https://chrome.google.com/webstore/detail/awr-search-anywhere/kjffabibegojdmknibcophlonmadkpin/related)
 - [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon)
+- [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): analiza los perfiles de Google My Business de la competencia.
 
 ## Scripts para Google Sheets
 
@@ -230,6 +229,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 - [Removal AI](https://removal.ai/): para eliminar el fondo de una imagen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTA0MTA5NywtNTMwNzMwNTcyLC0xMj
-c5NTEwMTk4LC0xNTYwMDI2Mzc3LDM3MTQ3ODk4OF19
+eyJoaXN0b3J5IjpbLTExMzI1NjQxNTcsLTUzMDczMDU3MiwtMT
+I3OTUxMDE5OCwtMTU2MDAyNjM3NywzNzE0Nzg5ODhdfQ==
 -->
