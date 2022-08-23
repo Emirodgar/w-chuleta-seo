@@ -4,7 +4,9 @@
 A la hora de trbajar el SEO local, existen una serie de factores que determinarán nuestro futuro posicionamiento. 
 
 - **Enlaces**: al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
-- **Google My Business**: disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos reali
+- **Google My Business**: disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
+- **Comportamiento**: que los usuarios que interactúan con nuestros resultados (llamas, solicitud de ruta, interacción con imágenes) tengan una buena experiencia, es clave para que sigamos mejorando nuestro posicionamiento.
+- **Valoraciones**: uno de los mecanismos más
 
 
 ## Cursos gratuitos
@@ -28,6 +30,6 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 
 Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [**The American Independent Business Alliance**](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDQ4NTg4MiwxNTA5NDExMjA0LDYyOT
+eyJoaXN0b3J5IjpbLTkyNDczODcyNSwxNTA5NDExMjA0LDYyOT
 IwMjk4OV19
 -->
