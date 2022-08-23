@@ -75,9 +75,9 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [NewsFlashBoard](https://newsflashboard.com/)
 -   [Missing Topics](https://missingtopics.com/)
 -   [Keyword Dificulty Finder](https://share.streamlit.io/searchsolved/seo/production_code/streamlit/keyword_difficulty_check_serp_api/keyword_difficulty_check.py)
-- [Also Asked](https://alsoasked.com/)
 - [QuestionDB](https://questiondb.io/)
-- Free Keyword Tool
+- [Free Keyword Tool](https://www.wordstream.com/keywords)
+- [SuggestMRX](https://www.suggestmrx.com/index-en.php)
 
 ## Datos estructurados
 
@@ -225,6 +225,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyODY0MzU5LC0xMjc5NTEwMTk4LC0xNT
-YwMDI2Mzc3LDM3MTQ3ODk4OF19
+eyJoaXN0b3J5IjpbLTEzNDczMDQ5MzEsLTEyNzk1MTAxOTgsLT
+E1NjAwMjYzNzcsMzcxNDc4OTg4XX0=
 -->
