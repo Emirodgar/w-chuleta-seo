@@ -61,6 +61,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 - [Google Review Link Generator](https://whitespark.ca/google-review-link-generator/): para conseguir un enlace corto que poder compartir con nuestros clientes y que nos dejen valoraciones en nuestro perfil.
 - [SERPerator](https://mobilemoxie.com/tools/mobile-serp-test/): realiza búsquedas geolocalizadas por país, ciudad e incluso código postal.
+- [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
 
 ## Noticias relacionadas
 
@@ -76,7 +77,7 @@ No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos g
 
 Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM5MzI0MCwtOTk4OTc1MzcsNjcxOT
+eyJoaXN0b3J5IjpbMTYyMDgzODY0OCwtOTk4OTc1MzcsNjcxOT
 QxMjcsLTE0NzU3MzU1OTMsLTcxNzI0MjIzOSw3MjI3MjAwMDYs
 MTQzNjI3NTE1NywtMTkyNTk3MzcxM119
 -->
