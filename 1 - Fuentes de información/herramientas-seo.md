@@ -83,13 +83,13 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 
 ## Enlaces / Linkbuilding
 
--   [backlinkshitter](https://backlinkshitter.com/)
--   [seopowersuite](http://www.seopowersuite.es/seo-spyglass/)
--   [backlink-checker](https://ahrefs.com/es/backlink-checker)
--   [canirank](https://www.canirank.com/)
--   [disavow links](https://www.google.com/webmasters/tools/disavow-links-main)
--   [link explorer](https://moz.com/link-explorer)
--   [domain authority checker/](https://www.seoweather.com/domain-authority-checker/)
+-   [Backlinkshitter](https://backlinkshitter.com/)
+-   [Seopowersuite](http://www.seopowersuite.es/seo-spyglass/)
+-   [Backlink-checker](https://ahrefs.com/es/backlink-checker)
+-   [Canirank](https://www.canirank.com/)
+-   [Disavow links](https://www.google.com/webmasters/tools/disavow-links-main)
+-   [lLnk explorer](https://moz.com/link-explorer)
+-   [Domain authority checker/](https://www.seoweather.com/domain-authority-checker/)
 
 ## Mobile SEO
 
@@ -218,10 +218,10 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 -   [Built With](https://builtwith.com/emirodgar.com): para obtener información acerca de la tecnología usada en un dominio
 -   [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 - [Holded CRM](https://www.holded.com/es/precios)
-- [Unsplash](https://unsplash.com/es): repositorio de imágenes grat
-- [TinyPNG](https://tinypng.com/)
-- [OptinMonster](https://optinmonster.com/)
+- [Unsplash](https://unsplash.com/es): repositorio de imágenes gratuitas
+- [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
+- [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTg2NTIxNSwtMTU2MDAyNjM3NywzNz
-E0Nzg5ODhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk1MTAxOTgsLTE1NjAwMjYzNzcsMz
+cxNDc4OTg4XX0=
 -->
