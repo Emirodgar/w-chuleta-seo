@@ -2,7 +2,7 @@
 title: Estrategia SEO
 description: Cómo diseñar y ejecutar una estrategia SEO
 lang: es_ES
-date: 16/03/2022
+date: 23/08/2022
 folder: primeros-pasos-seo
 permalink: estrategia-seoXX
 
@@ -28,20 +28,20 @@ Otras herramientas no tan conocidas (ni tampoco con tanta funcionalidad) son las
 
 ## Mejorar una estrategia SEO existente
 
-Cuando trabajamos una estrategia que está en curso, a veces hay algunos aspectos que podemos optimizar para mejorar su rendimiento.
+Cuando trabajamos una estrategia que está en curso, hay algunos aspectos que podemos optimizar para mejorar su rendimiento.
 
- 1. Actualizar contenido existente
- 2. Trabajar los datos estructurados
- 3. Identificar palabras clave con baja competencia ([keyword research](https://chuletaseo.com/keyword-research))
- 4. Optimizar material multimedia (imágenes y vídeos)
- 5. Optimizar la versión móvil de nuestra web
- 6. Optimizar factores SEO
- 7. Optimizar la experiencia de usuario y [tiempos de carga](https://chuletaseo.com/optimizar-tiempo-carga)
- 8. Optimizar el SEO local
- 9. Optimizar el enlazado interno
- 10. Analizar 
+ 1. Actualizar contenido existente.
+ 2. Trabajar los datos estructurados.
+ 3. Identificar palabras clave con baja competencia ([keyword research](https://chuletaseo.com/keyword-research)).
+ 4. Optimizar material multimedia (imágenes y vídeos).
+ 5. Optimizar la versión móvil de nuestra web.
+ 6. Optimizar factores SEO.
+ 7. Optimizar la experiencia de usuario y [tiempos de carga](https://chuletaseo.com/optimizar-tiempo-carga).
+ 8. Optimizar el SEO local.
+ 9. Optimizar el enlazado interno.
+ 10. Medir correctamente el rendimiento de la estrategia. Echa un vistazo a la sección de [informes SEO](https://chuletaseo.com/informes-seo).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDAwMjI1OSw3MzcwOTkzNzQsLTEzNT
+eyJoaXN0b3J5IjpbLTE0OTQ3NTgxMSw3MzcwOTkzNzQsLTEzNT
 Y2NDg5NTddfQ==
 -->
