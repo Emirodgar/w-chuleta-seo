@@ -1,4 +1,7 @@
 
+## Factores que afectan al SEO local
+
+
 
 ## Cursos gratuitos
 
@@ -21,5 +24,5 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 
 Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [**The American Independent Business Alliance**](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njk1NTg1NSw2MjkyMDI5ODldfQ==
+eyJoaXN0b3J5IjpbMTUwOTQxMTIwNCw2MjkyMDI5ODldfQ==
 -->
