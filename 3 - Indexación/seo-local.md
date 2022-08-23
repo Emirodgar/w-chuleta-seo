@@ -69,9 +69,13 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 ### ¿Es necesario tener perfil de Google My Business para posicionar en SEO local?
 
-No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos generar una mayor visibilidad dentro de los resultados.
+No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos generar una mayor visibilidad dentro de los resultados de Google.
+
+### ¿Qué datos estructurados se pueden usar para el SEO local?
+
+Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business), [logo](https://developers.google.com/search/docs/advanced/structured-data/logo), Organization 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDY5Mzk1NSw2NzE5NDEyNywtMTQ3NT
-czNTU5MywtNzE3MjQyMjM5LDcyMjcyMDAwNiwxNDM2Mjc1MTU3
-LC0xOTI1OTczNzEzXX0=
+eyJoaXN0b3J5IjpbNTE3OTMxMzk4LDY3MTk0MTI3LC0xNDc1Nz
+M1NTkzLC03MTcyNDIyMzksNzIyNzIwMDA2LDE0MzYyNzUxNTcs
+LTE5MjU5NzM3MTNdfQ==
 -->
