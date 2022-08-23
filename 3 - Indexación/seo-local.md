@@ -1,7 +1,6 @@
 ---
 title: SEO local: estrategias, cursos y recursos
 description: Aprende a desarrollar una estrategia efectiva
-lang: es_ES
 permalink: seo-local
 folder: indexacion
 date: 23/08/2022
@@ -48,6 +47,6 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 - [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNzIwMDA2LDE0MzYyNzUxNTcsLTE5Mj
-U5NzM3MTNdfQ==
+eyJoaXN0b3J5IjpbMTc1OTQ4NTYzMyw3MjI3MjAwMDYsMTQzNj
+I3NTE1NywtMTkyNTk3MzcxM119
 -->
