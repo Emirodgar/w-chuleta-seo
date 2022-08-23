@@ -36,9 +36,12 @@ Cuando trabajamos una estrategia que está en curso, a veces hay algunos aspecto
  4. Optimizar material multimedia (imágenes y vídeos)
  5. Optimizar la versión móvil de nuestra web
  6. Optimizar factores SEO
- 7. Analizar 
+ 7. Optimizar la experiencia de usuario y [tiempos de carga](https://chuletaseo.com/optimizar-tiempo-carga)
+ 8. Optimizar el SEO local
+ 9. Optimizar el enlazado interno
+ 10. Analizar 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQwNTIzNzUsNzM3MDk5Mzc0LC0xMz
-U2NjQ4OTU3XX0=
+eyJoaXN0b3J5IjpbMTk4MDAwMjI1OSw3MzcwOTkzNzQsLTEzNT
+Y2NDg5NTddfQ==
 -->
