@@ -59,11 +59,11 @@ Conocer las palabras clave por las que queremos posicionar es clave para cualqui
 
 ### ¿Cuál es el entregable de un keyword research?
 
-Por norma general suele ser un listado de
+Por norma general suele ser un listado de términos cualificados por volumen de búsquedas mensual, índice de dificultad, posicionamiento actual (si es que posicionamos por ello) y tipo de búsqueda (informacional, navegacional, comercial o transaccional).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjgwNzM3OSwtMjU1OTkwMjc3LDEyNj
+eyJoaXN0b3J5IjpbLTI5NTg4NzY2NiwtMjU1OTkwMjc3LDEyNj
 I3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2Njcy
 NCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLT
 g3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2
