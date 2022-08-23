@@ -1,7 +1,7 @@
 ---
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
-date: 23/06/2022
+date: 23/08/2022
 folder: fuentes-informacion
 permalink: herramientas-seo
   
@@ -187,28 +187,23 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 - [Scrapear resultados de SEO local](https://colab.research.google.com/drive/1t6566fBeU9Ym87R_pyMSqVyJ1bPYKxSc?usp=sharing)
 - [Sugerencias de términos SEO](https://colab.research.google.com/drive/1xk5HYisMsdAy0ezZrpAQQX89Q5B8sP_q?usp=sharing#scrollTo=_69YqWISrtfh)
 
-Una característica que define a un buen SEO es experimentar y probar cosas nuevas. Atentos a este caso de estudio en el que se generaron 10.000 páginas utilizando OpenAI (inteligencia artificial). ¿Te animas a probar algo similar?.
-
-https://twitter.com/shanejones/status/1536624001895768066
-
-
 ## Plugins SEO para Wordpress
 
+- [Yoast SEO](https://es.wordpress.org/plugins/wordpress-seo/) - solución SEO
+- [RankMath](https://rankmath.com/es/) - solución SEO
+- [SiteKit by Google Plugin](https://es.wordpress.org/plugins/google-site-kit/)
 - [Affilitable](https://affiliatable.io/) - tabla comparativa de precios y productos
 - [AkiSmet Antispam](https://akismet.com/)
 - [Disqus](https://disqus.com/)
 - [Easy Table of Contents](https://es.wordpress.org/plugins/easy-table-of-contents/)
 - [Redirection Plugin](https://es.wordpress.org/plugins/redirection/) - gestiona redirecciones 301 y maneja errores 404
 - [ShortPixel](https://es.wordpress.org/plugins/shortpixel-image-optimiser/) - optimizar imágenes
-- [SiteKit by Google Plugin](https://es.wordpress.org/plugins/google-site-kit/)
 - [TablePress](https://es.wordpress.org/plugins/tablepress/)
 - [WP Rocket](https://wp-rocket.me/es/) - mejorar el rendimiento de Wordpress
 - [WP Show Posts](https://es.wordpress.org/plugins/wp-show-posts/)
-- [Yoast SEO](https://es.wordpress.org/plugins/wordpress-seo/) - solución SEO
-- RankMath - solución SEO
+
 
 ## Otras herramientas SEO
-
 
 
 ## Otros
@@ -230,6 +225,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4NjY0NzIsLTE1NjAwMjYzNzcsMz
+eyJoaXN0b3J5IjpbLTE1NjY5Mzc3NDQsLTE1NjAwMjYzNzcsMz
 cxNDc4OTg4XX0=
 -->
