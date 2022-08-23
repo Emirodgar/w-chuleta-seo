@@ -73,9 +73,9 @@ No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos g
 
 ### ¿Qué datos estructurados se pueden usar para el SEO local?
 
-Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
+Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNTM3MDgsNjcxOTQxMjcsLTE0NzU3Mz
-U1OTMsLTcxNzI0MjIzOSw3MjI3MjAwMDYsMTQzNjI3NTE1Nywt
-MTkyNTk3MzcxM119
+eyJoaXN0b3J5IjpbLTk5ODk3NTM3LDY3MTk0MTI3LC0xNDc1Nz
+M1NTkzLC03MTcyNDIyMzksNzIyNzIwMDA2LDE0MzYyNzUxNTcs
+LTE5MjU5NzM3MTNdfQ==
 -->
