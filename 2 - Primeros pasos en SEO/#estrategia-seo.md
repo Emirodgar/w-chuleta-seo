@@ -35,13 +35,13 @@ Cuando trabajamos una estrategia que está en curso, hay algunos aspectos que po
  3. Identificar palabras clave con baja competencia ([keyword research](https://chuletaseo.com/keyword-research)).
  4. Optimizar material multimedia (imágenes y vídeos).
  5. Optimizar la versión móvil de nuestra web.
- 6. Optimizar factores SEO.
- 7. Optimizar la experiencia de usuario y [tiempos de carga](https://chuletaseo.com/optimizar-tiempo-carga).
+ 6. Revisar los factores SEO de nuestro sitio.
+ 7. Mejorar la experiencia de usuario y [tiempos de carga](https://chuletaseo.com/optimizar-tiempo-carga).
  8. Optimizar el SEO local.
  9. Optimizar el enlazado interno.
  10. Medir correctamente el rendimiento de la estrategia. Echa un vistazo a la sección de [informes SEO](https://chuletaseo.com/informes-seo).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ3NTgxMSw3MzcwOTkzNzQsLTEzNT
+eyJoaXN0b3J5IjpbMTE2OTQwODgzMCw3MzcwOTkzNzQsLTEzNT
 Y2NDg5NTddfQ==
 -->
