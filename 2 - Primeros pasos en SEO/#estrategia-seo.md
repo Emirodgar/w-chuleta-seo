@@ -33,8 +33,12 @@ Cuando trabajamos una estrategia que está en curso, a veces hay algunos aspecto
  1. Actualizar contenido existente
  2. Trabajar los datos estructurados
  3. Identificar palabras clave con baja competencia ([keyword research](https://chuletaseo.com/keyword-research))
+ 4. Optimizar material multimedia (imágenes y vídeos)
+ 5. Optimizar la versión móvil de nuestra web
+ 6. Optimizar factores SEO
+ 7. Analizar 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI0MDg2MzAsNzM3MDk5Mzc0LC0xMz
+eyJoaXN0b3J5IjpbLTEwMTQwNTIzNzUsNzM3MDk5Mzc0LC0xMz
 U2NjQ4OTU3XX0=
 -->
