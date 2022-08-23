@@ -10,8 +10,6 @@ permalink: keyword-research
   
 ---
 
-# Keyword Research
-
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica por la que realizamos un estudio para conocer las tendencias de búsqueda de nuestro público objetivo. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos.
 
 ## Guías para hacer keyword research
@@ -32,6 +30,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMT
-E1NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
+eyJoaXN0b3J5IjpbMTA0MTY2NDk2NywtODk4MzcyOTM0LDE1OD
+YyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUy
+MzM4OV19
 -->
