@@ -1,3 +1,12 @@
+---
+title: Estrategias, cursos y recursoSEO local
+description: 
+lang: es_ES
+permalink: seo-local
+folder: indexacion
+date: 23/08/2022
+  
+---
 
 ## Factores que afectan al SEO local
 
@@ -8,7 +17,7 @@ A la hora de trbajar el SEO local, existen una serie de factores que determinar�
 - **Comportamiento**: que los usuarios que interactúan con nuestros resultados (llamas, solicitud de ruta, interacción con imágenes) tengan una buena experiencia, es clave para que sigamos mejorando nuestro posicionamiento.
 - **Valoraciones**: uno de los mecanismos más populares para determinar la calidad de una empresa son las valoraciones. Consigue valoraciones de diferentes fuentes, con contenido y que incluyan términos relacionados con los servicios que se ofrecen.
 - Factores SEO onpage: que nuestra página esté optimizada, ofrezca una buena experiencia a los usuarios y que ofrezca respuesta a lo que están buscando, será clave para el éxito.
-- 
+- **Menciones**: conseguir menciones (que no necesariamente enlaces) ayudará a que nuestro posicionamiento local se vea reforzado.
 
 
 ## Cursos gratuitos
@@ -32,6 +41,6 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 
 Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [**The American Independent Business Alliance**](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTExNzg0NSwxNTA5NDExMjA0LDYyOT
-IwMjk4OV19
+eyJoaXN0b3J5IjpbMTE2MTYyODYsMTUwOTQxMTIwNCw2MjkyMD
+I5ODldfQ==
 -->
