@@ -8,6 +8,15 @@ permalink: keyword-research
   
 ---
 
+# Keyword Research
+
+También conocido como análisis de palabras clave o keyword analysis, se trata de una táctica por la que 
+
+## Guías para hacer keyword research
+
+- https://ahrefs.com/blog/keyword-research/
+- https://moz.com/keyword-research-guide
+- 
 
 ## Herramientas
 
@@ -15,5 +24,5 @@ permalink: keyword-research
 
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volumenes directamente en nuestras búsquedas de Google. Es gratuito.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzgzMTc5NiwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbMjAzNjk2MDg2MSwtMTAxNjUyMzM4OV19
 -->
