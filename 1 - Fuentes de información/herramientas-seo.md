@@ -45,7 +45,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 
 ## Keyword research / Contenidos
 
-- Google Tr  
+- [Google Trends](https://trends.google.com/trends/?geo=US)  
 - [Keywordseverywhere](https://keywordseverywhere.com/)
 -   [Answerthepublic](https://answerthepublic.com/)
 -   [Textoptimizer](https://textoptimizer.com/)
@@ -76,6 +76,8 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [Missing Topics](https://missingtopics.com/)
 -   [Keyword Dificulty Finder](https://share.streamlit.io/searchsolved/seo/production_code/streamlit/keyword_difficulty_check_serp_api/keyword_difficulty_check.py)
 - [Also Asked](https://alsoasked.com/)
+- [QuestionDB](https://questiondb.io/)
+- Free Keyword Tool
 
 ## Datos estructurados
 
@@ -223,6 +225,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDY5OTU1NiwtMTI3OTUxMDE5OCwtMT
-U2MDAyNjM3NywzNzE0Nzg5ODhdfQ==
+eyJoaXN0b3J5IjpbNDMyODY0MzU5LC0xMjc5NTEwMTk4LC0xNT
+YwMDI2Mzc3LDM3MTQ3ODk4OF19
 -->
