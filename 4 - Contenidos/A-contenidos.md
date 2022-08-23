@@ -4,7 +4,6 @@ description: Aprende a trabajar los contenidos SEO de forma eficiente
 date: 23/08/2022
 folder: contenidos
 author: Emirodgar
-layout: default_1
 permalink: contenidos
   
 ---
@@ -27,6 +26,6 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQxNTQwOTksLTgxNDM0NTgsMTA4MT
-g0MzI2OF19
+eyJoaXN0b3J5IjpbNzQ0NTI3ODY0LC04MTQzNDU4LDEwODE4ND
+MyNjhdfQ==
 -->
