@@ -194,12 +194,10 @@ https://twitter.com/shanejones/status/1536624001895768066
 
 ## Plugins SEO para Wordpress
 
-- Affilitable - tabla comparativa de precios y productos
-- AkiSmet Antispam
-- Affilitable - comparison tables and product boxes
-- AkiSmet AntiSpam - WP Comments spam protection
-- Disqus - blog comment service
-- Easy Table of Contents - automatic table of contents
+- [Affilitable](https://affiliatable.io/) - tabla comparativa de precios y productos
+- [AkiSmet Antispam](https://akismet.com/)
+- [Disqus](https://disqus.com/)
+- [Easy Table of Contents](https://es.wordpress.org/plugins/easy-table-of-contents/)
 - Re Redirection Plugin - manage all 301s and monitor 404s
 - ShortPixel - image size optimizer plugin
 - SiteKit by Google Plugin - check traffic inside WP
@@ -232,6 +230,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczODczNTQ1LC0xNTYwMDI2Mzc3LDM3MT
-Q3ODk4OF19
+eyJoaXN0b3J5IjpbMzkyMzIyNSwtMTU2MDAyNjM3NywzNzE0Nz
+g5ODhdfQ==
 -->
