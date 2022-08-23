@@ -1,7 +1,7 @@
 ---
 title: Cómo realizar un keyword research
 description: Aprende a trabajar los contenidos SEO de forma eficiente
-date: 13/08/2022
+date: 23/08/2022
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -30,7 +30,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI2OTQxNjQsLTg3NjgxNDUzOSwtOD
-k4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYy
-MTg1NSwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbOTE1OTg3NzIzLC04NzY4MTQ1MzksLTg5OD
+M3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAxMTI2LC01MjM2MjE4
+NTUsLTEwMTY1MjMzODldfQ==
 -->
