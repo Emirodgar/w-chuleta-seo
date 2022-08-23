@@ -1,5 +1,5 @@
 ---
-title: Contenidos SEO: guías y herramientas gratuitas
+title: Contenidos SEO - Guías y herramientas gratuitas
 description: Aprende a trabajar los contenidos SEO de forma eficiente
 date: 23/08/2022
 folder: contenidos
@@ -20,5 +20,5 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
  3. Plan de contenidos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NTY2OTc5LDEwODE4NDMyNjhdfQ==
+eyJoaXN0b3J5IjpbLTgxNDM0NTgsMTA4MTg0MzI2OF19
 -->
