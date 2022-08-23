@@ -61,11 +61,16 @@ Conocer las palabras clave por las que queremos posicionar es clave para cualqui
 
 Por norma general suele ser un listado de términos cualificados por volumen de búsquedas mensual, índice de dificultad, posicionamiento actual (si es que posicionamos por ello) y tipo de búsqueda (informacional, navegacional, comercial o transaccional).
 
+### ¿Cuál es el proceso de keyword research?
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMj
-YyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3
-MjQsLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC
-04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1
-NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
+eyJoaXN0b3J5IjpbLTc2MDY3MjA5NiwtMTUwNzU4MTU0OSwtMj
+U1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0
+NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2My
+w5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYy
+MDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUyMz
+M4OV19
 -->
