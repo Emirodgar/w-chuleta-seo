@@ -20,12 +20,13 @@ A la hora de trbajar el SEO local, existen una serie de factores que determinar�
 - **Menciones**: conseguir menciones (que no necesariamente enlaces) ayudará a que nuestro posicionamiento local se vea reforzado.
 
 
-## Cursos gratuitos
+## Cursos gratuitos y guías
 
 Aunque la mayor parte de los cursos existentes son de pago, tenemos alguno gratuito.
 
-- /2022 - Moz - [**The Essential Local SEO Strategy Guide**](https://moz.com/local-seo-guide)
+- /2022 - Moz - [The Essential Local SEO Strategy Guide](https://moz.com/local-seo-guide)
 - /2022 - Moz - [Cómo hacer una auditoría SEO local](https://moz.com/blog/basic-local-competitive-audit)
+- /2021 - Whitespark - [Local Search Ranking Factors](https://whitespark.ca/local-search-ranking-factors/)
 
 ## Blogs y podcast sobre SEO local
 
@@ -37,10 +38,8 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 - [Local University](https://localu.org/)
 - [Street Fight](https://streetfightmag.com/)
 
-## 
-
 Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [The American Independent Business Alliance](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzUyMzA2MSwxNTA5NDExMjA0LDYyOT
-IwMjk4OV19
+eyJoaXN0b3J5IjpbMTAxNzc2OTk5LDE1MDk0MTEyMDQsNjI5Mj
+AyOTg5XX0=
 -->
