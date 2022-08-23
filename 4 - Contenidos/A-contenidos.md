@@ -10,14 +10,14 @@ permalink: contenidos
 
 ## El contenido es el rey
 
-Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos. Trabajarlos adecuadamente nos ayudará a 
+Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos. Trabajarlos adecuadamente nos ayudará a generar una ventaja competitiva dentro de nuestro sector.
 
-## Primeros pasos en SEO 
+## Primeros pasos en contenidos SEO 
 
  1. Keyword research
  2. Estrategia de contenidos
  3. Plan de contenidos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDk3Mzg4MV19
+eyJoaXN0b3J5IjpbLTQzNzY3ODI0NF19
 -->
