@@ -45,7 +45,8 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 
 ## Keyword research / Contenidos
 
--   [Keywordseverywhere](https://keywordseverywhere.com/)
+- Google Tr  
+- [Keywordseverywhere](https://keywordseverywhere.com/)
 -   [Answerthepublic](https://answerthepublic.com/)
 -   [Textoptimizer](https://textoptimizer.com/)
 -   [Keywordshitter](http://keywordshitter.com/)
@@ -222,6 +223,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1MTAxOTgsLTE1NjAwMjYzNzcsMz
-cxNDc4OTg4XX0=
+eyJoaXN0b3J5IjpbMjEyMDY5OTU1NiwtMTI3OTUxMDE5OCwtMT
+U2MDAyNjM3NywzNzE0Nzg5ODhdfQ==
 -->
