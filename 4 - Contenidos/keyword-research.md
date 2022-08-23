@@ -26,9 +26,9 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 ### Extensiones para Google Chrome
 
-- [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volumenes directamente en nuestras búsquedas de Google. Es gratuito.
-- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): nos
+- [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
+- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI0ODcwODQsLTEwMTY1MjMzODldfQ
+eyJoaXN0b3J5IjpbLTE4ODU5MDk2NjgsLTEwMTY1MjMzODldfQ
 ==
 -->
