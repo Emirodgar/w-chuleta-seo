@@ -63,6 +63,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 - [SERPerator](https://mobilemoxie.com/tools/mobile-serp-test/): realiza búsquedas geolocalizadas por país, ciudad e incluso código postal.
 - [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
 - [GMB Everywhere](https://chrome.google.com/webstore/detail/gmb-everywhere-gbp-audit/oibcaeeplepnjfjhokfcabnaafodppik): a extensión de Chrome para ejecutar auditorías de perfiles de GMB.
+- 
 
 ## Noticias relacionadas
 
@@ -78,7 +79,7 @@ No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos g
 
 Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODMwMzc0MywtOTk4OTc1MzcsNjcxOT
-QxMjcsLTE0NzU3MzU1OTMsLTcxNzI0MjIzOSw3MjI3MjAwMDYs
-MTQzNjI3NTE1NywtMTkyNTk3MzcxM119
+eyJoaXN0b3J5IjpbNjYzOTk0Mjk4LDEwNDgzMDM3NDMsLTk5OD
+k3NTM3LDY3MTk0MTI3LC0xNDc1NzM1NTkzLC03MTcyNDIyMzks
+NzIyNzIwMDA2LDE0MzYyNzUxNTcsLTE5MjU5NzM3MTNdfQ==
 -->
