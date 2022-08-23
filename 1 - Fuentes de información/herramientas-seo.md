@@ -48,6 +48,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 - [Google Trends](https://trends.google.com/trends/?geo=US)  
 - [Keywordseverywhere](https://keywordseverywhere.com/)
 -   [Answerthepublic](https://answerthepublic.com/)
+- [Keyword generator](https://ahrefs.com/keyword-generator)
 -   [Textoptimizer](https://textoptimizer.com/)
 -   [Keywordshitter](http://keywordshitter.com/)
 -   [Metatags](https://metatags.io/)
@@ -225,6 +226,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDczMDQ5MzEsLTEyNzk1MTAxOTgsLT
+eyJoaXN0b3J5IjpbLTE5MjI2ODYzNTYsLTEyNzk1MTAxOTgsLT
 E1NjAwMjYzNzcsMzcxNDc4OTg4XX0=
 -->
