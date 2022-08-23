@@ -10,7 +10,7 @@ date: 23/08/2022
 
 ## Factores que afectan al SEO local
 
-A la hora de trbajar el SEO local, existen una serie de factores que determinarán nuestro futuro posicionamiento. 
+A la hora de trabajar el SEO local, existen una serie de factores que determinarán nuestro futuro posicionamiento. 
 
 - **Enlaces**: al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
 - **Google My Business**: disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
@@ -48,5 +48,6 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 - [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjI3NTE1NywtMTkyNTk3MzcxM119
+eyJoaXN0b3J5IjpbNzIyNzIwMDA2LDE0MzYyNzUxNTcsLTE5Mj
+U5NzM3MTNdfQ==
 -->
