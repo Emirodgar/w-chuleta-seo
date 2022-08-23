@@ -43,6 +43,10 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 ## Recursos para SEO local
 
 - [Google Review Link Generator](https://whitespark.ca/google-review-link-generator/): para conseguir un enlace corto que poder compartir con nuestros clientes y que nos dejen valoraciones en nuestro perfil.
+
+## Noticias relacionadas
+
+- [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa cuando una valoración es rechazada (no se publica) por considerarse falsa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU5NzM3MTNdfQ==
+eyJoaXN0b3J5IjpbMjc2OTcyNDg1LC0xOTI1OTczNzEzXX0=
 -->
