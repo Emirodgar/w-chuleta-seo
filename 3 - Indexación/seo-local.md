@@ -64,8 +64,14 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 ## Noticias relacionadas
 
 - [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa, vía email, cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
+
+## Preguntas y respuestas
+
+### ¿Es necesario tener perfil de Google My Business para posicionar en SEO local?
+
+No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos generar una mayor visibilidad dentro de los resultados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxOTQxMjcsLTE0NzU3MzU1OTMsLTcxNz
-I0MjIzOSw3MjI3MjAwMDYsMTQzNjI3NTE1NywtMTkyNTk3Mzcx
-M119
+eyJoaXN0b3J5IjpbLTc0MDY5Mzk1NSw2NzE5NDEyNywtMTQ3NT
+czNTU5MywtNzE3MjQyMjM5LDcyMjcyMDAwNiwxNDM2Mjc1MTU3
+LC0xOTI1OTczNzEzXX0=
 -->
