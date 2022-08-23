@@ -35,12 +35,16 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 </section>
 
+
+<section  id="cs_pr">
 ## Preguntas y respuestas
+
+</section>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOT
-E1OTg3NzIzLC04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2
-MjM1LC0xMTE1NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzOD
-ldfQ==
+eyJoaXN0b3J5IjpbLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMT
+A1OTExMDA2Myw5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4Mzcy
+OTM0LDE1ODYyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NS
+wtMTAxNjUyMzM4OV19
 -->
