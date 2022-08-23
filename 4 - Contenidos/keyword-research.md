@@ -4,7 +4,7 @@ description: Aprende a trabajar los contenidos SEO de forma eficiente
 date: 23/08/2022
 folder: contenidos
 author: Emirodgar
-theme: default1
+layout: default1
 permalink: keyword-research
   
 ---
@@ -31,6 +31,6 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NzU3NTU5LC0xMTE1NjAxMTI2LC01Mj
+eyJoaXN0b3J5IjpbMzA1MTQ0NzY4LC0xMTE1NjAxMTI2LC01Mj
 M2MjE4NTUsLTEwMTY1MjMzODldfQ==
 -->
