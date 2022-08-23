@@ -15,9 +15,9 @@ También conocido como **análisis de palabras clave** o ***keyword analysis***,
 
 ## Guías para hacer keyword research
 
-- https://ahrefs.com/blog/keyword-research/
-- https://moz.com/keyword-research-guide
-- https://backlinko.com/keyword-research
+- /2022 - https://ahrefs.com/blog/keyword-research/
+- /2022 - https://moz.com/keyword-research-guide
+- /2022 - https://backlinko.com/keyword-research
 
 ## Herramientas
 
@@ -31,6 +31,6 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTA2OTYxLC0xMTE1NjAxMTI2LC01Mj
+eyJoaXN0b3J5IjpbNjM5NzU3NTU5LC0xMTE1NjAxMTI2LC01Mj
 M2MjE4NTUsLTEwMTY1MjMzODldfQ==
 -->
