@@ -10,14 +10,14 @@ permalink: contenidos
 
 ## El contenido es el rey
 
-Dentro de una estrategia SEO, tenemos tre
+Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos. Trabajarlos adecuadamente nos ayudará a 
 
 ## Primeros pasos en SEO 
 
- 1. [Auditoría SEO](https://chuletaseo.com/auditoria-seo)
- 2. Estrategia SEO
- 3. Objetivos SEO
- 4. Conversión SEO
+ 1. Keyword research
+ 2. Estrategia de contenidos
+ 3. Plan de contenidos
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYwNTEyODFdfQ==
+eyJoaXN0b3J5IjpbLTgwMDk3Mzg4MV19
 -->
