@@ -25,6 +25,11 @@ Otras herramientas no tan conocidas (ni tampoco con tanta funcionalidad) son las
 - https://www.lipperhey.com
 - https://varvy.com/
 - http://www.siteliner.com (para validar ciertos aspectos de tu web)
+
+## Mejorar una estrategia SEO existente
+
+Cuando 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MDk5Mzc0LC0xMzU2NjQ4OTU3XX0=
+eyJoaXN0b3J5IjpbMTM3ODA0MTEwNSw3MzcwOTkzNzQsLTEzNT
+Y2NDg5NTddfQ==
 -->
