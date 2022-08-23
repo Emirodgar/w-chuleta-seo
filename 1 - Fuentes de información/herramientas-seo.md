@@ -205,9 +205,6 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 
 ## Otras herramientas SEO
 
-
-## Otros
-
 Listado de otras herramientas que pueden resultar útiles para nuestro trabajo en marketing.
 
 -   [Tutanota](https://tutanota.com/): para enviar emails cifrados y con dominio personalizado (plan de pago)
@@ -225,6 +222,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/)
 - [OptinMonster](https://optinmonster.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA5MTc0NywtMTU2MDAyNjM3NywzNz
-E0Nzg5ODhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDc1NzE2NzYsLTE1NjAwMjYzNzcsMz
+cxNDc4OTg4XX0=
 -->
