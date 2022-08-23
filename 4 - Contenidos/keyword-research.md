@@ -12,11 +12,18 @@ permalink: keyword-research
 
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica por la que realizamos un estudio para conocer las tendencias de búsqueda de nuestro público objetivo. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos.
 
+Es un proceso clave para a
+
+<section  id="cs_recursos">
+
+
 ## Guías para hacer keyword research
 
 - /2022 - [Ahrefs - Keyword Research](https://ahrefs.com/blog/keyword-research/) 
 - /2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
 - /2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
+
+</section>
 
 <section  id="cs_herramientas">
 
@@ -46,8 +53,8 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MjY3NDQyLC00MTk1NjY3MjQsLTEzNj
-E1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4MTQ1
-MzksLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAxMTI2LC
-01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
+eyJoaXN0b3J5IjpbLTgwMDE4NjE2LDc4NDI2NzQ0MiwtNDE5NT
+Y2NzI0LC0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4Nzcy
+MywtODc2ODE0NTM5LC04OTgzNzI5MzQsMTU4NjIwNjIzNSwtMT
+ExNTYwMTEyNiwtNTIzNjIxODU1LC0xMDE2NTIzMzg5XX0=
 -->
