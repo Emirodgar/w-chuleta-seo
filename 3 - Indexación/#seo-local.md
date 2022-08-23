@@ -1,6 +1,9 @@
 
 ## Factores que afectan al SEO local
 
+A la hora de trbajar el SEO local, existen una serie de factores que determinarán nuestro futuro posicionamiento. 
+
+- Enlaces: al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dom
 
 
 ## Cursos gratuitos
@@ -24,5 +27,6 @@ Algunas guías, blogs y podcast para mejorar nuestra estrategia de SEO local.
 
 Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [**The American Independent Business Alliance**](https://amiba.net/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTQxMTIwNCw2MjkyMDI5ODldfQ==
+eyJoaXN0b3J5IjpbLTkxNTMyODUwMiwxNTA5NDExMjA0LDYyOT
+IwMjk4OV19
 -->
