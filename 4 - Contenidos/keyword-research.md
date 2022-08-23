@@ -12,7 +12,7 @@ permalink: keyword-research
 
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica por la que realizamos un estudio para conocer las tendencias de búsqueda de nuestro público objetivo. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos.
 
-Es un proceso clave para a
+Es un proceso clave para asegurar que la futura estrategia SEO impactará en nuestro público objetivo.
 
 <section  id="cs_recursos">
 
@@ -53,8 +53,8 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDE4NjE2LDc4NDI2NzQ0MiwtNDE5NT
-Y2NzI0LC0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4Nzcy
-MywtODc2ODE0NTM5LC04OTgzNzI5MzQsMTU4NjIwNjIzNSwtMT
-ExNTYwMTEyNiwtNTIzNjIxODU1LC0xMDE2NTIzMzg5XX0=
+eyJoaXN0b3J5IjpbMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOT
+U2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3
+MjMsLTg3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLT
+ExMTU2MDExMjYsLTUyMzYyMTg1NSwtMTAxNjUyMzM4OV19
 -->
