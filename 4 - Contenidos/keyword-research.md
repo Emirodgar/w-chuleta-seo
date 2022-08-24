@@ -71,7 +71,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
               </div>
               <div class="card">
                 <div class="card-header" id="heading3">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">What are some examples of permitted end products?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Cómo se clasifican?</a> </h5>
                 </div>
                 <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
                   <div class="card-body"> Iisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Mutat tacimates id sit. Ridens mediocritatem ius an, eu nec magna imperdiet. </div>
@@ -87,10 +87,10 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
               </div>
               <div class="card">
                 <div class="card-header" id="heading5">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">What is a single application?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">¿Cómo se clasifica cada palabra clave?</a> </h5>
                 </div>
                 <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
-                  <div class="card-body"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. </div>
+                  <div class="card-body"> Lo más lógico es hacerlo a través de la intención de búsqueda del usuario, lo cuál nos permito. </div>
                 </div>
               </div>
               <div class="card">
@@ -106,11 +106,14 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
         </div>
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNz
-YwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2
-NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC
-0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2
-ODE0NTM5LC04OTgzNzI5MzQsMTU4NjIwNjIzNSwtMTExNTYwMT
-EyNiwtNTIzNjIxODU1LC0xMDE2NTIzMzg5XX0=
+eyJoaXN0b3J5IjpbMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMj
+g4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5
+MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC
+00MTk1NjY3MjQsLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1
+OTg3NzIzLC04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2Mj
+M1LC0xMTE1NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODld
+fQ==
 -->
