@@ -36,7 +36,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 - [Google Trends](https://trends.google.com/trends/?geo=US): para identificar tendencias de búsqueda en múltiples países.
 - [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes 
-- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone 
+- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone la actualización de Google: *Helpful Content Update*.
 
 ### Extensiones para Google Chrome
 
@@ -50,13 +50,10 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 ## Preguntas y respuestas
 
-### ¿Cuántos tipos de keyword research existen?
 
-Tipo, como tal, sólo existe uno, pero el objetivo puede ser diferente en función de lo que estemos buscando. En proyectos nuevos, nos interesa obtener todos los términos para poder definir la arquitectura de nuestro sitio web, en proyectos existentes nos puede ayudar a identificar términos que no estamos usando para cualificar la estrategia de contenidos u optimizar los contenidos existentes.
+### 
 
-### ¿Qué relación existe entre el análisis de palabras clave y el Inbound marketing?
 
-Conocer las palabras clave por las que queremos posicionar es clave para cualquier estrategia SEO. Cada término tendrá un enfoque distinto, algunos estarán relacionados con la búsqueda de conocimiento (informacional) y otros orientados a las ventas (transaccional). Clasificar cada término según el comportamiento, permitirá alinear el keyword research a una estrategia de Inbound marketing.
 
 ### ¿Cuál es el entregable de un keyword research?
 
@@ -73,15 +70,15 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
             <div class="accordion accordion-alterate arrow-right" id="popularTopics">
               <div class="card">
                 <div class="card-header" id="heading1">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">What does royalty free mean?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cuántos tipos de keyword research existen?</a> </h5>
                 </div>
                 <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-                  <div class="card-body"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </div>
+                  <div class="card-body">Tipo, como tal, sólo existe uno, pero el objetivo puede ser diferente en función de lo que estemos buscando. En proyectos nuevos, nos interesa obtener todos los términos para poder definir la arquitectura de nuestro sitio web, en proyectos existentes nos puede ayudar a identificar términos que no estamos usando para cualificar la estrategia de contenidos u optimizar los contenidos existentes. </div>
                 </div>
               </div>
               <div class="card">
                 <div class="card-header" id="heading2">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">What is a single application?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Qué relación existe entre el análisis de palabras clave y el Inbound marketing?</a> </h5>
                 </div>
                 <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
                   <div class="card-body"> Iisque Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. </div>
@@ -125,7 +122,7 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MzgxNzAxLDEyODg2NTE1NjUsLTc2MD
+eyJoaXN0b3J5IjpbLTQ1NDA0NDQ5LDEyODg2NTE1NjUsLTc2MD
 Y3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4
 MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMT
 M2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLTg3Njgx
