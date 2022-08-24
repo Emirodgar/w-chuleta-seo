@@ -50,21 +50,6 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 ## Preguntas y respuestas
 
-
-### 
-
-
-
-### ¿Cuál es el entregable de un keyword research?
-
-Por norma general suele ser un listado de términos cualificados por volumen de búsquedas mensual, índice de dificultad, posicionamiento actual (si es que posicionamos por ello) y tipo de búsqueda (informacional, navegacional, comercial o transaccional).
-
-### ¿Cuál es el proceso de keyword research?
-
-Primero realizamos una búsqueda de todos los términos que consideramos relevantes para nuestra estrategia. Podemos analizar el sector, el mercado y también a los principales competidores. Segundo, analizamos y seleccionamos aquellos términos que consideramos importantes. Clasificamos cada término en función de su intención de búsqueda y hacemos el enganche con la página: si irá en una página independiente, será un término secundario, será utilizado en el plan de contenidos del blog, etc.
-
-
-
 <div class="row">
           <div class="col-lg-12">
             <div class="accordion accordion-alterate arrow-right" id="popularTopics">
@@ -81,7 +66,7 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
                   <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Qué relación existe entre el análisis de palabras clave y el Inbound marketing?</a> </h5>
                 </div>
                 <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
-                  <div class="card-body"> Iisque Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. </div>
+                  <div class="card-body"> Conocer las palabras clave por las que queremos posicionar es clave para cualquier estrategia SEO. Cada término tendrá un enfoque distinto, algunos estarán relacionados con la búsqueda de conocimiento (informacional) y otros orientados a las ventas (transaccional). Clasificar cada término según el comportamiento, permitirá alinear el keyword research a una estrategia de Inbound marketing. </div>
                 </div>
               </div>
               <div class="card">
@@ -94,10 +79,10 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
               </div>
               <div class="card">
                 <div class="card-header" id="heading4">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">I'm not sure if my use is covered. What should I do?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Cuál es el entregable de un keyword research?</a> </h5>
                 </div>
                 <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
-                  <div class="card-body"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. </div>
+                  <div class="card-body"> Por norma general suele ser un listado de términos cualificados por volumen de búsquedas mensual, índice de dificultad, posicionamiento actual (si es que posicionamos por ello) y tipo de búsqueda (informacional, navegacional, comercial o transaccional).</div>
                 </div>
               </div>
               <div class="card">
@@ -110,10 +95,10 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
               </div>
               <div class="card">
                 <div class="card-header" id="heading6">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">Am I allowed to modify the item that I purchased?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">¿Cuál es el proceso de keyword research?</a> </h5>
                 </div>
                 <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#popularTopics">
-                  <div class="card-body"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Ad vegan excepteur butcher vice lomo. </div>
+                  <div class="card-body"> Primero realizamos una búsqueda de todos los términos que consideramos relevantes para nuestra estrategia. Podemos analizar el sector, el mercado y también a los principales competidores. Segundo, analizamos y seleccionamos aquellos términos que consideramos importantes. Clasificamos cada término en función de su intención de búsqueda y hacemos el enganche con la página: si irá en una página independiente, será un término secundario, será utilizado en el plan de contenidos del blog, etc. </div>
                 </div>
               </div>
             </div>
@@ -122,10 +107,10 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDA0NDQ5LDEyODg2NTE1NjUsLTc2MD
-Y3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4
-MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMT
-M2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLTg3Njgx
-NDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2MDExMj
-YsLTUyMzYyMTg1NSwtMTAxNjUyMzM4OV19
+eyJoaXN0b3J5IjpbMTg1NTQ3MTM4NCwxMjg4NjUxNTY1LC03Nj
+A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
+ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
+EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
+MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2MjM1LC0xMTE1NjAxMT
+I2LC01MjM2MjE4NTUsLTEwMTY1MjMzODldfQ==
 -->
