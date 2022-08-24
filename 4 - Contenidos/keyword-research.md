@@ -74,7 +74,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
                   <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Qué tipos de palabras clave podemos analizar?</a> </h5>
                 </div>
                 <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
-                  <div class="card-body"> Generalmente se usa la clasificación basada en: 1) términos generales, que son aquellas que tienen un gran volumen pero . </div>
+                  <div class="card-body"> Generalmente se emplea la clasificación basada en tres niveles. El primero corresponde a los términos generales, que son aquellas que tienen un gran volumen, pero no son específicas, términos  </div>
                 </div>
               </div>
               <div class="card">
@@ -109,11 +109,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMTYzNTYzLDE2MzcxODg2MjEsLTE5NT
-gwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgx
-NTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LD
-c4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC0xMDU5
-MTEwMDYzLDkxNTk4NzcyMywtODc2ODE0NTM5LC04OTgzNzI5Mz
-QsMTU4NjIwNjIzNSwtMTExNTYwMTEyNiwtNTIzNjIxODU1LC0x
-MDE2NTIzMzg5XX0=
+eyJoaXN0b3J5IjpbLTk1MTA3NDQxOSwxNjM3MTg4NjIxLC0xOT
+U4MDQ5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4
+MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNi
+w3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1
+OTExMDA2Myw5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4MzcyOT
+M0LDE1ODYyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NSwt
+MTAxNjUyMzM4OV19
 -->
