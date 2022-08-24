@@ -17,7 +17,7 @@ Mi nombre es Emilio Rodríguez y llevo desde el 2007 trabajando en el mundo del 
 
 Si quieres saber más sobre mí, te recomiendo que conectemos a través de [LinkedIn](https://www.linkedin.com/in/emirodgar/) o que te des una vuelta por mi [página web](https://emirodgar.com), donde publico temas relacionados con el marketing, SEO y datos.
 
-Compagino mi trabajo como director SEO en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
+Compagino mi trabajo como director SEO en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -25,10 +25,11 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2015` - `2019` - `2021` - `2022` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
 - `2018` - Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
 - `2016` - Certificación de Inbound Marketing de Hubspot
+- `2014` - Asesor SEO homologado por ICEX España
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTQyMjgxMSw0MTU0NjM2MDEsLTE1NT
-MzODI1NjIsMTQzNDMyNTIxNCwtMzAzNzkyNjQsMTc1MjU2MDEw
-OF19
+eyJoaXN0b3J5IjpbMjEzMzk0NzUyLDQxNTQ2MzYwMSwtMTU1Mz
+M4MjU2MiwxNDM0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4
+XX0=
 -->
