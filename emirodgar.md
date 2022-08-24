@@ -19,8 +19,12 @@ Si quieres saber más sobre mí, te recomiendo que conectemos a través de [Link
 
 Compagino mi trabajo como director SEO en Smartup, agencia internacional de marketing digital, como asesor de ICEX Next y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
 
-Certificaciones de Google Analytics
+## Certificaciones
+A lo largo de los años he apostado por seguir formándome y aprendiendo
+
+- Certificaciones de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
+- Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTYyNzI5NiwxNDM0MzI1MjE0LC0zMD
-M3OTI2NCwxNzUyNTYwMTA4XX0=
+eyJoaXN0b3J5IjpbLTE4OTc2NzM2MzksMTQzNDMyNTIxNCwtMz
+AzNzkyNjQsMTc1MjU2MDEwOF19
 -->
