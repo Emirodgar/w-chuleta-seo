@@ -1,5 +1,5 @@
 ---
-title: Emirodgar - Director SEO
+title: Emirodgar - Emilio Rodríguez
 description: 
 date: 24/08/2022
 folder: autor
@@ -28,6 +28,6 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo
 - Certificación de Webtrekk
 - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMz
-AzNzkyNjQsMTc1MjU2MDEwOF19
+eyJoaXN0b3J5IjpbNzE2NTEzMjMzLC0xNTUzMzgyNTYyLDE0Mz
+QzMjUyMTQsLTMwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
 -->
