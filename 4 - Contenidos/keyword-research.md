@@ -34,8 +34,9 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en nue
 
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). Entre las más destacadas, se encuentran:
 
-- [Google Trends](https://trends.google.com/trends/?geo=US): para identificar tendencias de búsqueda en múltiples países. Recomiendo instalar la extensión [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es) para añadir nuevas funcionalidades a Trends.
+- [Google Trends](https://trends.google.com/trends/?geo=US): para identificar tendencias de búsqueda en múltiples países.
 - [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes 
+- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone 
 
 ### Extensiones para Google Chrome
 
@@ -124,10 +125,10 @@ Primero realizamos una búsqueda de todos los términos que consideramos relevan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNT
-A3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4
-MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC
-0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2ODE0NTM5LC04OTgz
-NzI5MzQsMTU4NjIwNjIzNSwtMTExNTYwMTEyNiwtNTIzNjIxOD
-U1LC0xMDE2NTIzMzg5XX0=
+eyJoaXN0b3J5IjpbNzc5MzgxNzAxLDEyODg2NTE1NjUsLTc2MD
+Y3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4
+MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMT
+M2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLTg3Njgx
+NDUzOSwtODk4MzcyOTM0LDE1ODYyMDYyMzUsLTExMTU2MDExMj
+YsLTUyMzYyMTg1NSwtMTAxNjUyMzM4OV19
 -->
