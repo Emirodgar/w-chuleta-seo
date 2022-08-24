@@ -11,7 +11,10 @@ permalink: emirodgar
 
 ![Emirodgar](https://emirodgar.com/cdn/images/author/emirodgar.jpg)
 
+Padre, 
+Mi nombre es Emilio, 
 
+Certificaciones de Google Analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTgyMTkyNywxNzUyNTYwMTA4XX0=
+eyJoaXN0b3J5IjpbLTMwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
 -->
