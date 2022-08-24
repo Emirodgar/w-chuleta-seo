@@ -71,10 +71,10 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
               </div>
               <div class="card">
                 <div class="card-header" id="heading3">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Cómo se clasifican?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Qué tipos de palabras clave podemos analizar?</a> </h5>
                 </div>
                 <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
-                  <div class="card-body"> Iisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Mutat tacimates id sit. Ridens mediocritatem ius an, eu nec magna imperdiet. </div>
+                  <div class="card-body"> Generalmente se usa la clasificación basada en: 1) términos generales, que son aquellas que tienen un gran volumen pero . </div>
                 </div>
               </div>
               <div class="card">
@@ -109,7 +109,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NTcwODc0LDE2MzcxODg2MjEsLTE5NT
+eyJoaXN0b3J5IjpbMjQyMTYzNTYzLDE2MzcxODg2MjEsLTE5NT
 gwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgx
 NTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LD
 c4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC0xMDU5
