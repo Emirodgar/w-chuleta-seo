@@ -90,7 +90,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
                   <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">¿Cómo se clasifica cada palabra clave?</a> </h5>
                 </div>
                 <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
-                  <div class="card-body"> Lo más lógico es hacerlo a través de la intención de búsqueda del usuario, lo cuál nos permito. </div>
+                  <div class="card-body"> Lo más lógico es hacerlo a través de la intención de búsqueda del usuario, lo cual nos permito. </div>
                 </div>
               </div>
               <div class="card">
@@ -109,11 +109,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMj
-g4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5
-MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC
-00MTk1NjY3MjQsLTEzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1
-OTg3NzIzLC04NzY4MTQ1MzksLTg5ODM3MjkzNCwxNTg2MjA2Mj
-M1LC0xMTE1NjAxMTI2LC01MjM2MjE4NTUsLTEwMTY1MjMzODld
-fQ==
+eyJoaXN0b3J5IjpbMTQ2Mzk0MDIzNywxNjM3MTg4NjIxLC0xOT
+U4MDQ5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4
+MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNi
+w3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1
+OTExMDA2Myw5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4MzcyOT
+M0LDE1ODYyMDYyMzUsLTExMTU2MDExMjYsLTUyMzYyMTg1NSwt
+MTAxNjUyMzM4OV19
 -->
