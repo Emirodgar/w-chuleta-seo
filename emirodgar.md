@@ -22,12 +22,12 @@ Compagino mi trabajo como director SEO en Smartup, agencia internacional de mark
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo
 
-- Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
-- Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
-- Certificación de Inbound Marketing de Hubspot
-- Certificación de Webtrekk
-- Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
+- `2011` - `2012` - `2011` - `201`Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
+- `2018`Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
+- `2016`Certificación de Inbound Marketing de Hubspot
+- `2011`Certificación de Webtrekk
+- `2009` Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NTEzMjMzLC0xNTUzMzgyNTYyLDE0Mz
-QzMjUyMTQsLTMwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbMTE5NDk0NjQwOSwtMTU1MzM4MjU2MiwxND
+M0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
 -->
