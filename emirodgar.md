@@ -5,7 +5,7 @@ date: 24/08/2022
 folder: autor
 author: Emirodgar
 layout: default_1
-permalink: autor/emirodgar
+permalink: emirodgar
   
 ---
 
@@ -19,6 +19,6 @@ Si quieres saber más sobre mí, te recomiendo que conectemos a través de [Link
 
 Certificaciones de Google Analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM4Njg3NTAsLTMwMzc5MjY0LDE3NT
-I1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbMTQzNDMyNTIxNCwtMzAzNzkyNjQsMTc1Mj
+U2MDEwOF19
 -->
