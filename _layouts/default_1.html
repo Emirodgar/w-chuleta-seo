@@ -102,7 +102,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<!-- Sidebar Navigation
 	============================ -->
 	<div class="idocs-navigation bg-light">
-      <ul class="nav flex-column spyscroll">
+	  {% if page.folder != "autor" %}
+	  <ul class="nav flex-column spyscroll">
         <li class="nav-item"><a class="nav-link active" href="#cs_principio">Secciones</a>
 			<ul class="nav flex-column">
 			  <li class="nav-item"><a class="nav-link" href="#cs_intro">Introducción</a></li>
@@ -117,6 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </ul>
 		</li>
 	  </ul>
+	  {% endif %}
 	  <ul class="nav flex-column ">
 		<li class="nav-item"><a class="nav-link active" href="https://chuletaseo.com/fuentes-informacion">Empezar en SEO</a>
           <ul class="nav flex-column">
