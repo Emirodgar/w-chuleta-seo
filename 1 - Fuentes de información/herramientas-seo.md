@@ -10,6 +10,8 @@ permalink: herramientas-seo
 1. 
 {:toc}
 
+A además de este completo listado, aquí tenemos otra agrupación de [100 herramientas SEO gratuitas](https://www.searchenginejournal.com/top-free-seo-tools/302553/).
+
 ## Herramientas para hacer auditorías SEO
 
 Si queremos una suite que nos permita entender cómo está en términos SEO una página, podemos hacer uso de las siguientes herramientas:
@@ -229,6 +231,6 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 - [Removal AI](https://removal.ai/): para eliminar el fondo de una imagen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI1NjQxNTcsLTUzMDczMDU3MiwtMT
-I3OTUxMDE5OCwtMTU2MDAyNjM3NywzNzE0Nzg5ODhdfQ==
+eyJoaXN0b3J5IjpbMTk4ODg5NTc3NiwtNTMwNzMwNTcyLC0xMj
+c5NTEwMTk4LC0xNTYwMDI2Mzc3LDM3MTQ3ODk4OF19
 -->
