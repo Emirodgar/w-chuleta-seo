@@ -37,7 +37,7 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en el 
 <section  id="cs_herramientas"></section>
 
 
-## Herramientas
+## Herramientas gratuitas
 
 
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). Entre las más destacadas, se encuentran:
@@ -129,7 +129,7 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzY3NjgwNywtMTQ2NTIwNTU4MCwtMT
+eyJoaXN0b3J5IjpbLTU5MjA1MjQyOSwtMTQ2NTIwNTU4MCwtMT
 Q3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2NTQ2NSwxMzczNzE2
 MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExOD
 cwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUx
