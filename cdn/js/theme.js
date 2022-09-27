@@ -10,6 +10,11 @@
 (function ($) {
 	"use strict";
 
+	$('.nav-menu').on('click', function() {
+		$(".nav-menu").removeClass("active");
+		$(this).addClass('active');
+	});
+
 // Preloader
 /*
 $(window).on('load', function () {
@@ -18,10 +23,7 @@ $(window).on('load', function () {
 	$('body').delay(333);
 });/*
 
-$('.nav-menu').on('click', function() {
-	$(".nav-menu").removeClass("active");
-	$(this).addClass('active');
-});
+
 
 /*-------------------------------
     Primary Menu
@@ -118,7 +120,7 @@ function changePage(event) {
         window.location.href = $(event.target).attr('href');
         return;
     }
-    //...
+    
 }
 $(function () {
     $('.nav li').click( changePage );
