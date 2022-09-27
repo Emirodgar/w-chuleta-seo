@@ -54,6 +54,9 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 -   [Thesaurus.com](http://www.thesaurus.com/): para buscar sinónimos y evitar repetir términos clave.
 -   [Synonym.com](http://www.synonym.com/): otra página para encontrar términos equivalentes o similares.
 
+Hay varios proyectos que utilizan la inteligencia artificial para optimizar y generar coten. Lo podemos orientar para la generación de nuevos contenidos, la creación de nuevas landings o el análisis
+- https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/
+
 ### Extensiones para Google Chrome
 
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
@@ -125,11 +128,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTIzODc1NSw1MDc3Nzk5MDEsLTU0Mz
-I2NTQ2NSwxMzczNzE2MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMs
-NzExODgzNzYyLDExODcwNTU5MjMsMTYzNzE4ODYyMSwtMTk1OD
-A0OTgwMSwxMjg4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1
-NDksLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNz
-g0MjY3NDQyLC00MTk1NjY3MjQsLTEzNjE1NTI2MDQsLTEwNTkx
-MTAwNjNdfQ==
+eyJoaXN0b3J5IjpbNDM2OTgxMzA2LDUwNzc3OTkwMSwtNTQzMj
+Y1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMyw3
+MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MD
+Q5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0
+OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3OD
+QyNjc0NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTEx
+MDA2M119
 -->
