@@ -113,6 +113,17 @@ $('.smooth-scroll,.idocs-navigation a').on('click', function() {
       scrollTop: $(sectionTo).offset().top - 120}, 1000, 'easeInOutExpo');
 });
 
+function changePage(event) {
+    if($(event.target).hasClass('external')) {
+        window.location.href = $(event.target).attr('href');
+        return;
+    }
+    //...
+}
+$(function () {
+    $('.nav li').click( changePage );
+}
+
 /*-----------------------------
     Magnific Popup
 ------------------------------- 
