@@ -34,14 +34,14 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en el 
 
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). Entre las más destacadas, se encuentran:
 
-- [Google Trends](https://trends.google.com/trends/?geo=US): para identificar tendencias de búsqueda en múltiples países.
+- [Google Trends](https://trends.google.com/trends/?geo=US): identifica tendencias de búsqueda en múltiples países.
 - [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes 
 - [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone la actualización de Google: *Helpful Content Update*.
 
 ### Extensiones para Google Chrome
 
 - [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
-- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a Google Trends.
+- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a la herramienta de Google Trends.
 
 
 
@@ -109,11 +109,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzYwNTUzLDgyMjMyMDgxMyw3MTE4OD
-M3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MDQ5ODAx
-LDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0OSwtMj
-U1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0
-NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2My
-w5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYy
-MDYyMzVdfQ==
+eyJoaXN0b3J5IjpbMTIxNTU1MzE1NSwtNTczNjA1NTMsODIyMz
+IwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEs
+LTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNT
+A3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4
+MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC
+0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2ODE0NTM5LC04OTgz
+NzI5MzRdfQ==
 -->
