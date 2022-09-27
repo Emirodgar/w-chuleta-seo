@@ -23,15 +23,12 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en el 
 
 Aunque no hay una única manera de abordar el análisis de palabras clave, sí podemos definir algunos pasos claves del proceso que asegurarán un buen resultado.
 
-1.  Encontrar las palabras clave adecuadas.
-2. Analizar y clasificar
-3. How to analyze keywords
-Targeting keywords
-4. How to target keywords
-Prioritizing keywords
-5. How to prioritize keywords
-Keyword research tools
-6. Keyword research tools
+1. Encontrar las palabras clave adecuadas.
+2. Analizar y clasificar los términos encontrados.
+3. Definir acciones para poder posicionar por dichos términos en la web.
+4. Medición de resultados.
+
+En resumen, se trata de encontrar los términos clave por los que debería de posicionar nuestro negocio y, además, alinearlo con las acciones para poder conseguir ese posicionamiento.
 
 <section  id="cs_recursos"></section>
 
@@ -143,11 +140,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzNDM4MTMsLTU5MjA1MjQyOSwtMT
-Q2NTIwNTU4MCwtMTQ3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2
-NTQ2NSwxMzczNzE2MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNz
-ExODgzNzYyLDExODcwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0
-OTgwMSwxMjg4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1ND
-ksLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0
-MjY3NDQyXX0=
+eyJoaXN0b3J5IjpbODg5NDMzOTc3LC01OTIwNTI0MjksLTE0Nj
+UyMDU1ODAsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0
+NjUsMTM3MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMT
+g4Mzc2MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4
+MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC
+0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LDc4NDI2
+NzQ0Ml19
 -->
