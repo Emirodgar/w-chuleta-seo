@@ -10,6 +10,11 @@ permalink: keyword-research
   
 ---
 
+
+<div class="alert alert-warning">You can refer for use other default bootstrap helper classes here - <a href="https://getbootstrap.com/docs/4.4/utilities/">https://getbootstrap.com/docs/4.4/utilities/</a></div>
+
+
+
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica SEO mediante la cual realizamos un estudio para **conocer las tendencias de búsqueda de nuestro público objetivo**. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos y trasladarlos posteriormente a nuestra página web para poder posicionar por ellos.
 
 Es un proceso clave para asegurar que la futura estrategia SEO impactará en el público objetivo adecuado.
@@ -120,11 +125,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzI2NTQ2NSwxMzczNzE2MTY2LC01Nz
-M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
-MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
-A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
-ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
-EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
-MTQ1MzldfQ==
+eyJoaXN0b3J5IjpbMTAxNjk2MDYyMCwtNTQzMjY1NDY1LDEzNz
+M3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMyw3MTE4ODM3NjIs
+MTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MDQ5ODAxLDEyOD
+g2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkw
+Mjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLT
+QxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5
+ODc3MjNdfQ==
 -->
