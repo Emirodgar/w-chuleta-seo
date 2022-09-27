@@ -46,8 +46,8 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 -   [UberSuggest](https://ubersuggest.io/): identifica términos clave a través de las páginas que mejor posicionan.
 -   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php): genera de manera sencilla múltiples combinaciones de términos.
 -   [Wordtracker](https://www.wordtracker.com/): otra heramienta más para encontrar términos relevantes.
--   [Thesaurus.com](http://www.thesaurus.com/): 
--   [Synonym.com](http://www.synonym.com/)
+-   [Thesaurus.com](http://www.thesaurus.com/): para buscar sinónimos y evitar repetir términos clave.
+-   [Synonym.com](http://www.synonym.com/): otra página para encontrar términos equivalentes o similares.
 
 ### Extensiones para Google Chrome
 
@@ -120,11 +120,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjgzNDYyLDEzNzM3MTYxNjYsLTU3Mz
-YwNTUzLDgyMjMyMDgxMyw3MTE4ODM3NjIsMTE4NzA1NTkyMywx
-NjM3MTg4NjIxLC0xOTU4MDQ5ODAxLDEyODg2NTE1NjUsLTc2MD
-Y3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4
-MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLTQxOTU2NjcyNCwtMT
-M2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5ODc3MjMsLTg3Njgx
-NDUzOV19
+eyJoaXN0b3J5IjpbLTU0MzI2NTQ2NSwxMzczNzE2MTY2LC01Nz
+M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
+MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
+A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
+ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
+EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
+MTQ1MzldfQ==
 -->
