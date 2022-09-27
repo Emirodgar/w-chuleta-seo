@@ -2,7 +2,7 @@
 title: Cómo realizar un keyword research
 description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
 date: 16/08/2022
-date_modified: 24/09/2022
+date_modified: 27/09/2022
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -112,11 +112,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDc3OTI3OSwxMzczNzE2MTY2LC01Nz
-M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
-MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
-A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
-ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
-EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
-MTQ1MzldfQ==
+eyJoaXN0b3J5IjpbLTE4NjA0MzM5NzAsMTM3MzcxNjE2NiwtNT
+czNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIz
+LDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNz
+YwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2
+NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC
+0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2
+ODE0NTM5XX0=
 -->
