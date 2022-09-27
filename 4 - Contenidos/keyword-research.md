@@ -11,7 +11,7 @@ permalink: keyword-research
 ---
 
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">Agosto 2022</span> - Google ha lanzado una nueva actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">Agosto 2022</span> - Google ha lanzado la actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
 
 
 
@@ -125,11 +125,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3Mz
-cxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2Miwx
-MTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4OD
-Y1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAy
-NzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtND
-E5NTY2NzI0LC0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4
-NzcyM119
+eyJoaXN0b3J5IjpbMTcwMTIzODc1NSw1MDc3Nzk5MDEsLTU0Mz
+I2NTQ2NSwxMzczNzE2MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMs
+NzExODgzNzYyLDExODcwNTU5MjMsMTYzNzE4ODYyMSwtMTk1OD
+A0OTgwMSwxMjg4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1
+NDksLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNz
+g0MjY3NDQyLC00MTk1NjY3MjQsLTEzNjE1NTI2MDQsLTEwNTkx
+MTAwNjNdfQ==
 -->
