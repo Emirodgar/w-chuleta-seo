@@ -19,6 +19,20 @@ También conocido como **análisis de palabras clave** o ***keyword analysis***,
 
 Es un proceso clave para asegurar que la futura estrategia SEO impactará en el público objetivo adecuado.
 
+## Pasos para hacer un keyword research
+
+Aunque no hay una única manera de abordar el análisis de palabras clave, sí podemos definir algunos pasos claves del proceso que asegurarán un buen resultado.
+
+1.  Encontrar las palabras clave adecuadas.
+2. Analizar y clasificar
+3. How to analyze keywords
+Targeting keywords
+4. How to target keywords
+Prioritizing keywords
+5. How to prioritize keywords
+Keyword research tools
+6. Keyword research tools
+
 <section  id="cs_recursos"></section>
 
 
@@ -129,11 +143,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjA1MjQyOSwtMTQ2NTIwNTU4MCwtMT
-Q3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2NTQ2NSwxMzczNzE2
-MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExOD
-cwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUx
-NTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3Ny
-wxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1
-NjY3MjRdfQ==
+eyJoaXN0b3J5IjpbLTIxNDAzNDM4MTMsLTU5MjA1MjQyOSwtMT
+Q2NTIwNTU4MCwtMTQ3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2
+NTQ2NSwxMzczNzE2MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNz
+ExODgzNzYyLDExODcwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0
+OTgwMSwxMjg4NjUxNTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1ND
+ksLTI1NTk5MDI3NywxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0
+MjY3NDQyXX0=
 -->
