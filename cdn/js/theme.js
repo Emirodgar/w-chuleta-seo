@@ -11,11 +11,12 @@
 	"use strict";
 
 // Preloader
+/*
 $(window).on('load', function () {
 	$('.lds-ellipsis').fadeOut(); // will first fade out the loading animation
 	$('.preloader').delay(333).fadeOut('slow'); // will fade out the white DIV that covers the website.
 	$('body').delay(333);
-});
+});/*
 
 $('.nav-menu').on('click', function() {
 	$(".nav-menu").removeClass("active");
@@ -26,7 +27,7 @@ $('.nav-menu').on('click', function() {
     Primary Menu
 --------------------------------- */
 
-// Dropdown show on hover
+/*
 $('.primary-menu ul.navbar-nav li.dropdown, .login-signup ul.navbar-nav li.dropdown').on("mouseover", function() {
 	if ($(window).width() > 991) {
 		$(this).find('> .dropdown-menu').stop().slideDown('fast');
@@ -47,6 +48,8 @@ $('.primary-menu ul.navbar-nav .dropdown-menu').each(function() {
 			$(this).css('margin-left', '-' + (i + 5) + 'px');
 		}
 	});
+
+	
 $(function () {
     $(".dropdown li").on('mouseenter mouseleave', function (e) {
 		if ($(window).width() > 991) {
@@ -68,6 +71,7 @@ $(function () {
 // DropDown Arrow
 $('.primary-menu ul.navbar-nav').find('a.dropdown-toggle').append($('<i />').addClass('arrow'));
 
+*/
 
 // Mobile Collapse Nav
 $('.primary-menu .navbar-nav .dropdown-toggle[href="#"], .primary-menu .dropdown-toggle[href!="#"] .arrow').on('click', function(e) {
@@ -111,7 +115,7 @@ $('.smooth-scroll,.idocs-navigation a').on('click', function() {
 
 /*-----------------------------
     Magnific Popup
-------------------------------- */
+------------------------------- 
 
 // Image on Modal
 $('.popup-img').each(function() {
@@ -124,6 +128,7 @@ $(this).magnificPopup({
 });
 });
 
+
 // YouTube/Viemo Video & Gmaps
 $('.popup-youtube, .popup-vimeo, .popup-gmaps').each(function() {
 $(this).magnificPopup({
@@ -132,12 +137,14 @@ $(this).magnificPopup({
 });
 });
 
+*/
+
 
 /*------------------------
    Highlight Js
 -------------------------- */
 
-hljs.initHighlightingOnLoad();
+//hljs.initHighlightingOnLoad();
 
 
 /*------------------------
