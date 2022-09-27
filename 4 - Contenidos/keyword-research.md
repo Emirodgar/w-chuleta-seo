@@ -40,9 +40,9 @@ En resumen, se trata de encontrar los términos clave por los que debería de po
 Las principales guías (y más actualizadas) las encontramos en las grandes empresas SEO, tipo Ahrefs, Moz o Semrush.
 
 - [Semrush - ¿Qué es un keyword research?](https://es.semrush.com/blog/que-es-un-keyword-research/)
-- [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/) 
-- [Moz - Keyword research guide](https://moz.com/keyword-research-guide)
-- [Backlinko - Keyword research](https://backlinko.com/keyword-research)
+- `Inglés` [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/) 
+- `Inglés` [Moz - Keyword research guide](https://moz.com/keyword-research-guide)
+- `Inglés` [Backlinko - Keyword research](https://backlinko.com/keyword-research)
 
 
 
@@ -144,11 +144,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjE0MDEzMCw5NDgzMjUxODcsODg5ND
-MzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1ODAsLTE0NzI1MzIx
-MDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3MzcxNjE2NiwtNT
-czNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIz
-LDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNz
-YwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2
-NzgwMF19
+eyJoaXN0b3J5IjpbLTEzNDk3ODgzNzAsMTIzNjE0MDEzMCw5ND
+gzMjUxODcsODg5NDMzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1
+ODAsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMT
+M3MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2
+MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMT
+I4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5
+OTAyNzddfQ==
 -->
