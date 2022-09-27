@@ -37,9 +37,12 @@ En resumen, se trata de encontrar los términos clave por los que debería de po
 
 > Search Engine Journal ha hecho el ebook [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/) que se puede descargar gratuitamente.
 
-- 2022 - [Ahrefs - Keyword Research](https://ahrefs.com/blog/keyword-research/) 
-- 2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
-- 2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
+Las principales guías (y más actualizadas) las encontramos en las grandes empresas SEO, tipo Ahrefs, Moz o Semrush.
+
+- [Semrush - ¿Qué es un keyword research?](https://es.semrush.com/blog/que-es-un-keyword-research/)
+- [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/) 
+- [Moz - Keyword research guide](https://moz.com/keyword-research-guide)
+- [Backlinko - Keyword research](https://backlinko.com/keyword-research)
 
 
 
@@ -141,11 +144,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzI1MTg3LDg4OTQzMzk3NywtNTkyMD
-UyNDI5LC0xNDY1MjA1NTgwLC0xNDcyNTMyMTAxLDUwNzc3OTkw
-MSwtNTQzMjY1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMj
-MyMDgxMyw3MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIx
-LC0xOTU4MDQ5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMT
-UwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2
-ODMzNl19
+eyJoaXN0b3J5IjpbMTIzNjE0MDEzMCw5NDgzMjUxODcsODg5ND
+MzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1ODAsLTE0NzI1MzIx
+MDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3MzcxNjE2NiwtNT
+czNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIz
+LDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNz
+YwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2
+NzgwMF19
 -->
