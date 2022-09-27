@@ -10,6 +10,7 @@
 (function ($) {
 	"use strict";
 
+
 	$('.nav-menu').on('click', function() {
 		$(".nav-menu").removeClass("active");
 		$(this).addClass('active');
@@ -23,7 +24,10 @@ $(window).on('load', function () {
 	$('body').delay(333);
 });/*
 
-
+$('.nav-menu').on('click', function() {
+	$(".nav-menu").removeClass("active");
+	$(this).addClass('active');
+});
 
 /*-------------------------------
     Primary Menu
@@ -124,7 +128,7 @@ function changePage(event) {
 }
 $(function () {
     $('.nav li').click( changePage );
-}
+})
 
 /*-----------------------------
     Magnific Popup
