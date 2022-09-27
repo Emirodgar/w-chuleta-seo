@@ -11,7 +11,7 @@ permalink: keyword-research
 ---
 
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">09/2022</span>  Google ha lanzado la actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  Google ha lanzado la actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
 
 
 
@@ -26,9 +26,9 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en el 
 
 > Search Engine Journal ha hecho el ebook [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/) que se puede descargar gratuitamente.
 
-- /2022 - [Ahrefs - Keyword Research](https://ahrefs.com/blog/keyword-research/) 
-- /2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
-- /2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
+- 2022 - [Ahrefs - Keyword Research](https://ahrefs.com/blog/keyword-research/) 
+- 2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
+- 2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
 
 
 
@@ -129,11 +129,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjUyMDU1ODAsLTE0NzI1MzIxMDEsNT
-A3Nzc5OTAxLC01NDMyNjU0NjUsMTM3MzcxNjE2NiwtNTczNjA1
-NTMsODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIzLDE2Mz
-cxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcy
-MDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMC
-wxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYx
-NTUyNjA0XX0=
+eyJoaXN0b3J5IjpbMTM2NjM5OTgyNCwtMTQ2NTIwNTU4MCwtMT
+Q3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2NTQ2NSwxMzczNzE2
+MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExOD
+cwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUx
+NTY1LC03NjA2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3Ny
+wxMjYyNzY3ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1
+NjY3MjRdfQ==
 -->
