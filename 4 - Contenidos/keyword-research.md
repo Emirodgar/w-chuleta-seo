@@ -11,7 +11,7 @@ permalink: keyword-research
 ---
 
 
-<div class="alert alert-warning">You can refer for use other default bootstrap helper classes here - <a href="https://getbootstrap.com/docs/4.4/utilities/">https://getbootstrap.com/docs/4.4/utilities/</a></div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">Agosto 2022</span> - Google ha lanzado una nueva actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
 
 
 
@@ -125,11 +125,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjk2MDYyMCwtNTQzMjY1NDY1LDEzNz
-M3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMyw3MTE4ODM3NjIs
-MTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MDQ5ODAxLDEyOD
-g2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0OSwtMjU1OTkw
-Mjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0NDIsLT
-QxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2Myw5MTU5
-ODc3MjNdfQ==
+eyJoaXN0b3J5IjpbNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3Mz
+cxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2Miwx
+MTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4OD
+Y1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAy
+NzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtND
+E5NTY2NzI0LC0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4
+NzcyM119
 -->
