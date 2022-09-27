@@ -2,7 +2,7 @@
 title: Cómo realizar un keyword research
 description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
 date: 16/08/2022
-date_modified: 24/08/2022
+date_modified: 24/09/2022
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -10,7 +10,7 @@ permalink: keyword-research
   
 ---
 
-También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica por la que realizamos un estudio para conocer las tendencias de búsqueda de nuestro público objetivo. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos.
+También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica por la que realizamos un estudio para **conocer las tendencias de búsqueda de nuestro público objetivo**. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos y trasladarlos posteriormente a nuestra página web para poder posicionar por ellos.
 
 Es un proceso clave para asegurar que la futura estrategia SEO impactará en el público objetivo adecuado.
 
@@ -109,11 +109,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MD
-U1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2
-NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMT
-I2Mjc2NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtNDE5NTY2
-NzI0LC0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4NzcyMy
-wtODc2ODE0NTM5LC04OTgzNzI5MzQsMTU4NjIwNjIzNSwtMTEx
-NTYwMTEyNl19
+eyJoaXN0b3J5IjpbLTU3MzYwNTUzLDgyMjMyMDgxMyw3MTE4OD
+M3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MDQ5ODAx
+LDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0OSwtMj
+U1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3ODQyNjc0
+NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTExMDA2My
+w5MTU5ODc3MjMsLTg3NjgxNDUzOSwtODk4MzcyOTM0LDE1ODYy
+MDYyMzVdfQ==
 -->
