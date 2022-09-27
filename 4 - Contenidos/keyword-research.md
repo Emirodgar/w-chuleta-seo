@@ -54,8 +54,9 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 -   [Thesaurus.com](http://www.thesaurus.com/): para buscar sinónimos y evitar repetir términos clave.
 -   [Synonym.com](http://www.synonym.com/): otra página para encontrar términos equivalentes o similares.
 
-Hay varios proyectos que utilizan la inteligencia artificial para optimizar y generar coten. Lo podemos orientar para la generación de nuevos contenidos, la creación de nuevas landings o el análisis
-- https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/
+Hay varios proyectos que utilizan la inteligencia artificial para analizar, optimizar o generar contenidos. Entre los más destacados tenemos los siguientes:
+
+- [Utilizando GPT3 para clasificar los términos de un sitio web](https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/)
 
 ### Extensiones para Google Chrome
 
@@ -128,11 +129,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para optimizar y ge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2OTgxMzA2LDUwNzc3OTkwMSwtNTQzMj
-Y1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMyw3
-MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4MD
-Q5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMTUwNzU4MTU0
-OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2ODMzNiw3OD
-QyNjc0NDIsLTQxOTU2NjcyNCwtMTM2MTU1MjYwNCwtMTA1OTEx
-MDA2M119
+eyJoaXN0b3J5IjpbLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01ND
+MyNjU0NjUsMTM3MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEz
+LDcxMTg4Mzc2MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NT
+gwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgx
+NTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LD
+c4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC0xMDU5
+MTEwMDYzXX0=
 -->
