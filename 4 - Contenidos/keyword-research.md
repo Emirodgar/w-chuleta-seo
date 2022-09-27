@@ -44,7 +44,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 - [Google Trends](https://trends.google.com/trends/?geo=US): identifica tendencias de búsqueda en múltiples países.
 - [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes 
-- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone la actualización de Google: *Helpful Content Update*.
+- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si son de calidad.
 -  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1): cuenta con su propio planificador de palabras clave.
 -   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords): similar al de Google Ads.
 -   [Soolve](http://www.soovle.com/): ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
@@ -129,7 +129,7 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjM5OTgyNCwtMTQ2NTIwNTU4MCwtMT
+eyJoaXN0b3J5IjpbMTA1MzY3NjgwNywtMTQ2NTIwNTU4MCwtMT
 Q3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2NTQ2NSwxMzczNzE2
 MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExOD
 cwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUx
