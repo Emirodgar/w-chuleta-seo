@@ -19,9 +19,12 @@ Es un proceso clave para asegurar que la futura estrategia SEO impactará en el 
 
 ## Guías para hacer keyword research
 
+> Search Engine Journal ha hecho un ebook gratuito: [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/).
+
 - /2022 - [Ahrefs - Keyword Research](https://ahrefs.com/blog/keyword-research/) 
 - /2022 - [Moz - Keyword Research guide](https://moz.com/keyword-research-guide)
 - /2022 - [Backlinko - Keyword Research](https://backlinko.com/keyword-research)
+
 
 
 
@@ -109,11 +112,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzcxNjE2NiwtNTczNjA1NTMsODIyMz
-IwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEs
-LTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNT
-A3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4
-MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC0xMzYxNTUyNjA0LC
-0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2ODE0NTM5LC04OTgz
-NzI5MzRdfQ==
+eyJoaXN0b3J5IjpbLTY5MDc3OTI3OSwxMzczNzE2MTY2LC01Nz
+M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
+MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
+A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
+ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
+EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
+MTQ1MzldfQ==
 -->
