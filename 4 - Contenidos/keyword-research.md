@@ -42,7 +42,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 - [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si están alineados con la calidad que presupone la actualización de Google: *Helpful Content Update*.
 -  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1): cuenta con su propio planificador de palabras clave.
 -   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords): similar al de Google Ads.
--   [Soolve](http://www.soovle.com/): ofrece las búsquedas de varias
+-   [Soolve](http://www.soovle.com/): ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
 -   [UberSuggest](https://ubersuggest.io/)
 -   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php)
 -   [Wordtracker](https://www.wordtracker.com/)
@@ -121,11 +121,11 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQwNjE0NDgsMTM3MzcxNjE2NiwtNT
-czNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2MiwxMTg3MDU1OTIz
-LDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4ODY1MTU2NSwtNz
-YwNjcyMDk2LC0xNTA3NTgxNTQ5LC0yNTU5OTAyNzcsMTI2Mjc2
-NzgwMCwxNzYxNDY4MzM2LDc4NDI2NzQ0MiwtNDE5NTY2NzI0LC
-0xMzYxNTUyNjA0LC0xMDU5MTEwMDYzLDkxNTk4NzcyMywtODc2
-ODE0NTM5XX0=
+eyJoaXN0b3J5IjpbLTg4NzI2Njc3NiwxMzczNzE2MTY2LC01Nz
+M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
+MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
+A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
+ODAwLDE3NjE0NjgzMzYsNzg0MjY3NDQyLC00MTk1NjY3MjQsLT
+EzNjE1NTI2MDQsLTEwNTkxMTAwNjMsOTE1OTg3NzIzLC04NzY4
+MTQ1MzldfQ==
 -->
