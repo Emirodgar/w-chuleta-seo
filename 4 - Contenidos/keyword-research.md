@@ -54,7 +54,8 @@ En resumen, se trata de encontrar los términos clave por los que debería de po
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). Entre las más destacadas, se encuentran:
 
 - [Google Trends](https://trends.google.com/trends/?geo=US): identifica tendencias de búsqueda en múltiples países.
-- [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes 
+- [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes.
+- [Keyword explorer](https://moz.com/explorer) 
 - [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si son de calidad.
 -  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1): cuenta con su propio planificador de palabras clave.
 -   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords): similar al de Google Ads.
@@ -140,11 +141,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NDMzOTc3LC01OTIwNTI0MjksLTE0Nj
-UyMDU1ODAsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0
-NjUsMTM3MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMT
-g4Mzc2MiwxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4
-MDEsMTI4ODY1MTU2NSwtNzYwNjcyMDk2LC0xNTA3NTgxNTQ5LC
-0yNTU5OTAyNzcsMTI2Mjc2NzgwMCwxNzYxNDY4MzM2LDc4NDI2
-NzQ0Ml19
+eyJoaXN0b3J5IjpbOTQ4MzI1MTg3LDg4OTQzMzk3NywtNTkyMD
+UyNDI5LC0xNDY1MjA1NTgwLC0xNDcyNTMyMTAxLDUwNzc3OTkw
+MSwtNTQzMjY1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMj
+MyMDgxMyw3MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIx
+LC0xOTU4MDQ5ODAxLDEyODg2NTE1NjUsLTc2MDY3MjA5NiwtMT
+UwNzU4MTU0OSwtMjU1OTkwMjc3LDEyNjI3Njc4MDAsMTc2MTQ2
+ODMzNl19
 -->
