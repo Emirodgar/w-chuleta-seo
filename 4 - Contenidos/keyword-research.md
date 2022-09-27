@@ -43,7 +43,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 -  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1): cuenta con su propio planificador de palabras clave.
 -   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords): similar al de Google Ads.
 -   [Soolve](http://www.soovle.com/): ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
--   [UberSuggest](https://ubersuggest.io/)
+-   [UberSuggest](https://ubersuggest.io/): identifica términos clave a través de las páginas que mejor posicionan.
 -   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php)
 -   [Wordtracker](https://www.wordtracker.com/)
 -   [SEMRush](https://www.semrush.com/)  -  _This is a paid tool but offers some basic research for free._
@@ -121,7 +121,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzI2Njc3NiwxMzczNzE2MTY2LC01Nz
+eyJoaXN0b3J5IjpbMTY0NjgzMTEwNSwxMzczNzE2MTY2LC01Nz
 M2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLDExODcwNTU5MjMs
 MTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4NjUxNTY1LC03Nj
 A2NzIwOTYsLTE1MDc1ODE1NDksLTI1NTk5MDI3NywxMjYyNzY3
