@@ -44,7 +44,7 @@ Las principales guías (y más actualizadas) las encontramos en las grandes empr
 - `Inglés` - [Moz - Keyword research guide](https://moz.com/keyword-research-guide)
 - `Inglés` - [Backlinko - Keyword research](https://backlinko.com/keyword-research)
 - `Inglés` - [How to Do Keyword Research for SEO: A Step-by-Step Guide](https://www.searchenginejournal.com/keyword-research-seo-beginners-guide/379386/)
-- `Inglés` - [Keyword Research: The Definitive Guide (2021)](https://backlinko.com/keyword-research)
+- `Inglés` - [Video tutorial: Guide, Steps, Tips and Tools](https://www.youtube.com/watch?v=ek0yCkmfVuM)
 
 
 
@@ -148,11 +148,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzA4MjM5NywtMjA3OTQzNzY2NCwtMj
-E0MTk2NDE5NywtMTM0OTc4ODM3MCwxMjM2MTQwMTMwLDk0ODMy
-NTE4Nyw4ODk0MzM5NzcsLTU5MjA1MjQyOSwtMTQ2NTIwNTU4MC
-wtMTQ3MjUzMjEwMSw1MDc3Nzk5MDEsLTU0MzI2NTQ2NSwxMzcz
-NzE2MTY2LC01NzM2MDU1Myw4MjIzMjA4MTMsNzExODgzNzYyLD
-ExODcwNTU5MjMsMTYzNzE4ODYyMSwtMTk1ODA0OTgwMSwxMjg4
-NjUxNTY1XX0=
+eyJoaXN0b3J5IjpbLTE4OTkwMDk0NzUsLTIwNzk0Mzc2NjQsLT
+IxNDE5NjQxOTcsLTEzNDk3ODgzNzAsMTIzNjE0MDEzMCw5NDgz
+MjUxODcsODg5NDMzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1OD
+AsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3
+MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2Mi
+wxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4
+ODY1MTU2NV19
 -->
