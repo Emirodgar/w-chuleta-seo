@@ -2,7 +2,7 @@
 title: Cómo realizar un keyword research
 description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
 date: 16/08/2022
-date_modified: 27/09/2022
+date_modified: 29/09/2022
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -148,7 +148,7 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkwMDk0NzUsLTIwNzk0Mzc2NjQsLT
+eyJoaXN0b3J5IjpbLTIwMzgxMDc1ODUsLTIwNzk0Mzc2NjQsLT
 IxNDE5NjQxOTcsLTEzNDk3ODgzNzAsMTIzNjE0MDEzMCw5NDgz
 MjUxODcsODg5NDMzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1OD
 AsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3
