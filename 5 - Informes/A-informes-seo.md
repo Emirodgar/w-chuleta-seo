@@ -12,6 +12,12 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 <section id="cs_recursos"></section>
 
+## Artículos relevantes
+
+- `Inglés` -  [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
+- [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
+- Galería de templates de Google Looker Studio
+
 Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
  - Google Looker Studio
@@ -42,17 +48,6 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
  - [Eliminar tráfico SPAM](https://chuletaseo.com/eliminar-trafico-spam-robot)
 
-## Artículos relevantes
-
-- [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
-- [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
-
-
-
-
-
-
-
 
 
 
@@ -69,7 +64,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODg0NjQ0MywtNDExMjc5NzE4LC00MD
-E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
-MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbLTExNzgxMzcwMDIsLTQxMTI3OTcxOCwtND
+AxNDA5Nzc0LDEyMTE5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgz
+ODIxLC0zODA3MTQ2MzldfQ==
 -->
