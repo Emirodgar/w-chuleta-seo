@@ -31,7 +31,7 @@ Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente 
 
 ### 2.1 - Bloqueamos a los robots de búsqueda conocidos
 
-En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico generado por robots de búsqueda conocidos](https://support.google.com/analytics/answer/9888366?hl=es). Una vez activado, nuestra herramienta excluirá todo el tráfico que 'entienda' proviene de robots y no está generado por personas.
+En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico generado por robots de búsqueda conocidos](https://support.google.com/analytics/answer/9888366?hl=es). Por ello se excluirá todo el tráfico que identifique dentro de la lista internacional de robots de IAB.
 
 ### 2.2 - Bloqueamos a los spammers
 
@@ -54,6 +54,7 @@ Una última acción -y muy efectiva- para frenar el tráfico generado por robots
 ## Recursos
 
 Los recursos más interesantes
+- 
 
 <section id="cs_herramientas"></section>
 
@@ -62,5 +63,5 @@ Los recursos más interesantes
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcyOTk2OTcsMjExNTUzNDA5Nl19
+eyJoaXN0b3J5IjpbLTE1NTMyMDA2OTMsMjExNTUzNDA5Nl19
 -->
