@@ -1,7 +1,7 @@
 ---
 title: Campos personalizados en Looker Studio
 description: Saca más rendimiento a Looker Studio creando campos específicos para tus necesidades
-date_modified: 29/09/2022
+date: 25/10/2022
 folder: informes
 author: Emirodgar
 layout: default_1
@@ -155,7 +155,7 @@ END
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDE0NDAxNCwtMjA3NjA2MTU0MSw0NT
+eyJoaXN0b3J5IjpbMTA4ODA2NTk5NCwtMjA3NjA2MTU0MSw0NT
 Y2MTczNzUsMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAx
 MTc5MSwtMTQ0MjYzMzEwNF19
 -->
