@@ -13,7 +13,11 @@ author: Emirodgar
 
 A día de hoy no hay conector nativo de GA4 dentro de Shopify. Si introducimos el código, podremos medir la captación pero la capa de información relativa al comercio electrónico no funcionará.
 
-Si quiqueremoseros avanzar de nuestro lado, os dejo 
+Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
+
+ - `Inglés` -  [How to Set up Google Analytics 4 on Shopify - GTM + Ecommerce Data layers](https://www.youtube.com/watch?v=hag6ucGxj5E)
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NDMyOTIyXX0=
+eyJoaXN0b3J5IjpbLTE5Mjc0MjI3N119
 -->
