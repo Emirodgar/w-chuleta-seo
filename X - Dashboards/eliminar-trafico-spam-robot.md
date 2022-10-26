@@ -34,7 +34,7 @@ El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico q
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja calidad, no es una solución definitiva porque tendremos que **actualizar frecuentemente el listado de fuentes bloqueadas**.
 
-> Aunque podemos utilizar el fichero robots.txt para solicitar que nuestra página no sea rastreada por ciertos robots, la manera más eficiente será bloquear su acceso desde el servidor.
+> Aunque podemos utilizar el **fichero robots.txt** para solicitar que nuestra página no sea rastreada por ciertos robots, la manera más eficiente será bloquear su acceso desde el servidor, dado que el robots.txt podría ser ignorado.
 
 En el caso de Apache, para bloquear el acceso a estos robots tendríamos que utilizar un código como el siguiente:
 
@@ -99,7 +99,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY0MTc4MywtMTI3NTAyOTQ0NCwtMj
+eyJoaXN0b3J5IjpbMTM1ODE2NzIxNiwtMTI3NTAyOTQ0NCwtMj
 A1MDU4MjA5MCwxNTY5NzE5Mzc2LC0xMzQ5MzkzNTE4LDI5NjA0
 MTU0OCwtNTAzNDAzMTE2LDIxMTU1MzQwOTZdfQ==
 -->
