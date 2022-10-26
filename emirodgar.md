@@ -1,7 +1,7 @@
 ---
 title: Emilio Rodríguez García
-description: Consultor SEO con más de 15 años de experiencia en el sector digital. Profesor en Deusto y Asesor en ICEX Next
-date: 24/08/2022
+description: Consultor SEO con más de 15 años de experiencia en el sector digital. Profesor en Deusto y USAL y Asesor en ICEX Next
+date: 24/10/2022
 folder: autor
 author: Emirodgar
 layout: default_1
@@ -17,7 +17,7 @@ Mi nombre es Emilio Rodríguez y llevo desde el 2007 trabajando en el mundo del 
 
 Si quieres saber más sobre mí, te recomiendo que conectemos a través de [LinkedIn](https://www.linkedin.com/in/emirodgar/) o que te des una vuelta por mi [página web](https://emirodgar.com), donde publico temas relacionados con el marketing, SEO y datos.
 
-Compagino mi trabajo como director SEO en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
+Compagino mi trabajo de SEO en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -29,7 +29,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTc1Mjk2OCwxOTUxNzc5ODczLDIxMz
+eyJoaXN0b3J5IjpbLTYxMjYwMzIzOCwxOTUxNzc5ODczLDIxMz
 M5NDc1Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIx
 NCwtMzAzNzkyNjQsMTc1MjU2MDEwOF19
 -->
