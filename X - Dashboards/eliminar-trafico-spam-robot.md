@@ -35,7 +35,7 @@ En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico ge
 
 ### 2.2 - Bloqueamos a los spammers
 
-El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer spam. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y *User Agent*. Existen [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/) que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
+El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer spam. Lo haremos desde el servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y *User Agent*. Existen [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/) que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico SPAM, no es una solución definitiva porque tendremos que actualizar frecuentemente el listado de fuentes bloqueadas.
 
@@ -54,7 +54,9 @@ Una última acción -y muy efectiva- para frenar el tráfico generado por robots
 ## Recursos
 
 Los recursos más interesantes
-- 
+
+- [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
+- [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
 
 <section id="cs_herramientas"></section>
 
@@ -63,5 +65,5 @@ Los recursos más interesantes
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMyMDA2OTMsMjExNTUzNDA5Nl19
+eyJoaXN0b3J5IjpbLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
 -->
