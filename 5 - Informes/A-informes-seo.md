@@ -8,7 +8,7 @@ permalink: informes-seo
   
 ---
 
-Tan importante es diseñar una adecuada estrategia SEO como 
+Tan importante es diseñar una adecuada estrategia SEO como reportar los datos que avalen nuestro trabajo. Sin un
 
 ## Templates de Google Data Studio
 
@@ -57,7 +57,7 @@ Tan importante es diseñar una adecuada estrategia SEO como
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzc4OTU3MywtNDExMjc5NzE4LC00MD
-E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
-MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbODQ0NjQ4MjIxLC00MTEyNzk3MTgsLTQwMT
+QwOTc3NCwxMjExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4Mzgy
+MSwtMzgwNzE0NjM5XX0=
 -->
