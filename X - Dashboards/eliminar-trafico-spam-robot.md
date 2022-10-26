@@ -1,5 +1,5 @@
 ---
-title: Eliminar el tráfico spamy de robots
+title: Eliminar el tráfico spam y de robots
 description: Proceso para eliminar de nuestras plataformas de analítica el tráfico SPAM o generado por robots.
 lang: es_ES
 date: 25/09/2022
@@ -12,15 +12,13 @@ permalink: eliminar-trafico-spam-robot
   
 ---
 
-# Eliminar el tráfico spam y de robots
-
 Desde hace unos años, nuestros sistemas de analítica reflejan picos de tráfico de referencia de dominios que nunca nos han enlazado y tráfico desde países que no tiene sentido. Se trata de **tráfico spam** y/o **generado por robots**. Más allá de que pueden consumir una parte de los recursos de nuestro servidor, el verdadero problema reside en que **nuestra analítica se distorsiona** y terminamos analizando un tráfico que no aporta ningún valor.
 
 A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
 
 ## 1- Identificar el tráfico de baja calidad
 
-El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de robots. Por norma general este tipo de tráfico se caracteriza por:
+El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de robots. Por norma general, este tipo de tráfico se caracteriza por:
 
  - Poco tiempo en el sitio.
  - Alto porcentaje de rebote.
@@ -52,5 +50,5 @@ Para ello podemos generar una nueva vista de análisis que excluya el segmento d
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTUzNDA5Nl19
+eyJoaXN0b3J5IjpbLTY4NzUxMzY1MywyMTE1NTM0MDk2XX0=
 -->
