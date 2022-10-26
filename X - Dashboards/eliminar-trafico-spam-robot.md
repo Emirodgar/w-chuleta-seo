@@ -1,6 +1,6 @@
 ---
 title: Eliminar el tráfico spam y de robots
-description: Proceso para eliminar de nuestras plataformas de analítica el tráfico SPAM o generado por robots.
+description: Proceso para eliminar de nuestras plataformas de analítica el tráfico spam y el generado por robots.
 lang: es_ES
 date: 25/09/2022
 date_modified: 29/09/2022
@@ -99,7 +99,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUwMjk0NDQsLTIwNTA1ODIwOTAsMT
-U2OTcxOTM3NiwtMTM0OTM5MzUxOCwyOTYwNDE1NDgsLTUwMzQw
-MzExNiwyMTE1NTM0MDk2XX0=
+eyJoaXN0b3J5IjpbMTA0MzY0MTc4MywtMTI3NTAyOTQ0NCwtMj
+A1MDU4MjA5MCwxNTY5NzE5Mzc2LC0xMzQ5MzkzNTE4LDI5NjA0
+MTU0OCwtNTAzNDAzMTE2LDIxMTU1MzQwOTZdfQ==
 -->
