@@ -78,22 +78,19 @@ Los recursos más interesantes están relacionados con los listados de robots y 
  - [Htaccess generator para Angular](https://julianpoemp.github.io/ngx-htaccess-generator/#/generator)
 
 
+
 <section id="cs_pr"></section>
  <div class="row">
   <div class="col-lg-12">
    <div class="accordion accordion-alterate arrow-right" id="popularTopics">
     <div class="card">
-<div class="card-header" id="heading1">
+		<div class="card-header" id="heading1">
+	<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Qué se considera tráfico de baja calidad?</a> </h5>
+	</div>
+	<div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+	<div class="card-body">Por norma general nos referimos a un tráfico simulado por un rastreador web o robot que lo que hace es rastrear nuestra página. Si intentamos analizar estos datos junto con los de usuarios reales, ha </div>
 
-<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cuántos tipos de keyword research existen?</a> </h5>
-
-</div>
-
-<div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-
-<div class="card-body">Tipo, como tal, sólo existe uno, pero el objetivo puede ser diferente en función de lo que estemos buscando. En proyectos nuevos, nos interesa obtener todos los términos para poder definir la arquitectura de nuestro sitio web, en proyectos existentes nos puede ayudar a identificar términos que no estamos usando para cualificar la estrategia de contenidos u optimizar los contenidos existentes. </div>
-
-</div>
+	</div>
 
 </div>
 
@@ -101,6 +98,6 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMDI1Mjg1LC0xMzQ5MzkzNTE4LDI5Nj
-A0MTU0OCwtNTAzNDAzMTE2LDIxMTU1MzQwOTZdfQ==
+eyJoaXN0b3J5IjpbMTAxNDY3MTk2NywtMTM0OTM5MzUxOCwyOT
+YwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
 -->
