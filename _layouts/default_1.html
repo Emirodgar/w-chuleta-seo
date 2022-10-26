@@ -145,7 +145,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						{% else %}
 						  {{ words | divided_by:180 }} minutos
 						{% endif %}</li>
-					<li><strong>Autor:</strong> {{ page.author }}</li>
+					<li><strong>Autor:</strong> 
+            
+            {% if page.author == "Emirodgar" %}
+                <a href="{{ site.url }}/emirodgar"></a>
+                  {% endif %}
+            
+          </li>
 				</ul>
 			</div>
 			<div class="col-sm-6 col-lg-4">
