@@ -9,7 +9,7 @@ permalink: campos-personalizados-data-studio
   
 ---
 
-Para sacar el máximo partido a nuestros informes SEO en Looker Studio podemos crear campos personal
+Para sacar el máximo partido a nuestros informes SEO en Looker Studio podemos crear **campos personalizados** que nos ayuden a disponer de una mayor precisión en los datos.
 
 ### Eliminar el dominio de las URL
 
@@ -159,7 +159,7 @@ END
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU1NjI4MDAsLTEzNTA0NDQyOTcsLT
+eyJoaXN0b3J5IjpbLTIwNjcyMDU4NjUsLTEzNTA0NDQyOTcsLT
 IwNzYwNjE1NDEsNDU2NjE3Mzc1LDE5ODcyMjkyNzQsLTIwNjc5
 MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ==
 -->
