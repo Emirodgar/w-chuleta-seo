@@ -1,6 +1,6 @@
 ---
 title: Informes SEO
-description: Aprende a de
+description: Aprende a demostrar la valía de tu trabajo con los gráficos e informes adecuados
 date: 14/10/2022
 date_modified: 26/10/2022
 folder: informes
@@ -60,7 +60,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzA3MTg3NSwtNDExMjc5NzE4LC00MD
-E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
-MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbNDE5MzQ1MjIxLC00MTEyNzk3MTgsLTQwMT
+QwOTc3NCwxMjExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4Mzgy
+MSwtMzgwNzE0NjM5XX0=
 -->
