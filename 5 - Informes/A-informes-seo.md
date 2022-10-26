@@ -18,6 +18,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` -  [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - `Inglés` -  [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 - [Galería de templates de Google Looker Studio](https://datastudio.google.com/gallery)
+- Configurar Google Analytics 4
 
 
 <section id="cs_herramientas"></section>
@@ -65,7 +66,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTgxMzU3MywtNDExMjc5NzE4LC00MD
-E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
-MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbLTEyMjg4OTI2OSwxOTcxODEzNTczLC00MT
+EyNzk3MTgsLTQwMTQwOTc3NCwxMjExOTQyMDY2LC0xMzA4Mjgw
+MTczLDEzMDQ4MzgyMSwtMzgwNzE0NjM5XX0=
 -->
