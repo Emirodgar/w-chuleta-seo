@@ -16,7 +16,9 @@ Las acciones que podemos medir, son:
  - `view_item`: cuando se visualiza un producto
  - `add_to_cart`: al añadir un producto al carrito
 
+## Visualizar un producto - `view_item`
 
+Lanzaremos el siguiente código a la capa de datos
 
     dataLayer.push({ ecommerce: null });  //Limpiamos el objeto.
     dataLayer.push({
@@ -41,5 +43,6 @@ Las acciones que podemos medir, son:
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjI5Mzg4MSwtNDA4MjY3MTI0XX0=
+eyJoaXN0b3J5IjpbMTMyMTE4MDYxNCwtNjg2MjkzODgxLC00MD
+gyNjcxMjRdfQ==
 -->
