@@ -4,7 +4,7 @@ description: Configurar esta herramienta de medición web nos ayudará a medir y
 date: 26/10/2022
 folder: informes
 layout: default_1
-permalink: informes-seo
+permalink: google-analytics
 author: Emirodgar
   
 ---
@@ -16,8 +16,10 @@ A día de hoy no hay conector nativo de GA4 dentro de Shopify. Si introducimos e
 Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  - `Inglés` -  [How to Set up Google Analytics 4 on Shopify - GTM + Ecommerce Data layers](https://www.youtube.com/watch?v=hag6ucGxj5E)
+ - `Inglés` -  [[Set up Google Analytics 4 (GA4) on Shopify](https://analyzify.app/shopify-google-analytics/ga4)
+ - `Inglés` -  [[Shopify GA4 Kit](https://analyzify.app/shopify-ga4-kit)
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0MjI3N119
+eyJoaXN0b3J5IjpbMTE1MDE3NDExOF19
 -->
