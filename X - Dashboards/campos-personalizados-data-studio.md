@@ -145,17 +145,19 @@ END
 
 ## Recursos
 
+- [Galería de templates de Looker Studio](https://datastudio.google.com/gallery)
 
 <section id="cs_herramientas"></section>
 
 ## Herramientas
 
+- [Google Looker Studio](https://datastudio.google.com/)
 
 <section id="cs_pr"></section>
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODA2NTk5NCwtMjA3NjA2MTU0MSw0NT
-Y2MTczNzUsMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAx
-MTc5MSwtMTQ0MjYzMzEwNF19
+eyJoaXN0b3J5IjpbLTEzNTA0NDQyOTcsLTIwNzYwNjE1NDEsND
+U2NjE3Mzc1LDE5ODcyMjkyNzQsLTIwNjc5MDcxODEsLTE4MDcw
+MTE3OTEsLTE0NDI2MzMxMDRdfQ==
 -->
