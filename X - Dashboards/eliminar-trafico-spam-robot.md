@@ -56,9 +56,11 @@ Para ello podemos generar **una nueva audiencia de análisis** que excluya el se
 
 
 
-<section id="cs_recursos"></section>
+
 
 ## Recursos
+
+<section id="cs_recursos"></section>
 
 Los recursos más interesantes están relacionados con los listados de robots y páginas de baja calidad así como la documentación oficial de GA4. 
 
@@ -66,9 +68,11 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 - [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
 - [Crear y gestionar audiencias en Google Analytics 4](https://support.google.com/analytics/answer/9267572?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
 
-<section id="cs_herramientas"></section>
+
 
 ## Herramientas
+
+<section id="cs_herramientas"></section>
 
  - [Htaccess generator](https://emirodgar.github.io/htaccess-generator/) (proyecto en Github)
  - [Htaccess generator para Angular](https://julianpoemp.github.io/ngx-htaccess-generator/#/generator)
@@ -95,7 +99,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA1ODIwOTAsMTU2OTcxOTM3NiwtMT
-M0OTM5MzUxOCwyOTYwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0
-MDk2XX0=
+eyJoaXN0b3J5IjpbLTEyNzUwMjk0NDQsLTIwNTA1ODIwOTAsMT
+U2OTcxOTM3NiwtMTM0OTM5MzUxOCwyOTYwNDE1NDgsLTUwMzQw
+MzExNiwyMTE1NTM0MDk2XX0=
 -->
