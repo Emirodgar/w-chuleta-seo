@@ -11,7 +11,12 @@ author: Emirodgar
 
 La mejor manera de implementar la información de monetización en Google Analytics 4 es hacerlo a través de Google Tag Manager y la capa de datos. Para ello, debemos lanzar la información que queremos recoger en cada uno de los estadios haciendo uso del objeto `dataLayer`.
 
-Lo más interesante a medir será
+Las acciones que podemos medir, son:
+
+ - `view_item`: cuando se visualiza un producto
+ - `add_to_cart`: al añadir un producto al carrito
+
+
 
     dataLayer.push({ ecommerce: null });  //Limpiamos el objeto.
     dataLayer.push({
@@ -36,5 +41,5 @@ Lo más interesante a medir será
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NTg3MzEzLC00MDgyNjcxMjRdfQ==
+eyJoaXN0b3J5IjpbLTY4NjI5Mzg4MSwtNDA4MjY3MTI0XX0=
 -->
