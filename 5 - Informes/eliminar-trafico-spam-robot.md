@@ -78,9 +78,9 @@ Los recursos más interesantes están relacionados con los listados de robots y 
  - [Htaccess generator para Angular](https://julianpoemp.github.io/ngx-htaccess-generator/#/generator)
 
 
-<section id="cs_pr"></section>
-## Preguntas frecuentes
 
+## Preguntas frecuentes
+<section id="cs_pr"></section>
 
  <div class="row">
   <div class="col-lg-12">
@@ -100,8 +100,8 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NzE3MDk4LDYyOTYyOTkyNCwtMTI3NT
-AyOTQ0NCwtMjA1MDU4MjA5MCwxNTY5NzE5Mzc2LC0xMzQ5Mzkz
-NTE4LDI5NjA0MTU0OCwtNTAzNDAzMTE2LDIxMTU1MzQwOTZdfQ
-==
+eyJoaXN0b3J5IjpbLTc3NTEyODQxNCw2Mjk2Mjk5MjQsLTEyNz
+UwMjk0NDQsLTIwNTA1ODIwOTAsMTU2OTcxOTM3NiwtMTM0OTM5
+MzUxOCwyOTYwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX
+0=
 -->
