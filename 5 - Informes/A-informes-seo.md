@@ -22,7 +22,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 <section id="cs_herramientas"></section>
 
-Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguientes tres herramientas. Con ellas seremos capaces de registrar
+Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguientes tres herramientas. Con ellas seremos capaces de registrar la evolución de cualquier proyecto, así como cualificar y presentar los datos.
 
  - [Google Looker Studio](https://datastudio.google.com/)
  - [Exploraciones de Google Analytics 4](https://support.google.com/analytics/answer/7579450?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
@@ -65,7 +65,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYxNTg0OSwtNDExMjc5NzE4LC00MD
+eyJoaXN0b3J5IjpbMTk3MTgxMzU3MywtNDExMjc5NzE4LC00MD
 E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
 MjEsLTM4MDcxNDYzOV19
 -->
