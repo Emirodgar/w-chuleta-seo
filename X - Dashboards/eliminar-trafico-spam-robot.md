@@ -49,6 +49,18 @@ Para ello podemos generar una nueva vista de análisis que excluya el segmento d
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 
+<section id="cs_recursos"></section>
+
+## Recursos
+
+Los recursos más interesantes
+
+<section id="cs_herramientas"></section>
+
+## Herramientas
+
+<section id="cs_pr"></section>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzUxMzY1MywyMTE1NTM0MDk2XX0=
+eyJoaXN0b3J5IjpbNDUyODc4MzkzLDIxMTU1MzQwOTZdfQ==
 -->
