@@ -77,9 +77,9 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 <section id="cs_pr"></section>
 
  - [Htaccess generator](https://emirodgar.github.io/htaccess-generator/) (proyecto en Github)
- - Htaccess
+ - [Htaccess generator para Angular](https://julianpoemp.github.io/ngx-htaccess-generator/#/generator)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyMDQzODYsLTEzNDkzOTM1MTgsMj
-k2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5Nl19
+eyJoaXN0b3J5IjpbMTI3MjAyMjUzOSwtMTM0OTM5MzUxOCwyOT
+YwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
 -->
