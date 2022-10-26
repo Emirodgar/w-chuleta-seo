@@ -53,7 +53,7 @@ Una última acción, y muy efectiva, para frenar el tráfico generado por robots
 
 ## Recursos
 
-Los recursos más interesantes están relacionados con los listados de 
+Los recursos más interesantes están relacionados con los listados de robots y páginas de baja calidad así como la documentación oficial de GA4. 
 
 - [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
 - [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
@@ -66,6 +66,6 @@ Los recursos más interesantes están relacionados con los listados de
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMTY4NzU1LC01MDM0MDMxMTYsMjExNT
+eyJoaXN0b3J5IjpbMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNT
 UzNDA5Nl19
 -->
