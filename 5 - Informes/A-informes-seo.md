@@ -8,7 +8,11 @@ permalink: informes-seo
   
 ---
 
-Tan importante es diseñar una adecuada estrategia SEO como reportar los datos que avalen nuestro trabajo. Sin un
+Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los datos que avalen nuestro trabajo**. Sin no sabes qué medir ni de qué manera hacerlo, ¿cómo sabrás que evolucionas de manera adecuada?.
+
+## Recursos
+<section id="cs_recursos"></section>
+
 
 ## Templates de Google Data Studio
 
@@ -44,8 +48,8 @@ Tan importante es diseñar una adecuada estrategia SEO como reportar los datos q
 
 
 
-## Recursos
-<section id="cs_recursos"></section>
+
+
 
 
 ## Herramientas
@@ -57,7 +61,7 @@ Tan importante es diseñar una adecuada estrategia SEO como reportar los datos q
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NjQ4MjIxLC00MTEyNzk3MTgsLTQwMT
-QwOTc3NCwxMjExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4Mzgy
-MSwtMzgwNzE0NjM5XX0=
+eyJoaXN0b3J5IjpbMjA2NTUzOTUzOCwtNDExMjc5NzE4LC00MD
+E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
+MjEsLTM4MDcxNDYzOV19
 -->
