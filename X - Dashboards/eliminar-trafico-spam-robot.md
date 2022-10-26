@@ -42,7 +42,7 @@ Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja c
 
 En el caso de Apache, para bloquear el acceso a estos robots tendríamos que utilizar un código como el siguiente:
 
-    RewriteEngine On 
+  >  RewriteEngine On 
     RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
     RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
     RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
@@ -88,7 +88,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 	<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Qué se considera tráfico de baja calidad?</a> </h5>
 	</div>
 	<div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-	<div class="card-body">Por norma general nos referimos a un tráfico simulado por un rastreador web o robot que lo que hace es rastrear nuestra página. Si intentamos analizar estos datos junto con los de usuarios reales, ha </div>
+	<div class="card-body">Por norma general nos referimos a un tráfico simulado por un rastreador web o robot que lo que hace es navegar por nuestra página para obtener información de manera automatizada. Los datos que generan no tienen ningún valor de análisis y ensucian los de los usuarios reales, complicando cualquier posible aprendizaje. </div>
 
 	</div>
 
@@ -98,6 +98,6 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDY3MTk2NywtMTM0OTM5MzUxOCwyOT
+eyJoaXN0b3J5IjpbMTU2OTcxOTM3NiwtMTM0OTM5MzUxOCwyOT
 YwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
 -->
