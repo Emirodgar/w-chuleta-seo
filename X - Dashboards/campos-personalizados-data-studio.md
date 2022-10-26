@@ -1,14 +1,15 @@
 ---
-title: Campos personalizados en Google Data Studio
-description: Saca más rendimiento a Data Studio creando campos específicos para tus necesidades
-lang: es_ES
+title: Campos personalizados en Looker Studio
+description: Saca más rendimiento a Looker Studio creando campos específicos para tus necesidades
+date_modified: 29/09/2022
+folder: informes
+author: Emirodgar
+layout: default_1
 permalink: campos-personalizados-data-studio
-author:
-  twitter: emirodgar
   
 ---
 
-## Eliminar el dominio de las URL
+### Eliminar el dominio de las URL
 
 Si nuestro informe sólo contiene información de un dominio principal, sin ningún subdominio, entonces es interesante eliminar dicho dominio para dejar únicamente la información relevante (el *path* de la URL).
 
@@ -16,7 +17,7 @@ Pasaríamos de tener `chuletaseo.com/ejemplo` a `/ejemplo` lo cual hará más se
 
     REGEXP_EXTRACT(Landing  Page,  ".*\\.com/(.*)$")
 
-## Crear un filtro para tráfico de marca y no marca
+### Crear un filtro para tráfico de marca y no marca
 
 En cualquier estrategia SEO es esencial diferenciar los análisis entre marca y no marca. Con el siguiendo código podremos crear fácilmente este campo.
 
@@ -28,7 +29,7 @@ case
 end
 ```
 
-## Extraer marca de la URL
+### Extraer marca de la URL
 
 Trabajando con URLs es difícil discernir el dominio (o marca) de las mismas. Para facilitar ese análisis podemos crear una dimensión o campo personalizado que incluya únicamente ese valor.
 
@@ -36,7 +37,7 @@ Trabajando con URLs es difícil discernir el dominio (o marca) de las mismas. Pa
 TRIM(REGEXP_EXTRACT(REGEXP_REPLACE(REGEXP_REPLACE(URL, "https?://", ""), R"^(w{3}\.)?", ""), "([^/?]+)"))
 ```
 
-## Extraer dominio principal
+### Extraer dominio principal
 
 Si disponemos de URLs muy largas y sólo nos interesa conocer el dominio principal de las mismas, con el siguiente código podremos disponer del mismo
 
@@ -44,7 +45,7 @@ Si disponemos de URLs muy largas y sólo nos interesa conocer el dominio princip
 REGEXP_EXTRACT(URL , '^https://[^/]+/([^/]+)/' )
 ```
 
-## Agrupar palabras por su clasificación en las SERPs
+### Agrupar palabras por su clasificación en las SERPs
 
 A través de Google Search Console sólo podemos obtener el posicionamiento medio de cada término por el que generamos impresiones o clics. Si buscamos la agrupación de los mismos por página (página 1, página 2, etc.) o por rango de posiciones (Top3, Top5, etc.) podemos hacerlo de la siguiente manera.
 
@@ -58,7 +59,7 @@ case
 end
 ```
 
-## Agrupar búsquedas por intención del usuario
+### Agrupar búsquedas por intención del usuario
 
 Analizando los términos por los que hemos generado impresiones o clics (Google Search Console) podemos
 
@@ -139,7 +140,7 @@ CASE
 END
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYwNjE1NDEsNDU2NjE3Mzc1LDE5OD
-cyMjkyNzQsLTIwNjc5MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2
-MzMxMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzQ2OTMyNCwtMjA3NjA2MTU0MSw0NT
+Y2MTczNzUsMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAx
+MTc5MSwtMTQ0MjYzMzEwNF19
 -->
