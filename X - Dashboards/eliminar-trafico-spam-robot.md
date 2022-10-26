@@ -8,7 +8,6 @@ folder: informes
 author: Emirodgar
 layout: default_1
 permalink: eliminar-trafico-spam-robot
-
   
 ---
 
@@ -77,7 +76,10 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 
 <section id="cs_pr"></section>
 
+ - [Htaccess generator](https://emirodgar.github.io/htaccess-generator/) (proyecto en Github)
+ - Htaccess
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkzOTM1MTgsMjk2MDQxNTQ4LC01MD
-M0MDMxMTYsMjExNTUzNDA5Nl19
+eyJoaXN0b3J5IjpbLTE4NzEyMDQzODYsLTEzNDkzOTM1MTgsMj
+k2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5Nl19
 -->
