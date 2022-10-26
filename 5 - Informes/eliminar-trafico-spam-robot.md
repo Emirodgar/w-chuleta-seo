@@ -70,8 +70,9 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 
 
 
-## Herramientas
 <section id="cs_herramientas"></section>
+## Herramientas
+
 
 
  - [Htaccess generator](https://emirodgar.github.io/htaccess-generator/) (proyecto en Github)
@@ -100,7 +101,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTEyODQxNCw2Mjk2Mjk5MjQsLTEyNz
+eyJoaXN0b3J5IjpbMTc0NjY2NDIzMCw2Mjk2Mjk5MjQsLTEyNz
 UwMjk0NDQsLTIwNTA1ODIwOTAsMTU2OTcxOTM3NiwtMTM0OTM5
 MzUxOCwyOTYwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX
 0=
