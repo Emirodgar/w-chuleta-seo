@@ -26,13 +26,9 @@ El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de rob
  
 Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente tenemos que ver si tenemos un segmento de nuestro tráfico que corresponde con estas características y, de ser así, analizarlo para determinar si se trata de tráfico malo.
 
-## 2- Bloqueamos los accesos
+## Bloqueamos los accesos
 
-### 2.1 - Bloqueamos a los robots de búsqueda conocidos
-
-En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico generado por robots de búsqueda conocidos](https://support.google.com/analytics/answer/9888366?hl=es). Por ello se excluirá todo el tráfico que identifique dentro de la lista internacional de robots de IAB.
-
-### 2.2 - Bloqueamos a los spammers
+> En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico generado por robots de búsqueda conocidos](https://support.google.com/analytics/answer/9888366?hl=es). Por ello se excluirá todo el tráfico que identifique dentro de la lista internacional de robots de IAB.
 
 El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son **conocidos por hacer spam**. Lo haremos desde el servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y *User Agent*. Existen [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/) que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
 
@@ -98,6 +94,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTcxOTM3NiwtMTM0OTM5MzUxOCwyOT
-YwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
+eyJoaXN0b3J5IjpbODc3MDU4NDcyLDE1Njk3MTkzNzYsLTEzND
+kzOTM1MTgsMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5
+Nl19
 -->
