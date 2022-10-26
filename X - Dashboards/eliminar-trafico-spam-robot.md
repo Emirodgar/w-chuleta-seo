@@ -43,17 +43,17 @@ Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja c
 
 Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico spam o generado por bots, pero lo que sí podemos hacer es, con lo que no haya sido bloqueado hasta este punto, excluirlo de nuestros análisis.
 
-Para ello podemos generar una nueva audiencia de análisis que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que dicha vista incluirá únicamente tráfico relevante para ser analizado. Es importante que siempre mantengamos una vista sin filtros (con datos en bruto) para evitar perder información.
+Para ello podemos generar **una nueva audiencia de análisis** que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que los informes incluirán únicamente tráfico relevante para ser analizado. 
 
 ## 4 - Otras acciones
 
-Una última acción -y muy efectiva- para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
+Una última acción, y muy efectiva, para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
-Los recursos más interesantes
+Los recursos más interesantes están relacionados con los listados de 
 
 - [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
 - [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
@@ -66,6 +66,6 @@ Los recursos más interesantes
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTY2NjExMywtNTAzNDAzMTE2LDIxMT
-U1MzQwOTZdfQ==
+eyJoaXN0b3J5IjpbNjUyMTY4NzU1LC01MDM0MDMxMTYsMjExNT
+UzNDA5Nl19
 -->
