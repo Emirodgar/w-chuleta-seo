@@ -25,6 +25,11 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 <section id="cs_herramientas"></section>
 ## Herramientas de analítica web
 
+La herramienta de analítica web más precisa y completa 
+
+> Cuando trabajemos con Search Console es importante recordar que [Google filtra ciertas búsquedas para mantener la privacidad de sus usuarios](https://developers.google.com/search/blog/2022/10/performance-data-deep-dive), por lo que podemos tener limitaciones a la hora de identificar el tráfico de marca y no marca.
+
+
 Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguientes herramientas. Con ellas seremos capaces de registrar la evolución de cualquier proyecto, así como cualificar y presentar los datos.
 
  - [Google Looker Studio](https://datastudio.google.com/)
@@ -32,12 +37,12 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
  - [Google Search Console](https://search.google.com/search-console/performance/search-analytics)
  - [Google Sheets](https://www.google.es/intl/es/sheets/about/)
 
-> Cuando trabajemos con Search Console es importante recordar que [Google filtra ciertas búsquedas para mantener la privacidad de sus usuarios](https://developers.google.com/search/blog/2022/10/performance-data-deep-dive), por lo que podemos tener limitaciones a la hora de identificar el tráfico de marca y no marca.
+
 
 
 ## Templates de Google Looker Studio
 
-> Para mejorar la información de tus informes, aprende a usar los [campos personalizados en Data Studio](https://chuletaseo.com/campos-personalizados-data-studio)
+> Para mejorar la información de tus informes, aprende a usar los [campos personalizados en Looker Studio](https://chuletaseo.com/campos-personalizados-data-studio)
 
  
 - [Medir la velocidad de un sitio]( https://www.searchenginejournal.com/build-speed-dashboards-google-data-studio/321343/)
@@ -69,8 +74,8 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI5ODg2NTEsMzYzNTkyNzM1LC0xMj
-I4ODkyNjksMTk3MTgxMzU3MywtNDExMjc5NzE4LC00MDE0MDk3
-NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4MjEsLT
-M4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbMTEwNDAwODU5LDM2MzU5MjczNSwtMTIyOD
+g5MjY5LDE5NzE4MTM1NzMsLTQxMTI3OTcxOCwtNDAxNDA5Nzc0
+LDEyMTE5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgzODIxLC0zOD
+A3MTQ2MzldfQ==
 -->
