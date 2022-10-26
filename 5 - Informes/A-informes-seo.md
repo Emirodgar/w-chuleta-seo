@@ -19,14 +19,19 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` -  [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 - [Galería de templates de Google Looker Studio](https://datastudio.google.com/gallery)
 
-Nuestra preferencia para reflejar los avances de un proyecto SEO es:
-
- - Google Looker Studio
 
 <section id="cs_herramientas"></section>
 
+Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
-## Templates de Google Data Studio
+ - Google Looker Studio
+ - Explorador de Google Analytics 4
+ - 
+
+
+
+
+## Templates de Google Looker Studio
 
 > Para mejorar la información de tus informes, aprende a usar los [campos personalizados en Data Studio](https://chuletaseo.com/campos-personalizados-data-studio)
 
@@ -60,7 +65,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MzQ1MjIxLC00MTEyNzk3MTgsLTQwMT
-QwOTc3NCwxMjExOTQyMDY2LC0xMzA4MjgwMTczLDEzMDQ4Mzgy
-MSwtMzgwNzE0NjM5XX0=
+eyJoaXN0b3J5IjpbLTQzNjkwOTE5MSwtNDExMjc5NzE4LC00MD
+E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
+MjEsLTM4MDcxNDYzOV19
 -->
