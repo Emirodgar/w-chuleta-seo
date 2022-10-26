@@ -39,9 +39,9 @@ El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico q
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja calidad, no es una solución definitiva porque tendremos que **actualizar frecuentemente el listado de fuentes bloqueadas**.
 
-> Aunque podemos utilizar el fichero robots.txt para solicitar que nuestra página no sea rastreada por 
+> Aunque podemos utilizar el fichero robots.txt para solicitar que nuestra página no sea rastreada por ciertos robots, la manera más eficiente será bloquear su acceso desde el servidor.
 
-En el caso de Apache, para bloquear
+En el caso de Apache, para bloquear el acceso a estos robots tendríamos que utilizar un código como el siguiente:
 
     RewriteEngine On 
     RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
@@ -49,6 +49,7 @@ En el caso de Apache, para bloquear
     RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
     RewriteCond %{HTTP_USER_AGENT} ^Custo [OR]
     RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
+    ....
 
 ## 3 - Filtramos los datos adecuados para ser analizados
 
@@ -77,6 +78,6 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTk3NzUwOCwyOTYwNDE1NDgsLTUwMz
-QwMzExNiwyMTE1NTM0MDk2XX0=
+eyJoaXN0b3J5IjpbLTEzNDkzOTM1MTgsMjk2MDQxNTQ4LC01MD
+M0MDMxMTYsMjExNTUzNDA5Nl19
 -->
