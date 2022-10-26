@@ -4,12 +4,12 @@ description: Configura el módulo de monetización de Google Analytics
 date: 26/10/2022
 folder: informes
 layout: default_1
-permalink: google-analytics
+permalink: google-analytics-ecommerce
 author: Emirodgar
   
 ---
 
-La mejora manera de implementar la información de monetización en Google Analytics 4 es hacerlo a través de Google Tag Manager y la capa de datos. Para ello, debemos lanzar la información que queremos recoger en cada uno de los estadios.
+La mejora manera de implementar la información de monetización en Google Analytics 4 es hacerlo a través de Google Tag Manager y la capa de datos. Para ello, debemos lanzar la información que queremos recoger en cada uno de los estadios haciendo uso del objeto `dataLayer`.
 
     dataLayer.push({ ecommerce: null });  // Clear the previous ecommerce object.
     dataLayer.push({
@@ -34,5 +34,5 @@ La mejora manera de implementar la información de monetización en Google Analy
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njk1NjYzNF19
+eyJoaXN0b3J5IjpbLTQwODI2NzEyNF19
 -->
