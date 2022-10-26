@@ -2,6 +2,7 @@
 title: Campos personalizados en Looker Studio
 description: Saca más rendimiento a Looker Studio creando campos específicos para tus necesidades
 date: 25/10/2022
+date_modified: 26/10/2022
 folder: informes
 author: Emirodgar
 layout: default_1
@@ -15,7 +16,7 @@ Para sacar el máximo partido a nuestros informes SEO en Looker Studio podemos c
 
 Si nuestro informe sólo contiene información de un dominio principal, sin ningún subdominio, entonces es interesante eliminar dicho dominio para dejar únicamente la información relevante (el *path* de la URL).
 
-Pasaríamos de tener `chuletaseo.com/ejemplo` a `/ejemplo` lo cual hará más sencillo los análisis. Para ello necesitaremos crear un campo personalizado con la siguiente fórmula (ojo, si el dominio no termina en `.com`, habrá que adaptarlo).
+Pasaríamos de tener `chuletaseo.com/ejemplo` a `/ejemplo` lo cual hará más sencillo los análisis. Para ello necesitaremos generar un campo personalizado con la siguiente fórmula (ojo, si el dominio no termina en `.com`, habrá que adaptarlo).
 
     REGEXP_EXTRACT(Landing  Page,  ".*\\.com/(.*)$")
 
@@ -159,7 +160,8 @@ END
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjcyMDU4NjUsLTEzNTA0NDQyOTcsLT
-IwNzYwNjE1NDEsNDU2NjE3Mzc1LDE5ODcyMjkyNzQsLTIwNjc5
-MDcxODEsLTE4MDcwMTE3OTEsLTE0NDI2MzMxMDRdfQ==
+eyJoaXN0b3J5IjpbLTMxNTA1Mzg4NSwtMjA2NzIwNTg2NSwtMT
+M1MDQ0NDI5NywtMjA3NjA2MTU0MSw0NTY2MTczNzUsMTk4NzIy
+OTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAxMTc5MSwtMTQ0MjYzMz
+EwNF19
 -->
