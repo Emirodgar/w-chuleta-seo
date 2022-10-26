@@ -12,6 +12,12 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 <section id="cs_recursos"></section>
 
+Nuestra preferencia para reflejar los avances de un proyecto SEO es:
+
+ - Google Looker Studio
+
+<section id="cs_herramientas"></section>
+
 
 ## Templates de Google Data Studio
 
@@ -50,8 +56,8 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 
 
-## Herramientas
-<section id="cs_herramientas"></section>
+
+
 
 ## Scripts en Ptyhon
 
@@ -63,7 +69,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyOTkzNDYsLTQxMTI3OTcxOCwtNDAxND
-A5Nzc0LDEyMTE5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgzODIx
-LC0zODA3MTQ2MzldfQ==
+eyJoaXN0b3J5IjpbMjA4ODg0NjQ0MywtNDExMjc5NzE4LC00MD
+E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
+MjEsLTM4MDcxNDYzOV19
 -->
