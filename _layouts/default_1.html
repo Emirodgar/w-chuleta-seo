@@ -115,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </ul>
         </li>
 		<li class="nav-item"><a 
-      {% if page.folder = "informes" %}
+      {% if page.folder == "informes" %}
         class="nav-link nav-menu active"
       {% else %}
        class="nav-link nav-menu"
@@ -154,7 +154,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						{% endif %}</li>
 					<li><strong>Autor:</strong> 
             
-            {% if page.author = "Emirodgar" %}
+            {% if page.author == "Emirodgar" %}
                 <a href="{{ site.url }}/emirodgar"></a>            
             {% else %}
               {{ page.author }}
