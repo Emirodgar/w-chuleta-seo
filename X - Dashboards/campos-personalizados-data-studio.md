@@ -69,7 +69,7 @@ Analizando los términos por los que hemos generado impresiones o clics (Google 
      when REGEXP_CONTAINS(Keyword, "Buy|price|cheap|expensive|recommendation|recommended|near me|firm|coupon|order|purchase|pricing") then "Transactional Intent" 
     end
 
-## Clasificar URLs por categorías
+### Clasificar URLs por categorías
 
 Es importante en cualquier estrategia analizar los bloques lógicos, además de tener siempre la visión global. En el caso de Data Studio podemos agrupar y generar nuestros propios bloques en función de lo que nos interese monitorizar.
 
@@ -83,7 +83,7 @@ case
 end
 ```
 
-## Crear un campo de idioma
+### Crear un campo de idioma
 
 Si trabajamos en las URLs con parámetros o subcarpetas idiomáticas, podemos rápidamente crear un campo específico para poder agrupar los análisis de forma rápida por este campo.
 
@@ -97,7 +97,7 @@ case
 end
 ```
 
-## Convierte fechas a días transcurridos
+### Convierte fechas a días transcurridos
 
 A veces una simple fecha no nos aporta información suficiente, pero si calculamos los días que han pasado desde ese momento, podemos accionar análisis de manera más sencilla.
 
@@ -110,9 +110,9 @@ case
  else "Publicado hace más de 180 días" end
 ```
 
-## Otros ejemplos útiles
+### Otros ejemplos útiles
 
-### Cómo utilizar reglas condicionales
+#### Cómo utilizar reglas condicionales
 
 ```
 CASE 
@@ -121,7 +121,7 @@ CASE
 END
 ```
 
-### Validar si un campo no tiene valor
+#### Validar si un campo no tiene valor
 
 ```
 CASE 
@@ -130,7 +130,7 @@ CASE
 END
 ```
 
-### Incluir un valor en un bloque lógico
+#### Incluir un valor en un bloque lógico
 
 ```
 CASE 
@@ -139,8 +139,23 @@ CASE
  WHEN Precio >= 100 THEN "Grande" 
 END
 ```
+
+
+<section id="cs_recursos"></section>
+
+## Recursos
+
+
+<section id="cs_herramientas"></section>
+
+## Herramientas
+
+
+<section id="cs_pr"></section>
+
+## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ2OTMyNCwtMjA3NjA2MTU0MSw0NT
+eyJoaXN0b3J5IjpbMjE0MDE0NDAxNCwtMjA3NjA2MTU0MSw0NT
 Y2MTczNzUsMTk4NzIyOTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAx
 MTc5MSwtMTQ0MjYzMzEwNF19
 -->
