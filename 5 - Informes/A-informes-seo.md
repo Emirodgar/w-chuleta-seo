@@ -32,7 +32,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
  - [Google Search Console](https://search.google.com/search-console/performance/search-analytics)
  - [Google Sheets](https://www.google.es/intl/es/sheets/about/)
 
-
+> Cuando trabajemos con Search Console es importante recordar que [Google filtra ciertas búsquedas para mantener la privacidad de sus usuarios](https://developers.google.com/search/blog/2022/10/performance-data-deep-dive), por lo que podemos tener limitaciones a la hora de identificar el tráfico de marca y no marca.
 
 
 ## Templates de Google Looker Studio
@@ -69,7 +69,8 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNTkyNzM1LC0xMjI4ODkyNjksMTk3MT
-gxMzU3MywtNDExMjc5NzE4LC00MDE0MDk3NzQsMTIxMTk0MjA2
-NiwtMTMwODI4MDE3MywxMzA0ODM4MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbLTE5MzI5ODg2NTEsMzYzNTkyNzM1LC0xMj
+I4ODkyNjksMTk3MTgxMzU3MywtNDExMjc5NzE4LC00MDE0MDk3
+NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4MjEsLT
+M4MDcxNDYzOV19
 -->
