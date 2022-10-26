@@ -55,11 +55,8 @@ Como hemos visto hasta ahora, no existe una solución definitiva para hacer fren
 Para ello podemos generar **una nueva audiencia de análisis** que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que los informes incluirán únicamente tráfico relevante para ser analizado. 
 
 
-
-
-
-## Recursos
 <section id="cs_recursos"></section>
+## Recursos
 
 
 Los recursos más interesantes están relacionados con los listados de robots y páginas de baja calidad así como la documentación oficial de GA4. 
@@ -69,19 +66,17 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 - [Crear y gestionar audiencias en Google Analytics 4](https://support.google.com/analytics/answer/9267572?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
 
 
-
 <section id="cs_herramientas"></section>
 ## Herramientas
-
-
 
  - [Htaccess generator](https://emirodgar.github.io/htaccess-generator/) (proyecto en Github)
  - [Htaccess generator para Angular](https://julianpoemp.github.io/ngx-htaccess-generator/#/generator)
 
 
 
-## Preguntas frecuentes
 <section id="cs_pr"></section>
+## Preguntas frecuentes
+
 
  <div class="row">
   <div class="col-lg-12">
@@ -101,7 +96,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjY2NDIzMCw2Mjk2Mjk5MjQsLTEyNz
+eyJoaXN0b3J5IjpbMTE5MzIyMjgyOCw2Mjk2Mjk5MjQsLTEyNz
 UwMjk0NDQsLTIwNTA1ODIwOTAsMTU2OTcxOTM3NiwtMTM0OTM5
 MzUxOCwyOTYwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0MDk2XX
 0=
