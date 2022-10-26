@@ -1,6 +1,6 @@
 ---
 title: Emilio Rodríguez García
-description: 
+description: Consultor SEO con más de 15 años de experiencia en el sector digital. Profesor en Deusto y Asesor en ICEX Next
 date: 24/08/2022
 folder: autor
 author: Emirodgar
@@ -11,7 +11,7 @@ permalink: emirodgar
 
 ![Emirodgar](https://emirodgar.com/cdn/images/author/emirodgar.jpg)
 
-## Padre, cuarentón y **amante del buen SEO**.
+### Padre, cuarentón y **amante del buen SEO**.
  
 Mi nombre es Emilio Rodríguez y llevo desde el 2007 trabajando en el mundo del SEO. Chuleta SEO nace como un proyecto personal donde poder recopilar de manera organizada toda la información, recursos y herramientas que uso en mi día a día. Tras varios años almacenando todo de manera interna, me decidí a crear este portal y subir el contenido.
 
@@ -29,7 +29,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTc3OTg3MywyMTMzOTQ3NTIsNDE1ND
-YzNjAxLC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5MjY0
-LDE3NTI1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbMjA5NTc1Mjk2OCwxOTUxNzc5ODczLDIxMz
+M5NDc1Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIx
+NCwtMzAzNzkyNjQsMTc1MjU2MDEwOF19
 -->
