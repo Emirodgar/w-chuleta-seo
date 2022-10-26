@@ -17,7 +17,9 @@ Mi nombre es Emilio Rodríguez y llevo desde el 2007 trabajando en el mundo del 
 
 Si quieres saber más sobre mí, te recomiendo que conectemos a través de [LinkedIn](https://www.linkedin.com/in/emirodgar/) o que te des una vuelta por mi [página web](https://emirodgar.com), donde publico temas relacionados con el marketing, SEO y datos.
 
-Compagino mi trabajo de SEO en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto.
+Compagino mi trabajo de **SEO manager** en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto así como en otros centros formativos.
+
+Con mi escaso tiempo libre, también escribo [conectados](https://www.tribunasalamanca.com/blogs/conectados), un blog de opinión en Tribuna Salamanca.
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -29,7 +31,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjYwMzIzOCwxOTUxNzc5ODczLDIxMz
-M5NDc1Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIx
-NCwtMzAzNzkyNjQsMTc1MjU2MDEwOF19
+eyJoaXN0b3J5IjpbNTYxNDE4OTU3LDE5NTE3Nzk4NzMsMjEzMz
+k0NzUyLDQxNTQ2MzYwMSwtMTU1MzM4MjU2MiwxNDM0MzI1MjE0
+LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
 -->
