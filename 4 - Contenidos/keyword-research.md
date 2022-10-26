@@ -58,7 +58,7 @@ Las principales guías (y más actualizadas) las encontramos en las grandes empr
 
 En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). 
 
-> Una manera de identificar términos relevantes es usar las **sugerencias de Google**. Cuando estamos realizando una búsqueda, Google muestra algunas sugerencias que nos podrían interesar. Están basadas en búsquedas similares que el buscador considera relevantes.
+> Una manera de identificar términos relevantes es usar las **sugerencias de Google**. Cuando estamos realizando una búsqueda, Google muestra algunas propeustas que nos podrían interesar. Están basadas en búsquedas similares que el buscador considera relevantes.
 
 - [Google Trends](https://trends.google.com/trends/?geo=US): identifica tendencias de búsqueda en múltiples países.
 - [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes.
@@ -148,11 +148,11 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgxMDc1ODUsLTIwNzk0Mzc2NjQsLT
-IxNDE5NjQxOTcsLTEzNDk3ODgzNzAsMTIzNjE0MDEzMCw5NDgz
-MjUxODcsODg5NDMzOTc3LC01OTIwNTI0MjksLTE0NjUyMDU1OD
-AsLTE0NzI1MzIxMDEsNTA3Nzc5OTAxLC01NDMyNjU0NjUsMTM3
-MzcxNjE2NiwtNTczNjA1NTMsODIyMzIwODEzLDcxMTg4Mzc2Mi
-wxMTg3MDU1OTIzLDE2MzcxODg2MjEsLTE5NTgwNDk4MDEsMTI4
-ODY1MTU2NV19
+eyJoaXN0b3J5IjpbNjYzOTU5MDAwLC0yMDM4MTA3NTg1LC0yMD
+c5NDM3NjY0LC0yMTQxOTY0MTk3LC0xMzQ5Nzg4MzcwLDEyMzYx
+NDAxMzAsOTQ4MzI1MTg3LDg4OTQzMzk3NywtNTkyMDUyNDI5LC
+0xNDY1MjA1NTgwLC0xNDcyNTMyMTAxLDUwNzc3OTkwMSwtNTQz
+MjY1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMy
+w3MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4
+MDQ5ODAxXX0=
 -->
