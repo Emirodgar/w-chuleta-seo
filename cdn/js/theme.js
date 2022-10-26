@@ -116,7 +116,7 @@ $('.smooth-scroll,.idocs-navigation a').on('click', function() {
 	event.preventDefault();
     var sectionTo = $(this).attr('href');
 	$('html, body').stop().animate({
-      scrollTop: $(sectionTo).offset().top - 120}, 1000, 'easeInOutExpo');
+      scrollTop: $(sectionTo).offset().top - 100}, 1000, 'easeInOutExpo');
 });
 
 function changePage(event) {
