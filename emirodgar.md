@@ -1,6 +1,6 @@
 ---
 title: Emilio Rodríguez García
-description: Consultor SEO con más de 15 años de experiencia en el sector digital. Profesor en Deusto y USAL y Asesor en ICEX Next. El SEO es mi pasión y los datos
+description: Consultor SEO con más de 15 años de experiencia en el sector. Profesor de marketing digital en Deusto y USAL y Asesor en ICEX Next.
 date: 24/10/2022
 folder: autor
 author: Emirodgar
@@ -31,7 +31,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4MjQwNTcsNTYxNDE4OTU3LDE5NT
+eyJoaXN0b3J5IjpbLTE1NzEyMzQ1NTAsNTYxNDE4OTU3LDE5NT
 E3Nzk4NzMsMjEzMzk0NzUyLDQxNTQ2MzYwMSwtMTU1MzM4MjU2
 MiwxNDM0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
 -->
