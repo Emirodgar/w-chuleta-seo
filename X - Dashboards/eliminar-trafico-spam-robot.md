@@ -35,15 +35,15 @@ En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico ge
 
 ### 2.2 - Bloqueamos a los spammers
 
-El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer spam. Lo haremos desde el servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y *User Agent*. Existen [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/) que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
+El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son **conocidos por hacer spam**. Lo haremos desde el servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y *User Agent*. Existen [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/) que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
 
-Este paso, aunque nos ayudará a reducir considerablemente el tráfico SPAM, no es una solución definitiva porque tendremos que actualizar frecuentemente el listado de fuentes bloqueadas.
+Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja calidad, no es una solución definitiva porque tendremos que **actualizar frecuentemente el listado de fuentes bloqueadas**.
 
 ## 3 - Filtramos los datos adecuados para ser analizados
 
-Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico SPAM o generado por bots, pero lo que sí podemos hacer es -con lo que no haya sido bloqueado hasta este punto- excluirlo de nuestros análisis.
+Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico spam o generado por bots, pero lo que sí podemos hacer es, con lo que no haya sido bloqueado hasta este punto, excluirlo de nuestros análisis.
 
-Para ello podemos generar una nueva vista de análisis que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que dicha vista incluirá únicamente tráfico relevante para ser analizado. Es importante que siempre mantengamos una vista sin filtros (con datos en bruto) para evitar perder información.
+Para ello podemos generar una nueva audiencia de análisis que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que dicha vista incluirá únicamente tráfico relevante para ser analizado. Es importante que siempre mantengamos una vista sin filtros (con datos en bruto) para evitar perder información.
 
 ## 4 - Otras acciones
 
@@ -57,6 +57,7 @@ Los recursos más interesantes
 
 - [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
 - [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
+- [Crear y gestionar audiencias en Google Analytics 4](https://support.google.com/analytics/answer/9267572?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
 
 <section id="cs_herramientas"></section>
 
@@ -65,5 +66,6 @@ Los recursos más interesantes
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzQwMzExNiwyMTE1NTM0MDk2XX0=
+eyJoaXN0b3J5IjpbLTM0NTY2NjExMywtNTAzNDAzMTE2LDIxMT
+U1MzQwOTZdfQ==
 -->
