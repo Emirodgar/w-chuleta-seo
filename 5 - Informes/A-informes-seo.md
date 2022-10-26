@@ -10,7 +10,6 @@ permalink: informes-seo
 
 Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los datos que avalen nuestro trabajo**. Sin no sabes qué medir ni de qué manera hacerlo, ¿cómo sabrás que evolucionas de manera adecuada?.
 
-## Recursos
 <section id="cs_recursos"></section>
 
 
@@ -33,7 +32,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - [Informe de seguimiento & KPIs](https://docs.google.com/spreadsheets/d/1zWkOVpXJ_jlHK96gz414KEryDgqIYg9V0huyvKOofzE/edit#gid=0) 
 - [Seguimiento de tareas](https://docs.google.com/spreadsheets/d/1S4oO4Ss0MYlyUDm_AaRLCd5r6r3NUUd9E5LAyPa7fFM/edit?usp=sharing)
 
-## Mejora los datos de Google Analytics
+## Mejora los datos de Google Analytics 4
 
  - [Eliminar tráfico SPAM](https://chuletaseo.com/eliminar-trafico-spam-robot)
 
@@ -42,9 +41,8 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 
-## Scripts en Ptyhon
 
-- [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
+
 
 
 
@@ -55,13 +53,17 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 ## Herramientas
 <section id="cs_herramientas"></section>
 
+## Scripts en Ptyhon
+
+- [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
+
 
 ## Preguntas frecuentes
 <section id="cs_pr"></section>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTUzOTUzOCwtNDExMjc5NzE4LC00MD
-E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
-MjEsLTM4MDcxNDYzOV19
+eyJoaXN0b3J5IjpbNDIyOTkzNDYsLTQxMTI3OTcxOCwtNDAxND
+A5Nzc0LDEyMTE5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgzODIx
+LC0zODA3MTQ2MzldfQ==
 -->
