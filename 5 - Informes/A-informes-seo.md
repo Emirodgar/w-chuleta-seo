@@ -1,9 +1,10 @@
 ---
 title: Informes SEO
-description: Para estar al día en el posicionamiento web
+description: Aprende a de
 date: 14/10/2022
 date_modified: 26/10/2022
-folder: informes-seo
+folder: informes
+layout: default_1
 permalink: informes-seo
   
 ---
@@ -15,8 +16,8 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 ## Artículos relevantes
 
 - `Inglés` -  [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
-- [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
-- Galería de templates de Google Looker Studio
+- `Inglés` -  [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
+- [Galería de templates de Google Looker Studio](https://datastudio.google.com/gallery)
 
 Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
@@ -49,11 +50,6 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
  - [Eliminar tráfico SPAM](https://chuletaseo.com/eliminar-trafico-spam-robot)
 
 
-
-
-
-
-
 ## Scripts en Ptyhon
 
 - [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
@@ -64,7 +60,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO es:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgxMzcwMDIsLTQxMTI3OTcxOCwtND
-AxNDA5Nzc0LDEyMTE5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgz
-ODIxLC0zODA3MTQ2MzldfQ==
+eyJoaXN0b3J5IjpbMTEyMzA3MTg3NSwtNDExMjc5NzE4LC00MD
+E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
+MjEsLTM4MDcxNDYzOV19
 -->
