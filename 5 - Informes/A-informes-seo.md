@@ -22,11 +22,13 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 
 
 <section id="cs_herramientas"></section>
+## Herramientas de analítica web
 
-Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguientes tres herramientas. Con ellas seremos capaces de registrar la evolución de cualquier proyecto, así como cualificar y presentar los datos.
+Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguientes herramientas. Con ellas seremos capaces de registrar la evolución de cualquier proyecto, así como cualificar y presentar los datos.
 
  - [Google Looker Studio](https://datastudio.google.com/)
  - [Exploraciones de Google Analytics 4](https://support.google.com/analytics/answer/7579450?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
+ - [Google Search Console](https://search.google.com/search-console/performance/search-analytics)
  - [Google Sheets](https://www.google.es/intl/es/sheets/about/)
 
 
@@ -66,7 +68,8 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg4OTI2OSwxOTcxODEzNTczLC00MT
-EyNzk3MTgsLTQwMTQwOTc3NCwxMjExOTQyMDY2LC0xMzA4Mjgw
-MTczLDEzMDQ4MzgyMSwtMzgwNzE0NjM5XX0=
+eyJoaXN0b3J5IjpbLTIwOTQ4NjgwODIsLTEyMjg4OTI2OSwxOT
+cxODEzNTczLC00MTEyNzk3MTgsLTQwMTQwOTc3NCwxMjExOTQy
+MDY2LC0xMzA4MjgwMTczLDEzMDQ4MzgyMSwtMzgwNzE0NjM5XX
+0=
 -->
