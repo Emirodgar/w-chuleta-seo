@@ -5,6 +5,7 @@ date: 14/10/2022
 date_modified: 26/10/2022
 folder: informes
 layout: default_1
+author: Emirodgar
 permalink: informes-seo
   
 ---
@@ -68,8 +69,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ4NjgwODIsLTEyMjg4OTI2OSwxOT
-cxODEzNTczLC00MTEyNzk3MTgsLTQwMTQwOTc3NCwxMjExOTQy
-MDY2LC0xMzA4MjgwMTczLDEzMDQ4MzgyMSwtMzgwNzE0NjM5XX
-0=
+eyJoaXN0b3J5IjpbMzYzNTkyNzM1LC0xMjI4ODkyNjksMTk3MT
+gxMzU3MywtNDExMjc5NzE4LC00MDE0MDk3NzQsMTIxMTk0MjA2
+NiwtMTMwODI4MDE3MywxMzA0ODM4MjEsLTM4MDcxNDYzOV19
 -->
