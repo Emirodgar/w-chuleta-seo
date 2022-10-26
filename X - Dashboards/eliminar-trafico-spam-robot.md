@@ -39,6 +39,17 @@ El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico q
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja calidad, no es una solución definitiva porque tendremos que **actualizar frecuentemente el listado de fuentes bloqueadas**.
 
+> Aunque podemos utilizar el fichero robots.txt para solicitar que nuestra página no sea rastreada por 
+
+En el caso de Apache, para bloquear
+
+    RewriteEngine On 
+    RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
+    RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
+    RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
+    RewriteCond %{HTTP_USER_AGENT} ^Custo [OR]
+    RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
+
 ## 3 - Filtramos los datos adecuados para ser analizados
 
 Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico spam o generado por bots, pero lo que sí podemos hacer es, con lo que no haya sido bloqueado hasta este punto, excluirlo de nuestros análisis.
@@ -66,6 +77,6 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 <section id="cs_pr"></section>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNT
-UzNDA5Nl19
+eyJoaXN0b3J5IjpbLTk3OTk3NzUwOCwyOTYwNDE1NDgsLTUwMz
+QwMzExNiwyMTE1NTM0MDk2XX0=
 -->
