@@ -1,12 +1,14 @@
 ---
 title: Informes SEO
 description: Para estar al día en el posicionamiento web
-date: 14/03/2022
-date_modified: 11/04/2022
+date: 14/10/2022
+date_modified: 26/10/2022
 folder: informes-seo
 permalink: informes-seo
   
 ---
+
+Tan importante es diseñar una adecuada estrategia SEO como 
 
 ## Templates de Google Data Studio
 
@@ -39,8 +41,23 @@ permalink: informes-seo
 ## Scripts en Ptyhon
 
 - [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
+
+
+
+## Recursos
+<section id="cs_recursos"></section>
+
+
+## Herramientas
+<section id="cs_herramientas"></section>
+
+
+## Preguntas frecuentes
+<section id="cs_pr"></section>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTI3OTcxOCwtNDAxNDA5Nzc0LDEyMT
-E5NDIwNjYsLTEzMDgyODAxNzMsMTMwNDgzODIxLC0zODA3MTQ2
-MzldfQ==
+eyJoaXN0b3J5IjpbLTY1Mzc4OTU3MywtNDExMjc5NzE4LC00MD
+E0MDk3NzQsMTIxMTk0MjA2NiwtMTMwODI4MDE3MywxMzA0ODM4
+MjEsLTM4MDcxNDYzOV19
 -->
