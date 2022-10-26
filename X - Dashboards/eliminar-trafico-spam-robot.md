@@ -26,7 +26,7 @@ El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de rob
  
 Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente tenemos que ver si tenemos un segmento de nuestro tráfico que corresponde con estas características y, de ser así, analizarlo para determinar si se trata de tráfico malo.
 
-## Bloqueamos los accesos
+### Bloquear los accesos
 
 > En el caso de Google Analytics 4 (`GA4`), [se bloquea por defecto el tráfico generado por robots de búsqueda conocidos](https://support.google.com/analytics/answer/9888366?hl=es). Por ello se excluirá todo el tráfico que identifique dentro de la lista internacional de robots de IAB.
 
@@ -46,15 +46,13 @@ En el caso de Apache, para bloquear el acceso a estos robots tendríamos que uti
     RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
     ....
 
-## 3 - Filtramos los datos adecuados para ser analizados
+### Filtrar los datos adecuados para ser analizados
 
 Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico spam o generado por bots, pero lo que sí podemos hacer es, con lo que no haya sido bloqueado hasta este punto, excluirlo de nuestros análisis.
 
 Para ello podemos generar **una nueva audiencia de análisis** que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que los informes incluirán únicamente tráfico relevante para ser analizado. 
 
-## 4 - Otras acciones
 
-Una última acción, y muy efectiva, para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 
 <section id="cs_recursos"></section>
 
@@ -95,7 +93,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNjUzMTg3LDE1Njk3MTkzNzYsLTEzND
+eyJoaXN0b3J5IjpbOTM0NzU3OTEwLDE1Njk3MTkzNzYsLTEzND
 kzOTM1MTgsMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5
 Nl19
 -->
