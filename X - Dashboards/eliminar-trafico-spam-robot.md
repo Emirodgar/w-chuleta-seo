@@ -38,7 +38,7 @@ Este paso, aunque nos ayudará a reducir considerablemente el tráfico de baja c
 
 En el caso de Apache, para bloquear el acceso a estos robots tendríamos que utilizar un código como el siguiente:
 
-  >  RewriteEngine On 
+    RewriteEngine On 
     RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
     RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
     RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
@@ -94,7 +94,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MDU4NDcyLDE1Njk3MTkzNzYsLTEzND
-kzOTM1MTgsMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5
-Nl19
+eyJoaXN0b3J5IjpbLTc2NjEyODMyOCwxNTY5NzE5Mzc2LC0xMz
+Q5MzkzNTE4LDI5NjA0MTU0OCwtNTAzNDAzMTE2LDIxMTU1MzQw
+OTZdfQ==
 -->
