@@ -15,7 +15,7 @@ Desde hace unos años, nuestros sistemas de analítica reflejan picos de tráfic
 
 A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
 
-## Identificar el tráfico de baja calidad
+### Identificar el tráfico de baja calidad
 
 El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de robots. Por norma general, este tipo de tráfico se caracteriza por:
 
@@ -45,6 +45,8 @@ En el caso de Apache, para bloquear el acceso a estos robots tendríamos que uti
     RewriteCond %{HTTP_USER_AGENT} ^Custo [OR]
     RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
     ....
+
+Una última acción para frenar el tráfico generado por robots es [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html) para los **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 
 ### Filtrar los datos adecuados para ser analizados
 
@@ -93,7 +95,7 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NzU3OTEwLDE1Njk3MTkzNzYsLTEzND
-kzOTM1MTgsMjk2MDQxNTQ4LC01MDM0MDMxMTYsMjExNTUzNDA5
-Nl19
+eyJoaXN0b3J5IjpbLTIwNTA1ODIwOTAsMTU2OTcxOTM3NiwtMT
+M0OTM5MzUxOCwyOTYwNDE1NDgsLTUwMzQwMzExNiwyMTE1NTM0
+MDk2XX0=
 -->
