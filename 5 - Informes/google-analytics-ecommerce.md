@@ -59,6 +59,65 @@ Lanzaremos el siguiente código a la capa de datos
       }
     });
 
+## Añadir un producto al carrito - `add_to_cart`
+
+
+    dataLayer.push({ ecommerce: null });  
+    dataLayer.push({
+      event: "add_to_cart",
+      ecommerce: {
+        items: [{
+          item_name: "Donut Friday Scented T-Shirt", // Name or ID is required.
+          item_id: "67890",
+          price: "33.75",
+          item_brand: "Google",
+          item_category: "Apparel",
+          item_category2: "Mens",
+          item_category3: "Shirts",
+          item_category4: "Tshirts",
+          item_variant: "Black",
+          item_list_name: "Search Results",
+          item_list_id: "SR123",
+          index: 1,
+          quantity: 2
+        }]
+      }
+    });
+
+
+## Venta realizada - `purchase`
+
+    dataLayer.push({ ecommerce: null });  
+    dataLayer.push({
+      event: "purchase",
+      ecommerce: {
+          transaction_id: "T12345",
+          affiliation: "Online Store",
+          value: "59.89",
+          tax: "4.90",
+          shipping: "5.99",
+          currency: "EUR",
+          coupon: "SUMMER_SALE",
+          items: [{
+            item_name: "Triblend Android T-Shirt",
+            item_id: "12345",
+            price: "15.25",
+            item_brand: "Google",
+            item_category: "Apparel",
+            item_variant: "Gray",
+            quantity: 1
+          }, {
+            item_name: "Donut Friday Scented T-Shirt",
+            item_id: "67890",
+            price: 33.75,
+            item_brand: "Google",
+            item_category: "Apparel",
+            item_variant: "Black",
+            quantity: 1
+          }]
+      }
+    });
+
 
 ## Etiquetar las acciones en GTM
 
@@ -71,7 +130,7 @@ Debemos crearlas con los siguientes datos:
  - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto `DLV - Ecommerce items`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDk3NTU2MSwtOTU2NTEzNzkzLC0xMD
-A5NzUxMDA4LDE2MDEyNTUyNzcsMTMyMTE4MDYxNCwtNjg2Mjkz
-ODgxLC00MDgyNjcxMjRdfQ==
+eyJoaXN0b3J5IjpbLTY5Mjg4Mjc1LC00NTQ5NzU1NjEsLTk1Nj
+UxMzc5MywtMTAwOTc1MTAwOCwxNjAxMjU1Mjc3LDEzMjExODA2
+MTQsLTY4NjI5Mzg4MSwtNDA4MjY3MTI0XX0=
 -->
