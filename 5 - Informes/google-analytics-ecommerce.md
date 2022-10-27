@@ -66,11 +66,11 @@ El último paso será generar las etiquetas `tags` en nuestro Tag Manager.
 
 Debemos crearlas con los siguientes datos:
 
- - Tipo de etiqueta: Google Analytics: evento de GA4.
- - 
+ - **Tipo de etiqueta**: Google Analytics: evento de GA4.
+ - Nombre de evento: debe coincidir con los eventos 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjUxMzc5MywtMTAwOTc1MTAwOCwxNj
-AxMjU1Mjc3LDEzMjExODA2MTQsLTY4NjI5Mzg4MSwtNDA4MjY3
-MTI0XX0=
+eyJoaXN0b3J5IjpbOTAwMjc1OTY2LC05NTY1MTM3OTMsLTEwMD
+k3NTEwMDgsMTYwMTI1NTI3NywxMzIxMTgwNjE0LC02ODYyOTM4
+ODEsLTQwODI2NzEyNF19
 -->
