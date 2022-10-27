@@ -11,6 +11,14 @@ author: Emirodgar
 
 ## Instalar el código base
 
+## Nombre estandarizado
+
+A la hora de trabajar es ideal que usemos un estándar en la nomenclatura que vayamos a emplear. Nuestra recomendación es la siguiente:
+
+- **Etiquetas**: TAG - Nombre servicio - Descripción
+- Disparadores
+- Variables:
+
 ## Comercio electrónico en GA4
 
 GA4 cuenta con el módulo de monetización, lo que equivaledría al comercio electrónico que teníamos en GA3 o Universal. La manera más sencilla de registrar nuestras ventas es hacerlo a través de Google Tag Manager y la capa de datos.  Te dejamos las instrucciones en [Google Analytics Ecommerce](/google-analytics-ecommerce).
@@ -27,6 +35,6 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQzNjY4MywtMjMxOTk5MDQyLDExNT
-AxNzQxMThdfQ==
+eyJoaXN0b3J5IjpbLTEzODY1MjE3OTQsLTQzMzQzNjY4MywtMj
+MxOTk5MDQyLDExNTAxNzQxMThdfQ==
 -->
