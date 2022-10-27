@@ -15,6 +15,8 @@ Las acciones que podemos medir, son:
 
  - `view_item`: cuando se visualiza un producto
  - `add_to_cart`: al añadir un producto al carrito
+ - `remove_from_cart`: al añadir un producto al carrito
+ -  `purchase`: al añadir un producto al carrito
 
 ## Visualizar un producto - `view_item`
 
@@ -43,6 +45,6 @@ Lanzaremos el siguiente código a la capa de datos
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTE4MDYxNCwtNjg2MjkzODgxLC00MD
-gyNjcxMjRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU1ODkzNDcsMTMyMTE4MDYxNCwtNj
+g2MjkzODgxLC00MDgyNjcxMjRdfQ==
 -->
