@@ -68,10 +68,10 @@ Debemos crearlas con los siguientes datos:
 
  - **Tipo de etiqueta**: Google Analytics: evento de GA4.
  - **Nombre de evento**: debe coincidir con los eventos antes mencionados (`view_item`, `add_to_cart`, `purchase`, etc.).
- - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto
+ - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto `DLV - Ecommerce items`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE5NTg3MDQsLTk1NjUxMzc5MywtMT
-AwOTc1MTAwOCwxNjAxMjU1Mjc3LDEzMjExODA2MTQsLTY4NjI5
-Mzg4MSwtNDA4MjY3MTI0XX0=
+eyJoaXN0b3J5IjpbLTQ1NDk3NTU2MSwtOTU2NTEzNzkzLC0xMD
+A5NzUxMDA4LDE2MDEyNTUyNzcsMTMyMTE4MDYxNCwtNjg2Mjkz
+ODgxLC00MDgyNjcxMjRdfQ==
 -->
