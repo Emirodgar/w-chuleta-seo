@@ -11,7 +11,7 @@ permalink: emirodgar
 
 ![Emirodgar](https://emirodgar.com/cdn/images/author/emirodgar.jpg){:class="img-fluid"}
 
-### Padre, cuarentón y **amante del buen SEO**.
+### Informático, padre y **amante del buen SEO**.
  
 Mi nombre es Emilio Rodríguez y llevo desde el 2007 trabajando en el mundo del SEO. Chuleta SEO nace como un proyecto personal donde poder recopilar de manera organizada toda la información, recursos y herramientas que uso en mi día a día. Tras varios años almacenando todo de manera interna, me decidí a crear este portal y subir el contenido.
 
@@ -31,7 +31,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDM3NTMwNSwtMTU3MTIzNDU1MCw1Nj
+eyJoaXN0b3J5IjpbMTM1MjA2NDYwMSwtMTU3MTIzNDU1MCw1Nj
 E0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3NTIsNDE1NDYzNjAx
 LC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5MjY0LDE3NT
 I1NjAxMDhdfQ==
