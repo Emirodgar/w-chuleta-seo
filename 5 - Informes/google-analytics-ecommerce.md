@@ -18,7 +18,7 @@ La mejor manera de implementar la información de monetización en Google Analyt
 Google Analytics funciona con un etiquetado a través de la capa de datos. Lo primero será  disponer de una variable que nos permita acceder a toda la información de dicho etiquetado.
 
 Para ello debemos crear la variable en Google Tag Manager de nombre `DLV - Ecommerce items` y tipo `capa de datos`.
-Dentro de la misma, en "nombre de la variable de capa de datos" deberemos incluir el estándar usado por Google, que es `ecommerce.items`.
+Dentro de la misma, en **nombre de la variable de capa de datos** deberemos incluir el estándar empleado por Google, que es `ecommerce.items`.
 
 A partir de ahora, dispondremos en `GTM` de una variable con toda la información relativa a los productos de ecommerce.
 
@@ -130,7 +130,7 @@ Debemos crearlas con los siguientes datos:
  - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto `DLV - Ecommerce items`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjg4Mjc1LC00NTQ5NzU1NjEsLTk1Nj
-UxMzc5MywtMTAwOTc1MTAwOCwxNjAxMjU1Mjc3LDEzMjExODA2
-MTQsLTY4NjI5Mzg4MSwtNDA4MjY3MTI0XX0=
+eyJoaXN0b3J5IjpbLTEyNDM0MzEzODAsLTQ1NDk3NTU2MSwtOT
+U2NTEzNzkzLC0xMDA5NzUxMDA4LDE2MDEyNTUyNzcsMTMyMTE4
+MDYxNCwtNjg2MjkzODgxLC00MDgyNjcxMjRdfQ==
 -->
