@@ -9,7 +9,7 @@ permalink: emirodgar
   
 ---
 
-![Emirodgar](https://emirodgar.com/cdn/images/author/emirodgar.jpg)
+![Emirodgar](https://emirodgar.com/cdn/images/author/emirodgar.jpg){:class="img-responsive"}
 
 ### Padre, cuarentón y **amante del buen SEO**.
  
@@ -31,7 +31,8 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEyMzQ1NTAsNTYxNDE4OTU3LDE5NT
-E3Nzk4NzMsMjEzMzk0NzUyLDQxNTQ2MzYwMSwtMTU1MzM4MjU2
-MiwxNDM0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
+eyJoaXN0b3J5IjpbLTc5NzM1MzkwMSwtMTU3MTIzNDU1MCw1Nj
+E0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3NTIsNDE1NDYzNjAx
+LC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5MjY0LDE3NT
+I1NjAxMDhdfQ==
 -->
