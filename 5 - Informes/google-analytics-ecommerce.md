@@ -33,6 +33,10 @@ Las acciones más recurrentes y básicas que deberíamos medir, son:
  - `remove_from_cart`: al añadir un producto al carrito
  -  `purchase`: al añadir un producto al carrito
 
+Para que podamos recopilar la información, debemos introducir en la capa de datos los datos de nuestros productos a medida que los usuarios interactúan con ellos.
+
+> Hay maneras técnicas de [generar los códigos directamente desde GTM](https://analyticsimplementations.com/google-tag-manager/implementar-enhanced-ecommerce-ga4-en-tu-site-generando-tus-propios-datalayers-desde-google-tag-manager-gtm/).
+
 ## Visualizar un producto - `view_item`
 
 Lanzaremos el siguiente código a la capa de datos
@@ -130,7 +134,8 @@ Debemos crearlas con los siguientes datos:
  - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto `DLV - Ecommerce items`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM0MzEzODAsLTQ1NDk3NTU2MSwtOT
-U2NTEzNzkzLC0xMDA5NzUxMDA4LDE2MDEyNTUyNzcsMTMyMTE4
-MDYxNCwtNjg2MjkzODgxLC00MDgyNjcxMjRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTUwMDU5NzQsLTEyNDM0MzEzODAsLT
+Q1NDk3NTU2MSwtOTU2NTEzNzkzLC0xMDA5NzUxMDA4LDE2MDEy
+NTUyNzcsMTMyMTE4MDYxNCwtNjg2MjkzODgxLC00MDgyNjcxMj
+RdfQ==
 -->
