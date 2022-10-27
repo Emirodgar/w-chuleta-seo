@@ -13,7 +13,7 @@ La mejor manera de implementar la información de monetización en Google Analyt
 
 ## Crear la capa de datos de los elementos de ecommerce
 
-
+Google Analytics funciona con un etiquetado a través de la capa de datos. Lo primero será por tanto crearnos una variable que nos permita acceder a toda la informaci
 
 > En la documentación oficial de Google tenemos [todos los eventos](%5D%28https://developers.google.com/tag-manager/ecommerce-ga4?hl=es%29) que podemos medir en nuestro ecommerce
 
@@ -51,6 +51,6 @@ Lanzaremos el siguiente código a la capa de datos
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTI1NTI3NywxMzIxMTgwNjE0LC02OD
-YyOTM4ODEsLTQwODI2NzEyNF19
+eyJoaXN0b3J5IjpbNDQwMDExMTgsMTYwMTI1NTI3NywxMzIxMT
+gwNjE0LC02ODYyOTM4ODEsLTQwODI2NzEyNF19
 -->
