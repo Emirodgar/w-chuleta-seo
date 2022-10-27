@@ -11,12 +11,18 @@ author: Emirodgar
 
 La mejor manera de implementar la información de monetización en Google Analytics 4 es hacerlo a través de Google Tag Manager y la capa de datos. Para ello, debemos lanzar la información que queremos recoger en cada uno de los estadios haciendo uso del objeto `dataLayer`.
 
+## Implementar los códigos en la página web
+
 ## Crear la capa de datos de los elementos de ecommerce
 
 Google Analytics funciona con un etiquetado a través de la capa de datos. Lo primero será  disponer de una variable que nos permita acceder a toda la información de dicho etiquetado.
 
 Para ello debemos crear la variable en Google Tag Manager de nombre `DLV - Ecommerce items` y tipo `capa de datos`.
-Dentro de la misma, en "nombre de la varia
+Dentro de la misma, en "nombre de la variable de capa de datos" deberemos incluir el estándar usado por Google, que es `ecommerce.items`.
+
+A partir de ahora, dispondremos en `GTM` de una variable con toda la información relativa a los productos de ecommerce.
+
+## Etiquetar las acciones en GTM
 
 > En la documentación oficial de Google tenemos [todos los eventos](%5D%28https://developers.google.com/tag-manager/ecommerce-ga4?hl=es%29) que podemos medir en nuestro ecommerce
 
@@ -54,6 +60,6 @@ Lanzaremos el siguiente código a la capa de datos
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjEyMDY4LDE2MDEyNTUyNzcsMTMyMT
-E4MDYxNCwtNjg2MjkzODgxLC00MDgyNjcxMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDk3NTEwMDgsMTYwMTI1NTI3NywxMz
+IxMTgwNjE0LC02ODYyOTM4ODEsLTQwODI2NzEyNF19
 -->
