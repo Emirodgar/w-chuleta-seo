@@ -13,7 +13,7 @@ author: Emirodgar
 
 ## Comercio electrónico en GA4
 
-GA4 cuenta con el módulo de monetización, lo que equivaledría al comercio electrónico que teníamos en GA3 o Universal. La manera más sencilla de registrar nuestras ventas es hacerlo a través de  
+GA4 cuenta con el módulo de monetización, lo que equivaledría al comercio electrónico que teníamos en GA3 o Universal. La manera más sencilla de registrar nuestras ventas es hacerlo a través de Google Tag Manager y la capa de datos.  Te dejamos las instrucciones en [Google Analytics Ecommerce](/google-analytics-ecommerce).
 
 ## GA4 en Shopify
 
@@ -27,6 +27,6 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxODEzNjc0LC0yMzE5OTkwNDIsMTE1MD
-E3NDExOF19
+eyJoaXN0b3J5IjpbLTQzMzQzNjY4MywtMjMxOTk5MDQyLDExNT
+AxNzQxMThdfQ==
 -->
