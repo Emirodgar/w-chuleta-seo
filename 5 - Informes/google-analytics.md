@@ -11,13 +11,15 @@ author: Emirodgar
 
 ## Instalar el código base
 
+La mejor aproximación es instalar el código de Google Analytics 4 a través de Google Tag Manager, un gestor de códigos que optimizará la carga de nuestra página y nos permitirá tener todos los píxeles centralizados en un único lugar.
+
 ## Nombre estandarizado
 
 A la hora de trabajar es ideal que usemos un estándar en la nomenclatura que vayamos a emplear. Nuestra recomendación es la siguiente:
 
-- **Etiquetas**: TAG - Nombre servicio - Descripción
-- Disparadores
-- Variables:
+- **Etiquetas**: TAG - Nombre servicio - descripción
+- **Disparadores** : TRIGGER - Tipo - descripción
+- **Variables**: VAR - Tipo - descripción
 
 ## Comercio electrónico en GA4
 
@@ -35,6 +37,6 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY1MjE3OTQsLTQzMzQzNjY4MywtMj
-MxOTk5MDQyLDExNTAxNzQxMThdfQ==
+eyJoaXN0b3J5IjpbLTM4MzExNTE5NywtNDMzNDM2NjgzLC0yMz
+E5OTkwNDIsMTE1MDE3NDExOF19
 -->
