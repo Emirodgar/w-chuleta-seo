@@ -40,8 +40,22 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
  - `Inglés` -  [Shopify GA4 Kit](https://analyzify.app/shopify-ga4-kit)
 
  
+ <section id="cs_recursos"></section>
+
+## Recursos
+
+
+<section id="cs_herramientas"></section>
+
+## Herramientas
+
+- [Google Analytics](https://datastudio.google.com/)
+
+<section id="cs_pr"></section>
+
+## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNDg4ODA3LC0xNDQzMDU4MDk4LC0zOD
-MxMTUxOTcsLTQzMzQzNjY4MywtMjMxOTk5MDQyLDExNTAxNzQx
-MThdfQ==
+eyJoaXN0b3J5IjpbLTExMjgyNTcwMjEsNDczNDg4ODA3LC0xND
+QzMDU4MDk4LC0zODMxMTUxOTcsLTQzMzQzNjY4MywtMjMxOTk5
+MDQyLDExNTAxNzQxMThdfQ==
 -->
