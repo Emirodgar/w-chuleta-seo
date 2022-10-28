@@ -12,6 +12,7 @@ permalink: campos-personalizados-data-studio
 
 Para sacar el máximo partido a nuestros informes SEO en Looker Studio podemos crear **campos personalizados** que nos ayuden a disponer de una mayor precisión en los datos.
 
+
 ### Eliminar el dominio de las URL
 
 Si nuestro informe sólo contiene información de un dominio principal, sin ningún subdominio, entonces es interesante eliminar dicho dominio para dejar únicamente la información relevante (el *path* de la URL).
@@ -149,6 +150,8 @@ END
 ## Recursos
 
 - [Galería de templates de Looker Studio](https://datastudio.google.com/gallery)
+- [Guía de expresiones regulares para Looker Studio](https://www.databloo.com/blog/google-looker-studio-regex/)
+- [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
 
 <section id="cs_herramientas"></section>
 
@@ -160,8 +163,8 @@ END
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTA1Mzg4NSwtMjA2NzIwNTg2NSwtMT
-M1MDQ0NDI5NywtMjA3NjA2MTU0MSw0NTY2MTczNzUsMTk4NzIy
-OTI3NCwtMjA2NzkwNzE4MSwtMTgwNzAxMTc5MSwtMTQ0MjYzMz
-EwNF19
+eyJoaXN0b3J5IjpbLTUzMjU0OTkxMywtMzE1MDUzODg1LC0yMD
+Y3MjA1ODY1LC0xMzUwNDQ0Mjk3LC0yMDc2MDYxNTQxLDQ1NjYx
+NzM3NSwxOTg3MjI5Mjc0LC0yMDY3OTA3MTgxLC0xODA3MDExNz
+kxLC0xNDQyNjMzMTA0XX0=
 -->
