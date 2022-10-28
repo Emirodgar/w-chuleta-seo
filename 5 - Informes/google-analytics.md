@@ -14,6 +14,10 @@ author: Emirodgar
 
 ## Instalar el código base
 
+>   Google Analytics Universal `GA3` [dejará de estar disponible en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Si aún no has hecho la migración a `GA4`, no tardes más para poder generar histórico lo antes posible. En el caso de usar Analytics 360 (la versión de pago), [podremos seguir usando la versión Universal](https://blog.google/products/marketingplatform/analytics/turn-insights-roi-google-analytics/) (Universal) hasta 2024.
+
+> Existe una [certificación oficial de Google Analytics](https://skillshop.exceedlms.com/student/path/508845-google-analytics-certification).
+
 La mejor aproximación es instalar el código de Google Analytics 4 a través de Google Tag Manager, un gestor de códigos que optimizará la carga de nuestra página y nos permitirá tener todos los píxeles centralizados en un único lugar.
 
 ## Nombre estandarizado
@@ -55,7 +59,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDkyODY2OCw0NzM0ODg4MDcsLTE0ND
+eyJoaXN0b3J5IjpbMTE2NTc0Njk0MCw0NzM0ODg4MDcsLTE0ND
 MwNTgwOTgsLTM4MzExNTE5NywtNDMzNDM2NjgzLC0yMzE5OTkw
 NDIsMTE1MDE3NDExOF19
 -->
