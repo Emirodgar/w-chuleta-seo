@@ -9,9 +9,8 @@ author: Emirodgar
   
 ---
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">GA4</span> A partir de este momento debemos trabajar siempre con propiedades de GA4.</div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">GA3</span> Google Analytics 3 (Universal) dejará de funcionar en julio de 2023.</div>
 
->   Google Analytics Universal `GA3` [dejará de estar disponible en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Si aún no has hecho la migración a `GA4`, no tardes más para poder generar histórico lo antes posible. En el caso de usar Analytics 360 (la versión de pago), [podremos seguir usando la versión Universal](https://blog.google/products/marketingplatform/analytics/turn-insights-roi-google-analytics/) (Universal) hasta 2024.
 
 ## Instalar el código base
 
@@ -56,7 +55,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTE5NzQ1LDQ3MzQ4ODgwNywtMTQ0Mz
-A1ODA5OCwtMzgzMTE1MTk3LC00MzM0MzY2ODMsLTIzMTk5OTA0
-MiwxMTUwMTc0MTE4XX0=
+eyJoaXN0b3J5IjpbMTkwNDkyODY2OCw0NzM0ODg4MDcsLTE0ND
+MwNTgwOTgsLTM4MzExNTE5NywtNDMzNDM2NjgzLC0yMzE5OTkw
+NDIsMTE1MDE3NDExOF19
 -->
