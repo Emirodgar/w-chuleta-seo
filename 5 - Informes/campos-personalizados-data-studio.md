@@ -150,8 +150,8 @@ END
 ## Recursos
 
 - [Galería de templates de Looker Studio](https://datastudio.google.com/gallery)
-- [Guía de expresiones regulares para Looker Studio](https://www.databloo.com/blog/google-looker-studio-regex/)
-- [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
+- `Inglés` - [Guía de expresiones regulares para Looker Studio](https://www.databloo.com/blog/google-looker-studio-regex/)
+- `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
 
 <section id="cs_herramientas"></section>
 
@@ -163,8 +163,8 @@ END
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjU0OTkxMywtMzE1MDUzODg1LC0yMD
-Y3MjA1ODY1LC0xMzUwNDQ0Mjk3LC0yMDc2MDYxNTQxLDQ1NjYx
-NzM3NSwxOTg3MjI5Mjc0LC0yMDY3OTA3MTgxLC0xODA3MDExNz
-kxLC0xNDQyNjMzMTA0XX0=
+eyJoaXN0b3J5IjpbNDkyMzEzMDcxLC0zMTUwNTM4ODUsLTIwNj
+cyMDU4NjUsLTEzNTA0NDQyOTcsLTIwNzYwNjE1NDEsNDU2NjE3
+Mzc1LDE5ODcyMjkyNzQsLTIwNjc5MDcxODEsLTE4MDcwMTE3OT
+EsLTE0NDI2MzMxMDRdfQ==
 -->
