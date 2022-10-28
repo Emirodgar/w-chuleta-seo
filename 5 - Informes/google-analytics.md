@@ -44,7 +44,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Recursos
 
-- `Inglés` - [Diferencia dimensiones y métricas](https://www.databloo.com/blog/google-data-studio-dimension-vs-metric/)
+- `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
 
 <section id="cs_herramientas"></section>
 
@@ -56,7 +56,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0Njg5ODAsNDczNDg4ODA3LC0xND
-QzMDU4MDk4LC0zODMxMTUxOTcsLTQzMzQzNjY4MywtMjMxOTk5
-MDQyLDExNTAxNzQxMThdfQ==
+eyJoaXN0b3J5IjpbLTU4MTE5NzQ1LDQ3MzQ4ODgwNywtMTQ0Mz
+A1ODA5OCwtMzgzMTE1MTk3LC00MzM0MzY2ODMsLTIzMTk5OTA0
+MiwxMTUwMTc0MTE4XX0=
 -->
