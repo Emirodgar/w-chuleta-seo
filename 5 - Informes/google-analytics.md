@@ -44,18 +44,19 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Recursos
 
+- `Inglés` - [Diferencia dimensiones y métricas](https://www.databloo.com/blog/google-data-studio-dimension-vs-metric/)
 
 <section id="cs_herramientas"></section>
 
 ## Herramientas
 
-- [Google Analytics](https://datastudio.google.com/)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/)
 
 <section id="cs_pr"></section>
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgyNTcwMjEsNDczNDg4ODA3LC0xND
+eyJoaXN0b3J5IjpbLTE0NjI0Njg5ODAsNDczNDg4ODA3LC0xND
 QzMDU4MDk4LC0zODMxMTUxOTcsLTQzMzQzNjY4MywtMjMxOTk5
 MDQyLDExNTAxNzQxMThdfQ==
 -->
