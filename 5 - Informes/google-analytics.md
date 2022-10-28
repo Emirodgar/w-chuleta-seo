@@ -9,6 +9,9 @@ author: Emirodgar
   
 ---
 
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  Google Analytics Universal `GA3` [dejará de estar disponible en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Si aún no has hecho la migración a GA4, no tardes más para poder generar histórico lo antes posible.</div>
+
+
 ## Instalar el código base
 
 La mejor aproximación es instalar el código de Google Analytics 4 a través de Google Tag Manager, un gestor de códigos que optimizará la carga de nuestra página y nos permitirá tener todos los píxeles centralizados en un único lugar.
@@ -37,6 +40,6 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzExNTE5NywtNDMzNDM2NjgzLC0yMz
-E5OTkwNDIsMTE1MDE3NDExOF19
+eyJoaXN0b3J5IjpbLTc2MTU0OTU2NCwtMzgzMTE1MTk3LC00Mz
+M0MzY2ODMsLTIzMTk5OTA0MiwxMTUwMTc0MTE4XX0=
 -->
