@@ -9,7 +9,7 @@ author: Emirodgar
   
 ---
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  Google Analytics Universal `GA3` [dejará de estar disponible en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Si aún no has hecho la migración a `GA4`, no tardes más para poder generar histórico lo antes posible. En el caso de usar Analytics </div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  Google Analytics Universal `GA3` [dejará de estar disponible en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Si aún no has hecho la migración a `GA4`, no tardes más para poder generar histórico lo antes posible. En el caso de usar Analytics 360 (la versión de pago), [podremos seguir usando la versión de GA3](https://www.searchenginejournal.com/google-pushes-universal-analytics-360-sunset-to-2024/469325/) (Universal) hasta 2024.</div>
 
 
 ## Instalar el código base
@@ -40,6 +40,6 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIwNTYxNjAsLTM4MzExNTE5NywtND
-MzNDM2NjgzLC0yMzE5OTkwNDIsMTE1MDE3NDExOF19
+eyJoaXN0b3J5IjpbLTUyNzI4OTMwOSwtMzgzMTE1MTk3LC00Mz
+M0MzY2ODMsLTIzMTk5OTA0MiwxMTUwMTc0MTE4XX0=
 -->
