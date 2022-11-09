@@ -16,12 +16,15 @@ Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicaci
 ## ¿Qué ofrece Discover?
 
 -   Noticias y contenido *evergreen* (que nunca caduca)
--   Da relevancia a las imágenes, vídeos y Images, Videos & AMP Stories
--   Appears on Google’s mobile homepage
--   Available in multiple languages
--   Highly Personalized
--   Users can follow topics, places
+-   Da relevancia a contenidos con imágenes, vídeos y AMP Stories
+-   Se puede acceder desde la home de la aplicación de Google
+-   Disponible en múltiples idiomas
+-   Altamente personalizable
+-   Da facilidad para hacer seguimiento de páginas, temáticas, etc.
 
+## Discover es diferente de las búsquedas de Google
+
+Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados de la búsqueda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDI4ODEyMSwtMTk0NDU1NzA5MF19
+eyJoaXN0b3J5IjpbLTc5MTcwNzk2NCwtMTk0NDU1NzA5MF19
 -->
