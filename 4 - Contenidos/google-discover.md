@@ -86,7 +86,7 @@ Antes de nada, debemos cumplir una serie de requisitos
 Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 1.  **Conocer nuestra principal audiencia de Google Discover**. Analizar los intereses de los usuarios basándonos en los artículos con mayor exposición en Discover es un buen punto de partida.
-2.  Ofrecer contenido de calidad.
+2.  Ofrecer contenido de calidad. Aunque la mayoría son contenidos de noticias o actualidad, el *evergreen* también tiene su hueco.
 3.  Incluir imágenes de calidad, únicas y originales.
 4.  Optimizar para móviles y AMP.
 5.  Alinearnos con el concepto de E-A-T
@@ -143,6 +143,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNDczNzEsNTg5NTAwNjA2LDYyMjU3Mz
-E4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
+eyJoaXN0b3J5IjpbMzI1OTIxNjIwLDU4OTUwMDYwNiw2MjI1Nz
+MxODUsMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
 -->
