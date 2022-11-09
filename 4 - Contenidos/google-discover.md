@@ -78,7 +78,19 @@ Antes de nada, debemos cumplir una serie de requisitos
 -   Los artículos deben tener fechas claras. información sobre el autor .
 -   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
 -   Timely Content
+
+> Discover ofrece contenidos personalizados, esto implica que no puedes trabajar contenido específico para esta plataforma. Dependerá de los gustos de los usuarios.
+
+Aún así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
+
+1.  Google Discover Audience
+2.  Deliver Quality Content
+3.  Include High Quality Visuals
+4.  Optimize Mobile & AMP
+5.  Understand E-A-T
+6.  Consider The "Buzz Factors"
+7.  Get your Knowledge Panel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNTczMTg1LDE1OTM2Mjc3NjMsLTE5ND
-Q1NTcwOTBdfQ==
+eyJoaXN0b3J5IjpbLTQwMzE0MjEwLDYyMjU3MzE4NSwxNTkzNj
+I3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
