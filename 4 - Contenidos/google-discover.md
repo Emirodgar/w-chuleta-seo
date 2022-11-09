@@ -25,6 +25,17 @@ Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicaci
 ## Discover es diferente de las búsquedas de Google
 
 Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son por tanto dos aplicaciones distintas.
+
+## Personalización de Discover
+
+-   Historial de búsqueda del usuario (Web & Apps)
+-   Dispositivo que usa para conectarse
+-   Intereses y categorías afines
+-   Historial de geolocalización
+-   Ubicaciones desde las que se conecta (casa, trabajo, etc.)
+-   Ubicación actual
+-   Discover da la opción a los usuarios de que Discover gives users “more/less” ticker to click when something does or doesn’t tickle your fancy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
+eyJoaXN0b3J5IjpbMTM3OTEwMjc4MiwxNTkzNjI3NzYzLC0xOT
+Q0NTU3MDkwXX0=
 -->
