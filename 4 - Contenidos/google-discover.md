@@ -11,7 +11,7 @@ permalink: google-discover
 
 Google Discover es una herramienta muy útil para aquellas páginas que generan contenidos, puesto que ofrece un escaparate a millones de usuarios. 
 
-Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicación. 
+Fue lanzada Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicación. 
 
 ## ¿Qué ofrece Discover?
 
@@ -39,9 +39,30 @@ Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Go
 
 ## Categorías de interés
 
-Discover lo clasifica como **Topics, Interests & Entities** y es en lo que se basa para clasificar los intereses de los usuarios.
+Discover lo denomina **Topics, Interests & Entities** y es en lo que se basa para clasificar los intereses de los usuarios. Todo ello es proclive a generar paneles de conocimiento (*Knowledge Graph*).
 
+- Book  
+- BookSeries  
+- EducationalOrganization  
+- Event  
+- GovernmentOrganization  
+- LocalBusiness  
+- Movie  
+- MovieSeries  
+- MusicAlbum  
+- MusicGroup  
+- MusicRecording  
+- Organization  
+- Periodical  
+- Person  
+- Place  
+- SportsTeam  
+- TVEpisode  
+- TVSeries  
+- VideoGame  
+- VideoGameSeries  
+- WebSite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjY1Mzc3MSwxNTkzNjI3NzYzLC0xOT
+eyJoaXN0b3J5IjpbMTg5MzY2NzA5MywxNTkzNjI3NzYzLC0xOT
 Q0NTU3MDkwXX0=
 -->
