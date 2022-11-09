@@ -99,6 +99,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 ## Recursos para explotar Google Discover
 
+- [Discover y tu sitio web (guía oficial de Google)](https://developers.google.com/search/docs/appearance/google-discover?hl=es)
 - `Inglés` - [Uncover Google Discover mysteries](https://www.newzdash.com/guide/uncover-google-discover-mysteries-john-shehata)
 - `Inglés` - [Categorías con mayor presencia en Discover](https://docs.google.com/spreadsheets/d/1JISDrPFmW2kaGqtMz1yoDH3KASl9_GFy77KTOzMYSKg/edit#gid=0) 
 - `Inglés` - [Optimize for Google Discover](https://wordlift.io/blog/en/optimize-for-google-discover/)
@@ -150,7 +151,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNDM0MDE5LDE1MTExNTk4MDgsNTg5NT
-AwNjA2LDYyMjU3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkw
-XX0=
+eyJoaXN0b3J5IjpbLTIwMTkzMzEwOTQsMTUxMTE1OTgwOCw1OD
+k1MDA2MDYsNjIyNTczMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcw
+OTBdfQ==
 -->
