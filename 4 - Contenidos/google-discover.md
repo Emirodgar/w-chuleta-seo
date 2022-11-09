@@ -73,12 +73,12 @@ Es un tráfico muy volátil, así que ten mucho cuidado con tener una gran depen
 Antes de nada, debemos cumplir una serie de requisitos
 
 -   La URL debe estar indexada en Google.
--   Must adhere to Google Content policies
--   Must have high resolution large images
--   Articles must have clear dates, bylines, information about authors,
+-   Debemos cumplir con las políticas de Google Content policies.
+-   Debe contener imágenes grandes y de calidad.
+-   Los artículos deben tener fechas claras. información sobre el autor .
 -   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
 -   Timely Content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODcwNjA5MCwxNTkzNjI3NzYzLC0xOT
-Q0NTU3MDkwXX0=
+eyJoaXN0b3J5IjpbNjIyNTczMTg1LDE1OTM2Mjc3NjMsLTE5ND
+Q1NTcwOTBdfQ==
 -->
