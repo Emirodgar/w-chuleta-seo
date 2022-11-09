@@ -100,9 +100,12 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 ## Recursos para explotar Google Discover
 
 - `Inglés` - [Uncover Google Discover mysteries](https://www.newzdash.com/guide/uncover-google-discover-mysteries-john-shehata)
-- [Actualizar tu panel de conocimiento](https://support.google.com/knowledgepanel/answer/7534842?hl=en&ref_topic=7439095%C2%A0).
+- [Actualizar tu panel de conocimiento](https://support.google.com/knowledgepanel/answer/7534842?hl=en&ref_topic=7439095%C2%A0)
 
 <section  id="cs_herramientas"></section>
+
+
+## Herramientas
 
 
 
@@ -145,6 +148,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYyMjA5ODIsNTg5NTAwNjA2LDYyMj
-U3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
+eyJoaXN0b3J5IjpbODM0MjAzMjkxLDU4OTUwMDYwNiw2MjI1Nz
+MxODUsMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
 -->
