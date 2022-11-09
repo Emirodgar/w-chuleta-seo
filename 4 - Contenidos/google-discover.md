@@ -24,7 +24,7 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 
 ## Discover es diferente de las búsquedas de Google
 
-> Discover es más que noticias, pero [los medios digitales se llevan la mayor parte de los clics](https://www.searchenginejournal.com/google-discover/361142/%C2%A0).
+> Discover es más que noticias, pero [los medios digitales se llevan la mayor parte de los clics](https://www.searchenginejournal.com/google-discover/361142/%C2%A0), en torno al 46%.
 
 Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos aplicaciones distintas.
 
@@ -76,8 +76,9 @@ Antes de nada, debemos cumplir una serie de requisitos
 
 -   La URL debe estar indexada en Google.
 -   Debemos cumplir con las políticas de Google Content policies.
--   Debe contener imágenes grandes y de calidad.
--   Los artículos deben tener fechas claras. información sobre el autor .
+-   Debe contener imágenes grandes y de calidad. Mínimo `1200px` de ancho.
+- Debemos disponer de la etiqueta `max-image-preview:large` configurada en el sitio.
+-   Los artículos deben tener fechas claras. Información sobre el autor.
 -   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
 -   Timely Content
 
@@ -143,6 +144,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1OTIxNjIwLDU4OTUwMDYwNiw2MjI1Nz
-MxODUsMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
+eyJoaXN0b3J5IjpbMTczMDg3ODA2Miw1ODk1MDA2MDYsNjIyNT
+czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
 -->
