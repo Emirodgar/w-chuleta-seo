@@ -92,7 +92,23 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 5.  Alinearnos con el concepto de E-A-T
 6.  Considerar los factores  "Buzz".
 7.  Conseguir un panel de conocimiento.
+
+
+<section  id="cs_recursos"></section>
+
+- `Inglés` - [Uncover Google Discover mysteries](https://www.newzdash.com/guide/uncover-google-discover-mysteries-john-shehata)
+
+<section  id="cs_herramientas"></section>
+
+
+
+
+
+<section  id="cs_pr"></section>
+
+
+## Preguntas y respuestas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTIyMDc3OSw1ODk1MDA2MDYsNjIyNT
-czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
+eyJoaXN0b3J5IjpbODI1NTI5MzM1LDU4OTUwMDYwNiw2MjI1Nz
+MxODUsMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
 -->
