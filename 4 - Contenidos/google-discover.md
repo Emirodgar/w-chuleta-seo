@@ -24,7 +24,7 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 
 ## Discover es diferente de las búsquedas de Google
 
-> Discover son
+> Discover es más que noticias, pero [los medios digitales se llevan la mayor parte de los clics](https://www.searchenginejournal.com/google-discover/361142/%C2%A0).
 
 Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos aplicaciones distintas.
 
@@ -93,6 +93,6 @@ Aún así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 6.  Considerar los factores  "Buzz".
 7.  Conseguir un panel de conocimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjkxMDE0LDYyMjU3MzE4NSwxNTkzNj
+eyJoaXN0b3J5IjpbNjkxMDk0OTM3LDYyMjU3MzE4NSwxNTkzNj
 I3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
