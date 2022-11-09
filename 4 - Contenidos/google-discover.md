@@ -90,9 +90,9 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 2.  Ofrecer contenido de calidad. Aunque la mayoría son contenidos de noticias o actualidad, el *evergreen* también tiene su hueco.
 3.  **Incluir imágenes de calidad, únicas y originales**. Mínimo `1200px` y con atributo `alt` establecido.
 4.  **Optimizar para móviles y AMP.** Casi el 60% de los resultados corresponden a versiones AMP.
-5.  **Alinearnos con el concepto de E-A-T**. Debemos incluir información clara y precisa de quiénes somos, cómo contactarnos y quién ha escrito el contenido.  Incluir los datos estructurados de `Person`.
-6.  Considerar los factores  "Buzz".
-7.  Conseguir un panel de conocimiento.
+5.  **Alinearnos con el concepto de E-A-T**. Debemos incluir información clara y precisa de quiénes somos, cómo contactarnos y quién ha escrito el contenido.  Incluir los datos estructurados de `Person` asociados al autor.
+6.  **Considerar los factores  "Buzz".** Identificar lo que es tendencia en redes sociales ayuda a alinearse con lo que puede estar ocurriendo en Discover.
+7.  Conseguir un panel de conocimiento. No es requisito indispensable, pero ayuda.
 
 
 <section  id="cs_recursos"></section>
@@ -100,6 +100,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 ## Recursos para explotar Google Discover
 
 - `Inglés` - [Uncover Google Discover mysteries](https://www.newzdash.com/guide/uncover-google-discover-mysteries-john-shehata)
+- [Actualizar tu panel de conocimiento](https://support.google.com/knowledgepanel/answer/7534842?hl=en&ref_topic=7439095%C2%A0).
 
 <section  id="cs_herramientas"></section>
 
@@ -144,6 +145,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk0NzU0NDksNTg5NTAwNjA2LDYyMj
+eyJoaXN0b3J5IjpbLTEwODYyMjA5ODIsNTg5NTAwNjA2LDYyMj
 U3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
