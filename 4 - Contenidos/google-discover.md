@@ -120,10 +120,19 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 <div class="card">
 <div class="card-header" id="heading1">
-<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Es lo mismo Discover que las búsquedas</a> </h5>
+<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Es lo mismo Discover que los resultados de búsquedas?</a> </h5>
 </div>
 <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
 <div class="card-body">No. Son aplicaciones diferentes. A Discover accedemos a través de la aplicación de Google y únicamente en dispositivos móviles. Los resulados de búsqueda se pueden acceder desde cualquier sitio.   </div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="heading1">
+<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿La misma estrategia SEO del sitio es válida para Discover?</a> </h5>
+</div>
+<div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+<div class="card-body">No. S.   </div>
 </div>
 </div>
 
@@ -134,6 +143,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwOTYzNjcsNTg5NTAwNjA2LDYyMj
-U3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
+eyJoaXN0b3J5IjpbLTc0MDcxOTQxNyw1ODk1MDA2MDYsNjIyNT
+czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
 -->
