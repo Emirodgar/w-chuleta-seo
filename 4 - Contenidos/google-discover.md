@@ -11,9 +11,10 @@ permalink: google-discover
 
 Google Discover es una herramienta muy útil para aquellas páginas que generan contenidos, puesto que ofrece un escaparate a millones de usuarios. 
 
-## 
+## Tem´çat
 
 Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicación. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ1NTcwOTBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDMxMzM5NjYsLTE5NDQ1NTcwOTBdfQ
+==
 -->
