@@ -83,7 +83,7 @@ Antes de nada, debemos cumplir una serie de requisitos
 
 > Discover ofrece contenidos personalizados, esto implica que no puedes trabajar contenido específico para esta plataforma. Dependerá de los gustos de los usuarios.
 
-Aún así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
+Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 1.  Conocer nuestra principal audiencia de Google Discover.
 2.  Ofrecer contenido de calidad.
@@ -93,6 +93,6 @@ Aún así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 6.  Considerar los factores  "Buzz".
 7.  Conseguir un panel de conocimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDk0OTM3LDYyMjU3MzE4NSwxNTkzNj
+eyJoaXN0b3J5IjpbNTg5NTAwNjA2LDYyMjU3MzE4NSwxNTkzNj
 I3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
