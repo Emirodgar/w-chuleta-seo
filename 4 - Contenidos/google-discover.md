@@ -24,7 +24,9 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 
 ## Discover es diferente de las búsquedas de Google
 
-Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son por tanto dos aplicaciones distintas.
+> Discover son
+
+Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos aplicaciones distintas.
 
 ## Personalización de Discover
 
@@ -83,14 +85,14 @@ Antes de nada, debemos cumplir una serie de requisitos
 
 Aún así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
-1.  Google Discover Audience
-2.  Deliver Quality Content
-3.  Include High Quality Visuals
-4.  Optimize Mobile & AMP
-5.  Understand E-A-T
-6.  Consider The "Buzz Factors"
-7.  Get your Knowledge Panel
+1.  Conocer nuestra principal audiencia de Google Discover.
+2.  Ofrecer contenido de calidad.
+3.  Incluir imágenes de calidad, únicas y originales.
+4.  Optimizar para móviles y AMP.
+5.  Alinearnos con el concepto de E-A-T
+6.  Considerar los factores  "Buzz".
+7.  Conseguir un panel de conocimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzE0MjEwLDYyMjU3MzE4NSwxNTkzNj
+eyJoaXN0b3J5IjpbMTQzNjkxMDE0LDYyMjU3MzE4NSwxNTkzNj
 I3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
