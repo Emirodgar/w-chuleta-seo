@@ -76,7 +76,7 @@ Antes de nada, debemos cumplir una serie de requisitos
 
 -   La URL debe estar indexada en Google.
 -   Debemos cumplir con las políticas de Google Content policies.
--   Debe contener imágenes grandes y de calidad. Mínimo `1200px` de ancho.
+-   Debe contener imágenes grandes y de calidad. 
 - Debemos disponer de la etiqueta `max-image-preview:large` configurada en el sitio.
 -   Los artículos deben tener fechas claras. Información sobre el autor.
 -   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
@@ -88,7 +88,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 1.  **Conocer nuestra principal audiencia de Google Discover**. Analizar los intereses de los usuarios basándonos en los artículos con mayor exposición en Discover es un buen punto de partida.
 2.  Ofrecer contenido de calidad. Aunque la mayoría son contenidos de noticias o actualidad, el *evergreen* también tiene su hueco.
-3.  Incluir imágenes de calidad, únicas y originales.
+3.  **Incluir imágenes de calidad, únicas y originales**. Mínimo `1200px` y con atributo `alt` establecido.
 4.  Optimizar para móviles y AMP.
 5.  Alinearnos con el concepto de E-A-T
 6.  Considerar los factores  "Buzz".
@@ -144,6 +144,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDg3ODA2Miw1ODk1MDA2MDYsNjIyNT
+eyJoaXN0b3J5IjpbLTk2ODk4NTU0Nyw1ODk1MDA2MDYsNjIyNT
 czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
 -->
