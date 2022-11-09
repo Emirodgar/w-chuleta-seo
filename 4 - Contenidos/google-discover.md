@@ -85,7 +85,7 @@ Antes de nada, debemos cumplir una serie de requisitos
 
 Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
-1.  Conocer nuestra principal audiencia de Google Discover.
+1.  **Conocer nuestra principal audiencia de Google Discover**. Analizar los intereses de los usuarios basándonos en los artículos con mayor exposición en Discover es un buen punto de partida.
 2.  Ofrecer contenido de calidad.
 3.  Incluir imágenes de calidad, únicas y originales.
 4.  Optimizar para móviles y AMP.
@@ -93,6 +93,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 6.  Considerar los factores  "Buzz".
 7.  Conseguir un panel de conocimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NTAwNjA2LDYyMjU3MzE4NSwxNTkzNj
-I3NzYzLC0xOTQ0NTU3MDkwXX0=
+eyJoaXN0b3J5IjpbLTg3OTIyMDc3OSw1ODk1MDA2MDYsNjIyNT
+czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
 -->
