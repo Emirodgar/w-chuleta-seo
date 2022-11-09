@@ -24,7 +24,7 @@ Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicaci
 
 ## Discover es diferente de las búsquedas de Google
 
-Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados de la búsqueda
+Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son por tanto dos aplicaciones distintas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTcwNzk2NCwtMTk0NDU1NzA5MF19
+eyJoaXN0b3J5IjpbMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
 -->
