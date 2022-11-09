@@ -11,7 +11,7 @@ permalink: google-discover
 
 Google Discover es una herramienta muy útil para aquellas páginas que generan contenidos, puesto que ofrece un escaparate a millones de usuarios. 
 
-Fue lanzada Ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicación. 
+Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios que utilizan su aplicación (en torno a los 800 millones en 2022). 
 
 ## ¿Qué ofrece Discover?
 
@@ -62,7 +62,14 @@ Discover lo denomina **Topics, Interests & Entities** y es en lo que se basa par
 - VideoGame  
 - VideoGameSeries  
 - WebSite
+
+
+## Cómo aparecer en Discover
+
+-   Sólo está disponible para dispositivos móviles.
+-   When clicked, leads to a “More Results” page very similar to Google Discover, where you can follow Topics
+-   Over 70% of queries in a recent study had “Interesting Finds” in Mobile SERPs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzY2NzA5MywxNTkzNjI3NzYzLC0xOT
+eyJoaXN0b3J5IjpbMTgyMDU5Njg4NywxNTkzNjI3NzYzLC0xOT
 Q0NTU3MDkwXX0=
 -->
