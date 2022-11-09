@@ -110,7 +110,30 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 
 ## Preguntas y respuestas
+
+
+<div class="row">
+
+<div class="col-lg-12">
+
+<div class="accordion accordion-alterate arrow-right" id="popularTopics">
+
+<div class="card">
+<div class="card-header" id="heading1">
+<h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Es lo mismo Discover que las búsquedas</a> </h5>
+</div>
+<div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+<div class="card-body">No. Son aplicaciones diferentes. A Discover accedemos a través de la aplicación de Google y únicamente en dispositivos móviles. Los resulados de búsqueda se pueden acceder desde cualquier sitio.   </div>
+</div>
+</div>
+
+
+</div>
+
+</div>
+
+</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDExNjQyLDU4OTUwMDYwNiw2MjI1Nz
-MxODUsMTU5MzYyNzc2MywtMTk0NDU1NzA5MF19
+eyJoaXN0b3J5IjpbLTE3NTAwOTYzNjcsNTg5NTAwNjA2LDYyMj
+U3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
