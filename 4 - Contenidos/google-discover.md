@@ -110,7 +110,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 ## Herramientas
 
-
+- [Google Search Console](https://search.google.com/search-console)
 
 
 
@@ -151,7 +151,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzMzEwOTQsMTUxMTE1OTgwOCw1OD
+eyJoaXN0b3J5IjpbLTE4MTcwNzQ2MTQsMTUxMTE1OTgwOCw1OD
 k1MDA2MDYsNjIyNTczMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcw
 OTBdfQ==
 -->
