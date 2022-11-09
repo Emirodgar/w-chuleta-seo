@@ -89,8 +89,8 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 1.  **Conocer nuestra principal audiencia de Google Discover**. Analizar los intereses de los usuarios basándonos en los artículos con mayor exposición en Discover es un buen punto de partida.
 2.  Ofrecer contenido de calidad. Aunque la mayoría son contenidos de noticias o actualidad, el *evergreen* también tiene su hueco.
 3.  **Incluir imágenes de calidad, únicas y originales**. Mínimo `1200px` y con atributo `alt` establecido.
-4.  Optimizar para móviles y AMP.
-5.  Alinearnos con el concepto de E-A-T
+4.  **Optimizar para móviles y AMP.** Casi el 60% de los resultados corresponden a versiones AMP.
+5.  **Alinearnos con el concepto de E-A-T**. Debemos incluir información clara y precisa de quiénes somos, cómo contactarnos y quién ha escrito el contenido.  Incluir los datos estructurados de `Person`.
 6.  Considerar los factores  "Buzz".
 7.  Conseguir un panel de conocimiento.
 
@@ -144,6 +144,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODk4NTU0Nyw1ODk1MDA2MDYsNjIyNT
-czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
+eyJoaXN0b3J5IjpbLTIwMDk0NzU0NDksNTg5NTAwNjA2LDYyMj
+U3MzE4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
