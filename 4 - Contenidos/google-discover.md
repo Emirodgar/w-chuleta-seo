@@ -66,10 +66,19 @@ Discover lo denomina **Topics, Interests & Entities** y es en lo que se basa par
 
 ## Cómo aparecer en Discover
 
--   Sólo está disponible para dispositivos móviles.
--   When clicked, leads to a “More Results” page very similar to Google Discover, where you can follow Topics
--   Over 70% of queries in a recent study had “Interesting Finds” in Mobile SERPs
+> Sólo está disponible para dispositivos móviles y es accesible a través de la aplicación de Google.
+
+Es un tráfico muy volátil, así que ten mucho cuidado con tener una gran dependencia del mismo. Así como viene, se puede ir.
+
+Antes de nada, debemos cumplir una serie de requisitos
+
+-   La URL debe estar indexada en Google.
+-   Must adhere to Google Content policies
+-   Must have high resolution large images
+-   Articles must have clear dates, bylines, information about authors,
+-   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
+-   Timely Content
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDU5Njg4NywxNTkzNjI3NzYzLC0xOT
+eyJoaXN0b3J5IjpbLTQzODcwNjA5MCwxNTkzNjI3NzYzLC0xOT
 Q0NTU3MDkwXX0=
 -->
