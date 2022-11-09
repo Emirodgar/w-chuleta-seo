@@ -132,7 +132,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿La misma estrategia SEO del sitio es válida para Discover?</a> </h5>
 </div>
 <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-<div class="card-body">No. S.   </div>
+<div class="card-body">No. Discover funciona por afinidad e interés con el usuario de una manera personalizada, lo que implica que no podemos preveer quién lo va a encontrar. Podemos analizar y entender nuestras audiencias para incrementar las posibilidades de que nuestros contenidos les lleguen a través de Discover pero es diferente al SEO que hacemos en la web. </div>
 </div>
 </div>
 
@@ -143,6 +143,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDcxOTQxNyw1ODk1MDA2MDYsNjIyNT
-czMTg1LDE1OTM2Mjc3NjMsLTE5NDQ1NTcwOTBdfQ==
+eyJoaXN0b3J5IjpbNzcwNDczNzEsNTg5NTAwNjA2LDYyMjU3Mz
+E4NSwxNTkzNjI3NzYzLC0xOTQ0NTU3MDkwXX0=
 -->
