@@ -30,9 +30,16 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2014` - Asesor SEO homologado por ICEX España
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
+
+
+## En medios
+
+- `Noviembre 2022` - [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
+- Octubre 2022 - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
+- Sept
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjA2NDYwMSwtMTU3MTIzNDU1MCw1Nj
-E0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3NTIsNDE1NDYzNjAx
-LC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5MjY0LDE3NT
-I1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MzY4ODYxODQsMTM1MjA2NDYwMSwtMT
+U3MTIzNDU1MCw1NjE0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3
+NTIsNDE1NDYzNjAxLC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLT
+MwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
 -->
