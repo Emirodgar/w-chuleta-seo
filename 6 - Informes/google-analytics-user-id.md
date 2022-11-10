@@ -31,13 +31,13 @@ Si queremos centralizar toda la medición en GTM, tendremos que enviar el valor 
 
 En Tag Manager tendremos que llevar a cabo una serie de acciones.
 
- 1. Creamos una nueva variable de tipo `Variable de capa de datos` y, en `Nombre de la variable` incluimos el mismo nombre empleado en el código de la capa de datos. En el caso anterior, sería `user_id`. 
- 2. Generamos (si no tenemos ya) una etiqueta de Google Analytics 4.  Pulsamos sobre **Configuración de la etiqueta** y posteriormente  sobre **Campos que configurar**. Aparecerá una nueva fila con dos espacios. Sobre `Nombre del campo`, escribimo `user_id` y en valor, usamos la variable que hemos creado en el punto anterior, que será {{user_id}}
+ 1. Creamos una nueva variable con nombre `VAR - DL - user_id` de tipo `Variable de capa de datos` y, en `Nombre de la variable` incluimos el mismo nombre empleado en el código de la capa de datos. En el caso anterior, sería `user_id`. 
+ 2. Generamos (si no tenemos ya) una etiqueta de Google Analytics 4.  Pulsamos sobre **Configuración de la etiqueta** y posteriormente  sobre **Campos que configurar**. Aparecerá una nueva fila con dos espacios. Sobre `Nombre del campo`, escribimo `user_id` y en valor, usamos la variable que hemos creado en el punto anterior, que será `{{VAR - DL - user_id}}`.
 
 ## Recursos
 
 - [Guía oficial User-ID Google Analytics - Cómo enviar los IDs](https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites&hl=es)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NjEwMjJdfQ==
+eyJoaXN0b3J5IjpbLTk0NTUxOTUxNF19
 -->
