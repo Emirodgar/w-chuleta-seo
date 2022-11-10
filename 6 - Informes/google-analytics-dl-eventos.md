@@ -23,7 +23,9 @@ Por ejemplo, cuando ocurre una acción como el envío correcto de un formulario,
 
     dataLayer.push({'event': 'formulario_solicita_info'}); 
 
-El siguiente paso será recuperar el evento desde Google Tag Manager. Para ello necesitamos crear un nuevo disparador, de tipo `Evento personalizado` y cuyo valor
+El siguiente paso será recuperar el evento desde Google Tag Manager. Para ello necesitamos crear un nuevo disparador, de tipo `Evento personalizado` y cuyo Nombre del evento sea el mismo que hemos lanzado a la capa de datos. En el ejemplo anterior, el nombre sería `formulario_solicita_info`.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzAyNTMwOF19
+eyJoaXN0b3J5IjpbLTExODM4OTAwNzddfQ==
 -->
