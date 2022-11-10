@@ -34,8 +34,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 ## Ponencias
 
 - `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
+- Abril 2021 - Universidad de Salamanca (USAL) - Masterclass / Analítica web
 - `Marzo 2021` - Siteimprove - Webinar / [Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
-- `Noviembre 2019` - Universidad Pontificia de Salamanca - Masterclass / [Big Data + Marketing Digital](https://es.slideshare.net/emirodgar/big-data-marketing-digital)
+- `Noviembre 2019` - Universidad Pontificia de Salamanca (UPSA) - Masterclass / [Big Data + Marketing Digital](https://es.slideshare.net/emirodgar/big-data-marketing-digital)
 - `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Técnicas de análisis de datos](https://es.slideshare.net/emirodgar/tcnicas-de-anlisis-de-datos)
 - `Noviembre 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Capa de negocios tecnológicos](https://es.slideshare.net/emirodgar/capa-de-negocios-tecnolgicos-modelos-de-negocios-iv)
 - `Febrero 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
@@ -49,7 +50,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMjE0MDk5LDExNzA2MjA2OTUsLTU4Mj
+eyJoaXN0b3J5IjpbNjY5ODk3NzU0LDExNzA2MjA2OTUsLTU4Mj
 Q2NDI1OSwtMzcyNzgwMzUzLDEzNTIwNjQ2MDEsLTE1NzEyMzQ1
 NTAsNTYxNDE4OTU3LDE5NTE3Nzk4NzMsMjEzMzk0NzUyLDQxNT
 Q2MzYwMSwtMTU1MzM4MjU2MiwxNDM0MzI1MjE0LC0zMDM3OTI2
