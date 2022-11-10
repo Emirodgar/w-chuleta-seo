@@ -11,7 +11,9 @@ author: Emirodgar
 
 ## Capa de datos
 
-La cada de datos o `dataLayer` es un espacio intermedio entre nuestra página web y la plataforma de medición. Puede ser utilizada para escribir 
+La cada de datos o `dataLayer` es un espacio intermedio entre nuestra página web y la plataforma de medición. Puede ser utilizada para escribir o leer por ambas partes. 
+
+Para ello se hace uso del lenguaje de programación JavaScri
 
 ## Eventos en la capa de datos
 
@@ -22,5 +24,5 @@ Por ejemplo, cuando ocurre una acción, podemos lanzar el aviso
     dataLayer.push({'event': 'formulario_solicita_info'}); 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njg3Mzc0NF19
+eyJoaXN0b3J5IjpbLTEzNzAzNzUyNDVdfQ==
 -->
