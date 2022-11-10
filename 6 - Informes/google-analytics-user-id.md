@@ -17,14 +17,22 @@ Para ello bastará con enviarlos
 
 En este caso, empleamos el objeto `gtag` para enviar el valor del `user_id`. El campo `TAG_ID` debe contener el identificador del flujo de datos de GA4. Suele ser del tipo G-XXXXXX.
 
-gtag('config',  'TAG_ID',  {  
-'user_id':  'USER_ID'  
-}); 
+    gtag('config',  'TAG_ID',  {  
+    'user_id':  'USER_ID'  
+    }); 
+
+### Enviar el User ID a través de Google Tag Manager
+
+Si queremos centralizar toda la medición en GTM, tendremos que enviar 
+
+    dataLayer.push({  
+    'user_id':  'USER_ID'  
+    });
 
 ## Recursos
 
 - [Guía oficial User-ID Google Analytics - Cómo enviar los IDs](https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites&hl=es)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0NzYwOTAxXX0=
+eyJoaXN0b3J5IjpbMzM2MTYxOTQ3XX0=
 -->
