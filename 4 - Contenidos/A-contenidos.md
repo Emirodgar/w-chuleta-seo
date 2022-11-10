@@ -20,7 +20,7 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
 
 ## Herramientas
 
-- Listado de herramientas para identificar contenidos de baja calidad
+- `Inglés` - [Listado de herramientas para identificar contenidos de baja calidad](https://www.gsqi.com/marketing-blog/tools-for-detecting-low-quality-ai-content/)
 
 
 <section  id="cs_pr">
@@ -30,6 +30,6 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTEyNjcyNSw3NDQ1Mjc4NjQsLTgxND
+eyJoaXN0b3J5IjpbMTg2NDM0MjQyMyw3NDQ1Mjc4NjQsLTgxND
 M0NTgsMTA4MTg0MzI2OF19
 -->
