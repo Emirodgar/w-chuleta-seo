@@ -45,7 +45,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Abril 2021` - Universidad de Salamanca (USAL) - Masterclass / [Analítica web - el valor de los datos](https://es.slideshare.net/emirodgar/usal-masterclass-analtica-web-2021)
 - `Marzo 2021` - Siteimprove - Webinar / [Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
 - `Noviembre 2019` - Universidad Pontificia de Salamanca (UPSA) - Masterclass / [Big Data + Marketing Digital](https://es.slideshare.net/emirodgar/big-data-marketing-digital)
-- `Octubre 2019` - Smartup / Webinar / [¿Cómo será el SEO en 2020?](https://es.slideshare.net/emirodgar/webinar-smartup-cmo-ser-el-seo-en-2020)
+- `Octubre 2019` - Smartup - Webinar / [¿Cómo será el SEO en 2020?](https://es.slideshare.net/emirodgar/webinar-smartup-cmo-ser-el-seo-en-2020)
 - `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Técnicas de análisis de datos](https://es.slideshare.net/emirodgar/tcnicas-de-anlisis-de-datos)
 - `Noviembre 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Capa de negocios tecnológicos](https://es.slideshare.net/emirodgar/capa-de-negocios-tecnolgicos-modelos-de-negocios-iv)
 - `Febrero 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
@@ -59,9 +59,10 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODA3MDA3NSw5MDc0NTc0NywxNzM3OD
-M5NzQyLDExNzA2MjA2OTUsLTU4MjQ2NDI1OSwtMzcyNzgwMzUz
-LDEzNTIwNjQ2MDEsLTE1NzEyMzQ1NTAsNTYxNDE4OTU3LDE5NT
-E3Nzk4NzMsMjEzMzk0NzUyLDQxNTQ2MzYwMSwtMTU1MzM4MjU2
-MiwxNDM0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
+eyJoaXN0b3J5IjpbLTEwMDM5NDg1LC00OTgwNzAwNzUsOTA3ND
+U3NDcsMTczNzgzOTc0MiwxMTcwNjIwNjk1LC01ODI0NjQyNTks
+LTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNTcxMjM0NTUwLDU2MT
+QxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1Miw0MTU0NjM2MDEs
+LTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMzAzNzkyNjQsMTc1Mj
+U2MDEwOF19
 -->
