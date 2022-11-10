@@ -33,7 +33,8 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Ponencias
 
-- Marzo 2021 - Siteimprove - [Webinar Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
+- Mayo 2022 - Smartup - Webinar [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
+- `Marzo 2021` - Siteimprove - [Webinar Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
 
 ## En medios
 
@@ -41,8 +42,8 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM1Njk2ODYsLTM3Mjc4MDM1MywxMz
-UyMDY0NjAxLC0xNTcxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5
-ODczLDIxMzM5NDc1Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMT
-QzNDMyNTIxNCwtMzAzNzkyNjQsMTc1MjU2MDEwOF19
+eyJoaXN0b3J5IjpbMTI1NTg1NDU2LC0zNzI3ODAzNTMsMTM1Mj
+A2NDYwMSwtMTU3MTIzNDU1MCw1NjE0MTg5NTcsMTk1MTc3OTg3
+MywyMTMzOTQ3NTIsNDE1NDYzNjAxLC0xNTUzMzgyNTYyLDE0Mz
+QzMjUyMTQsLTMwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
 -->
