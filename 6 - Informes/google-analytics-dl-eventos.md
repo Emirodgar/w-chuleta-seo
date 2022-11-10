@@ -19,10 +19,11 @@ Para ello se hace uso del lenguaje de programación `JavaScript`, dentro del cua
 
 Una de las funcionalidades más básicas y sencillas que podemos trabajar desde la capa de datos es la de lanzar un evento personalizado.
 
-Por ejemplo, cuando ocurre una acción como el envío correcto de un formulario, podemos lanzar el aviso con
+Por ejemplo, cuando ocurre una acción como el envío correcto de un formulario, podemos lanzar el aviso con el siguiente código.
 
     dataLayer.push({'event': 'formulario_solicita_info'}); 
 
+El siguiente paso será recuperar el evento desde Google Tag Manager. Para ello necesitamos crear un nuevo disparador, de tipo `Evento personalizado` y cuyo valor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgxMDU1MDRdfQ==
+eyJoaXN0b3J5IjpbMTU0MzAyNTMwOF19
 -->
