@@ -19,7 +19,7 @@ Si quieres saber más sobre mí, te recomiendo que conectemos a través de [Link
 
 Compagino mi trabajo de **SEO manager** en Smartup (agencia internacional de marketing digital), como asesor de ICEX Next  y dando clases en el Máster de Marketing Digital de la Universidad de Salamanca (USAL) y Deusto así como en otros centros formativos.
 
-Con mi escaso tiempo libre, escribo [conectados](https://www.tribunasalamanca.com/blogs/conectados), un blog de opinión en Grupo Tribuna y ayudo en [Stackoverflow](https://webmasters.stackexchange.com/users/86914/emirodgar).
+Con mi escaso tiempo libre, escribo [conectados](https://www.tribunasalamanca.com/blogs/conectados), un blog de opinión en Grupo Tribuna, además de ayudar en [Stackoverflow](https://webmasters.stackexchange.com/users/86914/emirodgar) y [Quora](https://es.quora.com/profile/Emilio-7).
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -59,10 +59,10 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODU4NDg5MywtMTAwMzk0ODUsLTQ5OD
-A3MDA3NSw5MDc0NTc0NywxNzM3ODM5NzQyLDExNzA2MjA2OTUs
-LTU4MjQ2NDI1OSwtMzcyNzgwMzUzLDEzNTIwNjQ2MDEsLTE1Nz
-EyMzQ1NTAsNTYxNDE4OTU3LDE5NTE3Nzk4NzMsMjEzMzk0NzUy
-LDQxNTQ2MzYwMSwtMTU1MzM4MjU2MiwxNDM0MzI1MjE0LC0zMD
-M3OTI2NCwxNzUyNTYwMTA4XX0=
+eyJoaXN0b3J5IjpbLTE3MzkzMTYwNTgsLTEwMDM5NDg1LC00OT
+gwNzAwNzUsOTA3NDU3NDcsMTczNzgzOTc0MiwxMTcwNjIwNjk1
+LC01ODI0NjQyNTksLTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNT
+cxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1
+Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMz
+AzNzkyNjQsMTc1MjU2MDEwOF19
 -->
