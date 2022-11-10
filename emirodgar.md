@@ -31,7 +31,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 
-## Ponencias
+## Ponencias y clases
 
 - `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
 - Abril 2021 - Universidad de Salamanca (USAL) - Masterclass / [Analítica web - el valor de los datos](https://es.slideshare.net/emirodgar/usal-masterclass-analtica-web-2021)
@@ -50,7 +50,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTgyNjQyLDExNzA2MjA2OTUsLTU4Mj
+eyJoaXN0b3J5IjpbOTk5NzA2ODcyLDExNzA2MjA2OTUsLTU4Mj
 Q2NDI1OSwtMzcyNzgwMzUzLDEzNTIwNjQ2MDEsLTE1NzEyMzQ1
 NTAsNTYxNDE4OTU3LDE5NTE3Nzk4NzMsMjEzMzk0NzUyLDQxNT
 Q2MzYwMSwtMTU1MzM4MjU2MiwxNDM0MzI1MjE0LC0zMDM3OTI2
