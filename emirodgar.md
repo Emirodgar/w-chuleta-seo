@@ -35,7 +35,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 - `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
 - `Marzo 2021` - Siteimprove - Webinar / [Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
-- `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
+- `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Técnicas de análisis de datos](https://es.slideshare.net/emirodgar/tcnicas-de-anlisis-de-datos)
 - `Febrero 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
 - `Mayo 2017` - Foro Economía Digital - [Exprimiendo Google Analytics](https://es.slideshare.net/emirodgar/exprimiendo-google-analytics)
 
@@ -45,7 +45,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODYzMDY5MiwtMzcyNzgwMzUzLDEzNT
+eyJoaXN0b3J5IjpbLTU4MjQ2NDI1OSwtMzcyNzgwMzUzLDEzNT
 IwNjQ2MDEsLTE1NzEyMzQ1NTAsNTYxNDE4OTU3LDE5NTE3Nzk4
 NzMsMjEzMzk0NzUyLDQxNTQ2MzYwMSwtMTU1MzM4MjU2MiwxND
 M0MzI1MjE0LC0zMDM3OTI2NCwxNzUyNTYwMTA4XX0=
