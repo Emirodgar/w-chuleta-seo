@@ -18,6 +18,10 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
  2. Estrategia de contenidos
  3. Plan de contenidos
 
+## Herramientas
+
+- Listado de herramientas para identificar contenidos de baja calidad
+
 
 <section  id="cs_pr">
 ## Preguntas y respuestas
@@ -26,6 +30,6 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTI3ODY0LC04MTQzNDU4LDEwODE4ND
-MyNjhdfQ==
+eyJoaXN0b3J5IjpbLTUyOTEyNjcyNSw3NDQ1Mjc4NjQsLTgxND
+M0NTgsMTA4MTg0MzI2OF19
 -->
