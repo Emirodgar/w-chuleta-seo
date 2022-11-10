@@ -23,16 +23,20 @@ En este caso, empleamos el objeto `gtag` para enviar el valor del `user_id`. El 
 
 ### Enviar el User ID a través de Google Tag Manager
 
-Si queremos centralizar toda la medición en GTM, tendremos que enviar 
+Si queremos centralizar toda la medición en GTM, tendremos que enviar el valor a la [capa de datos](https://chuletaseo.com/google-analytics-datalayer). Para ello usaremos el siguiente código.
 
     dataLayer.push({  
     'user_id':  'USER_ID'  
     });
+
+En Tag Manager tendremos que llevar a cabo una serie de acciones.
+
+ 1. Creamos una nueva variable de tipo `Variable de capa de datos` y, en Nombre de la variable incluimos el valor . 
 
 ## Recursos
 
 - [Guía oficial User-ID Google Analytics - Cómo enviar los IDs](https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites&hl=es)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MTYxOTQ3XX0=
+eyJoaXN0b3J5IjpbLTk1MDUzMTkyMF19
 -->
