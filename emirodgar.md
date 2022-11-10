@@ -38,6 +38,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Técnicas de análisis de datos](https://es.slideshare.net/emirodgar/tcnicas-de-anlisis-de-datos)
 - `Febrero 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
 - `Mayo 2017` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Business Intelligence](https://es.slideshare.net/emirodgar/business-intelligence-76291067) 
+- `Noviembre 2016` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Plan de marketing digital](https://es.slideshare.net/emirodgar/plan-de-marketing-digital-76290876)
 - `Abril 2016` - Foro Economía Digital - [Exprimiendo Google Analytics](https://es.slideshare.net/emirodgar/exprimiendo-google-analytics)
 
 ## En medios
@@ -46,7 +47,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDY2MTg0MCwtNTgyNDY0MjU5LC0zNz
+eyJoaXN0b3J5IjpbMTE3MDYyMDY5NSwtNTgyNDY0MjU5LC0zNz
 I3ODAzNTMsMTM1MjA2NDYwMSwtMTU3MTIzNDU1MCw1NjE0MTg5
 NTcsMTk1MTc3OTg3MywyMTMzOTQ3NTIsNDE1NDYzNjAxLC0xNT
 UzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5MjY0LDE3NTI1NjAx
