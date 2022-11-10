@@ -25,7 +25,7 @@ Por ejemplo, cuando ocurre una acción como el envío correcto de un formulario,
 
 El siguiente paso será recuperar el evento desde Google Tag Manager. Para ello necesitamos crear un nuevo disparador, de tipo `Evento personalizado` y cuyo Nombre del evento sea el mismo que hemos lanzado a la capa de datos. En el ejemplo anterior, el nombre sería `formulario_solicita_info`.
 
-
+Ahora ya tenemos la capacidad desde GTM de conocer cuán
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM4OTAwNzddfQ==
+eyJoaXN0b3J5IjpbLTQ1NzU0MjgyNl19
 -->
