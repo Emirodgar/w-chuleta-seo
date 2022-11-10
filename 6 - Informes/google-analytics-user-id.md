@@ -9,12 +9,14 @@ author: Emirodgar
   
 ---
 
-Para enviar
+Google Analytics utiliza diferentes funcionalidades para identificar a los usuarios. User ID, Google Signals o Device ID. Si tenemos un sistema de gestión de usuarios, podemos utilizar los identificadores de los mismos para unificar el seguimiento en Analytics.
+
+Para ello bastará con enviarlos  
 
 ## Recursos
 
-- Guía oficial User-ID Google Analytics
-https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites
+- [Guía oficial User-ID Google Analytics - Cómo enviar los IDs](https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites&hl=es)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjgzODIwMV19
+eyJoaXN0b3J5IjpbMTI3NjA0ODIyM119
 -->
