@@ -31,6 +31,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 
+## Ponencias
+
+- Marzo 2021 - Siteimprove - [Webinar Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
 
 ## En medios
 
@@ -38,8 +41,8 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNT
-cxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1
-Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMz
-AzNzkyNjQsMTc1MjU2MDEwOF19
+eyJoaXN0b3J5IjpbLTIwMTM1Njk2ODYsLTM3Mjc4MDM1MywxMz
+UyMDY0NjAxLC0xNTcxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5
+ODczLDIxMzM5NDc1Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMT
+QzNDMyNTIxNCwtMzAzNzkyNjQsMTc1MjU2MDEwOF19
 -->
