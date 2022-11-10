@@ -36,6 +36,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - Desde el `2018` - Director SEO en **Smartup**  / +50 empleados
 - `2015` - `2018` - Director SEO en **Internet Advantage**  / +50 empleados
 - `2012` - `2015` - Consultor SEO en **Internet Advantage**  / +50 empleados
+- `2010` - Consultor SEO homologado por ICEX España
 - `2009` - `2012` - Consultor SEO en **Traffic4U**  / +100 empleados
 
 ## Ponencias y clases
@@ -57,9 +58,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA4NTk2NDksMTE3MDYyMDY5NSwtNT
-gyNDY0MjU5LC0zNzI3ODAzNTMsMTM1MjA2NDYwMSwtMTU3MTIz
-NDU1MCw1NjE0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3NTIsND
-E1NDYzNjAxLC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLTMwMzc5
-MjY0LDE3NTI1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbMTQ4MTM4NTYwOCwxMTcwNjIwNjk1LC01OD
+I0NjQyNTksLTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNTcxMjM0
+NTUwLDU2MTQxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1Miw0MT
+U0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMzAzNzky
+NjQsMTc1MjU2MDEwOF19
 -->
