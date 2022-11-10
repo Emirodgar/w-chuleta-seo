@@ -13,16 +13,16 @@ author: Emirodgar
 
 La cada de datos o `dataLayer` es un espacio intermedio entre nuestra página web y la plataforma de medición. Puede ser utilizada para escribir o leer por ambas partes. 
 
-Para ello se hace uso del lenguaje de programación JavaScri
+Para ello se hace uso del lenguaje de programación `JavaScript`, dentro del cual usaremos el objeto `dataLayer`.
 
 ## Eventos en la capa de datos
 
 Una de las funcionalidades más básicas y sencillas que podemos trabajar desde la capa de datos es la de lanzar un evento personalizado.
 
-Por ejemplo, cuando ocurre una acción, podemos lanzar el aviso
+Por ejemplo, cuando ocurre una acción como el envío correcto de un formulario, podemos lanzar el aviso con
 
     dataLayer.push({'event': 'formulario_solicita_info'}); 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAzNzUyNDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NTgxMDU1MDRdfQ==
 -->
