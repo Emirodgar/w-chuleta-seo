@@ -35,11 +35,11 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 ## En medios
 
 - `Noviembre 2022` - [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
-- Octubre 2022 - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
-- Sept
+- `Octubre 2022` - [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
+- `Septiembre 2022` - [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY4ODYxODQsMTM1MjA2NDYwMSwtMT
-U3MTIzNDU1MCw1NjE0MTg5NTcsMTk1MTc3OTg3MywyMTMzOTQ3
-NTIsNDE1NDYzNjAxLC0xNTUzMzgyNTYyLDE0MzQzMjUyMTQsLT
-MwMzc5MjY0LDE3NTI1NjAxMDhdfQ==
+eyJoaXN0b3J5IjpbLTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNT
+cxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1
+Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMz
+AzNzkyNjQsMTc1MjU2MDEwOF19
 -->
