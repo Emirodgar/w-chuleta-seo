@@ -61,10 +61,10 @@ Para ello podemos generar **una nueva audiencia de análisis** que excluya el se
 
 Los recursos más interesantes están relacionados con los listados de robots y páginas de baja calidad así como la documentación oficial de GA4. 
 
-- [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
-- [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
+- `Inglés` -  [Listado internacional de robots de IAB](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)
+- `Inglés` -  [Listado de páginas y robots spam](https://tab-studio.com/en/blocking-robots-on-your-page/)
 - [Crear y gestionar audiencias en Google Analytics 4](https://support.google.com/analytics/answer/9267572?hl=es#zippy=,secciones-de-este-art%C3%ADculo)
-- Inglés - [Identificar robots en Twitter usando machine learning](https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots)
+- `Inglés` - [Identificar robots en Twitter usando machine learning](https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots)
 
 
 <section id="cs_herramientas"></section>
@@ -97,5 +97,5 @@ Los recursos más interesantes están relacionados con los listados de robots y 
 </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzc4NDYxOV19
+eyJoaXN0b3J5IjpbMjA0NTA2MzY5M119
 -->
