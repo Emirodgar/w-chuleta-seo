@@ -133,6 +133,13 @@ Debemos crearlas con los siguientes datos:
  - **Nombre de evento**: debe coincidir con los eventos antes mencionados (`view_item`, `add_to_cart`, `purchase`, etc.).
  - Parámetros de evento: añadimos una fila con nombre del parámetro item y valor la variable que creamos en el primer punto `DLV - Ecommerce items`.
 
+
+
+## Recursos
+
+- [Guía de migración de ecommerce de GA3 a GA4](https://support.google.com/analytics/answer/10759417)
+
+## Herramientas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwMDU5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NzE5MDA0OF19
 -->
