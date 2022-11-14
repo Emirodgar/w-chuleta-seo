@@ -48,6 +48,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 ## Recursos
 
 - `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
+- `Inglés` - [Informe Looker para auditar implementación GA4](https://datastudio.google.com/u/0/reporting/ced29b32-72ec-4b6c-a41c-7c47b39bac60/page/p_hfbfof53yc)
 
 <section id="cs_herramientas"></section>
 
@@ -59,5 +60,5 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 
 ## Preguntas frecuentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTc0Njk0MF19
+eyJoaXN0b3J5IjpbMzg1OTI1NjUxXX0=
 -->
