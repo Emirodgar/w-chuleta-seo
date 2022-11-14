@@ -2,7 +2,7 @@
 title: Migración SEO
 description: Aprende a realizar una correcta migración SEO para evitar perder tráfico y posicionamiento.
 lang: es_ES
-date: 15/06/2022
+date: 14/11/2022
 folder: indexacion
 permalink: migracion-seo
 
@@ -85,7 +85,11 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 ## Lecturas relacionadas
 
 - [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
+
+
+## Herramientas
+- [Generador online de sitemaps XML](https://sitemapgenerator.xyz/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzI2MjI4Myw2ODg1MDAwNTIsLTM5Mz
-A4NzAzMCwtMTM5MzY2NDMwNl19
+eyJoaXN0b3J5IjpbLTE4NjgyODQ3MjYsLTU1MzI2MjI4Myw2OD
+g1MDAwNTIsLTM5MzA4NzAzMCwtMTM5MzY2NDMwNl19
 -->
