@@ -16,3 +16,6 @@ permalink: renderizado-javascript
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjQ4MTI3NDc1XX0=
 -->
+
+
+https://www.youtube.com/watch?v=viTCKHa8GEE

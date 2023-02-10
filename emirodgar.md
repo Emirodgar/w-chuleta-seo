@@ -24,6 +24,7 @@ Con mi escaso tiempo libre, escribo [conectados](https://www.tribunasalamanca.co
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
 
+- `2023` - Certificación SCRUM Manager ([ver credencial](https://www.scrummanager.com/website/c/profile/member.php?id=42726))
 - `2015` - `2019` - `2021` - `2022` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
 - `2016`- `2019`- Certificación de Inbound Marketing de Hubspot
 - `2018` - Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
@@ -55,14 +56,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## En medios
 
+
+- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humnanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
 - `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkzMTYwNTgsLTEwMDM5NDg1LC00OT
-gwNzAwNzUsOTA3NDU3NDcsMTczNzgzOTc0MiwxMTcwNjIwNjk1
-LC01ODI0NjQyNTksLTM3Mjc4MDM1MywxMzUyMDY0NjAxLC0xNT
-cxMjM0NTUwLDU2MTQxODk1NywxOTUxNzc5ODczLDIxMzM5NDc1
-Miw0MTU0NjM2MDEsLTE1NTMzODI1NjIsMTQzNDMyNTIxNCwtMz
-AzNzkyNjQsMTc1MjU2MDEwOF19
--->
+

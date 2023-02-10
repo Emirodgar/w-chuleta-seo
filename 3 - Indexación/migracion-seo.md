@@ -81,11 +81,14 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso, ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 
+##
+
 
 ## Lecturas relacionadas
 
 - [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
 
+<<<<<<< Updated upstream
 
 ## Herramientas
 - [Generador online de sitemaps XML](https://sitemapgenerator.xyz/)
@@ -93,3 +96,16 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 eyJoaXN0b3J5IjpbLTE4NjgyODQ3MjYsLTU1MzI2MjI4Myw2OD
 g1MDAwNTIsLTM5MzA4NzAzMCwtMTM5MzY2NDMwNl19
 -->
+=======
+## Recursos
+
+### Evita saturar el servidor con muchas redirecciones
+
+Cuando hacemos una migración es muy posible que se realicen cientos o miles de redirecciones. Para evitar que el servidor se sature y que afecte a la métrica TTFB (Time To First Byte), podemos realizar un mapeado de redirecciones.
+
+- `Inglés` - [Mapeado de redirecciones para mejorar rendimiento del servidor tras una migración](https://gauravswaroop.medium.com/nginx-bulk-url-redirect-with-map-47c2cd6ad50a)
+
+
+
+
+>>>>>>> Stashed changes

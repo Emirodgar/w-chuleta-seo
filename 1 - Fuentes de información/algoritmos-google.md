@@ -10,6 +10,9 @@ permalink: algoritmos-google
 1. 
 {:toc}
 
+
+> Un extrabajador de Yandex decidió filtrar el código fuente del buscador ruso. Enorme valor para el SEO de cara a entender [cómo gestiona un buscador el posicionamiento de sus resultados](https://searchengineland.com/yandex-leak-learnings-392393).
+
 ## Listado oficial
 
 Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking).
@@ -72,7 +75,8 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzMwNTM4Niw5ODYwNzQ0MTcsMzU4MD
-MxMzA0LDkzMDMxNDkzMiwtMTgwOTMwOTIyN119
--->
+## Recursos
+
+- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/)
+
+- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/)

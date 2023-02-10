@@ -38,7 +38,10 @@ En Google Tag Manager tendremos que llevar a cabo una serie de acciones.
 
 - [Guía oficial User-ID Google Analytics - Cómo enviar los IDs](https://developers.google.com/analytics/devguides/collection/ga4/user-id?platform=websites&hl=es)
 
+<<<<<<< Updated upstream
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkzNTA2OTc1MywxMDg3MDk5MzYzLC05ND
 U1MTk1MTRdfQ==
 -->
+=======
+>>>>>>> Stashed changes

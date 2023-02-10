@@ -48,8 +48,12 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 ## Recursos
 
 - `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
+<<<<<<< Updated upstream
 - `Inglés` - [Informe Looker para auditar implementación GA4](https://datastudio.google.com/u/0/reporting/ced29b32-72ec-4b6c-a41c-7c47b39bac60/page/p_hfbfof53yc)
 - `Inglés` - [Códigos de GTM listos para ser usados](https://www.analyticsmania.com/google-tag-manager-recipes/)
+=======
+- [Explorador de métricas y dimensiones de GA4](https://ga-dev-tools.web.app/ga4/dimensions-metrics-explorer/)
+>>>>>>> Stashed changes
 
 <section id="cs_herramientas"></section>
 
