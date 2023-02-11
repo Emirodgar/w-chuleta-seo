@@ -24,7 +24,7 @@ permalink: test-seo2
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	  <li> <code>{{page.date}}`</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
+	  <li> <code>{{page.date}}</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -34,8 +34,8 @@ permalink: test-seo2
 
 <ul>
 {% for page in site.pages %}
-{% if page.title != null  %}
-	  <li> <a href="{{ page.url }}">{{ page.title }}</a></li>
+{% if page.date_modified != null  %}
+	  <li> <code>{{page.date_modified}}</code><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
