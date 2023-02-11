@@ -2,6 +2,8 @@
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
 date: 23/08/2022
+author: Emirodgar
+layout: default_1
 folder: fuentes-informacion
 permalink: herramientas-seo
   

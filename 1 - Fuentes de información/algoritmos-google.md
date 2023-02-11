@@ -3,6 +3,8 @@ title: Listado de los algoritmos de Google
 description: 
 date: 14/07/2022
 folder: fuentes-informacion
+author: Emirodgar
+layout: default_1
 permalink: algoritmos-google
   
 ---

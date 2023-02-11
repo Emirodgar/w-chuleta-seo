@@ -2,6 +2,8 @@
 title: Los mejores podcast SEO
 description: Listado de portales que ofrecen podcast relacionadas con el SEO
 date: 10/06/2022
+author: Emirodgar
+layout: default_1
 folder: fuentes-informacion
 permalink: podcast-seo
   
@@ -24,6 +26,3 @@ La gran mayoría de los podcast relevantes en este sector están en inglés.
 - [Crawling Mondays](https://anchor.fm/crawlingmondays-by-aleyda)
 - [The Business Of Digital](https://www.businessof.digital/)
 - [The Recipe For SEO Success Show](https://therecipeforseosuccess.com/category/podcast/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NjkwMDM1XX0=
--->

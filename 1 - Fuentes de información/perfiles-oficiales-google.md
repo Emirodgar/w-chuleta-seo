@@ -2,6 +2,8 @@
 title: Perfiles oficiales de Google
 description: Listado de todos los perfiles oficiales de Google
 date: 14/03/2022
+author: Emirodgar
+layout: default_1
 folder: fuentes-informacion
 permalink: perfiles-oficiales-google
   
