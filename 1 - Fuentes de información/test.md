@@ -30,3 +30,16 @@ permalink: test-seo2
 {% endif %}
 {% endfor %}
 </ul>
+
+
+## Pruwba 2
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "analitica" %}
+	  <li> <a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
