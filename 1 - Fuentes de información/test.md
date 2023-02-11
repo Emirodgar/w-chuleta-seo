@@ -24,9 +24,7 @@ permalink: test-seo2
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.folder== "analitica" %}
 	  <li> <code>{{page.date}}`</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
@@ -37,9 +35,7 @@ permalink: test-seo2
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.folder== "analitica" %}
 	  <li> <a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
