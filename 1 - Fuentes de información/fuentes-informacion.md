@@ -2,6 +2,8 @@
 title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
 date: 10/06/2022
+author: Emirodgar
+layout: default_1
 folder: fuentes-informacion
 author: Emirodgar
 permalink: fuentes-informacion

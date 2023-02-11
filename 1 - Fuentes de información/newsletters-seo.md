@@ -2,6 +2,8 @@
 title: Las mejores newsletter SEO
 description: Listado de portales que ofrecen newsletters relacionadas con el SEO, el marketing y la analítica web
 date: 10/06/2022
+author: Emirodgar
+layout: default_1
 folder: fuentes-informacion
 permalink: newsletter-seo
   

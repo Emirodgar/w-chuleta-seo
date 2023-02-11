@@ -79,6 +79,9 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 
 ## Recursos
 
+- [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
+
 - `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/)
 
 - `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/)
+
