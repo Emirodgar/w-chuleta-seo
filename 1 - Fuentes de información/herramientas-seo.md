@@ -2,6 +2,7 @@
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
 date: 23/08/2022
+date_modified: 13/02/2023
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -12,7 +13,19 @@ permalink: herramientas-seo
 1. 
 {:toc}
 
-A además de este completo listado, aquí tenemos otra agrupación de [100 herramientas SEO gratuitas](https://www.searchenginejournal.com/top-free-seo-tools/302553/).
+
+En el mercado existe una gran variedad de herramientas para trabajar el SEO, tanto gratuitas como de pago. En este apartado hemos recopilado las que consideramos más interesantes.
+
+<section id="cs_recursos"></section>
+
+## Recursos
+
+- [100 herramientas SEO gratuitas](https://www.searchenginejournal.com/top-free-seo-tools/302553/)
+- [Cómo detectar a los robots de los buscadores](https://chuletaseo.com/identificar-robots-busqueda)
+
+
+<section id="cs_herramientas"></section>
+
 
 ## Herramientas para hacer auditorías SEO
 
@@ -33,6 +46,10 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 - [Sitebulb](https://sitebulb.com/)
 
 ## SEO Técnico
+
+Posiblemente sea una de las ramas más complejas del SEO.
+
+> Si disponemos de una versión de nuestra página optimizada para los robots de los buscadores, será importate [saber cómo detectarlos](https://chuletaseo.com/identificar-robots-busqueda) y poder ofrecerles así dicha versión.
 
 -   [Speedmonitor.io](https://speedmonitor.io/)
 -   [Browseo](http://www.browseo.net/)
@@ -232,7 +249,3 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 - [Removal AI](https://removal.ai/): para eliminar el fondo de una imagen.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODg5NTc3NiwtNTMwNzMwNTcyLC0xMj
-c5NTEwMTk4LC0xNTYwMDI2Mzc3LDM3MTQ3ODk4OF19
--->

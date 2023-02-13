@@ -3,7 +3,9 @@ title: Auditoría SEO
 description: Pasos y acciones para desarrollar una correcta auditoría SEO.
 lang: es_ES
 date: 16/03/2022
-folder: primeros-pasos-seo
+author: Emirodgar
+layout: default_1
+folder: fuentes-informacion
 permalink: auditoria-seo
 
 ---
