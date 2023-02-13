@@ -34,9 +34,9 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 
 ## Portales de referencia SEO
 
-- [Search Engine Journal](https://www.searchenginejournal.com/) 
-- [Search Engine Land](https://searchengineland.com/)
-- [Search Engine Roundtable](https://www.seroundtable.com/)
+- `[Inglés]` - [Search Engine Journal](https://www.searchenginejournal.com/) 
+- `[Inglés]` - [Search Engine Land](https://searchengineland.com/)
+- `[Inglés]` - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 
 ## Foros SEO
@@ -45,10 +45,3 @@ Si tienes poco tiempo, o te cuesta digerir tanta información, suscríbete a la 
 - [Comunidad de Google](https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters)
 - [Webmaster World](https://www.webmasterworld.com/)
 - Comunidad [Indexed](https://discord.com/invite/w6DneAXrGd) en Discord
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDA0MDExNiw1NjExMDY2NDMsLTEzND
-I0MjY4ODYsLTQwODI5MTcyMiwtNzc1MDQxMzQwLDE3NTUyNTkx
-MTMsLTEzODg4NDkxNjMsNTEzNjUzNDAxLDE0MzcyNjc1NzVdfQ
-==
--->

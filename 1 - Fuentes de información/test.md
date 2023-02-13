@@ -19,16 +19,6 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 
 Este sitio está gestionado por [Emirodgar](https://chuletaseo.com/emirodgar), **SEO salmantino** con más de 15 años de experiencia en el sector.
 
-## Últimas páginas creadas
-
-<ul>
-{% assign pages = site.pages | sort: 'date' %}
-{% for page in pages %}
-{% if page.date != null  %}
-	  <li> <code>{{page.date}}</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
 
 
 ## Últimas modificaciones
@@ -41,3 +31,17 @@ Este sitio está gestionado por [Emirodgar](https://chuletaseo.com/emirodgar), *
 {% endif %}
 {% endfor %}
 </ul>
+
+## Todas
+
+<ul>
+{% assign pages = site.pages | sort: 'date' %}
+{% for page in pages %}
+{% if page.date != null  %}
+	  <li> <code>{{page.date}}</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+
+
