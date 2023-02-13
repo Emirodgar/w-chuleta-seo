@@ -11,21 +11,31 @@ permalink: seo-inteligencia-artificial
 
 La inteligencia artificial ha llegado al mundo SEO para quedarse. Creo que **aportará más beneficios que perjuicios** y que, junto con los resultados orgánicos tradicionales, **se podrá ofrecer al usuario una mejor experiencia y resultados**.
 
+
+
 ## Contexto
 
 [ChatGPT](https://openai.com/blog/chatgpt/), herramienta de inteligencia artificial desarrollada por OpenAI y respaldada por Microsoft, ha sorprendido al mundo por su capacidad para ofrecer resultados de búsqueda rápidos y fiables.
+
 
 En sólo dos meses, la aplicación -en abierto para cualquiera y fácil de utilizar- ha atraído a más de 100 millones de usuarios, lo que la convierte en una de los mayores crecimientos de la historia.
 
 La integración de ChatGPT con el motor de búsqueda Bing ([anunciado en febrero del 2023](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)) supone una amenaza significativa para 𝐆𝐨𝐨𝐠𝐥𝐞, que ha construido su negocio principal en torno a las búsquedas.
 
-Google ha confirmado sus planes de probar un nuevo chatbot de inteligencia artificial llamado [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates), impulsado por su modelo de lenguaje 𝐋𝐚𝐌𝐃𝐀 para aplicaciones de diálogo.
+Google ha confirmado sus planes de probar un nuevo chatbot de inteligencia artificial llamado [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates), impulsado por su modelo de lenguaje LaMDA para aplicaciones de diálogo.
 
 > Aunque ChatGPT a impresionado por sus capacidades, LaMDA (Google) ofrece una alternativa ligera que requiere menos potencia de cálculo, por lo que es más fácil de escalar a una mayor base de usuarios y proporcionar más retroalimentación. Microsoft ha ganado en el planteamiento a corto plazo, pero este proceso será mucho más complejo.
 
 La única certeza, es que la IA ha venido para quedarse y, viendo que ambos gigantes apuestan por ella, el futuro de las búsquedas y las aplicaciones basadas en IA será brillante.
 
 > Para que estos algoritmos tengan éxito necesitan de materia prima (contenido) para poder aprender. Si somos celosos de nuestra información, [podemos bloquear el acceso y evitar que nuestros datos formen parte de su aprendizaje](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/).
+
+### Timeline
+
+- `Diciembre 2022` - Nace ChatGPT de la mano de OpenIA (Microsoft). Se abre a millones de usuarios-
+- `Febrero 2023` - Bing anuncia la integración de ChatGPT en su buscador.
+- `Febrero 2023` - Google anuncia Bard, la IA que evoluciona desde su modelo de lenguaje LaMDA.
+- `Febrero 2023` - Opera (navegador) anuncia que integra ChatGPT.
 
 
 ## Predicciones sobre el SEO y la inteligencia artificial
@@ -79,6 +89,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - `[Inglés]` - [Bloquear nuestros contenidos para que no sean utilizados por los robots de inteligencia artificial](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
 - `[Inglés]` - [IA Chat y SEO](https://www.jasper.ai/blog/ai-chat-for-seo)
 - [30 Maneras de usar ChatGPT para el SEO](https://www.linkedin.com/posts/artemklimkin_30-chatgpt-prompts-for-seo-activity-7017086489813553152-Zutt)
+- [Cómo bloquear para que ChatGPT no utilice el contenido de tu sitio](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
 
 
 
