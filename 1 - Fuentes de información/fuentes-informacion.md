@@ -2,10 +2,10 @@
 title: Fuentes de información SEO
 description: Para estar al día en el posicionamiento web
 date: 10/06/2022
+date_modified: 13/02/2023
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
-author: Emirodgar
 permalink: fuentes-informacion
   
 ---
@@ -25,6 +25,8 @@ La información es poder. Estar al día de todas las novedades en la evolución 
 ## Cómo empezar en SEO
 
 Aunque existe formación de pago, en Internet tenemos accesible multitud de información que nos ayudará a adentrarnos en el mundo del posicionamiento orgánico. Gran parte de la misma proviene de fuentes oficiales como Google o Bing, por lo que la podemos considerar muy fiable.
+
+> Si ya tienes claro el punto de partida, te ayudamos con los [primeros pasos a dar en el mundo SEO](primeros-pasos-seo).
 
 
 - [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación inicial puede ser revisar las guías oficiales de los buscadores, donde nos detallarán los principcios básicos del SEO.

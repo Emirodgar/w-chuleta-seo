@@ -2,7 +2,9 @@
 title: Primeros pasos en SEO
 description: Aprende SEO de la mejor manera y con recursos gratuitos
 date: 14/03/2022
-folder: primeros-pasos-seo
+author: Emirodgar
+layout: default_1
+folder: fuentes-informacion
 permalink: primeros-pasos-seo
   
 ---
@@ -10,6 +12,9 @@ permalink: primeros-pasos-seo
 ## ¿Cómo comienzo en SEO?
 
 Una parte importante es estar correctamente informado de cómo evolucionan los algoritmos de los buscadores. Para ello es crucial disponer de buenas [fuentes de información](https://chuletaseo.com/fuentes-informacion).  Si tienes poco tiempo, o te cuesta digerir tanta información, [suscribirse a alguna newsletter SEO](https://chuletaseo.com/newsletter-seo) nos ayudará a estar informados de lo más relevante. 
+
+<section id="cs_recursos"></section>
+
 
 ## Primeros pasos en SEO 
 
@@ -19,13 +24,11 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
  4. Conversión SEO
  
 
-## Aspectos complementarios
+<section id="cs_herramientas"></section>
 
-- <a href="https://chuletaseo.com/comandos-busqueda-google">Comandos de búsqueda en Google</a>
+## Herramientas
+
+- [Comandos de búsqueda en Google](https://chuletaseo.com/comandos-busqueda-google)
+- [Listado de herramientas SEO](https://chuletaseo.com/herramientas-seo)
 
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NDMxMDc0LDE0NzUwODU4NjEsMjAyOT
-QyMjk0OSw4MjI5MDY4NzIsODk2MzExNTU0XX0=
--->

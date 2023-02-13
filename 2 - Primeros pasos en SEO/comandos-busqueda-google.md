@@ -3,7 +3,9 @@ title: Comandos de búsqueda para Google
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
 date: 16/03/2022
-folder: primeros-pasos-seo
+author: Emirodgar
+layout: default_1
+folder: fuentes-informacion
 permalink: comandos-busqueda-google
 
 ---

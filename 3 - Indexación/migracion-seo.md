@@ -3,6 +3,8 @@ title: Migración SEO
 description: Aprende a realizar una correcta migración SEO para evitar perder tráfico y posicionamiento.
 lang: es_ES
 date: 14/11/2022
+author: Emirodgar
+layout: default_1
 folder: indexacion
 permalink: migracion-seo
 
@@ -26,9 +28,13 @@ Dentro de este bloque ubicamos las páginas con un buen posicionamiento SEO, pá
 
 ### Páginas con baja calidad
   
+> En el caso de que se trata de URL que no están bajo nuestro control, podemos [solicitar su eliminación a Google](https://chuletaseo.com/eliminar-pagina-indexada-google).
+
 Al igual que hemos identificado las páginas que queremos conservar debido a su relevancia, tenemos que ser conscientes de aquellas que no lo son. Crearemos otros dos bloques: páginas que actualmente dan error y páginas que no tendrán equivalente en la nueva versión.
 
 ## 3- Creamos el fichero de mapeado o redirección
+
+> Cuando hacemos una migración es muy posible que se realicen cientos o miles de redirecciones. Para evitar que el servidor se sature y que afecte a la métrica TTFB (Time To First Byte), podemos realizar un mapeado de redirecciones (`Inglés` - [Mapeado de redirecciones para mejorar rendimiento del servidor tras una migración](https://gauravswaroop.medium.com/nginx-bulk-url-redirect-with-map-47c2cd6ad50a))
 
 El objetivo de esta migración es que los buscadores entiendan el cambio de página web sin que este afecte al posicionamiento ni a la experiencia de los usuarios.
 
@@ -81,31 +87,19 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 
 - **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso, ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
 
-##
 
 
-## Lecturas relacionadas
+<section id="cs_recursos"></section>
+
+## Recursos
 
 - [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
 
-<<<<<<< Updated upstream
+
+<section id="cs_herramientas"></section>
 
 ## Herramientas
+
 - [Generador online de sitemaps XML](https://sitemapgenerator.xyz/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgyODQ3MjYsLTU1MzI2MjI4Myw2OD
-g1MDAwNTIsLTM5MzA4NzAzMCwtMTM5MzY2NDMwNl19
--->
-=======
-## Recursos
-
-### Evita saturar el servidor con muchas redirecciones
-
-Cuando hacemos una migración es muy posible que se realicen cientos o miles de redirecciones. Para evitar que el servidor se sature y que afecte a la métrica TTFB (Time To First Byte), podemos realizar un mapeado de redirecciones.
-
-- `Inglés` - [Mapeado de redirecciones para mejorar rendimiento del servidor tras una migración](https://gauravswaroop.medium.com/nginx-bulk-url-redirect-with-map-47c2cd6ad50a)
 
 
-
-
->>>>>>> Stashed changes

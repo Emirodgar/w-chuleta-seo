@@ -5,9 +5,10 @@ lang: es_ES
 permalink: codigos-htaccess-apache
 date: 14/03/2022
 date_modified: 16/03/2022
-folder: primeros-pasos-seo
-author:
-  twitter: https://github.com/phanan/htaccess
+author: Emirodgar
+layout: default_1
+folder: fuentes-informacion
+
   
 ---
 
