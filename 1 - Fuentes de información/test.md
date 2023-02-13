@@ -11,11 +11,12 @@ permalink: test-seo2
 
 ## Prueba 1
 
-{% assign sorted = site.resources | reverse %}
-{% for item in sorted %}
-  <h1>{{ item.name }}</h1>
-  <p>{{ item.content }}</p>
+<ul>
+{% assign posts = site.posts | sort: 'last_modified_at' %}
+{% for post in posts %}
+  <li>{{ post.title }} (original post date: {{ post.date }})</li>
 {% endfor %}
+</ul>
 
 
 
@@ -33,7 +34,8 @@ permalink: test-seo2
 ## Pruwba 2
 
 <ul>
-{% for page in site.pages %}
+{% assign pages = site.pages | sort: 'last_modified_at' %}
+{% for page in pages %}
 {% if page.date_modified != null  %}
 	  <li> <code>{{page.date_modified}}</code><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}

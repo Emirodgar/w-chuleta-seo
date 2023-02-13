@@ -28,6 +28,17 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 
 Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos aplicaciones distintas.
 
+## ¿Cómo aparecer en Google Discover?
+
+> Google da una serie de recomendaciones en su [guía oficial](https://developers.google.com/search/docs/appearance/google-discover?hl=es) para incrementar nuestra presencia.
+
+1. Usar títulos `meta title` que reflejen la esencia del contenido, pero que no sean clickbait.
+2. Usar imágenes atractivas y de alta calidad en el contenido, sobre todo si son de gran tamaño, ya que es más probable que generen visitas en Discover. Las imágenes grandes deben tener al menos 1200 píxeles de ancho y deben estar implementadas con el ajuste `max-image-preview:large` o mediante AMP. 
+3. No uses el logotipo de tu sitio como imagen.
+4. No uses tácticas para aumentar artificialmente la interacción. Por ejemplo, no incluyas información engañosa o exagerada en las partes de tu contenido que se muestran primero a los usuarios (es decir, en el título, los fragmentos o las imágenes) para hacer que la página resulte más atractiva.
+5. No ocultes información necesaria para saber de qué trata el contenido.
+6. Ofrece contenido que trate sobre temas de interés del momento, que esté bien redactado o que proporcione información única.
+
 ## Personalización de Discover
 
 -   Historial de búsqueda del usuario (Web & Apps).

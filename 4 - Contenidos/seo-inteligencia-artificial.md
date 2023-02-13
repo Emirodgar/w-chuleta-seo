@@ -77,6 +77,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 
 - `[Inglés]` - [¿Cómo podría afectar la inteligencia artificial al SEO local?](https://www.localseoguide.com/what-could-ai-for-local-search-look-like/)
 - `[Inglés]` - [Bloquear nuestros contenidos para que no sean utilizados por los robots de inteligencia artificial](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
+- `[Inglés]` - [IA Chat y SEO](https://www.jasper.ai/blog/ai-chat-for-seo)
 - [30 Maneras de usar ChatGPT para el SEO](https://www.linkedin.com/posts/artemklimkin_30-chatgpt-prompts-for-seo-activity-7017086489813553152-Zutt)
 
 
@@ -86,3 +87,4 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 
 - [ChatGPT](https://openai.com/blog/chatgpt/): chatbot de inteligencia artificial.
 - [Quillbot](https://quillbot.com/): herramienta de generación de contenido artificial que intenta emular la conversación de un humano.
+- [Reescribir nuestros metas con Google Sheets y ChatPGT](https://searchministry.co/how-to-add-chatgpt-in-google-sheets-and-rewrite-your-meta-data-in-bulk)
