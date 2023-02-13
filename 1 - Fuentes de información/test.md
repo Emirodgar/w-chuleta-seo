@@ -20,7 +20,7 @@ permalink: test-seo2
 
 
 
-## Pruwba 2
+## Prueba 2
 
 <ul>
 {% for page in site.pages %}
@@ -31,10 +31,35 @@ permalink: test-seo2
 </ul>
 
 
-## Pruwba 2
+## Prueba 3
 
 <ul>
 {% assign pages = site.pages | sort: 'last_modified_at' %}
+{% for page in pages %}
+{% if page.date_modified != null  %}
+	  <li> <code>{{page.date_modified}}</code><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+## Prueba 4
+
+## Pruwba 2
+
+<ul>
+{% assign pages = site.pages | sort: 'date_modified' %}
+{% for page in site.pages %}
+{% if page.date_modified != null  %}
+	  <li> <code>{{page.date_modified}}</code><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+---
+
+
+<ul>
+{% assign pages = site.pages | sort: 'date_modified' %}
 {% for page in pages %}
 {% if page.date_modified != null  %}
 	  <li> <code>{{page.date_modified}}</code><a href="{{ page.url }}">{{ page.title }}</a></li>
