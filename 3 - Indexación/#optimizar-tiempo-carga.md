@@ -1,5 +1,5 @@
 ---
-title: Eliminar páginas indexadas en Google
+title: Optimizar tiempo de carga
 description: Proceso para eliminar páginas del índice de los buscadores, en concreto, Google, aunque el proceso es extensible al resto.
 lang: es_ES
 permalink: optimizar-tiempo-carga
@@ -12,6 +12,3 @@ date_modified: 16/03/2022
 ## Herramientas gratuitas
 
 - [UnCSS](https://uncss-online.com/): herramienta para identificar el código CSS que estamos usando. De esta forma podremos eliminar el que no se usa, reduciendo considerablemente el tamaño de nuestros ficheros.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDUzODA2XX0=
--->

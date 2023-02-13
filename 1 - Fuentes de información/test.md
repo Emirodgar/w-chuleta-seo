@@ -44,8 +44,6 @@ permalink: test-seo2
 
 ## Prueba 4
 
-## Pruwba 2
-
 <ul>
 {% assign pages = site.pages | sort: 'date_modified' %}
 {% for page in site.pages %}
