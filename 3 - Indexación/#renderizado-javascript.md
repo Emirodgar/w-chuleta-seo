@@ -13,9 +13,7 @@ permalink: renderizado-javascript
 ## Recursos
 
 - `Inglés` - [Google Needs 9X More Time To Crawl JS Than HTML](https://www.onely.com/blog/google-needs-9x-more-time-to-crawl-js-than-html/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MTI3NDc1XX0=
--->
+- [Vídeo de SEO fairy tales de problemas con el rendimiento de JavaScript SEO](https://www.youtube.com/watch?v=viTCKHa8GEE)
 
 
 https://www.youtube.com/watch?v=viTCKHa8GEE

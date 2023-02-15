@@ -32,7 +32,7 @@ A la hora de trabajar es ideal que usemos un estándar en la nomenclatura que va
 
 GA4 cuenta con el módulo de monetización, lo que equivaledría al comercio electrónico que teníamos en GA3 o Universal. La manera más sencilla de registrar nuestras ventas es hacerlo a través de Google Tag Manager y la capa de datos.  Te dejamos las instrucciones en [Google Analytics Ecommerce](/google-analytics-ecommerce).
 
-## GA4 en Shopify
+### GA4 en Shopify
 
 A día de hoy no hay conector nativo de GA4 dentro de Shopify. Si introducimos el código, podremos medir la captación pero la capa de información relativa al comercio electrónico no funcionará.
 
@@ -48,22 +48,16 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 ## Recursos
 
 - `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
-<<<<<<< Updated upstream
 - `Inglés` - [Informe Looker para auditar implementación GA4](https://datastudio.google.com/u/0/reporting/ced29b32-72ec-4b6c-a41c-7c47b39bac60/page/p_hfbfof53yc)
 - `Inglés` - [Códigos de GTM listos para ser usados](https://www.analyticsmania.com/google-tag-manager-recipes/)
-=======
-- [Explorador de métricas y dimensiones de GA4](https://ga-dev-tools.web.app/ga4/dimensions-metrics-explorer/)
->>>>>>> Stashed changes
 
 <section id="cs_herramientas"></section>
 
 ## Herramientas
 
 - [Google Analytics](https://analytics.google.com/analytics/web/#/)
+- [Generador de informes en GA4](https://coda.io/@ikaue/tools/ga4-standard-report-builder-1?)
 
 <section id="cs_pr"></section>
 
 ## Preguntas frecuentes
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjQ4ODk5OSwzODU5MjU2NTFdfQ==
--->

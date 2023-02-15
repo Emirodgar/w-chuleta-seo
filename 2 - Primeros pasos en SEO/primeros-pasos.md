@@ -19,9 +19,11 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 ## Primeros pasos en SEO 
 
  1. [Auditoría SEO](https://chuletaseo.com/auditoria-seo)
- 2. Estrategia SEO
- 3. Objetivos SEO
- 4. Conversión SEO
+ 2. [Estrategia SEO](https://chuletaseo.com/estrategia-seo)
+ 3. [Objetivos SEO](https://chuletaseo.com/objetivos-seo)
+
+## Recursos
+
  
 
 <section id="cs_herramientas"></section>

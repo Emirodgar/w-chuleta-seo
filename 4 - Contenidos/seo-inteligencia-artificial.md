@@ -30,7 +30,8 @@ La única certeza, es que la IA ha venido para quedarse y, viendo que ambos giga
 - `Diciembre 2022` - Nace ChatGPT de la mano de OpenIA (Microsoft). Se abre a millones de usuarios.
 - `Febrero 2023` - Bing anuncia la integración de ChatGPT en su buscador.
 - `Febrero 2023` - Google anuncia Bard, la IA que evoluciona desde su modelo de lenguaje LaMDA.
-- `Febrero 2023` - Opera (navegador) anuncia que integra ChatGPT.
+- `Febrero 2023` - Opera (navegador) anuncia que integra ChatGPT y Quora lanza Poe, su respuestas basadas en IA.
+- `Febrero 2023` - Se anuncia ChatGPT Plus, con más funcionalidades y sin esperas (20 dólares al mes).
 
 
 ## Predicciones sobre el SEO y la inteligencia artificial
@@ -94,3 +95,4 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [ChatGPT](https://openai.com/blog/chatgpt/): chatbot de inteligencia artificial.
 - [Quillbot](https://quillbot.com/): herramienta de generación de contenido artificial que intenta emular la conversación de un humano.
 - [Reescribir nuestros metas con Google Sheets y ChatPGT](https://searchministry.co/how-to-add-chatgpt-in-google-sheets-and-rewrite-your-meta-data-in-bulk)
+- [Clasificador para saber si un texto ha sido escrito por IA](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text)

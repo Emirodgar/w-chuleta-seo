@@ -36,3 +36,7 @@ Use search to inform other content types: Timelines, maps, galleries or other fo
 Explanatory reporting: Use keyword research to identify the main W5 (who, what, when, where, why) questions being asked in search. Answer those high-volume questions in explainers or an FAQ. This journalism often appeals to top-of-the-funnel readers – and by fulfilling that reader need, they’re better able to consume the more in-depth reporting or analysis we link out to. 
 
 Evergreen content: What service journalism already exists on the topic? Evergreen or durable content is a great pair on the homepage or section pages.
+
+## Recursos
+
+- [Buenas prácticas para paywalls (muros de pago)](https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo)
