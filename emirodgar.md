@@ -57,6 +57,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 ## En medios
 
 
+- `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
 - `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humnanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
 - `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)

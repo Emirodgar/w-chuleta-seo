@@ -3,6 +3,7 @@ title: SEO local - Estrategias, cursos y recursos
 description: Aprende a desarrollar una estrategia efectiva
 date: 23/08/2022
 folder: indexacion
+layout: default_1
 author: Emirodgar
 permalink: seo-local
   
@@ -78,8 +79,3 @@ No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos g
 ### ¿Qué datos estructurados se pueden usar para el SEO local?
 
 Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE2MTY5MCwxMDQ4MzAzNzQzLC05OT
-g5NzUzNyw2NzE5NDEyNywtMTQ3NTczNTU5MywtNzE3MjQyMjM5
-LDcyMjcyMDAwNiwxNDM2Mjc1MTU3LC0xOTI1OTczNzEzXX0=
--->

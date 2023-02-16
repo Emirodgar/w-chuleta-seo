@@ -5,7 +5,7 @@ lang: es_ES
 date: 16/03/2022
 author: Emirodgar
 layout: default_1
-folder: fuentes-informacion
+folder: indexacion
 permalink: indexacion
 
 ---
@@ -28,11 +28,15 @@ De cara a la indexación, este fichero será crucial dado que desde las platafor
 
 3. **Utiliza metaetiquetas adecuadas**: Las metaetiquetas, como la etiqueta de título `title` y la etiqueta de descripción `description`, son importantes para que los motores de búsqueda comprendan el contenido de tu sitio web y lo muestren correctamente en los resultados de búsqueda. Utiliza metaetiquetas claras y concisas en cada página de tu sitio web.
 
-4. **Asegúrate de que tus páginas se carguen rápidamente**: si tu página es accesible y rápida, ayudará a que el robot de búsqueda la rastree con mayor facilidad.
+4. **Asegúrate de que tus páginas se carguen rápidamente**: si tu página es accesible y rápida, ayudará a que el robot de búsqueda la rastree con mayor facilidad. [Optimizar el tiempo de carga](https://chuletaseo.com/optimizar-tiempo-carga) y la experiencia de usuario son aspectos fundamentales de cualquier estrategia.
 
 5. **Utiliza un diseño responsive** para que sean accesibles en dispositivos móviles y utiliza etiquetas semánticas para ayudar a los motores de búsqueda a comprender el contenido de tu sitio web.
 
 6. **Crea contenido de calidad**: El contenido de calidad es fundamental para que los motores de búsqueda indexen y clasifiquen tu sitio web. Crea contenido relevante y útil para tus usuarios, utiliza palabras clave relevantes y actualiza regularmente el contenido de tu sitio web.
+
+## Migración
+
+A lo largo de la vida útil de una empresa, se puede cambiar varias veces de página web. Para garantizar que mantenemos el tráfico y popularidad existentes será necesario aplicar un proceso de [migración SEO](https://chuletaseo.com/migracion-seo) que garantice que tanto robots de búsqueda como usuarios son redireccionados correctamente desde las viejas URL a las nuevas.
 
 
 <section id="cs_recursos"></section>
