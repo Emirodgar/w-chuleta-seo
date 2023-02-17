@@ -16,37 +16,48 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 
 <div class="row">
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/fuentes-informacion">
+		<a href="https://chuletaseo.com/fuentes-informacion">
 		<h6 class="pt-2 a-home">Empezar en SEO</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/fuentes-informacion">
-		<h6 class="pt-2  a-home">Fuentes de información</h6>
+		<a class="a-home" href="https://chuletaseo.com/fuentes-informacion">
+		<h6 class="pt-2 a-home">Fuentes de información</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/indexacion">
+		<a   href="https://chuletaseo.com/indexacion">
 		<h6 class="pt-2  a-home">SEO técnico</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/contenidos">
+		<a  href="https://chuletaseo.com/contenidos">
 		<h6 class="pt-2  a-home">SEO de Contenidos</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/enlazado">
+		<a  href="https://chuletaseo.com/enlazado">
 		<h6 class="pt-2  a-home">Enlaces</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a target="_blank" href="https://chuletaseo.com/informes-seo">
+		<a  href="https://chuletaseo.com/informes-seo">
 		<h6 class="pt-2  a-home">Análisis e Informes</h6>
 		</a>
 	</div>
 		  
 </div>
+
+## Últimas modificaciones
+
+<ul>
+{% assign pages = site.pages | sort: 'date_modified' %}
+{% for page in pages limit:10 %}
+{% if page.date_modified != null  %}
+	  <li> <code>{{page.date_modified}}</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 
 <!--
 ## Últimas páginas creadas
