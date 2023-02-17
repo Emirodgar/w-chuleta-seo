@@ -16,7 +16,7 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 
 <div class="row">
 	<div class="col-4 my-3 text-center">
-		<a href="https://chuletaseo.com/fuentes-informacion">
+		<a class="a-home" href="https://chuletaseo.com/fuentes-informacion">
 		<h6 class="pt-2 a-home">Empezar en SEO</h6>
 		</a>
 	</div>
@@ -26,22 +26,22 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a   href="https://chuletaseo.com/indexacion">
+		<a class="a-home"  href="https://chuletaseo.com/indexacion">
 		<h6 class="pt-2  a-home">SEO técnico</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a  href="https://chuletaseo.com/contenidos">
+		<a class="a-home" href="https://chuletaseo.com/contenidos">
 		<h6 class="pt-2  a-home">SEO de Contenidos</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a  href="https://chuletaseo.com/enlazado">
+		<a class="a-home" href="https://chuletaseo.com/enlazado">
 		<h6 class="pt-2  a-home">Enlaces</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
-		<a  href="https://chuletaseo.com/informes-seo">
+		<a class="a-home" href="https://chuletaseo.com/informes-seo">
 		<h6 class="pt-2  a-home">Análisis e Informes</h6>
 		</a>
 	</div>
