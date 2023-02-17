@@ -48,11 +48,13 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 		  
 </div>
 
-## Últimas modificaciones
+<hr class="divider">
+
+### Últimas actualizaciones
 
 <ul>
 {% assign pages = site.pages | sort: 'date_modified' %}
-{% for page in pages limit:10 %}
+{% for page in pages %}
 {% if page.date_modified != null  %}
 	  <li> <code>{{page.date_modified}}</code> - <a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
