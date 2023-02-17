@@ -24,7 +24,7 @@ A partir de ahora, dispondremos en `GTM` de una variable con toda la informació
 
 ## Implementar los códigos en la página web
 
-> En la documentación oficial de Google tenemos [todos los eventos](%5D%28https://developers.google.com/tag-manager/ecommerce-ga4?hl=es%29) que podemos medir en nuestro ecommerce
+> En la documentación oficial de Google tenemos [todos los eventos](https://developers.google.com/tag-manager/ecommerce-ga4?hl=es%29) que podemos medir en nuestro ecommerce
 
 Las acciones más recurrentes y básicas que deberíamos medir, son:
 

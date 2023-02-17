@@ -16,7 +16,7 @@ Un fichero **sitemap XML** es un archivo que contiene una lista de todas las pá
 
 1. Comenzamos creando una lista completa de todas las páginas del sitio web, incluyendo las páginas principales y secundarias, las publicaciones de blog y cualquier otro tipo de contenido. Es importante organizar la lista en una jerarquía lógica que refleje la estructura del sitio web. Las páginas principales deben estar en la parte superior de la jerarquía, seguidas de las páginas secundarias y el contenido de nivel inferior.
 
-2. Usamos una herramienta de generación de sitemap, como XML Sitemap Generator o Screaming Frog, para crear el archivo sitemap XML. Estas herramientas tienen dos modos de funcionamiento, o bien cargamos el listado generado en el punto anterior para que creen el sitemap con esas URL o hacemos que [rastrean el sitio](https://chuletaseo.com/inemular-rastreo) y generan un archivo sitemap XML automáticamente. En este último caso es posible que se incluyan URL poco relevantes o que no nos interese enviar a travésl del sitemap XML.
+2. Usamos una herramienta de generación de sitemap, como XML Sitemap Generator o Screaming Frog, para crear el archivo sitemap XML. Estas herramientas tienen dos modos de funcionamiento, o bien cargamos el listado generado en el punto anterior para que creen el sitemap con esas URL o hacemos que [rastrean el sitio](https://chuletaseo.com/emular-rastreo) y generan un archivo sitemap XML automáticamente. En este último caso es posible que se incluyan URL poco relevantes o que no nos interese enviar a travésl del sitemap XML.
 
 Un fichero sitemap XML es un listado de páginas. Utiliza la etiqueta `<urlset>` seguida de una serie de etiquetas `<url>` para cada página del sitio web.
 
