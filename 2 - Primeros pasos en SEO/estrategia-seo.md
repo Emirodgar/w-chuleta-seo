@@ -45,7 +45,10 @@ Cuando trabajamos una estrategia que está en curso, hay algunos aspectos que po
 ## Recursos
 
 - `[Inglés]` - [Estrategia SEO (Ahref)](https://ahrefs.com/blog/orchard-seo-strategy/)
-- [`[Inglés]` - [Por qué invertir en SEO antes que optimizar la conversión de nuestro sitio es una mala idea](https://lukecarthy.com/blog/why-investing-in-seo-without-first-optimising-conversion-is-a-poor-choice/)
+- `[Inglés]` - [Por qué invertir en SEO antes que optimizar la conversión de nuestro sitio es una mala idea](https://lukecarthy.com/blog/why-investing-in-seo-without-first-optimising-conversion-is-a-poor-choice/)
+- `[Inglés]` - */Twitter/* [Caso de éxito de Blurtit](https://twitter.com/timothyoshea/status/1623713741693980673)
+- `[Inglés]` - [Hacer escalable el SEO](https://thegray.company/blog/scaling-seo-a-framework)
+- `[Inglés]` - *2023* / [Estudio sobre afiliciación SEO en USA](https://detailed.com/affiliate-serps/)
 
 
 <section id="cs_herramientas"></section>

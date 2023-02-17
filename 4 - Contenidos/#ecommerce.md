@@ -15,3 +15,6 @@ Datos estructurados: https://www.youtube.com/watch?v=ME2F03PC_K0&list=PLKoqnv2vT
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYxMDEwOTM2M119
 -->
+
+
+- [Diferencias e-commerce TikTok vs Youtube](https://twitter.com/michegoad/status/1625745581187665920)

@@ -38,6 +38,7 @@ Es importante recordar que emular el comportamiento de Googlebot no garantiza qu
 
 - `[Inglés]` - [Identificar páginas perdidas de tu sitio web](https://www.screamingfrog.co.uk/how-to-debug-missing-pages-in-a-crawl/)
 - [Looker Studio automático con la información de rastreo de ScreamingFrog](https://www.screamingfrog.co.uk/how-to-automate-crawl-reports-in-data-studio/)
+- [Guía oficial de Google - Permitir el rastreo](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=es)
 
 <section id="cs_herramientas"></section>
 

@@ -39,6 +39,7 @@ Cuando trabajamos los objetivos SEO de un proyecto es importante enmarcarlos den
  - `[Inglés]` - [7 objetivos SEO para tus estrategias](https://www.volacci.com/blog/7-seo-goals-business-optimization-right-reasons)
  - `[Inglés]` - [Objetivos SEO por verticales](https://moz.com/blog/the-6-goals-of-seo-choosing-the-right-ones-for-your-business) 
  - `[Inglés]` - [Objetivos SMART para SEO](https://searchengineland.com/smart-goals-seo-288724) 
+ - *2020 / TED /* - [The secret to success is setting the right goals](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
 
 
  

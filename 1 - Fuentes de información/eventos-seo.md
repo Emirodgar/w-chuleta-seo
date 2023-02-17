@@ -2,6 +2,7 @@
 title: Los mejores eventos SEO (inglés y español)
 description: Accede a las presentaciones y vídeos de los eventos SEO más conocidos
 date: 10/06/2022
+date_modified: 17/02/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -27,4 +28,5 @@ A lo largo del año tienen lugar múltiples eventos del sector que generan una s
 
 ## Eventos en español
 
+- [Search Central Virtual Unconference en español 2023](https://rsvp.withgoogle.com/events/search-central-virtual-unconference-es-2023)
 - [SEO on the beach](https://seonthebeach.es/)

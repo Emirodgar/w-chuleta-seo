@@ -9,11 +9,16 @@ permalink: seo-inteligencia-artificial
   
 ---
 
+
+
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">02/2023</span>  Ya te puedes apuntar para <a href="https://www.bing.com/new?form=MW00XV&OCID=MW00XV">usar en Bing las búsquedas basadas en inteligencia artificial</a>.</div>
+
+
 La inteligencia artificial ha llegado al mundo SEO para quedarse. Creo que **aportará más beneficios que perjuicios** y que, junto con los resultados orgánicos tradicionales, **se podrá ofrecer al usuario una mejor experiencia y resultados**.
 
+> Google ha lanzado una publicación [para aclarar conceptos sobre contenidos generados por IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content). Ellos siguen apostando por la calidad, y la relación con la intención de búsqueda del usuario, independientemente de cómo haya sido generado el contenido.
 
-
-## Contexto
+## Contexto y evolución
 
 [ChatGPT](https://openai.com/blog/chatgpt/), herramienta de inteligencia artificial desarrollada por OpenAI y respaldada por Microsoft, ha sorprendido al mundo por su capacidad para ofrecer resultados de búsqueda rápidos y fiables. En sólo dos meses, la aplicación -en abierto para cualquiera- ha atraído a más de 100 millones de usuarios.
 
@@ -86,7 +91,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - `[Inglés]` - [IA Chat y SEO](https://www.jasper.ai/blog/ai-chat-for-seo)
 - [30 Maneras de usar ChatGPT para el SEO](https://www.linkedin.com/posts/artemklimkin_30-chatgpt-prompts-for-seo-activity-7017086489813553152-Zutt)
 - [Cómo bloquear para que ChatGPT no utilice el contenido de tu sitio](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
-
+- `[Inglés]` - [Postura oficial de Google acerca de los contenidos generados con IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
 
 
 

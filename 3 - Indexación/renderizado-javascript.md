@@ -2,7 +2,7 @@
 title: Renderizado JavaScript
 description: Estrategias SEO para mejorar la visibilidad y captación de tráfico desde Google Discover 
 date: 09/11/2022
-folder: contenidos
+folder: indexacion
 author: Emirodgar
 layout: default_1
 permalink: renderizado-javascript
@@ -22,6 +22,8 @@ Sin embargo, el renderizado JavaScript puede ser un proceso que requiere muchos 
 
 - `Inglés` - [Google Needs 9X More Time To Crawl JS Than HTML](https://www.onely.com/blog/google-needs-9x-more-time-to-crawl-js-than-html/)
 - `Inglés` - [Vídeo de SEO fairy tales (Google) de problemas con el rendimiento de JavaScript SEO en Angular JS](https://www.youtube.com/watch?v=viTCKHa8GEE)
+- `Inglés` - / *vídeo* / - [Solución de problemas SEO técnicos con herramientas para desarrolladores del navegador](https://www.youtube.com/watch?v=Tfy9cPBfUTk)
+- `[Inglés]` - [¿Qué es la rehidratación del contenido y cómo impacta al SEO?](https://www.aeripret.com/content-rehydration/)
 
 <section id="cs_herramientas"></section>
 

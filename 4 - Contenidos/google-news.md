@@ -9,34 +9,48 @@ permalink: google-news
   
 ---
 
-https://wtfseo.substack.com/p/seo-for-breaking-news
 
-Suscribirse a la newsletter de [Google Trends Newsletter](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform) de Simon Rogers
 
+> Suscríbete a la newsletter de [Google Trends](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform) de Simon Rogers para estar al día de los contenidos más buscados. 
 Analizando tendencias, sabrás identificar los patrones cuando los veas y aprovecharás mejor el momento.
 
-## Identificar una noticia relevante
+## Identificar una tendencia relevante
 
-- “Breakout” means interest in a search term grew by more than 5,000 per cent in a specific time period. Consider those keywords for headlines, URLs, within your body copy and in decks/meta descriptions.
+- Si identificamos una temática o tendencia relevante (que ha tenido un crecimiento anormal en un periodo corto de tiempo) es importante usarlo para generar contenido en nuestra página.
 
-- Consider what the audience is looking for: If your audience is national, adjust the filter for a general scope. But if it’s in your backyard, make sure you cover it with a local lens. 
+- Considera lo que tu audiencia está buscando. Si es nacional, apuesta por tendencias globales, pero si es local, céntrate en las noticias que están ocurriendo a nivel de ciudades y provincias.
 
 ## Siguientes pasos
 
-Live blog coverage: Publish a Live quickly and refresh with substantive updates often (at least 100-150 words). The headline at publication locks in keywords you can be competitive for, so craft wisely! Look to your publication’s reporters to keep the content fresh, and check in with your opinion writers for context and analysis. 
+1. **Crea contenido de calidad**: Google News se enfoca en proporcionar noticias relevantes y actualizadas a sus usuarios, por lo que es importante crear contenido de calidad y actualizado con regularidad.
 
-A high cadence of updates tells readers – and Google – that it’s worth returning to this piece and keeping it in Top Stories. 
+2. **Configura Google News Publisher Center**: Regístrate en el Google News Publisher Center y verifica tu sitio web. Allí podrás indicar tus preferencias de contenido, como temas y secciones, y agregar detalles sobre tu sitio web, como el nombre de la publicación, la frecuencia de publicación, etc.
 
-Identify breakout stories from secondary keywords that can help your publication continue to tell the story. As highlighted by Claudio E. Cabrera at NESS, Google has deprioritized Live journalism in search results in favour of more diverse content (meaning: more secondary topics and local news).
+3. **Cumple con los requisitos de Google News**: Google tiene ciertos requisitos que debes cumplir para aparecer en Google News. Por ejemplo, tu sitio debe tener un número mínimo de artículos, una sección de noticias claramente identificada, y contenido original y exclusivo.
 
-Think: Explainers, analysis, ‘What this means’-type of content. Move quickly to find those content opportunities, instead of placing all emphasis on a single Live or the main file. 
+4. **Optimiza tus artículos para Google News**: Utiliza títulos claros y precisos y asegúrate de incluir información clave en el primer párrafo del artículo. También es importante utilizar palabras clave relevantes y etiquetas de metadatos adecuadas.
 
-Use search to inform other content types: Timelines, maps, galleries or other formats readers want can be signalled from search data. Query attributes – phrases like “watch,” “live,” “map” or “photos” – are clear indications readers want a visual element to better understand the story. Include a gallery, video, live stream or other visual and interactive elements where possible. 
+5. **Aumenta la autoridad de tu sitio**: La autoridad del sitio web es un factor importante en la clasificación en Google News. Para aumentar la autoridad de tu sitio, trabaja en mejorar la calidad de los enlaces externos que apuntan a tu sitio y aumentar la cantidad de seguidores y compartidos en redes sociales.
 
-Explanatory reporting: Use keyword research to identify the main W5 (who, what, when, where, why) questions being asked in search. Answer those high-volume questions in explainers or an FAQ. This journalism often appeals to top-of-the-funnel readers – and by fulfilling that reader need, they’re better able to consume the more in-depth reporting or analysis we link out to. 
+6. **Sigue las pautas de calidad de contenido de Google News**: Es importante seguir las pautas de calidad de contenido de Google News para asegurarse de que tu contenido cumpla con los requisitos de calidad. Esto incluye evitar contenido engañoso, contenido engañoso, contenido no original y contenido de baja calidad.
 
-Evergreen content: What service journalism already exists on the topic? Evergreen or durable content is a great pair on the homepage or section pages.
+
+<section id="cs_recursos"></section>
 
 ## Recursos
 
-- [Buenas prácticas para paywalls (muros de pago)](https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo)
+- `[Inglés]` - [Buenas prácticas para paywalls (muros de pago)](https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo)
+- `[Inglés]` - [SEO para noticias relevantes](https://wtfseo.substack.com/p/seo-for-breaking-news)
+
+
+<section id="cs_herramientas"></section>
+
+## Herramientas
+
+- [Google Trends](https://trends.google.es/trends/?geo=ES)
+- [Google Publisher Center](https://publishercenter.google.com/)
+
+<section id="cs_pr"></section>
+
+
+
