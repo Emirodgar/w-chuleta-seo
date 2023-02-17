@@ -11,7 +11,42 @@ permalink: /index.html
 Este portal hace una recopilación de recursos, herramientas y guías para poder diseñar y ejecutar estrategias SEO. Utiliza el menú de la izquierda para navegar por las diferentes secciones y acceder a la información que te interesa.
 
 > Estamos en `desarrollo`, si encuentras algún fallo, danos tiempo.
-> Se está llevando a cabo la migración de contenidos de una base de datos a otra y, además, el cambio de front. Es un proceso que nos está llevando más tiempo del que nos gustaría, pero al tratarse de una proyecto gratuito podemos dedicar sólo una parte pequeña de nuestro tiempo.
+Se está llevando a cabo la migración de contenidos de una base de datos a otra y, además, el cambio de front. Es un proceso que nos está llevando más tiempo del que nos gustaría, pero al tratarse de una proyecto gratuito podemos dedicar sólo una parte pequeña de nuestro tiempo.
+
+
+<div class="row">
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/fuentes-informacion">
+		<h6 class="pt-2 a-home">Empezar en SEO</h6>
+		</a>
+	</div>
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/fuentes-informacion">
+		<h6 class="pt-2  a-home">Fuentes de información</h6>
+		</a>
+	</div>
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/indexacion">
+		<h6 class="pt-2  a-home">SEO técnico</h6>
+		</a>
+	</div>
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/contenidos">
+		<h6 class="pt-2  a-home">SEO de Contenidos</h6>
+		</a>
+	</div>
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/enlazado">
+		<h6 class="pt-2  a-home">Enlaces</h6>
+		</a>
+	</div>
+	<div class="col-4 my-3 text-center">
+		<a target="_blank" href="https://chuletaseo.com/informes-seo">
+		<h6 class="pt-2  a-home">Análisis e Informes</h6>
+		</a>
+	</div>
+		  
+</div>
 
 <!--
 ## Últimas páginas creadas
