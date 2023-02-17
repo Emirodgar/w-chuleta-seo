@@ -95,7 +95,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/primeros-pasos-seo">Primeros pasos</a></li>
           </ul>
         </li>
-        <li class="nav-item"><a class="nav-link nav-menu" href="">Indexación</a>
+        <li class="nav-item"><a 
+          
+          {% if page.folder == "indexacion" %}
+        class="nav-link nav-menu active"
+      {% else %}
+        class="nav-link nav-menu"
+      {% endif %}
+          
+          href="">Indexación</a>
           <ul class="nav flex-column" >
             <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/migracion-seo">Migración SEO</a></li>  
           </ul>
@@ -114,12 +122,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
           </ul>
 		</li>
-        <li class="nav-item"><a class="nav-link nav-menu" href="">Enlazado</a>
+        <li class="nav-item"><a 
+          
+          {% if page.folder == "enlazado" %}
+        class="nav-link nav-menu active"
+      {% else %}
+        class="nav-link nav-menu"
+      {% endif %}
+          
+          
+          href="">Enlazado</a>
           <ul class="nav flex-column" style="display:none;">
-            <li class="nav-item"><a class="nav-link external" href="#idocs_accordion">Accordion</a></li>
-            <li class="nav-item"><a class="nav-link external" href="#idocs_tabs">Tabs</a></li>
-            <li class="nav-item"><a class="nav-link external" href="#idocs_social_icon">Social Icon</a></li>
-            <li class="nav-item"><a class="nav-link external" href="#idocs_helper_classes">Helper Classes</a></li>
+            <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/enlazado">Estrategia de enlazado</a></li>
           </ul>
         </li>
 		<li class="nav-item"><a 

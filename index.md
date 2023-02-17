@@ -32,7 +32,7 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/contenidos">
-		<h6 class="pt-2  a-home">SEO de Contenidos</h6>
+		<h6 class="pt-2  a-home">SEO de contenidos</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
