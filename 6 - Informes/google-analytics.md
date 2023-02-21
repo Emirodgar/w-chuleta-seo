@@ -2,6 +2,7 @@
 title: Google Analytics 4
 description: Configurar esta herramienta de medición web nos ayudará a medir y alcanzar nuestros objetivos SEO
 date: 26/10/2022
+date_modified: 21/02/2023
 folder: informes
 layout: default_1
 permalink: google-analytics
@@ -52,6 +53,12 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 - `Inglés` - [Guía de expresiones regulares para SEO](https://www.jcchouinard.com/regex-for-seo/)
 - `Inglés` - [Informe Looker para auditar implementación GA4](https://datastudio.google.com/u/0/reporting/ced29b32-72ec-4b6c-a41c-7c47b39bac60/page/p_hfbfof53yc)
 - `Inglés` - [Códigos de GTM listos para ser usados](https://www.analyticsmania.com/google-tag-manager-recipes/)
+- `Inglés` - [Discrepancia en conversiones de Analytics y Ads](https://newmetrics.io/knowledge-base/google-ads-analytics-discrepancies/)
+
+Google Analytics dispone de varias cuentas demo donde podremos trastear con las últimas funcionalidades y, además, hacer pruebas y experimentos.
+
+- [Google Analytics 4 property: Google Merchandise Store (web data)](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p213025502/)
+- [Google Analytics 4 property: Flood-It! (app and web data)](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p153293282/reports/intelligenthome)
 
 <section id="cs_herramientas"></section>
 

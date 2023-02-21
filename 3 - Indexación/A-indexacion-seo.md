@@ -3,6 +3,7 @@ title: Indexación
 description: Mejora el rastreo y la indexación de tu sitio web
 lang: es_ES
 date: 16/03/2022
+date_modified: 20/02/2023
 author: Emirodgar
 layout: default_1
 folder: indexacion
@@ -36,6 +37,9 @@ De cara a la indexación, este fichero será crucial dado que desde las platafor
 
 7. **Ofrece contenido de calidad**: En SEO debemos buscar calidad antes que cantidad, por lo que no hay que tener miedo de [eliminar páginas de bajo valor](https://chuletaseo.com/eliminar-pagina-indexada-google); esto beneficiará el proceso de indexación global del sitio.
 
+
+> Si estamos recibiendo muchas peticiones de rastreo de Googlebot y queremos reducir su impacto en nuestro servidor, [debemos usar el código `429`](https://developers.google.com/search/blog/2023/02/dont-404-my-yum) con el que le indicaremos `too many requests` (muchas peticiones). Debemos evitar devolver errores de ``403` o `404` ya que el robot lo interpretará de otra manera.
+
 ## Migración
 
 A lo largo de la vida útil de una empresa, se puede cambiar varias veces de página web. Para garantizar que mantenemos el tráfico y popularidad existentes será necesario aplicar un proceso de [migración SEO](https://chuletaseo.com/migracion-seo) que garantice que tanto robots de búsqueda como usuarios son redireccionados correctamente desde las viejas URL a las nuevas.
@@ -47,9 +51,10 @@ A lo largo de la vida útil de una empresa, se puede cambiar varias veces de pá
 
 ## Recursos
 
-- `[Inglés]` [Cómo crear una estrategia de indexación para tu página web](https://www.onely.com/blog/how-to-create-an-indexing-strategy-for-your-website)
-- `[Inglés]` [Cómo analizar los logs de tu servidor](https://ahrefs.com/blog/log-file-analysis)
-- `[Inglés]` [¿Qué significa en GSC descubiertas pero aún no indexadas?](https://searchengineland.com/understanding-resolving-discovered-currently-not-indexed-392659)
+- `[Inglés]` - [Cómo crear una estrategia de indexación para tu página web](https://www.onely.com/blog/how-to-create-an-indexing-strategy-for-your-website)
+- `[Inglés]` - [Cómo analizar los logs de tu servidor](https://ahrefs.com/blog/log-file-analysis)
+- `[Inglés]` - [¿Qué significa en GSC descubiertas pero aún no indexadas?](https://searchengineland.com/understanding-resolving-discovered-currently-not-indexed-392659)
+- `[Inglés]` - [No uses los códigos de respuesta 403 ni 404 para gestionar el rastreo de Googlebot](https://developers.google.com/search/blog/2023/02/dont-404-my-yum)
 
 <section id="cs_herramientas"></section>
 

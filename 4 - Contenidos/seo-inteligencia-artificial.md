@@ -2,6 +2,7 @@
 title: ¿Cómo afecta al SEO la inteligencia artificial?
 description: ChatGPT y Bard tendrán un gran impacto en el posicionamiento orgánico a medio plazo. 
 date: 09/02/2023
+date_modified: 20/02/2023
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -21,6 +22,8 @@ La inteligencia artificial ha llegado al mundo SEO para quedarse. Creo que **apo
 ## Contexto y evolución
 
 [ChatGPT](https://openai.com/blog/chatgpt/), herramienta de inteligencia artificial desarrollada por OpenAI y respaldada por Microsoft, ha sorprendido al mundo por su capacidad para ofrecer resultados de búsqueda rápidos y fiables. En sólo dos meses, la aplicación -en abierto para cualquiera- ha atraído a más de 100 millones de usuarios.
+
+> Para contextualizarlo, Instagram consiguió el millón de usuarios en 2 meses y medio en 2010. Spotify obtuvo el primer millón de usuarios 5 meses después de su lanzamiento en 2008. Netflix lo consiguió en 2003, después de casi 4 años. Y Facebook en 2004 llegó al millón de usuarios en 10 meses. 
 
 La integración de ChatGPT con el motor de búsqueda Bing ([anunciado en febrero del 2023](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)) supone una amenaza significativa para Google, que ha reaccionado lanzando un chatbot de inteligencia artificial llamado [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates), impulsado por su modelo de lenguaje LaMDA para aplicaciones de diálogo.
 
@@ -92,6 +95,10 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [30 Maneras de usar ChatGPT para el SEO](https://www.linkedin.com/posts/artemklimkin_30-chatgpt-prompts-for-seo-activity-7017086489813553152-Zutt)
 - [Cómo bloquear para que ChatGPT no utilice el contenido de tu sitio](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
 - `[Inglés]` - [Postura oficial de Google acerca de los contenidos generados con IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
+- `[Inglés]` - [Aportes de la IA a la búsqueda](http://www.seobook.com/ai-driven-search)
+- [Cómo utilizar ChatGPT para que responda de la mejor manera posible](https://www.instagram.com/p/CoXyiBILhxp/)
+- [Automatizar publicaciones de Instagram a través de ChatGPT](https://www.instagram.com/p/CnxF2pvIfJz/)
+- [Acciones de marketing digital que puedes hacer con ChatGTP](https://www.instagram.com/p/Cn2UwJ-oIX1/)
 
 
 
@@ -101,3 +108,12 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Quillbot](https://quillbot.com/): herramienta de generación de contenido artificial que intenta emular la conversación de un humano.
 - [Reescribir nuestros metas con Google Sheets y ChatPGT](https://searchministry.co/how-to-add-chatgpt-in-google-sheets-and-rewrite-your-meta-data-in-bulk)
 - [Clasificador para saber si un texto ha sido escrito por IA](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text)
+- [SEO GPT](https://seovendor.co/seo-gpt/): herramienta para generar contenidos orientados al SEO.
+- [Perplexity](https://www.perplexity.ai/): realiza resúmenes de nuestras peticiones y también integra búsquedas en la red social de Twitter.
+- [Elicit](https://elicit.org/): realiza una investigación en base a las posibles respuestas a nuestra pregunta para tener toda la información y contexto posible.
+- [Stable Attribution](https://www.stableattribution.com/): dadoa una imagen generada por IA, nos indica en qué otras imágenes se ha basado para generarla.
+- [AI Social BIO](https://aisocialbio.com/): genera las descripciones de nuestros perfiles sociales.
+- [BlogNLP](https://www.blognlp.com/): herramienta para generación y optimización de contenido en lenguaje natural. Cuenta con múltiples funcionalidaes entre las que se incluyen la corrección ortográfica, la corrección gramatical o la identificación de frases complejas o confusas.
+- [CrowdView](https://crowdview.ai/): es una plataforma de análisis y monitorización de redes sociales que utiliza inteligencia artificial y aprendizaje automático para proporcionar información valiosa sobre la marca, el mercado y la competencia.
+- [GrahamAI](https://www.grahamai.co/): genera tuits de manera aleatoria seleccionando una temática.
+- [Maester APP](https://maester.app/): dviersas funcionalidades para generar contenidos vía IA.
