@@ -138,8 +138,6 @@ Debemos crearlas con los siguientes datos:
 ## Recursos
 
 - [Guía de migración de ecommerce de GA3 a GA4](https://support.google.com/analytics/answer/10759417)
+- [Listado de códigos de monedas (currency) con los que GA4 puede trabajar](https://support.google.com/analytics/answer/9796179?hl=en#zippy=%2Cin-this-article)
 
 ## Herramientas
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE5MDA0OF19
--->

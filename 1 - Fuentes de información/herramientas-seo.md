@@ -2,7 +2,7 @@
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
 date: 23/08/2022
-date_modified: 13/02/2023
+date_modified: 23/02/2023
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -63,6 +63,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Xenulink](http://home.snafu.de/tilman/xenulink.html)
 -   [wappalyzer](https://www.wappalyzer.com/)
 -   [Rapidtables](https://www.rapidtables.com/web/tools/redirect-generator.html)
+- [Hreflang checker](https://hreflang.seovis.de/)
 
 ## Keyword research / Contenidos
 
@@ -105,6 +106,8 @@ Posiblemente sea una de las ramas más complejas del SEO.
 
 -   [Rich results](https://search.google.com/test/rich-results)
 -   [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
+- [Schema SERP](https://www.neuraltext.com/ai/schema-serp): dada una palabra clave nos indica los resultados enriquecidos que aparecen en las SERPs.
+
 
 ## Enlaces / Linkbuilding
 

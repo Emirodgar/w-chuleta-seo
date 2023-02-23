@@ -45,6 +45,7 @@ De la mano de Google, contamos con Discover y News.
 - `Inglés` - [Listado de herramientas para identificar contenidos de baja calidad](https://www.gsqi.com/marketing-blog/tools-for-detecting-low-quality-ai-content/)
 - `Inglés` - [Plantilla de Google Sheets para generar meta descripciones con inteligencia artificial](https://seogreetings.com/blogs/news/bulk-generate-ai-meta-descriptions-in-google-sheets)
 - `Inglés` - [Aplicación para extraer principales keywords de las SERP (páginas de resultados)](https://keywords.streamlit.app/)
+- [Schema SERP](https://www.neuraltext.com/ai/schema-serp): dada una palabra clave nos indica los resultados enriquecidos que aparecen en las SERPs.
 
 
 

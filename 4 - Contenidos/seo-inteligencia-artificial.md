@@ -71,6 +71,17 @@ Google gana dinero con la visualización de los anuncios; si esta comportamiento
 
 Desde mi punto de vista el SEO no está muerto, sólo está cambiando y tendrá que adaptarse. 
 
+## ¿De dónde saca la información Google Bard?
+
+Google Bard se basa en LaMDA, entrenada a partir del conjunto de datos definido como **Infiniset**. Según el [paper compartido por Google](https://arxiv.org/pdf/2201.08239.pdf), la IA se entrenó con 1.5 trillones de palabras derivadas de:
+
+- 12.5% C4-based data
+- 12.5% English language Wikipedia
+- 12.5% code documents from programming Q&A websites, tutorials, and others
+- 6.25% English web documents
+- 6.25% Non-English web documents
+- 50% dialogs data from public forums
+
 ## Diferencias entre Bard (Google) y ChatGPT (OpenIA)
 
 ## ¿Para qué podemos usar la IA en SEO?
@@ -117,3 +128,5 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [CrowdView](https://crowdview.ai/): es una plataforma de análisis y monitorización de redes sociales que utiliza inteligencia artificial y aprendizaje automático para proporcionar información valiosa sobre la marca, el mercado y la competencia.
 - [GrahamAI](https://www.grahamai.co/): genera tuits de manera aleatoria seleccionando una temática.
 - [Maester APP](https://maester.app/): dviersas funcionalidades para generar contenidos vía IA.
+- [Entrena ChatGPT3 con los datos que tienes en tus bases de datos](https://twitter.com/dannyrichman/status/1625178646649487370).
+- [Optimo](https://askoptimo.com/seo-title-&-meta-description): Genera título y metadescripción a partir de una descripción de tu página.

@@ -2,6 +2,7 @@
 title: Enlaces SEO - Estrategias de link building
 description: Diseña y ejecuta una estrategia de enlazado natural
 date: 23/08/2022
+date_modified: 23/02/2023
 folder: enlazado
 layout: default_1
 author: Emirodgar
@@ -31,7 +32,8 @@ Siguiendo estos pasos, podrás crear una estrategia de link building efectiva qu
 ## Recursos
 
 - `Inglés` - [¿Qué métrica de enlazado correlaciona mejor con el tráfico orgánico?](https://moz.com/blog/link-metric-serp-correlation-study)
-- [Guía oficial de Google - Permitir el rastreo](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=es)
+- [Guía oficial de Google - Cómo gestiona Google los diferentes tipos de enlaces](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=es)
+- `Inglés` - [19 preguntas que hacer a tu agencia de linkbuilding](https://digitalolympus.net/things-to-ask-your-link-building-agency/)
 
 
 <section id="cs_herramientas"></section>

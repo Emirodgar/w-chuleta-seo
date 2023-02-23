@@ -54,11 +54,13 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 - `Inglés` - [Informe Looker para auditar implementación GA4](https://datastudio.google.com/u/0/reporting/ced29b32-72ec-4b6c-a41c-7c47b39bac60/page/p_hfbfof53yc)
 - `Inglés` - [Códigos de GTM listos para ser usados](https://www.analyticsmania.com/google-tag-manager-recipes/)
 - `Inglés` - [Discrepancia en conversiones de Analytics y Ads](https://newmetrics.io/knowledge-base/google-ads-analytics-discrepancies/)
+- `Inglés` - [Eventos personalizados en Google Analytics 4](https://www.youtube.com/watch?v=QmEOPuJr05w&list=UUJ5UyIAa5nEGksjcdp43Ixw&index=1)
+- `Inglés` - [Listado de dimensiones y métricas de GA4 Spy](https://data.ga4spy.com/)
+- `Inglés` - [Cómo saltarse las limitaciones de umbral aplicado en los datos](https://www.analyticsmania.com/post/thresholding-applied-in-google-analytics-4-do-this/)
 
 Google Analytics dispone de varias cuentas demo donde podremos trastear con las últimas funcionalidades y, además, hacer pruebas y experimentos.
 
-- [Google Analytics 4 property: Google Merchandise Store (web data)](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p213025502/)
-- [Google Analytics 4 property: Flood-It! (app and web data)](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/p153293282/reports/intelligenthome)
+- [Cuenta demo de Google Analytics 4: Google Merchandise Store](https://support.google.com/analytics/answer/6367342?hl=es#zippy=%2Csecciones-de-este-art%C3%ADculo)
 
 <section id="cs_herramientas"></section>
 
@@ -70,6 +72,10 @@ Google Analytics dispone de varias cuentas demo donde podremos trastear con las 
 - [Explorador de dimensiones y métricas](https://ga-dev-tools.google/ga4/dimensions-metrics-explorer/)
 - [Query Explorer](https://ga-dev-tools.google/ga4/query-explorer/)
 - [Tienda de comercio eletrónico para realizar pruebas](https://ga-dev-tools.google/ga4/enhanced-ecommerce/products/compton-t-shirt/)
+- [Galería de templates para GTM](https://tagmanager.google.com/gallery/#/?page=1)
+- [GA4Spy](https://ga4spy.com/): investiga las configuraciones base de cualquier cuenta de GA4.
+- `Extensión Chrome` - [GA4 Enhanced DebugView by Luratic](https://chrome.google.com/webstore/detail/ga4-enhanced-debugview-by/hgkkhcgpdigijpbclngegpckcabpjjej/related)
+- `Extensión Chrome` - [Google Analytics UTILS (UA & GA4)](https://chrome.google.com/webstore/detail/google-analytics-utils-ua/dmhoedahbmlaipacpamhefgjoiebamjm)
 
 <section id="cs_pr"></section>
 

@@ -3,7 +3,7 @@ title: Indexación
 description: Mejora el rastreo y la indexación de tu sitio web
 lang: es_ES
 date: 16/03/2022
-date_modified: 20/02/2023
+date_modified: 23/02/2023
 author: Emirodgar
 layout: default_1
 folder: indexacion
@@ -55,6 +55,7 @@ A lo largo de la vida útil de una empresa, se puede cambiar varias veces de pá
 - `[Inglés]` - [Cómo analizar los logs de tu servidor](https://ahrefs.com/blog/log-file-analysis)
 - `[Inglés]` - [¿Qué significa en GSC descubiertas pero aún no indexadas?](https://searchengineland.com/understanding-resolving-discovered-currently-not-indexed-392659)
 - `[Inglés]` - [No uses los códigos de respuesta 403 ni 404 para gestionar el rastreo de Googlebot](https://developers.google.com/search/blog/2023/02/dont-404-my-yum)
+- `[Inglés]` - [Cómo corregir errores 404 tras eliminar la versión AMP de una página](https://omisido.com/how-to-fix-error-404-on-amp-pages-after-deactivating-the-amp-plugin/)
 
 <section id="cs_herramientas"></section>
 
