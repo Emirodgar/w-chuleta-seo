@@ -36,6 +36,7 @@ De la mano de Google, contamos con Discover y News.
 ## Recursos
 
 - `Inglés` - [The Authoritative Content Funnel](https://moz.com/blog/authoritative-content-funnel-whiteboard-friday)
+- `Inglés` - [Cómo gestionar fechas en contenidos](https://searchengineland.com/seo-update-content-dates-insert-year-here-393463)
 
 
 <section id="cs_herramientas"></section>

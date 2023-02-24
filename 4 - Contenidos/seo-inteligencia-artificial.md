@@ -130,3 +130,4 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Maester APP](https://maester.app/): dviersas funcionalidades para generar contenidos vía IA.
 - [Entrena ChatGPT3 con los datos que tienes en tus bases de datos](https://twitter.com/dannyrichman/status/1625178646649487370).
 - [Optimo](https://askoptimo.com/seo-title-&-meta-description): Genera título y metadescripción a partir de una descripción de tu página.
+- [GPT for Slides](https://www.gptforslides.app/)

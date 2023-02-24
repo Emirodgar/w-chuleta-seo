@@ -65,6 +65,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 - [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
 - [GMB Everywhere](https://chrome.google.com/webstore/detail/gmb-everywhere-gbp-audit/oibcaeeplepnjfjhokfcabnaafodppik): a extensión de Chrome para ejecutar auditorías de perfiles de GMB.
 - [Microdata generator](https://microdatagenerator.org/localbusiness-microdata-generator/): nos ayuda a generar datos estructurados de un negocio local para poder generar resultados enriquecidos.
+- `[Inglés]` - [¿Impactan los servicios en el posicionamiento de Business Profile?](https://www.sterlingsky.ca/services-in-google-business-profile-impact-ranking/)
 
 ## Noticias relacionadas
 

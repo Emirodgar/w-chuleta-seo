@@ -56,7 +56,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 - `Inglés` - [Discrepancia en conversiones de Analytics y Ads](https://newmetrics.io/knowledge-base/google-ads-analytics-discrepancies/)
 - `Inglés` - [Eventos personalizados en Google Analytics 4](https://www.youtube.com/watch?v=QmEOPuJr05w&list=UUJ5UyIAa5nEGksjcdp43Ixw&index=1)
 - `Inglés` - [Listado de dimensiones y métricas de GA4 Spy](https://data.ga4spy.com/)
-- `Inglés` - [Cómo saltarse las limitaciones de umbral aplicado en los datos](https://www.analyticsmania.com/post/thresholding-applied-in-google-analytics-4-do-this/)
+- `Inglés` - [Cómo saltarse las limitaciones de umbral aplicado en los datos](https://www.analyticsmania.com/post/thresholding-applied-in-google-analytics-4-do-this/)- `Inglés` - [20 alternativas a Google Analytics](https://moz.com/blog/google-analytics-alternatives)
 
 Google Analytics dispone de varias cuentas demo donde podremos trastear con las últimas funcionalidades y, además, hacer pruebas y experimentos.
 
@@ -76,6 +76,7 @@ Google Analytics dispone de varias cuentas demo donde podremos trastear con las 
 - [GA4Spy](https://ga4spy.com/): investiga las configuraciones base de cualquier cuenta de GA4.
 - `Extensión Chrome` - [GA4 Enhanced DebugView by Luratic](https://chrome.google.com/webstore/detail/ga4-enhanced-debugview-by/hgkkhcgpdigijpbclngegpckcabpjjej/related)
 - `Extensión Chrome` - [Google Analytics UTILS (UA & GA4)](https://chrome.google.com/webstore/detail/google-analytics-utils-ua/dmhoedahbmlaipacpamhefgjoiebamjm)
+- [Exportar GSC + GA4 + Looker Studio](https://bigcommerce.websiteadvantage.com.au/tag-rocket/articles/google-search-console-and-ga4-to-bigquery-and-looker-studio/)
 
 <section id="cs_pr"></section>
 
