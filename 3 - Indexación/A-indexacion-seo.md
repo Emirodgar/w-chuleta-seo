@@ -63,6 +63,7 @@ A lo largo de la vida útil de una empresa, se puede cambiar varias veces de pá
 
 - [ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/)
 - [Herramienta para validar las etiquetas hreflang](http://hreflang.seovis.de/)
+- `[Inglés]` - [Checklist para migraciones SEO](https://www.mikeginley.com/blog/pre-post-launch-seo-audit-checklist)
 
 <section id="cs_pr"></section>
 

@@ -84,4 +84,6 @@ Recomiendo [leer este artículo si hemos sido impactados negativamente para sabe
 - `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/)
 
 - `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/)
-
+- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm)
+- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/)
+- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/)

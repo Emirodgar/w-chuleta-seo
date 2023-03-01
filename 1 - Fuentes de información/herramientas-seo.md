@@ -2,7 +2,7 @@
 title: Herramientas SEO / SEO toolkit
 description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
 date: 23/08/2022
-date_modified: 23/02/2023
+date_modified: 27/02/2023
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -64,6 +64,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [wappalyzer](https://www.wappalyzer.com/)
 -   [Rapidtables](https://www.rapidtables.com/web/tools/redirect-generator.html)
 - [Hreflang checker](https://hreflang.seovis.de/)
+- [Bulk Redirect Generator](https://seotoolbelt.co/tools/bulk-redirect-generator/)
 
 ## Keyword research / Contenidos
 
@@ -252,3 +253,10 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [TinyPNG](https://tinypng.com/): reducir el tamaño de imágenes
 - [OptinMonster](https://optinmonster.com/): herramienta de optimización de conversión.
 - [Removal AI](https://removal.ai/): para eliminar el fondo de una imagen.
+
+
+## Herramientas de seguridad
+
+- [Pimeyes](https://pimeyes.com/en)
+- [Epieos](https://epieos.com/)
+- [Have I been p0wned](https://haveibeenpwned.com/)

@@ -2,6 +2,7 @@
 title: Contenidos SEO - Guías y herramientas gratuitas
 description: Aprende a trabajar los contenidos SEO de forma eficiente
 date: 23/08/2022
+date_modified: 27/02/2023
 folder: contenidos
 layout: default_1
 author: Emirodgar
@@ -37,6 +38,9 @@ De la mano de Google, contamos con Discover y News.
 
 - `Inglés` - [The Authoritative Content Funnel](https://moz.com/blog/authoritative-content-funnel-whiteboard-friday)
 - `Inglés` - [Cómo gestionar fechas en contenidos](https://searchengineland.com/seo-update-content-dates-insert-year-here-393463)
+- `Inglés` - [Template de keyword Matrix (Airtable)](https://thegray.company/blog/airtable-content-seo-keyword-matrix-template)
+- `Inglés` - [Por qué tiene tanta importancia una estrategia de contenidos](https://searchengineland.com/why-content-strategy-matters-most-393591)
+- `Inglés` - [Guía para evitar la canibalización de palabras clave](https://searchengineland.com/keyword-cannibalization-seo-guide-393596)
 
 
 <section id="cs_herramientas"></section>

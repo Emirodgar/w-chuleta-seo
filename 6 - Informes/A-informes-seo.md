@@ -52,6 +52,7 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 - [Analizar cambios de posición de palabras clave]( https://datastudio.google.com/u/0/reporting/1Fm7x1vc0vLokRhGf0WqaMd52mw7wjaSI/page/6zXD)
 - [Rastreo e indexación de ScreamingFrog](https://datastudio.google.com/reporting/4ce5740d-318d-42bb-befc-5dfb6c7e28f0/page/p_mignxmm5rc)
 - [Medir el rendimiento (performance) con un gráfico de burbujas](https://developers.google.com/search/blog/2022/04/performance-optimization-bubble-chart)
+- [GSC + GA4 + Bigquery](https://bigcommerce.websiteadvantage.com.au/tag-rocket/articles/google-search-console-and-ga4-to-bigquery-and-looker-studio/)
 
 
 
