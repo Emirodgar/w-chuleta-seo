@@ -145,14 +145,3 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
         </div>
 
 
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzOTU5MDAwLC0yMDM4MTA3NTg1LC0yMD
-c5NDM3NjY0LC0yMTQxOTY0MTk3LC0xMzQ5Nzg4MzcwLDEyMzYx
-NDAxMzAsOTQ4MzI1MTg3LDg4OTQzMzk3NywtNTkyMDUyNDI5LC
-0xNDY1MjA1NTgwLC0xNDcyNTMyMTAxLDUwNzc3OTkwMSwtNTQz
-MjY1NDY1LDEzNzM3MTYxNjYsLTU3MzYwNTUzLDgyMjMyMDgxMy
-w3MTE4ODM3NjIsMTE4NzA1NTkyMywxNjM3MTg4NjIxLC0xOTU4
-MDQ5ODAxXX0=
--->

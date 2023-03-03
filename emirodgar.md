@@ -34,10 +34,10 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Trayectoria profesional
 
-- Desde el `2018` - Director SEO y analítica web en **Smartup**  / +50 empleados
+- Desde el `2018` - Director SEO y analítica web en **Smartup**  / +90 empleados
 - `2015` - Director SEO en **Internet Advantage**  / +50 empleados
 - `2012` - Consultor SEO en **Internet Advantage**  / +50 empleados
-- `2011` - *Consultor SEO homologado por ICEX España*
+- `2011` - Consultor SEO homologado por **ICEX España**
 - `2009` - Consultor SEO en **Traffic4U**  / +100 empleados
 
 ## Ponencias y clases
