@@ -16,3 +16,7 @@ permalink: perfiles-seo
 - [Steve Toth](https://www.linkedin.com/in/stevetothjr/)
 - [Glenn Gabe](https://www.linkedin.com/in/glenngabe/)
 - [Emirodgar](https://www.linkedin.com/in/emirodgar/)
+
+## Recursos
+
+- [Aprende de los errores de otros SEOs](https://trafficthinktank.com/seo-fails/)

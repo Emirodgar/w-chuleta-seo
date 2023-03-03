@@ -21,6 +21,7 @@ El SEO es una [estrategia](https://chuletaseo.com/estrategia-seo) a largo plazo 
 
 ## Recursos
 
+- `[Inglés]` / PubCon 2023 / - [¿Cómo funcionan las búsquedas?](https://www.slideshare.net/ahrefs/how-search-works-256157502)
 
 
 <section id="cs_herramientas"></section>

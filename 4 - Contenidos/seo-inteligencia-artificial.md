@@ -123,7 +123,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [SEO GPT](https://seovendor.co/seo-gpt/): herramienta para generar contenidos orientados al SEO.
 - [Perplexity](https://www.perplexity.ai/): realiza resúmenes de nuestras peticiones y también integra búsquedas en la red social de Twitter.
 - [Elicit](https://elicit.org/): realiza una investigación en base a las posibles respuestas a nuestra pregunta para tener toda la información y contexto posible.
-- [Stable Attribution](https://www.stableattribution.com/): dadoa una imagen generada por IA, nos indica en qué otras imágenes se ha basado para generarla.
+- [Stable Attribution](https://www.stableattribution.com/): dada una imagen generada por IA, nos indica en qué otras imágenes se ha basado para generarla.
 - [AI Social BIO](https://aisocialbio.com/): genera las descripciones de nuestros perfiles sociales.
 - [BlogNLP](https://www.blognlp.com/): herramienta para generación y optimización de contenido en lenguaje natural. Cuenta con múltiples funcionalidaes entre las que se incluyen la corrección ortográfica, la corrección gramatical o la identificación de frases complejas o confusas.
 - [CrowdView](https://crowdview.ai/): es una plataforma de análisis y monitorización de redes sociales que utiliza inteligencia artificial y aprendizaje automático para proporcionar información valiosa sobre la marca, el mercado y la competencia.
@@ -133,3 +133,4 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Optimo](https://askoptimo.com/seo-title-&-meta-description): Genera título y metadescripción a partir de una descripción de tu página.
 - [GPT for Slides](https://www.gptforslides.app/)
 - [WriteSonic](https://writesonic.com/chat)
+- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayude 

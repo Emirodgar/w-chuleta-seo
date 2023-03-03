@@ -212,6 +212,8 @@ Posiblemente sea una de las ramas más complejas del SEO.
 - [Scrapear resultados de SEO local](https://colab.research.google.com/drive/1t6566fBeU9Ym87R_pyMSqVyJ1bPYKxSc?usp=sharing)
 - [Sugerencias de términos SEO](https://colab.research.google.com/drive/1xk5HYisMsdAy0ezZrpAQQX89Q5B8sP_q?usp=sharing#scrollTo=_69YqWISrtfh)
 - [Listado de scripts que usan GPT3 (Inteligencia artificial)](https://www.seotraininglondon.org/gpt-3-google-sheets-marketers/)
+- [Generar ALT de imágenes a través de IA](https://colab.research.google.com/drive/1rqgWWUvdoXooX_0hKSuGj2z6dxhtQlCO?usp=sharing)
+- [Optimizar imágenes utilizando IA](https://wordlift.io/blog/en/image-seo-using-ai/)
 
 ## Plugins SEO para Wordpress
 

@@ -56,6 +56,7 @@ A lo largo de la vida útil de una empresa, se puede cambiar varias veces de pá
 - `[Inglés]` - [¿Qué significa en GSC descubiertas pero aún no indexadas?](https://searchengineland.com/understanding-resolving-discovered-currently-not-indexed-392659)
 - `[Inglés]` - [No uses los códigos de respuesta 403 ni 404 para gestionar el rastreo de Googlebot](https://developers.google.com/search/blog/2023/02/dont-404-my-yum)
 - `[Inglés]` - [Cómo corregir errores 404 tras eliminar la versión AMP de una página](https://omisido.com/how-to-fix-error-404-on-amp-pages-after-deactivating-the-amp-plugin/)
+- [Versiones idiomáticas / localizadas de tus páginas web (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=es)
 
 <section id="cs_herramientas"></section>
 

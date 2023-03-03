@@ -70,6 +70,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 ## Noticias relacionadas
 
 - [/2022 agosto](https://support.google.com/business/thread/175785054) - Google avisa, vía email, cuando una valoración es rechazada (no se publica) por considerarse falsa o de baja calidad.
+- [La importancia de las imágenes en el SEO local](https://moz.com/blog/local-business-shelfies)
 
 ## Preguntas y respuestas
 
