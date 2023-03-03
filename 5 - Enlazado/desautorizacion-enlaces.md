@@ -125,12 +125,11 @@ La desautorización de enlaces es una técnica esencial en el SEO moderno para p
                   <div class="card-body"> Los que pertenezcan a un sitio con buena reputación (conocido, con tráfico, buen posicionamiento, etc.), los enlaces desde páginas de nuestro mismo nicho o sector y los enlaces generados de manera natural. </div>
                 </div>
               </div>
-              </div>
               <div class="card">
-                <div class="card-header" id="heading6">
+                <div class="card-header" id="heading7">
                   <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">¿Qué alternativas tenemos al disavow?</a> </h5>
                 </div>
-                <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#popularTopics">
+                <div id="collapse6" class="collapse" aria-labelledby="heading7" data-parent="#popularTopics">
                   <div class="card-body"> Para evitar hacer un disavow podemos contactar directamente con los sitios que nos enlazan y solicitar que los retiren. Otra opción puede ser trabajar nuestra estrategia de enlazado para generar nuevos enlaces de calidad y diluir el impacto de los tóxicos o spam. </div>
                 </div>
               </div>
