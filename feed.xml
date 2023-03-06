@@ -8,7 +8,8 @@ layout: none
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for page in site.pages %}
+		{% assign pages = site.pages | sort: 'date' %}
+    {% for page in pages %}
 		 {% if page.feed == 1 %}
 			<item>
 				<title>{{ page.title | xml_escape }}</title>
