@@ -1,6 +1,6 @@
 ---
 title: Listado de los algoritmos de Google
-description: 
+description: Todo lo que necisitas saber para reforzar tu estrategia SEO
 date: 14/07/2022
 date_modified: 06/03/2023
 folder: fuentes-informacion
@@ -10,11 +10,6 @@ permalink: algoritmos-google
   
 ---
 
-1. 
-{:toc}
-
-
-
 
 ## ¿Qué es el algoritmo de búsqueda de Google?
 
@@ -22,19 +17,17 @@ El algoritmo de Google es el código que utiliza para encontrar y validar los mi
 
 > El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
 
-Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las [directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es) para poder aparecer en los resultados de búsqueda.
-
-Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones dependerá en exclusiva del algoritmo de Google.
+Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las [directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"} para poder aparecer en los resultados de búsqueda y [evitar penalizaciones](https://chuletaseo.com/penalizacion-seo). Cumplir esos requisitos nos permite aparecer en los resultados pero el hecho de que lo hagamos en las primeras o últimas posiciones **dependerá en exclusiva del algoritmo de Google**.
 
 Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador recibe los mejores resultados posibles.
 
-Trabajamos con la idea de que **hace uso de unos 200 factores SEO** pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo.
+Trabajamos con la idea de que **hace uso de unos [200 factores SEO](https://chuletaseo.com/factores-seo)** pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo.
 
 ## ¿Cuándo ocurren los cambios en el algoritmo?
 
-Varias veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
+Varias veces al año Google actualiza de manera oficial su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
-Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}.
+> Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}.
 
 Google ha explicado en detalle qué implica un 'core update' y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
 
@@ -42,7 +35,7 @@ Google ha explicado en detalle qué implica un 'core update' y las diferencias e
 
 ### Filtración del código de Yandex
 
-> Un extrabajador de Yandex decidió filtrar el código fuente del buscador ruso. Enorme valor para el SEO de cara a entender [cómo gestiona un buscador el posicionamiento de sus resultados](https://searchengineland.com/yandex-leak-learnings-392393).
+> Un extrabajador de Yandex filtró el código fuente del buscador ruso. Enorme valor para el SEO de cara a entender [cómo gestiona un buscador el posicionamiento de sus resultados](https://searchengineland.com/yandex-leak-learnings-392393).
 
 ## ¿Qué tipos de cambios de algoritmo existen?
 
@@ -108,11 +101,12 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 
 ## Recursos
 
+- [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es)
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
+- `Inglés` - [Cuenta oficial de Google en Twitter](https://twitter.com/searchliaison){:target="_blank"}
 - `Inglés` - [Guía oficial de actualizaciones principales (Core)](https://developers.google.com/search/blog/2019/08/core-updates?hl=es)
 - `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
 - `Inglés` - `2023` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
-
 - `Inglés` - `2023` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
 - `Inglés` - `2023` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
 - `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
@@ -123,6 +117,9 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 ## Herramientas
 
 - [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/){:target="_blank"}
+
+A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la volatilidad (cambios) en los resultados de búsqueda. Gracias a ellas podemos identificar posibles cambios de algoritmos no oficiales y darle sentido a nuestros datos.
+
 - [Mozcast](https://moz.com/mozcast){:target="_blank"}
 - [SERPMetrics](https://serpmetrics.com/flux/){:target="_blank"}
 - [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
