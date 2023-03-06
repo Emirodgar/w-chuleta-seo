@@ -14,15 +14,17 @@ permalink: algoritmos-google
 {:toc}
 
 
-Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las directrices de calidad de Google para poder aparecer en los resultados de búsqueda.
 
-Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones dependerá en exclusiva del algoritmo de Google.
 
 ## ¿Qué es el algoritmo de búsqueda de Google?
 
 El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo.
 
 > El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
+
+Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las [directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es) para poder aparecer en los resultados de búsqueda.
+
+Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones dependerá en exclusiva del algoritmo de Google.
 
 Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador recibe los mejores resultados posibles.
 
@@ -53,15 +55,15 @@ Si es un cambio oficial, Google lo habrá anunciado. Si no es el caso, existen h
 
 Algunas de estas herramientas son:
 
-- Mozcast
-- SERPMetrics
-- Accuranker
-- Cognitive SEO
-- SERPwoo
-- SEMRush
-- Algoroo
-- Advanced Web Rankings
-- RankRanger
+- [Mozcast](https://moz.com/mozcast){:target="_blank"}
+- [SERPMetrics](https://serpmetrics.com/flux/){:target="_blank"}
+- [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
+- [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
+- [SERPwoo](https://www.serpwoo.com/stats/volatility/){:target="_blank"}
+- [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
+- [Algoroo](https://algoroo.com/){:target="_blank"}
+- [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
+- [RankRanger](https://www.rankranger.com/rank-risk-index){:target="_blank"}
 
 ## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
@@ -87,14 +89,6 @@ Google ha recalcado muchas veces que no hay ninguna acción específica que llev
 
 Recomiendo [leer este artículo si hemos sido impactados negativamente para saber si nuestra página está alineada con las necesidades del buscador](https://developers.google.com/search/blog/2019/08/core-updates?hl=es). Es posible que recuperemos cierta visibilidad SEO entre actualizaciones, aunque el cambio más grande siempre viene cuando ocurre otra actualización core. 
 
-
-#### Enlaces de interés
-
-- https://developers.google.com/search/blog/2019/08/core-updates?hl=es
-- https://www.mariehaynes.com/google-core-updates/
-
-
-
 ### Actualizaciones específicas
 
 A mayores de las actualizaciones principales `core update` existen otras con una funcionalidad bien definida.
@@ -115,6 +109,7 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 ## Recursos
 
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
+- `Inglés` - [Guía oficial de actualizaciones principales (Core)](https://developers.google.com/search/blog/2019/08/core-updates?hl=es)
 - `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
 - `Inglés` - `2023` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
 
@@ -127,7 +122,16 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 
 ## Herramientas
 
-- [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/)
+- [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/){:target="_blank"}
+- [Mozcast](https://moz.com/mozcast){:target="_blank"}
+- [SERPMetrics](https://serpmetrics.com/flux/){:target="_blank"}
+- [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
+- [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
+- [SERPwoo](https://www.serpwoo.com/stats/volatility/){:target="_blank"}
+- [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
+- [Algoroo](https://algoroo.com/){:target="_blank"}
+- [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
+- [RankRanger](https://www.rankranger.com/rank-risk-index){:target="_blank"}
 
 <section id="cs_pr"></section>
 
