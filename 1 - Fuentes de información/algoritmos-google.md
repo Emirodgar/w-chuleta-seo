@@ -2,6 +2,7 @@
 title: Listado de los algoritmos de Google
 description: 
 date: 14/07/2022
+date_modified: 06/03/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -21,18 +22,17 @@ Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en
 
 El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo.
 
+> El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
+
 Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador recibe los mejores resultados posibles.
 
-El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
-
-Trabajamos con la idea de que hace uso de unos 200 factores SEO pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo.
+Trabajamos con la idea de que **hace uso de unos 200 factores SEO** pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo.
 
 ## ¿Cuándo ocurren los cambios en el algoritmo?
 
-
-Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){target="_blank"}.
-
 Varias veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
+
+Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}.
 
 Google ha explicado en detalle qué implica un 'core update' y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
 
@@ -73,7 +73,7 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 
 3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente.
 
-En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){target="_blank"} o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl){target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
+En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){:target="_blank"} o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl){:target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 ## Tipos de actualizaciones del algoritmo
 
@@ -115,13 +115,13 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 ## Recursos
 
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
-- `Inglés` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){target="_blank"}
-- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){target="_blank"}
+- `Inglés` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
+- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
 
-- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){target="_blank"}
-- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){target="_blank"}
-- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){target="_blank"}
-- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){target="_blank"}
+- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
+- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
+- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
+- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
 
 <section id="cs_herramientas"></section>
 
