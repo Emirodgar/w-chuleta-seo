@@ -111,7 +111,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Automatizar publicaciones de Instagram a través de ChatGPT](https://www.instagram.com/p/CnxF2pvIfJz/)
 - [Acciones de marketing digital que puedes hacer con ChatGTP](https://www.instagram.com/p/Cn2UwJ-oIX1/)
 - [Usa ChatGPT para extraer valor para tus estrategias SEO](https://searchengineland.com/chatgpt-prompts-seo-393523)
-
+- [Guía para hacer OSINT con ChatGPT](https://www.linkedin.com/posts/cyberabogada_osint-con-chatgpt-activity-7035240539310407680-y4aY/)
 
 
 ## Herramientas
@@ -133,4 +133,5 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Optimo](https://askoptimo.com/seo-title-&-meta-description): Genera título y metadescripción a partir de una descripción de tu página.
 - [GPT for Slides](https://www.gptforslides.app/)
 - [WriteSonic](https://writesonic.com/chat)
-- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayude 
+- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayuda a mejorar las funcionalidades de ChatGPT, especialmente desde el punto de vista del SEO.
+- [Roomgpt](https://www.roomgpt.io/): dada una imagen de una casa, la convierte siguiendo el estilo que hayamos seleccionado a través de la IA. No tiene aplicación SEO directo pero nos ayuda a entender las posibilidades de optimización de imágenes con inteligencia artificial.

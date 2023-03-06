@@ -65,6 +65,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Rapidtables](https://www.rapidtables.com/web/tools/redirect-generator.html)
 - [Hreflang checker](https://hreflang.seovis.de/)
 - [Bulk Redirect Generator](https://seotoolbelt.co/tools/bulk-redirect-generator/)
+- [Gephi](https://gephi.org/users/download/)
 
 ## Keyword research / Contenidos
 
