@@ -8,6 +8,7 @@ sitemap:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% assign pages = site.pages | sort: 'date' %}
 {% for post in pages %}
+{% if post.date != null  %}
   <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -28,5 +29,6 @@ sitemap:
         <priority>0.5</priority>
       {% endif %}
     </url>
+    {% endif %}
 {% endfor %}
 </urlset>

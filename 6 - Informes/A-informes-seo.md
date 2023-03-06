@@ -20,6 +20,8 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` -  [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 - [Galería de templates de Google Looker Studio](https://datastudio.google.com/gallery)
 - [Exportar datos de Search Console a Bigquery](https://developers.google.com/search/blog/2023/02/bulk-data-export)
+- [Exportar datos de GSC a Excel y cualificarlos](https://www.youtube.com/watch?v=wLVrHKursgU)
+- [Aprendiendo SQL para SEO](https://www.aeripret.com/sql-for-seo/)
 
 
 

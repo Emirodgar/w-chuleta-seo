@@ -68,7 +68,9 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 
 3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente.
 
-En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){:target="_blank"} o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl){:target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
+> Gary Illyes (Google) comentó en el Pubcon 2023 que si somos penalizaciones por la actualización Helpful Content Update, [podemos tardar meses en recuperar la confianza de Google](https://www.seroundtable.com/google-on-recovering-from-the-helpful-content-update-34979.html) y que nuestros contenidos vuelvan a posicionar. 
+
+En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){:target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 ## Tipos de actualizaciones del algoritmo
 
@@ -111,6 +113,7 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 - `Inglés` - `2023` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
 - `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
 - `Inglés` - `2023` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
+- `Inglés` - `2023` - [Recuperarse de una Helpful Content Update puede llevar meses](https://www.seroundtable.com/google-on-recovering-from-the-helpful-content-update-34979.html){:target="_blank"}
 
 <section id="cs_herramientas"></section>
 

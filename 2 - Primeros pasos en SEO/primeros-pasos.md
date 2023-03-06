@@ -24,7 +24,7 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 
 ## Recursos
 
- 
+- `Inglés` - [SEO checklist en Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/edit#gid=2066083900) 
 
 <section id="cs_herramientas"></section>
 

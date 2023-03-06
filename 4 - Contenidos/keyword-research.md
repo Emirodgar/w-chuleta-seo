@@ -72,6 +72,7 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 -   [Wordtracker](https://www.wordtracker.com/): otra heramienta más para encontrar términos relevantes.
 -   [Thesaurus.com](http://www.thesaurus.com/): para buscar sinónimos y evitar repetir términos clave.
 -   [Synonym.com](http://www.synonym.com/): otra página para encontrar términos equivalentes o similares.
+- [Script en python para hacer una búsqueda de palabras clave](https://twitter.com/alton_lex/status/1631042188116365312?s=46&t=GhkMpnPAzrymKSlKpYKwRQ)
 
 Hay varios proyectos que utilizan la inteligencia artificial para analizar, optimizar o generar contenidos. Entre los más destacados tenemos los siguientes:
 
