@@ -8,7 +8,7 @@ layout: none
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts %}
+    {% for post in pages %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ site.url }}{{ post.url }}</link>

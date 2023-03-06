@@ -13,24 +13,73 @@ permalink: algoritmos-google
 {:toc}
 
 
+Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las directrices de calidad de Google para poder aparecer en los resultados de búsqueda.
+
+Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones dependerá en exclusiva del algoritmo de Google.
+
+## ¿Qué es el algoritmo de búsqueda de Google?
+
+El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo.
+
+Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador recibe los mejores resultados posibles.
+
+El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
+
+Trabajamos con la idea de que hace uso de unos 200 factores SEO pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo.
+
+## ¿Cuándo ocurren los cambios en el algoritmo?
+
+
+Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){target="_blank"}.
+
+Varias veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
+
+Google ha explicado en detalle qué implica un 'core update' y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
+
+Últimamente anuncian estos cambios a través de la cuenta de Twitter de Searchliaison por lo que recomiendo seguirla para estar al tanto.
+
+### Filtración del código de Yandex
+
 > Un extrabajador de Yandex decidió filtrar el código fuente del buscador ruso. Enorme valor para el SEO de cara a entender [cómo gestiona un buscador el posicionamiento de sus resultados](https://searchengineland.com/yandex-leak-learnings-392393).
 
-## Listado oficial
+## ¿Qué tipos de cambios de algoritmo existen?
 
-Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking).
+La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño e impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños desfases por lo que el impacto suele ser menor.
+
 
 ## Herramientas para hacer seguimiento de cambios de algoritmo
 
-Google realiza múltiples cambios sobre su algoritmo, algunos los anuncia de forma oficial pero otros no. En el caso de estos últimos y para poner en conexto una subida o bajada de nuestro tráfico orgánico, podemos hacer uso de herramientas que monitorizan cambios en las SERPs.
+Si es un cambio oficial, Google lo habrá anunciado. Si no es el caso, existen herramientas que monitorizan millones de keywords por idioma y mercado; cuando detectan cambios grandes en el posicionamiento, lo advierten y ésto suele ser el preaviso de que ha ocurrido un pequeño cambio no oficial.
 
-- https://algoroo.com/
-- https://cognitiveseo.com/signals/
+Algunas de estas herramientas son:
+
+- Mozcast
+- SERPMetrics
+- Accuranker
+- Cognitive SEO
+- SERPwoo
+- SEMRush
+- Algoroo
+- Advanced Web Rankings
+- RankRanger
+
+## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
+
+Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página podemos llevar a cabo varios análisis:
+
+1. **Analizar el tráfico orgánico**: Analizaremos la horquilla de tiempo en la que ha ocurrido el cambio y compararla con un periodo equivalente. Por ejemplo, si vamos a analizar de lunes a jueves, debemos compararlo con un lunes a jueves similar (sin festivos ni ninguna estacionalidad que pudiera afectar a los datos).
+
+2. **Analizar Google Search Console**: A través de esta plataforma podremos conocer la evolución (clicks e impresiones) de los términos y URLs por las que posicionamos. Cualquier cambio -a mejor o a peor- se verá reflejado. El único inconveniente es que lleva un pequeño retraso por lo que no es algo que podamos hacer justo tras el cambio de algoritmo.
+
+3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente.
+
+En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){target="_blank"} o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl){target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 ## Tipos de actualizaciones del algoritmo
 
 ### Actualizaciones Core
 
-Una core update es una actualización cuyo objetivo es mejorar la presentación de los resultados dentro de las SERPs y adaptarse a los últimos cambios que van ocurriendo dentro del entorno web. Es decir, impacta principalmente en la forma en que Google presenta y organiza la información, por lo que no hay un curso de acción específico que debamos trabajar sobre nuestras páginas para salir beneficiados.
+Una `core update` o cambio principal de algoritmo es una actualización cuyo objetivo es mejorar la presentación de los resultados dentro de las `SERPs` y adaptarse a los últimos cambios que van ocurriendo dentro del entorno web. Impacta principalmente en la forma en que Google presenta y organiza la información, por lo que **no hay un curso de acción específico que debamos trabajar sobre nuestras páginas para salir beneficiados**.
 
 #### ¿Qué hacer si he sido impactado de forma negativa por una Core Update?
 
@@ -38,52 +87,88 @@ Google ha recalcado muchas veces que no hay ninguna acción específica que llev
 
 Recomiendo [leer este artículo si hemos sido impactados negativamente para saber si nuestra página está alineada con las necesidades del buscador](https://developers.google.com/search/blog/2019/08/core-updates?hl=es). Es posible que recuperemos cierta visibilidad SEO entre actualizaciones, aunque el cambio más grande siempre viene cuando ocurre otra actualización core. 
 
-- 25 de mayo de 2022
-- 17 de noviembre de 2021
-- 1 de julio de 2021
 
 #### Enlaces de interés
 
 - https://developers.google.com/search/blog/2019/08/core-updates?hl=es
 - https://www.mariehaynes.com/google-core-updates/
 
-### Actualizaciones SPAM
- - 3 de noviembre de 2021
- - 28 de julio de 2021
- - 23 de junio de 2021
+
 
 ### Actualizaciones específicas
 
-#### Product Reviews Update
+A mayores de las actualizaciones principales `core update` existen otras con una funcionalidad bien definida.
 
-*1 de diciembre, 2021*: Google valorará positivamente las valoraciones de calidad de los productos.
- 
-#### Page Title Rewrites
+- **Cambios de actualización de contenido**: Google también realiza actualizaciones en su algoritmo para mejorar la forma en que se muestra el contenido. Por ejemplo, la actualización de Google Panda en 2011, que penalizó el contenido de baja calidad y duplicado.
 
-16 de agosto de 2021: Google reescribirá los títulos que considere que no aportan valor a los usuarios y que no están alineados con su intención de búsqueda.
+- **Cambios de actualización de enlaces**: Google utiliza enlaces como una señal importante de la calidad y relevancia de una página. Por lo tanto, realiza actualizaciones para mejorar la forma en que se evalúan y clasifican los enlaces. Por ejemplo, la actualización de Google Penguin en 2012, que penalizó los enlaces de baja calidad y los esquemas de construcción de enlaces.
 
-#### Page Experience Update 
+- **Cambios de actualización de experiencia del usuario**: Google se esfuerza por ofrecer la mejor experiencia al usuario posible. Por lo tanto, realiza actualizaciones para mejorar la forma en que los usuarios interactúan con los resultados de búsqueda. Por ejemplo, la actualización de Google `Mobilegeddon` en 2015, que mejoró la experiencia de búsqueda en dispositivos móviles.
 
-25 de junio de 2021: Las Core Web Vitals entran en acción y comenzarán a impactar en los resultados.
+- **Cambios de actualización de seguridad**: Google también realiza actualizaciones para garantizar la seguridad de los usuarios. Por ejemplo, la actualización de `Google HTTPS` en 2014, que favorece las páginas seguras con certificado `SSL`.
 
-#### Passage Indexing
-
-10 de febrero de 2021: El algoritmo tendrá en cuenta el acceso directo a fragmentos de contenidos previamente indexados y que coinciden con la búsqueda de los usuarios.
-
-### Actualizaciones sin confirmar
-
-  - 17 de diciembre de 2021
-  - 2 de octubre de 2021
+Existen múltiples actualizaciones más específicas como Product Reviews Update, Page Title Rewrites o Passage Indexing cuyo objetivo es mejorar o subsanar aspectos concretos de la experiencia de los usuarios y funcionalidades del buscador.
 
 
+<section id="cs_recursos"></section>
 
 ## Recursos
 
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
+- `Inglés` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){target="_blank"}
+- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){target="_blank"}
 
-- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/)
+- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){target="_blank"}
+- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){target="_blank"}
+- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){target="_blank"}
+- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){target="_blank"}
 
-- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/)
-- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm)
-- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/)
-- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/)
+<section id="cs_herramientas"></section>
+
+## Herramientas
+
+- [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/)
+
+<section id="cs_pr"></section>
+
+## Preguntas frecuentes
+
+
+<div class="row">
+          <div class="col-lg-12">
+            <div class="accordion accordion-alterate arrow-right" id="popularTopics">
+              <div class="card">
+                <div class="card-header" id="heading1">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cómo puedo saber si mi sitio web se ha visto afectado por un cambio de algoritmo?</a> </h5>
+                </div>
+                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+                  <div class="card-body">Para saber si nuestro sitio se ha visto afectado, podemos monitorear el tráfico orgánico y compararlo con el mismo período en el que se lanzó la actualización. También podemos revisar nuestros rankings de búsqueda para las palabras clave relevantes. </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading2">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">Cómo puedo adaptar mi estrategia de SEO a los cambios de algoritmo?</a> </h5>
+                </div>
+                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
+                  <div class="card-body"> Es importante mantenerse actualizado sobre los cambios de algoritmo de Google y estar al tanto de las mejores prácticas de SEO. Podemos hacer esto siguiendo blogs especializados, asistiendo a webinars y capacitaciones, y siguiendo a expertos en el tema. </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading3">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Cómo puedo saber cuándo se lanzará una nueva actualización del algoritmo de Google?</a> </h5>
+                </div>
+                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
+                  <div class="card-body"> Google no suele anunciar sus actualizaciones con anticipación, por lo que puede ser difícil saber cuándo se lanzará una nueva actualización. Sin embargo, podemos estar atentos a las noticias y los rumores, y observar las fluctuaciones en los rankings de búsqueda.</div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading4">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por un cambio de algoritmo?</a> </h5>
+                </div>
+                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
+                  <div class="card-body">Si nuestro sitio web se ve afectado negativamente por un cambio de algoritmo, debemos analizar lo que ha cambiado y ajustar nuestra estrategia de SEO en consecuencia. Podemos mejorar la calidad del contenido, mejorar la experiencia del usuario, trabajar en la construcción de enlaces de calidad, etc.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>

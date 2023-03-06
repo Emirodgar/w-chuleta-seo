@@ -45,9 +45,9 @@ El mundo SEO es muy amplio y podemos encontrar centenares de comunidades. A cont
 
 Son los portales que 
 
-- `[Inglés]` - [Search Engine Journal](https://www.searchenginejournal.com/) 
-- `[Inglés]` - [Search Engine Land](https://searchengineland.com/)
-- `[Inglés]` - [Search Engine Roundtable](https://www.seroundtable.com/)
+- `Inglés` - [Search Engine Journal](https://www.searchenginejournal.com/) 
+- `Inglés` - [Search Engine Land](https://searchengineland.com/)
+- `Inglés` - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 
 ### Foros SEO
