@@ -115,13 +115,13 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 ## Recursos
 
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
-- `Inglés` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
-- `Inglés` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
+- `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
+- `Inglés` - `2023` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
 
-- `Inglés` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
-- `Inglés` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
-- `Inglés` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
-- `Inglés` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
+- `Inglés` - `2023` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
+- `Inglés` - `2023` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
+- `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
+- `Inglés` - `2023` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
 
 <section id="cs_herramientas"></section>
 
