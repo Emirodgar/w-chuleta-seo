@@ -13,6 +13,9 @@ Las `SERP` o *Search Engine Results Page*, es un término que hace referencia a 
 
 Las SERP pueden variar en función de la consulta de búsqueda, la [ubicación geográfica del usuario](https://chuletaseo.com/seo-local), el dispositivo utilizado para realizar la búsqueda y otros [factores](https://chuletaseo.com/factores-seo).
 
+## ¿Qué podemos configurar?
+
+Tanto en la versión de escritorio como la móvil, podemos configurar el [icono](https://developers.google.com/search/docs/appearance/favicon-in-search?hl=es) y el [nombre](https://developers.google.com/search/docs/appearance/site-names?hl=es) que queremos que aparezcan junto a nuestros resultados.
 
 
 <section id="cs_recursos"></section>
@@ -20,6 +23,9 @@ Las SERP pueden variar en función de la consulta de búsqueda, la [ubicación g
 ## Recursos
 
 - [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
+- [Configurar nombre de página en resultados](https://developers.google.com/search/docs/appearance/site-names?hl=es)
+- [Configurar el icono de nuestra página para los resultados ](https://developers.google.com/search/docs/appearance/favicon-in-search?hl=es)
+- `Inglés` - [9 consejos para solucionar si tu nombre de empresa aparece mal en los resultados](https://www.gsqi.com/marketing-blog/site-name-problems-google-search)
 
 
 <section id="cs_herramientas"></section>

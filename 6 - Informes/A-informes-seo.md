@@ -19,9 +19,10 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` -  [SEO Reporting to Impress: How to Successfully Report your SEO Efforts & Results #WTSFest](https://www.slideshare.net/aleydasolis/seo-reporting-to-impress-how-to-successfully-report-your-seo-efforts-results-wtsfest)
 - `Inglés` -  [5 Tips to Invigorate Boring SEO Reports with Storytelling](https://moz.com/blog/seo-reports-with-storytelling)
 - [Galería de templates de Google Looker Studio](https://datastudio.google.com/gallery)
-- [Exportar datos de Search Console a Bigquery](https://developers.google.com/search/blog/2023/02/bulk-data-export)
-- [Exportar datos de GSC a Excel y cualificarlos](https://www.youtube.com/watch?v=wLVrHKursgU)
-- [Aprendiendo SQL para SEO](https://www.aeripret.com/sql-for-seo/)
+- `Inglés` - [Exportar datos de Search Console a Bigquery](https://developers.google.com/search/blog/2023/02/bulk-data-export)
+- `Inglés` - [Exportar datos de GSC a Excel y cualificarlos](https://www.youtube.com/watch?v=wLVrHKursgU)
+- `Inglés` - [Aprendiendo SQL para SEO](https://www.aeripret.com/sql-for-seo/)
+- `Inglés` - [Incorporar data storytelling en tus contenidos](https://lazarinastoy.com/six-practical-ways-to-implement-data-storytelling-in-your-consulting/)
 
 
 

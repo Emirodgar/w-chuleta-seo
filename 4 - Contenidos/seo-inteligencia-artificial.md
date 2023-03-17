@@ -2,7 +2,7 @@
 title: ¿Cómo afecta al SEO la inteligencia artificial?
 description: ChatGPT y Bard tendrán un gran impacto en el posicionamiento orgánico a medio plazo. 
 date: 09/02/2023
-date_modified: 20/02/2023
+date_modified: 11/03/2023
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -135,3 +135,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [WriteSonic](https://writesonic.com/chat)
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayuda a mejorar las funcionalidades de ChatGPT, especialmente desde el punto de vista del SEO.
 - [Roomgpt](https://www.roomgpt.io/): dada una imagen de una casa, la convierte siguiendo el estilo que hayamos seleccionado a través de la IA. No tiene aplicación SEO directo pero nos ayuda a entender las posibilidades de optimización de imágenes con inteligencia artificial.
+- [Character](character.ai): conversa con múltiples personajes.
+- [Simplified](https://simplified.com/): múltiples herramientas para mejorar el rendimiento digital. Creación de vídeos, de mensajes para redes sociales, etc.
+- [Colossyan](https://www.colossyan.com/): crea vídeos con personajes virtuales creados por IA.
+- [Jasper](https://www.jasper.ai/): crea imágenes.
