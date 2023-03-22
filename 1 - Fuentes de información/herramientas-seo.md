@@ -103,6 +103,8 @@ Posiblemente sea una de las ramas más complejas del SEO.
 - [QuestionDB](https://questiondb.io/)
 - [Free Keyword Tool](https://www.wordstream.com/keywords)
 - [SuggestMRX](https://www.suggestmrx.com/index-en.php)
+- [SERP keyword Clustering](https://www.contentgecko.io/free-serp-keyword-clustering)
+- [People Asked](https://peopleasked.com/)
 
 ## Datos estructurados
 
