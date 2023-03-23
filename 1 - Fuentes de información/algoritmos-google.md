@@ -2,7 +2,7 @@
 title: Listado de los algoritmos de Google
 description: Todo lo que necisitas saber para reforzar tu estrategia SEO
 date: 14/07/2022
-date_modified: 06/03/2023
+date_modified: 23/03/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
