@@ -112,6 +112,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Acciones de marketing digital que puedes hacer con ChatGTP](https://www.instagram.com/p/Cn2UwJ-oIX1/)
 - [Usa ChatGPT para extraer valor para tus estrategias SEO](https://searchengineland.com/chatgpt-prompts-seo-393523)
 - [Guía para hacer OSINT con ChatGPT](https://www.linkedin.com/posts/cyberabogada_osint-con-chatgpt-activity-7035240539310407680-y4aY/)
+- `[Inglés]` - [Cómo entrenar una IA en las directrices de calidad de Google](https://www.localseoguide.com/training-gpt-on-google-quality-rater-guidelines-and-why-you-shouldnt-do-it/)
 
 
 ## Herramientas

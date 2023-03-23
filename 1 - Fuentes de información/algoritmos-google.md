@@ -27,7 +27,7 @@ Trabajamos con la idea de que **hace uso de unos [200 factores SEO](https://chul
 
 Varias veces al año Google actualiza de manera oficial su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
-> Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}.
+> Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}. También han incluido en el [dashboard de seguimiento de búsquedas](https://status.search.google.com/){:target="_blank"} un apartado para hacer seguimiento de los cambios de algoritmos.
 
 Google ha explicado en detalle qué implica un 'core update' y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
 
@@ -105,6 +105,7 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 
 - [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es)
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
+- [Dashboard de seguimiento de búsquedas](https://status.search.google.com/){:target="_blank"}
 - `Inglés` - [Cuenta oficial de Google en Twitter](https://twitter.com/searchliaison){:target="_blank"}
 - `Inglés` - [Guía oficial de actualizaciones principales (Core)](https://developers.google.com/search/blog/2019/08/core-updates?hl=es)
 - `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
@@ -119,6 +120,9 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 
 ## Herramientas
 
+De cara a analizar si hemos sido impactados y en qué partes de la página, podemos hacer uso de templates de Looker Studio. Seleccionamos la fuente de datos (propiedad de Google Search Console) a analizar y los informes nos ayudarán a identificar potenciales impactos de la actualización.
+
+- [Template de Looker Studio de Emirodgar para analizar impacto de cambio de algoritmo](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c){:target="_blank"}
 - [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/){:target="_blank"}
 
 A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la volatilidad (cambios) en los resultados de búsqueda. Gracias a ellas podemos identificar posibles cambios de algoritmos no oficiales y darle sentido a nuestros datos.
