@@ -50,6 +50,8 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 
 <hr class="divider">
 
+<!--
+
 ### Últimas actualizaciones
 
 <ul>
@@ -60,6 +62,8 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 {% endif %}
 {% endfor %}
 </ul>
+
+-->
 
 <!--
 ## Últimas páginas creadas

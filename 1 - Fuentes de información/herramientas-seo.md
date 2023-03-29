@@ -111,6 +111,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Rich results](https://search.google.com/test/rich-results)
 -   [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [Schema SERP](https://www.neuraltext.com/ai/schema-serp): dada una palabra clave nos indica los resultados enriquecidos que aparecen en las SERPs.
+- [Guía para crear datos estructurados desde GTM](https://gofishdigital.com/blog/how-to-create-dynamic-schema-with-google-tag-manager/)
 
 
 ## Enlaces / Linkbuilding
@@ -166,6 +167,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Accuranker](https://www.accuranker.com/grump)
 -   [Signals](https://cognitiveseo.com/signals/)
 -   [Website penalty indicator](https://feinternational.com/website-penalty-indicator/)
+- [Sistrix Google Update Radar](https://app.sistrix.com/es/google-update-radar)
 
 ## Extensiones SEO para el navegador
 
@@ -265,3 +267,4 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [Pimeyes](https://pimeyes.com/en)
 - [Epieos](https://epieos.com/)
 - [Have I been p0wned](https://haveibeenpwned.com/)
+- [Reverse Contact](https://www.reversecontact.com/)

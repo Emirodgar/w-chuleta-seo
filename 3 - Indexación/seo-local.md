@@ -66,6 +66,7 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 - [GMB Everywhere](https://chrome.google.com/webstore/detail/gmb-everywhere-gbp-audit/oibcaeeplepnjfjhokfcabnaafodppik): a extensión de Chrome para ejecutar auditorías de perfiles de GMB.
 - [Microdata generator](https://microdatagenerator.org/localbusiness-microdata-generator/): nos ayuda a generar datos estructurados de un negocio local para poder generar resultados enriquecidos.
 - `[Inglés]` - [¿Impactan los servicios en el posicionamiento de Business Profile?](https://www.sterlingsky.ca/services-in-google-business-profile-impact-ranking/)
+- `[Inglés]` - [Ranking de factores SEO locales](https://whitespark.ca/local-search-ranking-factors/)
 
 ## Noticias relacionadas
 

@@ -23,6 +23,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` - [Exportar datos de GSC a Excel y cualificarlos](https://www.youtube.com/watch?v=wLVrHKursgU)
 - `Inglés` - [Aprendiendo SQL para SEO](https://www.aeripret.com/sql-for-seo/)
 - `Inglés` - [Incorporar data storytelling en tus contenidos](https://lazarinastoy.com/six-practical-ways-to-implement-data-storytelling-in-your-consulting/)
+- `Inglés` - [Cómo unificar dos fuentes de datos de GSC en Looker Studio](https://developers.google.com/search/blog/2023/03/gsc-data-blending-looker-studio)
 
 
 

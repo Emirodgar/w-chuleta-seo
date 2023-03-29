@@ -109,7 +109,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - `[Inglés]` - [Aportes de la IA a la búsqueda](http://www.seobook.com/ai-driven-search)
 - [Cómo utilizar ChatGPT para que responda de la mejor manera posible](https://www.instagram.com/p/CoXyiBILhxp/)
 - [Automatizar publicaciones de Instagram a través de ChatGPT](https://www.instagram.com/p/CnxF2pvIfJz/)
-- [Acciones de marketing digital que puedes hacer con ChatGTP](https://www.instagram.com/p/Cn2UwJ-oIX1/)
+- [Acciones de marketing digital que puedes hacer con ChatGPT](https://www.instagram.com/p/Cn2UwJ-oIX1/)
 - [Usa ChatGPT para extraer valor para tus estrategias SEO](https://searchengineland.com/chatgpt-prompts-seo-393523)
 - [Guía para hacer OSINT con ChatGPT](https://www.linkedin.com/posts/cyberabogada_osint-con-chatgpt-activity-7035240539310407680-y4aY/)
 - `[Inglés]` - [Cómo entrenar una IA en las directrices de calidad de Google](https://www.localseoguide.com/training-gpt-on-google-quality-rater-guidelines-and-why-you-shouldnt-do-it/)
@@ -136,7 +136,7 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [WriteSonic](https://writesonic.com/chat)
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayuda a mejorar las funcionalidades de ChatGPT, especialmente desde el punto de vista del SEO.
 - [Roomgpt](https://www.roomgpt.io/): dada una imagen de una casa, la convierte siguiendo el estilo que hayamos seleccionado a través de la IA. No tiene aplicación SEO directo pero nos ayuda a entender las posibilidades de optimización de imágenes con inteligencia artificial.
-- [Character](character.ai): conversa con múltiples personajes.
+- [Character](https://character.ai): conversa con múltiples personajes.
 - [Simplified](https://simplified.com/): múltiples herramientas para mejorar el rendimiento digital. Creación de vídeos, de mensajes para redes sociales, etc.
 - [Colossyan](https://www.colossyan.com/): crea vídeos con personajes virtuales creados por IA.
 - [Jasper](https://www.jasper.ai/): crea imágenes.
