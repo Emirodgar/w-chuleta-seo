@@ -34,10 +34,10 @@ Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no o
 
 Para evitar que una página se indexe tenemos a nuestra disposición varios métodos. Dependiendo de la urgencia que tengamos o del número de páginas/secciones a bloquear, podemos hacer uso de unas u otras medidas. Ninguna es excluyente de las demás. 
 
-- Añadir la [etiqueta noindex](https://developers.google.com/search/reference/robots_meta_tag?hl=es#directivas-de-indexacin-y-publicacin-vlidas){:target="_blank"} en el header de la página.
-- Hacer que la página genere un [error 410](https://es.wikipedia.org/wiki/HTTP_410){:target="_blank"} (indicando que esta ya no existe).
+### Noindex: La página sigue existiendo pero no queremos que se indexe
 
-Para evitar la indexación con `noindex`, necesitamos incluir en la cabecera de la página (sección `<head>`) la siguiente línea:
+En ese caso, usaremos la [etiqueta noindex](https://developers.google.com/search/reference/robots_meta_tag?hl=es#directivas-de-indexacin-y-publicacin-vlidas){:target="_blank"} para indicar al buscador que esa página no debe ser indexada.
+Su uso es sencillo, bastará con incluir en la cabecera de la página (sección `<head>`) la siguiente línea:
 
 ```
 <meta name="robots" content="noindex">
@@ -55,7 +55,7 @@ Quedaría por tanto de la siguiente manera:
 </html>
 ```
 
-Si no tenemos acceso a la página concreta, podemos también gestionarlo desde el archivo de configuración del servidor y enviarlo como una petición `HTTP`.
+Si no tenemos acceso a la página concreta, podemos gestionarlo desde el archivo de configuración del servidor y enviarlo como una petición `HTTP`.
 
 ```
 HTTP/1.1 200 OK
@@ -65,17 +65,22 @@ X-Robots-Tag: noindex
 (…)
 ```
 
-> En lugar de usar como `name` el valor de `robots` podemos especificar los robots de rastreo a los que queremos bloquear. Aquí tenemos el [listado de los robots de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers?hl=es){:target="_blank"}.
+En los ejemplos anteriores estamos bloqueando la indexación a todos los robots de búsqueda. En la etiqueta `name` podríamos especificar, en lugar de `robots` el nombre concreto de un bot para limitar su indexación. Aquí tenemos el [listado de los robots de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers?hl=es){:target="_blank"}.
+
+### Limitamos el rastreo del robot
 
 Si tenemos problemas para utilizar la etiqueta `noindex`, tenemos la opción de bloquear la página con el [comando disallow](http://www.robotstxt.org/robotstxt.html){:target="_blank"} desde el fichero `robots.txt`. Cuando hablamos de secciones, es la medida más óptima, puesto que podemos usar expresiones regulares para que, con una regla, se aplique el bloqueo a múltiples páginas, evitando así tener que ir bloqueando una por una. 
 
 > No es recomendable utilizar `noindex` y `disallow` a la vez; o una opción o la otra. Si bloqueamos la indexación pero también el rastreo, el robot de búsqueda no rastreará y no encontrará la directiva asociada con la indexación. En el caso de un proyecto nuevo no habrá problema, pero si es una página indexada, es muy posible que no se desindexe dado que quedará sin rastrear.
 
-Si nos corre mucha prisa la eliminación de dicha página y queremos evitar que aparezca un error, podemos hacer lo siguiente:
+### Si la página ya no va a existir
 
-- Aplicar una redirección 301 (permanente) hacia una página similar o hacia la página principal del sitio.
+Si nos corre mucha prisa la eliminación de dicha página, podemos hacer lo siguiente:
 
-Esta solución es posible que genere [errores 404 leves](https://support.google.com/webmasters/answer/181708?hl=es){:target="_blank"} dentro de Google Search Console.
+- Aplicar una redirección `301` (permanente) hacia una página similar o hacia la página principal del sitio. Esta solución es posible que genere [errores 404 leves](https://support.google.com/webmasters/answer/181708?hl=es){:target="_blank"} dentro de Google Search Console.
+- Hacer que la página genere un [error 404 o 410](https://es.wikipedia.org/wiki/HTTP_410){:target="_blank"} (indicando que esta ya no existe).
+
+Ambas opciones conseguirán que la URL indexada desaparezca del índice de Google, aunque tampoco estará disponible para los usuarios de nuestro sitio web.
 
 ## Eliminar ficheros indexados
 
@@ -98,7 +103,7 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 ## Recursos
 
- `Inglés` - `2023` - [Experimento para desindexar URL con etiqueta unavailable_after](https://ohgm.co.uk/another-way-to-deindex-urls/){:target="_blank"}
+ - `Inglés` - `2023` - [Experimento para desindexar URL con etiqueta unavailable_after](https://ohgm.co.uk/another-way-to-deindex-urls/){:target="_blank"}
  - [Listado de los robots de búsqueda de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers?hl=es){:target="_blank"}
 
 <section id="cs_herramientas"></section>
