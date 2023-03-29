@@ -1,8 +1,8 @@
 ---
-title: Listado de los algoritmos de Google
+title: Cómo funcionan los algoritmos de Google
 description: Todo lo que necisitas saber para reforzar tu estrategia SEO
 date: 14/07/2022
-date_modified: 23/03/2023
+date_modified: 29/03/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -136,6 +136,7 @@ A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la
 - [Algoroo](https://algoroo.com/){:target="_blank"}
 - [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
 - [RankRanger](https://www.rankranger.com/rank-risk-index){:target="_blank"}
+- [Sistrix Radar Update](https://app.sistrix.com/es/google-update-radar){:target="_blank}
 
 <section id="cs_pr"></section>
 
@@ -155,7 +156,7 @@ A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la
               </div>
               <div class="card">
                 <div class="card-header" id="heading2">
-                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">Cómo puedo adaptar mi estrategia de SEO a los cambios de algoritmo?</a> </h5>
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Cómo puedo adaptar mi estrategia de SEO a los cambios de algoritmo?</a> </h5>
                 </div>
                 <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
                   <div class="card-body"> Es importante mantenerse actualizado sobre los cambios de algoritmo de Google y estar al tanto de las mejores prácticas de SEO. Podemos hacer esto siguiendo blogs especializados, asistiendo a webinars y capacitaciones, y siguiendo a expertos en el tema. </div>
