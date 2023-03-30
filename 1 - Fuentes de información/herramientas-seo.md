@@ -219,6 +219,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 - [Listado de scripts que usan GPT3 (Inteligencia artificial)](https://www.seotraininglondon.org/gpt-3-google-sheets-marketers/)
 - [Generar ALT de imágenes a través de IA](https://colab.research.google.com/drive/1rqgWWUvdoXooX_0hKSuGj2z6dxhtQlCO?usp=sharing)
 - [Optimizar imágenes utilizando IA](https://wordlift.io/blog/en/image-seo-using-ai/)
+- [Hacer redirecciones y facilitar un proceso de migración](https://colab.research.google.com/drive/12xX2BYsjsFZUrpA8t4yT4wGeVM3PnoAx?usp=sharing)
 
 ## Plugins SEO para Wordpress
 
