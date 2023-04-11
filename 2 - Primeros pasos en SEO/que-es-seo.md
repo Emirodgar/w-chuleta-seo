@@ -3,6 +3,7 @@ title: ¿Qué es el SEO?
 description: Te explicamos en qué consiste el posicionamiento web
 lang: es_ES
 date: 16/03/2022
+date_modified: 11/04/2023
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -21,7 +22,9 @@ El SEO es una [estrategia](https://chuletaseo.com/estrategia-seo) a largo plazo 
 
 ## Recursos
 
-- `[Inglés]` / PubCon 2023 / - [¿Cómo funcionan las búsquedas?](https://www.slideshare.net/ahrefs/how-search-works-256157502)
+- `Inglés` / PubCon 2023 / - [¿Cómo funcionan las búsquedas?](https://www.slideshare.net/ahrefs/how-search-works-256157502)
+- `Inglés` - [Entidades en SEO](https://searchengineland.com/entity-seo-guide-395264)
+- `Inglés` - [Qué es el SEO negativo y cómo identificarlo](https://theseoworld.net/signs-and-ways-to-monitor-negative-seo/)
 
 
 <section id="cs_herramientas"></section>

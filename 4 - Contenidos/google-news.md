@@ -39,8 +39,9 @@ Analizando tendencias, sabrás identificar los patrones cuando los veas y aprove
 
 ## Recursos
 
-- `[Inglés]` - [Buenas prácticas para paywalls (muros de pago)](https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo)
-- `[Inglés]` - [SEO para noticias relevantes](https://wtfseo.substack.com/p/seo-for-breaking-news)
+- `Inglés` - [Buenas prácticas para paywalls (muros de pago)](https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo)
+- `Inglés` - [SEO para noticias relevantes](https://wtfseo.substack.com/p/seo-for-breaking-news)
+- `Inglés` - [SEO para portales de noticias](https://www.seoforgooglenews.com/p/integrating-seo-into-newsrooms)
 
 
 <section id="cs_herramientas"></section>

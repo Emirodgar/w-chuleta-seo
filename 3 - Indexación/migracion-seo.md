@@ -94,7 +94,7 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 ## Recursos
 
 - [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
-
+- `Inglés` - [The 2023 SEO Guide To Successful Website Migration](https://ipullrank.com/website-migration)
 
 <section id="cs_herramientas"></section>
 

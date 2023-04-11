@@ -17,9 +17,21 @@ A la hora de trabajar el SEO local, existen una serie de factores que determinar
 
 Al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
 
-### Google My Business
+### Google Business Profiles (antiguo Google My Business)
 
 Disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
+
+#### Recomendaciones para las imágenes del perfil de Google
+
+1- No pongas logos o insignias de tu marca en las fotos del perfil de empresa, a Google no le gusta mostrarlas.
+
+2- Elige imágenes que se vean bien tanto en formato horizontal como en formato cuadrado.
+
+3- Elige imágenes que tengan la mayor parte de la imagen en la mitad superior (no en la mitad inferior).
+
+4- Una imagen del exterior del negocio es preferible para mostrar por parte del algoritmo. Intenta que no tenga muchos detalles de fondo y sea un primer plano.
+
+5- Utiliza las dimensiones 1332 x 750 para la foto que quieras mostrar de portada.
 
 ### Comportamiento
 

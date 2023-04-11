@@ -198,6 +198,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 
 -   [Importar URLs de un Sitemap XML](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/copy)
 - [Unlimited Sheets](https://workspace.google.com/marketplace/app/unlimited_sheets/849237026639?hl=es)
+- [Checklist SEO técnico](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/edit#gid=1173010486&range=49:49)
 
 
 ## Scripts para SEO en Python

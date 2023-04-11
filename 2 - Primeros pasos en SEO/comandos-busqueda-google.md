@@ -94,9 +94,8 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 - `site:emirodgar.com filetype:xml OR filetype:pdf OR filetype:txt` para identificar posibles ficheros indexados que no sean páginas HTML
 - `site:emirodgar.com inurl:?` para identificar posibles parámetros en las URL
 - `site:emirodgar.* -emirodgar.com` para encontrar otros dominios adicionales al que estamos optimizando
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY0MTIwMDYsLTI3MDk2MjE2OCwtMT
-Y3NjgwODc4LC0yMTM4NjcyMzUsLTE2MjUyNTUwLC02NDU2Njkw
-NjQsLTIxMzcwNzg5NiwxMjM3MzU4MzI4LC01MjI4MjA4OTJdfQ
-==
--->
+
+
+## Recursos
+
+- [40 comandos SEO para Google](https://erikemanuelli.com/google-search-operators/)
