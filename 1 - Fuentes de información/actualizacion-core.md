@@ -1,7 +1,7 @@
 ---
-title: Actualización Core (Principal)
-description: ¿Qué es una actualización principal del algoritmo?
-date: 06/03/2023
+title: Actualización Core (Principal) de Google
+description: ¿Qué es una actualización principal del algoritmo de Google?
+date: 17/05/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -37,6 +37,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 
 ## Herramientas
 
+- [Dashboard en Looker Studio para analizar el impacto del cambio de algoritmo](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c){:target="_blank"}
 - [Informe de acciones manuales en Google Search Console](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"}
 
 
