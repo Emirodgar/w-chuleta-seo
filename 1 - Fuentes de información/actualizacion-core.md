@@ -1,7 +1,8 @@
 ---
 title: Actualización Core (Principal) de Google
 description: ¿Qué es una actualización principal de Google y qué debemos hacer para que no nos perjudique?
-date: 17/05/2023
+date: 21/03/2022
+date_modified: 17/05/2023
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -9,7 +10,7 @@ permalink: actualizacion-core
   
 ---
 
-Una actualización `core` o `principal` de Google afecta significativamente la forma en que se clasifican los sitios web en los resultados de búsqueda. Estas actualizaciones se implementan en el núcleo del [algoritmo](https://chuletaseo.com/algoritmos-google) y pueden afectar a un gran número de sitios web y búsquedas. 
+Una actualización `core` o `principal` de Google afecta a la forma en que se clasifican los sitios web en los resultados de búsqueda (`SERPs`). Estas actualizaciones se implementan en el núcleo del [algoritmo](https://chuletaseo.com/algoritmos-google) y pueden afectar a un gran número de sitios web y búsquedas. 
 
 > Según Google, no hay que hacer ningún cambio ni ajuste de nuestro lado. Cuando perdemos visibilidad en una `core`, no es debido a que hayamos sido penalizaciones, sino que otros competidores orgánicos han sido beneficiados. 
 
