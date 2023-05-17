@@ -25,6 +25,7 @@ Tan importante es diseñar una **adecuada estrategia SEO** como **reportar los d
 - `Inglés` - [Incorporar data storytelling en tus contenidos](https://lazarinastoy.com/six-practical-ways-to-implement-data-storytelling-in-your-consulting/)
 - `Inglés` - [Cómo unificar dos fuentes de datos de GSC en Looker Studio](https://developers.google.com/search/blog/2023/03/gsc-data-blending-looker-studio)
 - `Inglés` - [Cómo analizar el rendimiento de los listados de Merchant](https://brodieclark.com/merchant-listings/)
+- `Inglés` - [Cómo crear informes SEO relevantes](https://www.wix.com/seo/learn/resource/create-effective-seo-reports)
 
 
 

@@ -58,6 +58,7 @@ Si queremos avanzar de nuestro lado, podemos hacerlo con lo siguiente:
 - `Inglés` - [Listado de dimensiones y métricas de GA4 Spy](https://data.ga4spy.com/)
 - `Inglés` - [Cómo saltarse las limitaciones de umbral aplicado en los datos](https://www.analyticsmania.com/post/thresholding-applied-in-google-analytics-4-do-this/)- `Inglés` - [20 alternativas a Google Analytics](https://moz.com/blog/google-analytics-alternatives)
 - `Inglés` - [Razones por las que tus datos de GA4 no coinciden](https://analyticscanvas.com/3-reasons-your-ga4-data-doesnt-match/)
+- `Inglés` / `vídeo oficial` / [Ingestión de datos con Measurement Protocol y Data Import](https://www.youtube.com/watch?v=VVkrwXkbwEg)
 
 Google Analytics dispone de varias cuentas demo donde podremos trastear con las últimas funcionalidades y, además, hacer pruebas y experimentos.
 

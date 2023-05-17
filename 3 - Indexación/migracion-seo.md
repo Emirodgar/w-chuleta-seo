@@ -95,6 +95,7 @@ Los dos puntos anteriores deben ser llevados a cabo tras la migración porque po
 
 - [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
 - `Inglés` - [The 2023 SEO Guide To Successful Website Migration](https://ipullrank.com/website-migration)
+- `Inglés` - [La localización del CDN no afecta al SEO](https://www.seroundtable.com/google-international-seo-cdn-location-does-not-matter-35170.html)
 
 <section id="cs_herramientas"></section>
 
