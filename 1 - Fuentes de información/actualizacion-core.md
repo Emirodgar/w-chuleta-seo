@@ -1,6 +1,6 @@
 ---
 title: Actualización Core (Principal) de Google
-description: ¿Qué es una actualización principal del algoritmo de Google?
+description: ¿Qué es una actualización principal de Google y qué debemos hacer para que no nos perjudique?
 date: 17/05/2023
 folder: fuentes-informacion
 author: Emirodgar
