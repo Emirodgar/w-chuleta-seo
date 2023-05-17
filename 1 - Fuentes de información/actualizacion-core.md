@@ -19,6 +19,25 @@ Algunas actualizaciones core, como la actualización de `Medic` de 2018, se han 
 
 Es importante tener en cuenta que las actualizaciones core pueden tener un impacto a corto plazo en la clasificación de tu sitio, pero también pueden ser una oportunidad para **mejorar la calidad y relevancia del contenido de tu página** y, en última instancia, mejorar su clasificación a largo plazo. Es importante seguir las [directrices de Google para webmasters](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"} y mantener un enfoque equilibrado en la optimización para lograr el mejor rendimiento del sitio.
 
+## Listado de las últimas actualizaciones core de Google
+
+| Año | Mes | Nombre |
+| ------------ | ------------ | ------------ |
+| 2023   |  15 de marzo   | March 2023 Core Update   |
+| 2022   | 12 de septiembre | September 2022 Core Update |
+| 2022   | 25 de mayo | May 2022 Core Update |
+| 2021   |  17 de noviembre   | November 2021 Core Update    |
+| 2021   |  1 de julio   | July 2021 Core Update     |
+| 2021   |  2 de junio   | June 2021 Core Update    |
+| 2020   | 13 de enero    | January 2020 Core Update   |
+| 2019   | 24 de septiembre    | September 2019 Core Update  |
+| 2019   | 2 de junio    | June 2019 Core Update  |
+| 2019   | 12 de marzo    | March 2019 Core Update  |
+| 2018   | 1 de agosto    | Medic Update |
+| 2018   | 16 de abril    | Broad Core Update  |
+| 2018   | 9 de marzo    | Broad Core Update  |
+| 2017   | 12 de diciembre    | Small Core Update  |
+
 
 
 
