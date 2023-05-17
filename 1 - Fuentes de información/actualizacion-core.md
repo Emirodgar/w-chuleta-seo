@@ -75,7 +75,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
             </div>
             <div class="card">
                 <div class="card-header" id="heading4">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
                 </div>
                 <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
                     <div class="card-body">Revisa el contenido de tu página. No tienes que hacer ningún cambio ni ajuste a nivel técnico, pero tendrás que analizar si tu contenido está alineado con la intención de búsqueda de los usuarios.</div>
