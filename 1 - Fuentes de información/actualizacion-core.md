@@ -17,7 +17,7 @@ Algunas actualizaciones core, como la actualización de `Medic` de 2018, se han 
 
 > En el caso de ser afectados negativamente por una actualización core, deberemos esperar a la siguiente actualización para que los datos se normalicen, siempre y cuando hayamos optimizado nuestro contenido siguiendo las directrices del buscador.  
 
-Es importante tener en cuenta que las actualizaciones core pueden tener un impacto a corto plazo en la clasificación de tu sitio, pero también pueden ser una oportunidad para **mejorar la calidad y relevancia del contenido de tu página** y, en última instancia, mejorar su clasificación a largo plazo. Es importante seguir las [directrices de Google para webmasters](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"} y mantener un enfoque equilibrado en la optimización para lograr el mejor rendimiento del sitio.
+Es importante tener en cuenta que las actualizaciones core pueden tener un impacto a corto plazo en la clasificación de tu sitio, pero también pueden ser una oportunidad para **mejorar la calidad y relevancia del contenido de tu página** y, en última instancia, mejorar su clasificación a largo plazo. Es importante seguir las [directrices de Google para webmasters](https://developers.google.com/search/docs/essentials?hl=es){:target="_blank"} y mantener un enfoque equilibrado en la optimización para lograr el mejor rendimiento del sitio.
 
 ## Listado de las últimas actualizaciones core de Google
 
@@ -46,7 +46,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 ## Recursos
 
 - [Página oficial sobre actualizaciones principales de Google](https://developers.google.com/search/updates/core-updates?hl=es){:target="_blank"}
-- [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
+- [Directrices de calidad para webmasters de Google](https://developers.google.com/search/docs/essentials?hl=es){:target="_blank"}
 - [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es){:target="_blank"}
 - [Información sobre los algoritmos de Google](https://chuletaseo.com/algoritmos-google)
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
