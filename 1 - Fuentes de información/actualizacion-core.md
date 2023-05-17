@@ -40,6 +40,31 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 
 
 
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Año</th>
+      <th>Días / Mes</th>
+      <th>Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>2023</code></td>
+      <td>15 de marzo</td>
+      <td>March 2023 Core Update </td>
+    </tr>
+     <tr>
+      <td><code>2023</code></td>
+      <td>15 de septiembre</td>
+      <td>September 2022 Core Update </td>
+    </tr>
+	
+	
+  </tbody>
+</table>
+
+
 
 <section id="cs_recursos"></section>
 
