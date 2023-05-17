@@ -11,7 +11,7 @@ permalink: actualizacion-core
 
 Una actualización `core` o `principal` de Google afecta significativamente la forma en que se clasifican los sitios web en los resultados de búsqueda. Estas actualizaciones se implementan en el núcleo del [algoritmo](https://chuletaseo.com/algoritmos-google) y pueden afectar a un gran número de sitios web y búsquedas. 
 
-> Aunque afectan a un gran número de búsquedas, no hay que hacer ningún cambio ni ajuste de nuestro lado. Cuando perdemos visibilidad en una `core`, no es debido a que hayamos sido penalizaciones, sino que otros competidores orgánicos han sido beneficiados. 
+> Según Google, no hay que hacer ningún cambio ni ajuste de nuestro lado. Cuando perdemos visibilidad en una `core`, no es debido a que hayamos sido penalizaciones, sino que otros competidores orgánicos han sido beneficiados. 
 
 Algunas actualizaciones core, como la actualización de `Medic` de 2018, se han centrado en mejorar la calidad y la relevancia de los resultados de búsqueda para búsquedas relacionadas con la salud, mientras que otras actualizaciones han tenido como objetivo combatir el spam, el contenido de baja calidad o simplemente ofrecer una mejor experiencia a los usuarios de Google.
 
