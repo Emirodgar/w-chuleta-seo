@@ -21,24 +21,6 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 
 ## Listado de las últimas actualizaciones core de Google
 
-| Año | Mes | Nombre |
-| ------------ | ------------ | ------------ |
-| 2023   |  15 de marzo   | March 2023 Core Update   |
-| 2022   | 12 de septiembre | September 2022 Core Update |
-| 2022   | 25 de mayo | May 2022 Core Update |
-| 2021   |  17 de noviembre   | November 2021 Core Update    |
-| 2021   |  1 de julio   | July 2021 Core Update     |
-| 2021   |  2 de junio   | June 2021 Core Update    |
-| 2020   | 13 de enero    | January 2020 Core Update   |
-| 2019   | 24 de septiembre    | September 2019 Core Update  |
-| 2019   | 2 de junio    | June 2019 Core Update  |
-| 2019   | 12 de marzo    | March 2019 Core Update  |
-| 2018   | 1 de agosto    | Medic Update |
-| 2018   | 16 de abril    | Broad Core Update  |
-| 2018   | 9 de marzo    | Broad Core Update  |
-| 2017   | 12 de diciembre    | Small Core Update  |
-
-
 
 <table class="table table-bordered">
   <thead>
@@ -55,12 +37,70 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
       <td>March 2023 Core Update </td>
     </tr>
      <tr>
-      <td><code>2023</code></td>
+      <td><code>2022</code></td>
       <td>15 de septiembre</td>
       <td>September 2022 Core Update </td>
     </tr>
-	
-	
+     <tr>
+      <td><code>2022</code></td>
+      <td>25 de mayo</td>
+      <td>May 2022 Core Update </td>
+    </tr>
+    <tr>
+      <td><code>2021</code></td>
+      <td>17 de noviembre</td>
+      <td>November 2021 Core Update </td>
+    </tr>
+    <tr>
+      <td><code>2021</code></td>
+      <td>1 de julio</td>
+      <td>July 2021 Core Update   </td>
+    </tr>
+    <tr>
+      <td><code>2021</code></td>
+      <td>2 de junio</td>
+      <td>June 2021 Core Update   </td>
+    </tr>
+    <tr>
+      <td><code>2020</code></td>
+      <td>13 de enero</td>
+      <td>January 2020 Core Update    </td>
+    </tr>	
+    <tr>
+      <td><code>2019</code></td>
+      <td>24 de septiembre</td>
+      <td>September 2019 Core Update</td>
+    </tr>
+    <tr>
+      <td><code>2019</code></td>
+      <td>2 de junio</td>
+      <td>June 2019 Core Update </td>
+    </tr>
+    <tr>
+      <td><code>2019</code></td>
+      <td>12 de marzo</td>
+      <td>March 2019 Core Update </td>
+    </tr>
+    <tr>
+      <td><code>2018</code></td>
+      <td>1 de agosto</td>
+      <td>Medic Update </td>
+    </tr>
+    <tr>
+      <td><code>2018</code></td>
+      <td>16 de abril</td>
+      <td>Broad Core Update</td>
+    </tr>
+    <tr>
+      <td><code>2018</code></td>
+      <td>9 de marzo</td>
+      <td>Broad Core Update </td>
+    </tr>
+    <tr>
+      <td><code>2017</code></td>
+      <td>12 de diciembre</td>
+      <td>Small Core Update</td>
+    </tr> 
   </tbody>
 </table>
 
