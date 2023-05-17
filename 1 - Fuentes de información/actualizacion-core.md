@@ -80,7 +80,6 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
                 <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
                     <div class="card-body">Revisa el contenido de tu página. No tienes que hacer ningún cambio ni ajuste a nivel técnico, pero tendrás que analizar si tu contenido está alineado con la intención de búsqueda de los usuarios.</div>
                 </div>
-                </div>
             </div>
             <div class="card">
                 <div class="card-header" id="heading4">
