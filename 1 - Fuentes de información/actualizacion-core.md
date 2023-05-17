@@ -26,6 +26,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 
 ## Recursos
 
+- [Página oficial sobre actualizaciones principales de Google](https://developers.google.com/search/updates/core-updates?hl=es){:target="_blank"}
 - [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
 - [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es){:target="_blank"}
 - [Información sobre los algoritmos de Google](https://chuletaseo.com/algoritmos-google)
@@ -43,6 +44,55 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 
 
 <section id="cs_pr"></section>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="accordion accordion-alterate arrow-right" id="popularTopics">
+            <div class="card">
+                <div class="card-header" id="heading1">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cuándo ocurren las actualizaciones principales del algoritmo de Google?</a> </h5>
+                </div>
+                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+                    <div class="card-body">Las actualizaciones principales del algoritmo de Google ocurren varias veces al año. Google no anuncia una fecha específica y suelen ser desplegadas sin previo aviso. Lo normal suele ser entre 2 y 3 actualizaciones anuales, aunque no está garantizado. </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="heading2">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Qué impacto puede tener una actualización principal del algoritmo de Google en mi sitio web?</a> </h5>
+                </div>
+                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
+                    <div class="card-body"> Puede ser positivo o negativo. Suele afectar a un porcentaje alto de búsquedas por lo que lo normal es ver un crecimiento o decrecimiento significativo en nuestro tráfico orgánico.</div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="heading3">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Cómo puedo saber si mi sitio web se vio afectado por una actualización principal del algoritmo de Google?</a> </h5>
+                </div>
+                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
+                    <div class="card-body"> Tras el anuncio de una actualización core por parte de Google, revisa el número de palabras clave por las que posicionas así como el tráfico orgánico. Normalmente suelen tardar en torno a una semana en desplegarse por lo que debemos analizar cualquier variación de nuestro tráfico durante ese periodo. Una vez finalizado, nos quedaremos con ese flujo de captación orgánica hasta la siguiente actualización principal.</div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="heading4">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
+                </div>
+                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
+                    <div class="card-body">Revisa el contenido de tu página. No tienes que hacer ningún cambio ni ajuste a nivel técnico, pero tendrás que analizar si tu contenido está alineado con la intención de búsqueda de los usuarios.</div>
+                </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="heading4">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué consejos puedo seguir para adaptarme a las actualizaciones principales del algoritmo de Google?</a> </h5>
+                </div>
+                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
+                    <div class="card-body">Seguir las directrices de calidad de Google, para garantizar que el robot de búsqueda puede acceder, rastrear e indexar nuestro sitio y alinear nuestro contenido a la intención de búsqueda de nuestro público objetivo.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
 
 
 
