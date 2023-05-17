@@ -75,17 +75,17 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
             </div>
             <div class="card">
                 <div class="card-header" id="heading4">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
                 </div>
                 <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
                     <div class="card-body">Revisa el contenido de tu página. No tienes que hacer ningún cambio ni ajuste a nivel técnico, pero tendrás que analizar si tu contenido está alineado con la intención de búsqueda de los usuarios.</div>
                 </div>
             </div>
             <div class="card">
-                <div class="card-header" id="heading4">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué consejos puedo seguir para adaptarme a las actualizaciones principales del algoritmo de Google?</a> </h5>
+                <div class="card-header" id="heading5">
+                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">¿Qué consejos puedo seguir para adaptarme a las actualizaciones principales del algoritmo de Google?</a> </h5>
                 </div>
-                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
+                <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
                     <div class="card-body">Seguir las directrices de calidad de Google, para garantizar que el robot de búsqueda puede acceder, rastrear e indexar nuestro sitio y alinear nuestro contenido a la intención de búsqueda de nuestro público objetivo.</div>
                 </div>
             </div>
