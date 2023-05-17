@@ -34,7 +34,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
     <tr>
       <td><code>2023</code></td>
       <td>15 de marzo</td>
-      <td>March 2023 Core Update </td>
+      <td>March 2023 Core Update - <a target="_blank" href="https://twitter.com/googlesearchc/status/1636012534426640384">Anuncio oficial</a></td>
     </tr>
      <tr>
       <td><code>2022</code></td>
