@@ -42,6 +42,7 @@ Es importante tener en cuenta que las actualizaciones core pueden tener un impac
 - [Informe de acciones manuales en Google Search Console](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"}
 
 
+## Preguntas frecuentes
 
 <section id="cs_pr"></section>
 
