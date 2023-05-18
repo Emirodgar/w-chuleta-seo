@@ -2,18 +2,13 @@
 title: Cómo realizar un keyword research
 description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
 date: 16/08/2022
-date_modified: 29/09/2022
+date_modified: 18/05/2023
 folder: contenidos
 author: Emirodgar
 layout: default_1
 permalink: keyword-research
   
 ---
-
-
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  </div>
-
-
 
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica SEO mediante la cual realizamos un estudio para **conocer las tendencias de búsqueda de nuestro público objetivo**. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos y trasladarlos posteriormente a nuestra página web para poder posicionar por ellos.
 
@@ -46,42 +41,42 @@ Aunque muchas de las [actualizaciones de algoritmo](https://chuletaseo.com/algor
     <tr>
       <td><code>2022</code></td>
       <td>5 de diciembre</td>
-      <td>**Helpful Content Update** - Google ha lanzado la actualización  que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</td>
+      <td><b>Helpful Content Update</b> - Google ha lanzado la actualización  que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</td>
     </tr>
     <tr>
       <td><code>2022</code></td>
       <td>25 de agosto</td>
-      <td>**Helpful Content Update** - <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update?hl=es" target="_blank">Publicación oficial</a>.</td>
+      <td><b>Helpful Content Update</b> - <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update?hl=es" target="_blank">Publicación oficial</a>.</td>
     </tr>
     <tr>
       <td><code>2021</code></td>
       <td>8 de abril</td>
-      <td>**Product Review Update** - Recompensa las valoraciones de productos con un contenido optimizado y de valor para los usuarios.</td>
+      <td><b>Product Review Update</b> - Recompensa las valoraciones de productos con un contenido optimizado y de valor para los usuarios.</td>
     </tr>
     <tr>
       <td><code>2011</code></td>
       <td>3 de noviembre</td>
-      <td>**Freshness Update** - <a href="https://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html" target="_blank">Publicación oficial</a></td>
+      <td><b>Freshness Update</b> - <a href="https://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html" target="_blank">Publicación oficial</a></td>
     </tr>
     <tr>
       <td><code>2011</code></td>
       <td>2 de junio</td>
-      <td>**Schema.org** - Los contenidos se integran con el marcado estructurado para facilitar el contexto a los buscadores.</td>
+      <td><b>Schema.org</b> - Los contenidos se integran con el marcado estructurado para facilitar el contexto a los buscadores.</td>
     </tr>
     <tr>
       <td><code>2011</code></td>
       <td>2 de junio</td>
-      <td>**Panda** - Penaliza a granjas de contenidos con poco valor para el usuario y con exceso de anuncios.</td>
+      <td><b>Panda</b> - Penaliza a granjas de contenidos con poco valor para el usuario y con exceso de anuncios.</td>
     </tr>
     <tr>
       <td><code>2011</code></td>
       <td>28 de enero</td>
-      <td>**Attribution Update** - Penaliza el contenido scrapeado y copiado de otras páginas.</td>
+      <td><b>Attribution Update</b> - Penaliza el contenido scrapeado y copiado de otras páginas.</td>
     </tr>
     <tr>
       <td><code>2010</code></td>
       <td>10 de mayo</td>
-      <td>**May Day** - Afecta negativamente a las páginas con poco contenido o de escaso valor.</td>
+      <td><b>May Day</b> - Afecta negativamente a las páginas con poco contenido o de escaso valor.</td>
     </tr>
   </tbody>
 </table>
@@ -93,16 +88,16 @@ Aunque muchas de las [actualizaciones de algoritmo](https://chuletaseo.com/algor
 
 ## Guías para hacer keyword research
 
-> Search Engine Journal ha hecho el ebook [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/) que se puede descargar gratuitamente.
+> Search Engine Journal ha hecho el ebook [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/){:target="_blank"} que se puede descargar gratuitamente.
 
 Las principales guías (y más actualizadas) las encontramos en las grandes empresas SEO, tipo Ahrefs, Moz o Semrush.
 
-- [Semrush - ¿Qué es un keyword research?](https://es.semrush.com/blog/que-es-un-keyword-research/)
-- `Inglés` - [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/) 
-- `Inglés` - [Moz - Keyword research guide](https://moz.com/keyword-research-guide)
-- `Inglés` - [Backlinko - Keyword research](https://backlinko.com/keyword-research)
-- `Inglés` - [How to Do Keyword Research for SEO: A Step-by-Step Guide](https://www.searchenginejournal.com/keyword-research-seo-beginners-guide/379386/)
-- `Inglés` - [Video tutorial: Guide, Steps, Tips and Tools](https://www.youtube.com/watch?v=ek0yCkmfVuM)
+- [Semrush - ¿Qué es un keyword research?](https://es.semrush.com/blog/que-es-un-keyword-research/){:target="_blank"}
+- `Inglés` - [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/){:target="_blank"}
+- `Inglés` - [Moz - Keyword research guide](https://moz.com/keyword-research-guide){:target="_blank"}
+- `Inglés` - [Backlinko - Keyword research](https://backlinko.com/keyword-research){:target="_blank"}
+- `Inglés` - [How to Do Keyword Research for SEO: A Step-by-Step Guide](https://www.searchenginejournal.com/keyword-research-seo-beginners-guide/379386/){:target="_blank"}
+- `Inglés` - [Video tutorial: Guide, Steps, Tips and Tools](https://www.youtube.com/watch?v=ek0yCkmfVuM){:target="_blank"}
 
 
 
@@ -118,28 +113,28 @@ En el apartado de herramientas SEO disponemos de un bloque específico para hace
 
 > Una manera de identificar términos relevantes es usar las **sugerencias de Google**. Cuando estamos realizando una búsqueda, Google muestra algunas propeustas que nos podrían interesar. Están basadas en búsquedas similares que el buscador considera relevantes.
 
-- [Google Trends](https://trends.google.com/trends/?geo=US): identifica tendencias de búsqueda en múltiples países.
-- [Keyword generator](https://ahrefs.com/keyword-generator): herramienta de Ahrefs que nos permitirá identificar términos relevantes.
-- [Keyword explorer](https://moz.com/explorer) 
-- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0): audita tus contenidos para saber si son de calidad.
--  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1): cuenta con su propio planificador de palabras clave.
--   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords): similar al de Google Ads.
--   [Soolve](http://www.soovle.com/): ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
--   [UberSuggest](https://ubersuggest.io/): identifica términos clave a través de las páginas que mejor posicionan.
--   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php): genera de manera sencilla múltiples combinaciones de términos.
--   [Wordtracker](https://www.wordtracker.com/): otra heramienta más para encontrar términos relevantes.
--   [Thesaurus.com](http://www.thesaurus.com/): para buscar sinónimos y evitar repetir términos clave.
--   [Synonym.com](http://www.synonym.com/): otra página para encontrar términos equivalentes o similares.
-- [Script en python para hacer una búsqueda de palabras clave](https://twitter.com/alton_lex/status/1631042188116365312?s=46&t=GhkMpnPAzrymKSlKpYKwRQ)
+- [Google Trends](https://trends.google.com/trends/?geo=US){:target="_blank"}: identifica tendencias de búsqueda en múltiples países.
+- [Keyword generator](https://ahrefs.com/keyword-generator){:target="_blank"}: herramienta de Ahrefs que nos permitirá identificar términos relevantes.
+- [Keyword explorer](https://moz.com/explorer){:target="_blank"} 
+- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0){:target="_blank"}: audita tus contenidos para saber si son de calidad.
+-  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1){:target="_blank"}: cuenta con su propio planificador de palabras clave.
+-   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords){:target="_blank"}: similar al de Google Ads.
+-   [Soolve](http://www.soovle.com/){:target="_blank"}: ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
+-   [UberSuggest](https://ubersuggest.io/){:target="_blank"}: identifica términos clave a través de las páginas que mejor posicionan.
+-   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php){:target="_blank"}: genera de manera sencilla múltiples combinaciones de términos.
+-   [Wordtracker](https://www.wordtracker.com/){:target="_blank"}: otra heramienta más para encontrar términos relevantes.
+-   [Thesaurus.com](http://www.thesaurus.com/){:target="_blank"}: para buscar sinónimos y evitar repetir términos clave.
+-   [Synonym.com](http://www.synonym.com/){:target="_blank"}: otra página para encontrar términos equivalentes o similares.
+- [Script en python para hacer una búsqueda de palabras clave](https://twitter.com/alton_lex/status/1631042188116365312?s=46&t=GhkMpnPAzrymKSlKpYKwRQ){:target="_blank"}
 
 Hay varios proyectos que utilizan la inteligencia artificial para analizar, optimizar o generar contenidos. Entre los más destacados tenemos los siguientes:
 
-- [Utilizando GPT3 para clasificar los términos de un sitio web](https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/)
+- [Utilizando GPT3 para clasificar los términos de un sitio web](https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/){:target="_blank"}
 
 ### Extensiones para Google Chrome
 
-- [WhatsMySERP](https://whatsmyserp.com/extension): nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
-- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es): cualificará y añadirá nuevas funcionalidades a la herramienta de Google Trends.
+- [WhatsMySERP](https://whatsmyserp.com/extension){:target="_blank"}: nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
+- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es){:target="_blank"}: cualificará y añadirá nuevas funcionalidades a la herramienta de Google Trends.
 
 
 
