@@ -38,7 +38,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text">SEO técnico</span>
 							    </h5>
 							    <div class="card-text">
-								    Aprende conceptos sobre rastreo, indexación, códigos de respuesta, etc. Descubre aquí la parte más tecnológica del SEO.
+								    Descubre la parte más tecnológica del SEO: rastreo, indexación, códigos de respuesta, etc.
 							    </div>
 							    <a class="card-link-mask" href="docs-page.html#section-2"></a>
 						    </div><!--//card-body-->
@@ -54,7 +54,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text">Contenidos</span>
 							    </h5>
 							    <div class="card-text">
-								    Aprende a realizar análisis de palabras clave, identificar a tu público objetivo, alinearnos con la intención de búsqueda y muchos otros aspectos.						    
+								    Aprende a realizar análisis de palabras clave, identificar a tu público objetivo y alinearnos con su intención de búsqueda.						    
 								</div>
 							    <a class="card-link-mask" href="docs-page.html#section-3"></a>
 						    </div><!--//card-body-->
@@ -86,7 +86,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text">Informes</span>
 							    </h5>
 							    <div class="card-text">
-								    Poner en valor nuestro trabajo es fundamental para el éxito de la estrategia. Herramientas y recursos para hacer seguimiento de nuestros proyectos.						    
+								   Herramientas y recursos para hacer seguimiento de nuestros proyectos y poner en valor nuestro trabajo.						    
 								</div>
 							    <a class="card-link-mask" href="docs-page.html#section-5"></a>
 						    </div><!--//card-body-->
@@ -118,7 +118,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text">Guías de trabajo</span>
 							    </h5>
 							    <div class="card-text">
-								    Accede a guías y tutoriales ya preparados para avanzar más rápido en tu día a día. 					    
+								    Recopilación de guías y tutoriales ya preparados para avanzar más rápido en tu día a día en SEO. 					    
 								</div>
 							    <a class="card-link-mask" href="docs-page.html#section-7"></a>
 						    </div><!--//card-body-->
@@ -150,7 +150,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text">Analítica web</span>
 							    </h5>
 							    <div class="card-text">
-								    Si no lo mides no lo puedes mejorar. Aprende nociones básicas para configurar herramientas de medición web como Google Analytics.						    
+								    Si no lo mides no lo puedes mejorar. Aprende nociones básicas para configurar herramientas de medición web.						    
 								</div>
 							    <a class="card-link-mask" href="docs-page.html#section-9"></a>
 						    </div><!--//card-body-->
