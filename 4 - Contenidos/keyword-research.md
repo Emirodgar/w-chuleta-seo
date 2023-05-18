@@ -12,18 +12,85 @@ permalink: keyword-research
 
 También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica SEO mediante la cual realizamos un estudio para **conocer las tendencias de búsqueda de nuestro público objetivo**. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos y trasladarlos posteriormente a nuestra página web para poder posicionar por ellos.
 
-Es un proceso clave para asegurar que la futura estrategia SEO impactará en el público objetivo adecuado.
+Es un proceso clave para asegurar que la futura [estrategia SEO de contenidos](https://chuletaseo.com/estrategia-contenidos) impactará en el público objetivo adecuado.
 
 ## Pasos para hacer un keyword research
 
 Aunque no hay una única manera de abordar el análisis de palabras clave, sí podemos definir algunos pasos claves del proceso que asegurarán un buen resultado.
 
-1. Encontrar las palabras clave adecuadas.
-2. Analizar y clasificar los términos encontrados.
-3. Definir acciones para poder posicionar por dichos términos en la web.
-4. Medición de resultados.
+### 1. Definir los objetivos del sitio web 
 
-En resumen, se trata de encontrar los términos clave por los que debería de posicionar nuestro negocio y, además, alinearlo con las acciones para poder conseguir ese posicionamiento.
+Define claramente los objetivos de tu sitio web. Identifica si deseas aumentar el tráfico, generar ventas, obtener suscriptores, etc. Con eso en mente podrás avanzar para identificar las palabras clave más relevantes.
+
+### 2. Analiza tu audiencia objetivo
+
+Comprende a tu audiencia objetivo, sus necesidades, preguntas y cómo buscarían información en los buscadores. Esto te ayudará a seleccionar palabras clave relevantes que coincidan con sus intenciones de búsqueda.
+
+### 3. Competencia
+
+Investiga a tu competencia y analiza las palabras clave que están utilizando en su contenido. Observa los sitios web que tienen una buena clasificación en los resultados de búsqueda para las palabras clave que te interesan.
+
+### 3. Volumen de búsqueda y relevancia 
+
+Busca palabras clave relevantes que tengan un volumen de búsqueda adecuado. Considera palabras clave de alto volumen para obtener más tráfico, pero también incluye palabras clave de baja competencia para tener una mejor oportunidad de clasificación y conversión. El propósito es identificar conceptos y búsquedas, no necesariamente utilizarlo como tal en nuestros contenidos. Siempre tendremos que emplear las palabra clave de manera natural.
+
+### 4. Long tail keywords 
+
+Identifica e incluye palabras clave de cola larga (*long tail keywords*) en tu análisis. Estas son frases más específicas y detalladas que tienen un volumen de búsqueda más bajo pero una intención de compra más clara.
+
+### 5. Variaciones y sinónimos
+
+Ten en cuenta las diferentes variaciones y sinónimos de tus palabras clave principales. Esto ampliará tu alcance y te ayudará a captar diferentes segmentos de audiencia.
+
+
+### 6. Análisis de intención de búsqueda
+
+Considera la intención de búsqueda detrás de las palabras clave. ¿Los usuarios buscan información, buscan realizar una acción o comprar algo? Asegúrate de seleccionar palabras clave que se alineen con la intención de búsqueda de tu audiencia y de clasificarlas en los diferentes niveles:
+
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Tipo de búsqueda</th>
+      <th>Contexto</th>
+      <th>Términos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Informacional</code></td>
+      <td>Usuarios que no nos conocen y buscan de manera genérica productos o servicios que nosotros ofrecemos. Están en una fase de búsqueda de información.</td>
+      <td>"Cómo, qué, quién, dónde, por qué, guía, tutorial, recursos, ideas, 
+consejos, tips, ejemplos, aprende"</td>
+    </tr>
+    <tr>
+      <td><code>Navegacional</code></td>
+      <td>Los usuarios muestran un conocimiento de nuestra marca o de los productos/servicios que comercializamos. Detectamos interés por parte del usuario en lo que está buscando.</td>
+      <td>Nombre de marca, Nombre de producto</td>
+    </tr>
+    <tr>
+      <td><code>Comercial</code></td>
+      <td>Detectamos una búsqueda activa del usuario por comparar la información que tiene.</td>
+      <td>"Lo mejor, top, opiniones, caracteristicas, comparar"</td>
+    </tr>
+    <tr>
+      <td><code>Transaccional</code></td>
+      <td>El usuario tiene intención de compra. Está buscando la mejor solución (producto/servicio) para poder finalizar el proceso.</td>
+      <td>"Comprar, barato, precio, descuento"</td>
+    </tr>
+
+  </tbody>
+</table>
+
+### 7. Palabras clave de marca
+
+Si tu marca es conocida y la gente la busca, analiza el impacto de la combinación de marca + producto o marca + servicio. También es importante en estos casos vigilar si la competencia puja por nuestra marca, dado que si nosotros no lo hacemos, parte del tráfico orgánico puede estar siendo captado por anuncios de nuestros competidores.
+
+### 8. Actualizaciones periódicas
+
+El keyword research no es un proceso único. Realiza revisiones periódicas para adaptarte a las tendencias cambiantes y ajustar tu estrategia de palabras clave en función de los resultados y el rendimiento.
+
+
 
 ## Actualizaciones de algoritmo que han impactado en los contenidos 
 
