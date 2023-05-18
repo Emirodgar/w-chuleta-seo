@@ -19,7 +19,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-map-signs"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Empezar en SEO</span>
+							        <span class="card-title-text a-home"><a href="https://chuletaseo.com/primeros-pasos-seo">Empezar en SEO</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Aprende los fundamentos básicos del SEO. Ideal para cuando comenzamos o si queremos asentar conceptos básicos.
@@ -99,7 +99,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-laptop-code"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Fuentes de información</span>
+							        <span class="card-title-text"><a href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></span>
 							    </h5>
 							    <div class="card-text">
 								    La mejor manera de estar al día en SEO. Actualizaciones de algoritmo, nuevas herramientas, comunicaciones oficiales, etc.						    
@@ -159,7 +159,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 			    </div><!--//row-->
 		    </div>
 
-
+<!--
 <div class="row">
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/fuentes-informacion">
