@@ -11,7 +11,7 @@ permalink: keyword-research
 ---
 
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  Google ha lanzado la actualización <a href="https://chuletaseo.com/algoritmos-google">Content Helpful Update</a> que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</div>
+<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">08/2022</span>  </div>
 
 
 
@@ -29,6 +29,64 @@ Aunque no hay una única manera de abordar el análisis de palabras clave, sí p
 4. Medición de resultados.
 
 En resumen, se trata de encontrar los términos clave por los que debería de posicionar nuestro negocio y, además, alinearlo con las acciones para poder conseguir ese posicionamiento.
+
+## Actualizaciones de algoritmo que han impactado en los contenidos 
+
+Aunque muchas de las [actualizaciones de algoritmo](https://chuletaseo.com/algoritmos-google), como las [core](https://chuletaseo.com/actualizacion-core), tienen impacto en los contenidos, hay algunas específicas para potenciar las páginas con contenido de calidad y útil para los visitantes. 
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Año</th>
+      <th>Días / Mes</th>
+      <th>Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>2022</code></td>
+      <td>5 de diciembre</td>
+      <td>**Helpful Content Update** - Google ha lanzado la actualización  que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</td>
+    </tr>
+    <tr>
+      <td><code>2022</code></td>
+      <td>25 de agosto</td>
+      <td>**Helpful Content Update** - <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update?hl=es" target="_blank">Publicación oficial</a>.</td>
+    </tr>
+    <tr>
+      <td><code>2021</code></td>
+      <td>8 de abril</td>
+      <td>**Product Review Update** - Recompensa las valoraciones de productos con un contenido optimizado y de valor para los usuarios.</td>
+    </tr>
+    <tr>
+      <td><code>2011</code></td>
+      <td>3 de noviembre</td>
+      <td>**Freshness Update** - <a href="https://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html" target="_blank">Publicación oficial</a></td>
+    </tr>
+    <tr>
+      <td><code>2011</code></td>
+      <td>2 de junio</td>
+      <td>**Schema.org** - Los contenidos se integran con el marcado estructurado para facilitar el contexto a los buscadores.</td>
+    </tr>
+    <tr>
+      <td><code>2011</code></td>
+      <td>2 de junio</td>
+      <td>**Panda** - Penaliza a granjas de contenidos con poco valor para el usuario y con exceso de anuncios.</td>
+    </tr>
+    <tr>
+      <td><code>2011</code></td>
+      <td>28 de enero</td>
+      <td>**Attribution Update** - Penaliza el contenido scrapeado y copiado de otras páginas.</td>
+    </tr>
+    <tr>
+      <td><code>2010</code></td>
+      <td>10 de mayo</td>
+      <td>**May Day** - Afecta negativamente a las páginas con poco contenido o de escaso valor.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <section  id="cs_recursos"></section>
 
@@ -141,6 +199,15 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
                   <div class="card-body"> Primero realizamos una búsqueda de todos los términos que consideramos relevantes para nuestra estrategia. Podemos analizar el sector, el mercado y también a los principales competidores. Segundo, analizamos y seleccionamos aquellos términos que consideramos importantes. Clasificamos cada término en función de su intención de búsqueda y hacemos el enganche con la página: si irá en una página independiente, será un término secundario, será utilizado en el plan de contenidos del blog, etc. </div>
                 </div>
               </div>
+              <div class="card">
+                <div class="card-header" id="heading7">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">¿Cuáles son las keywords que realmente generan leads de calidad y conversiones?</a> </h5>
+                </div>
+                <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#popularTopics">
+                  <div class="card-body"> El keyword research refleja el listado de palabras clave por volumen de búsqueda, por lo que las más interesantes serán aquellas que sean más utilizadas. Para cualificar los términos utilizamos la intención de búsqueda; las clasificadas como navegacionales nos indican un mayor conocimiento por parte del cliente y las transaccionales estarán asociadas a aquellos términos relacionados con la conversión.</div>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
