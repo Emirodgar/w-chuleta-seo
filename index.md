@@ -35,7 +35,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-arrow-down"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">SEO técnico</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/indexacion">SEO técnico</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Descubre la parte más tecnológica del SEO: rastreo, indexación, códigos de respuesta, etc.
@@ -51,7 +51,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-box fa-fw"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Contenidos</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/contenidos">Contenidos</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Aprende a realizar análisis de palabras clave, identificar a tu público objetivo y alinearnos con su intención de búsqueda.						    
@@ -67,7 +67,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								       <!-- <i class="fas fa-cogs fa-fw"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Enlazado</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/enlazado">Enlazado</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Aprende a diseñar una estrategia de linkbuilding para potenciar la popularidad de tu sitio web.					    
@@ -83,7 +83,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-tools"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Informes</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/informes-seo">Informes</a></span>
 							    </h5>
 							    <div class="card-text">
 								   Herramientas y recursos para hacer seguimiento de nuestros proyectos y poner en valor nuestro trabajo.						    
@@ -99,7 +99,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-laptop-code"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text"><a href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></span>
 							    </h5>
 							    <div class="card-text">
 								    La mejor manera de estar al día en SEO. Actualizaciones de algoritmo, nuevas herramientas, comunicaciones oficiales, etc.						    
@@ -131,7 +131,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								       <!-- <i class="fas fa-book-reader"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Herramientas SEO</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/herramientas-seo">Herramientas SEO</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Listado de herramientas (gratuitas y de pago) para facilitar y mejorar los resultados de tus estrategias.					    
@@ -147,7 +147,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-lightbulb"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text">Analítica web</span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/google-analytics">Analítica web</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Si no lo mides no lo puedes mejorar. Aprende nociones básicas para configurar herramientas de medición web.						    
