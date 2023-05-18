@@ -26,10 +26,6 @@ Define claramente los objetivos de tu sitio web. Identifica si deseas aumentar e
 
 Comprende a tu audiencia objetivo, sus necesidades, preguntas y cómo buscarían información en los buscadores. Esto te ayudará a seleccionar palabras clave relevantes que coincidan con sus intenciones de búsqueda.
 
-### 3. Competencia
-
-Investiga a tu competencia y analiza las palabras clave que están utilizando en su contenido. Observa los sitios web que tienen una buena clasificación en los resultados de búsqueda para las palabras clave que te interesan.
-
 ### 3. Volumen de búsqueda y relevancia 
 
 Busca palabras clave relevantes que tengan un volumen de búsqueda adecuado. Considera palabras clave de alto volumen para obtener más tráfico, pero también incluye palabras clave de baja competencia para tener una mejor oportunidad de clasificación y conversión. El propósito es identificar conceptos y búsquedas, no necesariamente utilizarlo como tal en nuestros contenidos. Siempre tendremos que emplear las palabra clave de manera natural.
