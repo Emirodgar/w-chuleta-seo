@@ -19,7 +19,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 								    <span class="theme-icon-holder card-icon-holder me-2">
 								        <!-- <i class="fas fa-map-signs"></i> Font Awesome fontawesome.com -->
 							        </span><!--//card-icon-holder-->
-							        <span class="card-title-text a-home"><a href="https://chuletaseo.com/primeros-pasos-seo">Empezar en SEO</a></span>
+							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/primeros-pasos-seo">Empezar en SEO</a></span>
 							    </h5>
 							    <div class="card-text">
 								    Aprende los fundamentos básicos del SEO. Ideal para cuando comenzamos o si queremos asentar conceptos básicos.
@@ -194,15 +194,15 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 		  
 </div>
 
+-->
 
-
-
+<!--
 
 <hr class="divider">
 
 ### Últimas actualizaciones
 
-<!--
+
 <ul>
 {% assign pages = site.pages | sort: 'date_modified' %}
 {% for page in pages %}
@@ -214,7 +214,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 
  -->
 
-<!-- -->
+<!-- 
 ## Últimas páginas creadas
 
 <ul>
