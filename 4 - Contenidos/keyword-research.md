@@ -44,7 +44,7 @@ Ten en cuenta las diferentes variaciones y sinónimos de tus palabras clave prin
 Considera la intención de búsqueda detrás de las palabras clave. ¿Los usuarios buscan información, buscan realizar una acción o comprar algo? Asegúrate de seleccionar palabras clave que se alineen con la intención de búsqueda de tu audiencia y de clasificarlas en los diferentes niveles:
 
 
-<table class="table table-bordered">
+<table class="table table-bordered table-responsive">
   <thead>
     <tr>
       <th>Tipo de búsqueda</th>

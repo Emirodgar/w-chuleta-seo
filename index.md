@@ -17,40 +17,42 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 <div class="row">
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/fuentes-informacion">
-		<h6 class="pt-2 a-home">Empezar en SEO</h6>
+		<h6 class="pt-2 a-home btn btn-primary">Empezar en SEO</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/fuentes-informacion">
-		<h6 class="pt-2 a-home">Fuentes de información</h6>
+		<h6 class="pt-2 a-home btn btn-primary">Fuentes de información</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home"  href="https://chuletaseo.com/indexacion">
-		<h6 class="pt-2  a-home">SEO técnico</h6>
+		<h6 class="pt-2  a-home btn btn-primary">SEO técnico</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/contenidos">
-		<h6 class="pt-2  a-home">SEO de contenidos</h6>
+		<h6 class="pt-2  a-home btn btn-primary">SEO de contenidos</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/enlazado">
-		<h6 class="pt-2  a-home">Enlaces</h6>
+		<h6 class="pt-2  a-home btn btn-primary">Enlaces</h6>
 		</a>
 	</div>
 	<div class="col-4 my-3 text-center">
 		<a class="a-home" href="https://chuletaseo.com/informes-seo">
-		<h6 class="pt-2  a-home">Análisis e Informes</h6>
+		<h6 class="pt-2  a-home btn btn-primary">Análisis e Informes</h6>
 		</a>
 	</div>
 		  
 </div>
 
-<hr class="divider">
 
-<!--
+
+
+
+<hr class="divider">
 
 ### Últimas actualizaciones
 
@@ -63,7 +65,7 @@ Se está llevando a cabo la migración de contenidos de una base de datos a otra
 {% endfor %}
 </ul>
 
--->
+<!-- -->
 
 <!--
 ## Últimas páginas creadas
