@@ -8,6 +8,10 @@ permalink: /index.html
   
 ---
 
+<iframe src="https://newsletter.chuletaseo.com/embed" width="580" height="420" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+<hr class="divider">
+
 Este portal hace una recopilación de recursos, herramientas y guías para poder diseñar y ejecutar estrategias SEO. Utiliza el menú de la izquierda para navegar por las diferentes secciones y acceder a la información que te interesa.
 
 <div class="docs-overview py-5">
@@ -86,7 +90,7 @@ Este portal hace una recopilación de recursos, herramientas y guías para poder
 							        <span class="card-title-text"><a class="a-home" href="https://chuletaseo.com/informes-seo">Informes</a></span>
 							    </h5>
 							    <div class="card-text">
-								   Herramientas y recursos para hacer seguimiento de nuestros proyectos y poner en valor nuestro trabajo.						    
+								   Herramientas y recursos para hacer seguimiento de nuestros proyectos y poner en valor nuestro trabajo.
 								</div>
 							    <a class="card-link-mask" href="docs-page.html#section-5"></a>
 						    </div><!--//card-body-->
