@@ -8,7 +8,7 @@ permalink: /index.html
   
 ---
 
-<iframe src="https://newsletter.chuletaseo.com/embed" width="580" height="420" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://newsletter.chuletaseo.com/embed" width="100%" height="420" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <hr class="divider">
 
