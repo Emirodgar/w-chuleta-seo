@@ -1,0 +1,23 @@
+{
+	"Titulo 1": [
+		{
+		  "productos": [
+			{
+			  "nombre": "Producto 1",
+			  "precio": 10.99,
+			  "stock": 25
+			},
+			{
+			  "nombre": "Producto 2",
+			  "precio": 5.99,
+			  "stock": 50
+			},
+			{
+			  "nombre": "Producto 3",
+			  "precio": 7.99,
+			  "stock": 10
+			}
+		  ]
+		}
+	]
+}
