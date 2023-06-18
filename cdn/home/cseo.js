@@ -1,5 +1,5 @@
 
-fetch('datos.json')
+fetch('cdn/home/datos.json')
   .then(response => response.json())
   .then(data => {
     //console.log(data);
