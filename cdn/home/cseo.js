@@ -1,29 +1,41 @@
-
-fetch('cdn/home/datos.json')
+ 
+  /*
+  fetch('https://chuletaseo.com/cdn/home/datos.json')
   .then(response => response.json())
   .then(data => {
-    //console.log(data);
-	generarHTML(data)
+    // Verificar que data sea un objeto iterable antes de usar forEach
+    if (Array.isArray(data)) {
+      data.forEach(item => {
+        generarHTML(item)
+      });
+    } else {
+      console.error('El contenido del archivo JSON no es una matriz.');
+    }
   })
   .catch(error => {
     console.error('Error al leer el archivo JSON:', error);
-  });
+  });*/
+  
+  
+  data = '[{"name" : "Guía detallada sobre cómo funciona la Búsqueda de Google", "url" : "https://developers.google.com/search/docs/fundamentals/how-search-works?hl=es"},{"name" : "Abhinandan", "age" : "20"}]';
+  var mydata = JSON.parse(data);
+  
+  
+  var elemento = document.getElementById("c1");
+	elemento.innerHTML += generarHTML(mydata);
 
 function generarHTML(data) {
-  let html = `	<div class="w-full">
-		<div class="h-full w-full space-y-3 rounded bg-zinc-50 p-4 pt-1 shadow-sm dark:bg-gray-700">
-			<header class="border-b border-gray-200 p-2 dark:border-slate-600"><h2 class="text-lg font-semibold text-gray-800 dark:text-zinc-50">Empezar en SEO</h2></header>
-				<ul class="list-reset">`;
+  let html = ``;
 
-  // Generar elementos de lista basados en los datos del JSON
   data.forEach((item) => {
-    html += `<li>${item}</li>`;
+    html += `<tr class="border-b dark:bg-gray-900 dark:selection:bg-amber-800 dark:selection:text-white border-gray-200 dark:border-gray-600">
+										<td class="flex items-center px-2 py-2">
+											<span class="cursor-copy whitespace-pre font-mono text-xs font-normal text-fuchsia-800 dark:text-pink-400">es / Google</span>
+										</td>
+										<td class="whitespace-pre font-mono text-xs font-normal text-blue-600 dark:text-blue-300"><a href="${data[0].url}">${data[0].name}</a></td>
+										<td class="font-mono text-xs font-normal text-gray-500 dark:text-gray-400"></td>
+									</tr>`;
   });
-
-  html += `
-        </ul>
-      </body>
-    </html>`;
 
   return html;
 }
