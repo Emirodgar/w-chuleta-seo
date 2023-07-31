@@ -2,3 +2,16 @@
     --tw-border-opacity: 1;
     border-color: rgb(30 41 59 / var(--tw-border-opacity));
 }
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+
+section {
+    flex: 1 1 33.33%;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+  
