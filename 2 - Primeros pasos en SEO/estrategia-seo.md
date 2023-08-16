@@ -52,6 +52,7 @@ Cuando trabajamos una estrategia que está en curso, hay algunos aspectos que po
 - `[Inglés]` - [Hilo de Twitter acerca de cómo afecta el SEO a otros canales](https://twitter.com/carlhendy/status/1637783192089546755)
 
 
+
 <section id="cs_herramientas"></section>
 
 ## Herramientas

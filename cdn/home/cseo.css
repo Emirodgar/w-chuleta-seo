@@ -79,5 +79,20 @@ section {
 }
 
 
+.c-link-desc {
+  white-space:pre;
+  cursor:copy;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+  font-size:.75rem;line-height:1rem;
+  font-weight:400;
+  --tw-text-opacity: 1;color:rgb(244 114 182 / var(--tw-text-opacity));
+  --tw-text-opacity: 1;color:rgb(134 25 143 / var(--tw-text-opacity));
+
+  /*composes: cursor-copy whitespace-pre font-mono text-xs font-normal text-fuchsia-800 text-pink-400;*/
+}
+
+
+
+
   
   
