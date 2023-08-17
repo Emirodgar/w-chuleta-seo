@@ -84,9 +84,6 @@ section {
   font-size:.75rem;line-height:1rem;
   font-weight:400;
   --tw-text-opacity: 1;color:rgb(37 99 235 / var(--tw-text-opacity));
-  
-
-  /* whitespace-pre font-mono text-xs font-normal text-blue-600 text-blue-300 */
 }
 
 .c-link-desc {
@@ -98,7 +95,6 @@ section {
   --tw-text-opacity: 1;color:rgb(244 114 182 / var(--tw-text-opacity));
   --tw-text-opacity: 1;color:rgb(134 25 143 / var(--tw-text-opacity));
 
-  /*composes: cursor-copy whitespace-pre font-mono text-xs font-normal text-fuchsia-800 text-pink-400;*/
 }
 
 
@@ -106,8 +102,6 @@ section {
   border-bottom-width:1px;
   --tw-border-opacity: 1;border-color:rgb(229 231 235 / var(--tw-border-opacity));
 }
-
-/* border-b  selection:bg-amber-800 selection:text-white border-gray-200 border-gray-600 */
 
 
 
