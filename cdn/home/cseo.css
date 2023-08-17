@@ -78,6 +78,16 @@ section {
     font-size:.69rem;
 }
 
+.c-link {
+  white-space:pre;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+  font-size:.75rem;line-height:1rem;
+  font-weight:400;
+  --tw-text-opacity: 1;color:rgb(37 99 235 / var(--tw-text-opacity));
+  
+
+  /* whitespace-pre font-mono text-xs font-normal text-blue-600 text-blue-300 */
+}
 
 .c-link-desc {
   white-space:pre;
@@ -90,6 +100,14 @@ section {
 
   /*composes: cursor-copy whitespace-pre font-mono text-xs font-normal text-fuchsia-800 text-pink-400;*/
 }
+
+
+.c-tr {
+  border-bottom-width:1px;
+  --tw-border-opacity: 1;border-color:rgb(229 231 235 / var(--tw-border-opacity));
+}
+
+/* border-b  selection:bg-amber-800 selection:text-white border-gray-200 border-gray-600 */
 
 
 
