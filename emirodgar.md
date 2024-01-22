@@ -25,7 +25,7 @@ Con mi escaso tiempo libre, escribo [conectados](https://www.tribunasalamanca.co
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
 
 - `2023` - Certificación SCRUM Manager ([ver credencial](https://www.scrummanager.com/website/c/profile/member.php?id=42726))
-- `2015` - `2019` - `2021` - `2022` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
+- `2015` - `2019` - `2021` - `2022` - `2023` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
 - `2016`- `2019`- Certificación de Inbound Marketing de Hubspot
 - `2018` - Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
 - `2014` - Asesor SEO homologado por ICEX España
