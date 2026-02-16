@@ -177,6 +177,34 @@
         padding: 80px 0;
       }
     }
+	.form-box {
+  max-width: 300px; /* puedes ajustarlo */
+}
+
+.form-box form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px; /* espacio entre imagen y botón */
+}
+
+.form-image {
+  width: 100%;
+  display: block;
+}
+
+.form-button {
+  width: 100%;
+  display: block;
+  text-align: center;
+  padding: 12px 0;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
   </style>
 
   <!-- Structured Data -->
@@ -189,7 +217,7 @@
     "publisher": {
       "@type": "Person",
       "name": "Emilio Rodríguez",
-      "url": "https://emiRodríguez.com"
+      "url": "https://emirodgar.com"
     },
     "url": "https://chuletaseo.com"
   }
@@ -219,11 +247,10 @@
     </div>
 
     <div class="form-box">
-      <!--<form>
-        <input type="email" placeholder="Tu email profesional" required>
-        <button type="submit">Suscribirme</button>
-      </form>-->
-	  <iframe src="https://newsletter.chuletaseo.com/embed" width="480" height="320" style="border: 0px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
+      <form>
+		<img src="https://substackcdn.com/image/fetch/$s_!i0GQ!,w_240,h_240,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5e2c39d-49d3-4904-9ed9-3774f2c7f639_251x251.png"/>
+        <a href="https://newsletter.chuletaseo.com/" class="form-button">Suscribirme</a>
+      </form>
     </div>
   </div>
 </header>
