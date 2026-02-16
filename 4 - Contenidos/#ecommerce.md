@@ -19,3 +19,5 @@ Datos estructurados: https://www.youtube.com/watch?v=ME2F03PC_K0&list=PLKoqnv2vT
 - [Trucos ecommerce SEO 2023](https://speakerdeck.com/aleyda/the-keys-for-ecommerce-seo-success-for-2023)
 - [4 maneras en las que el Google Shopping Graph puede ayudarte](https://blog.google/products/shopping/shopping-graph-explained/)
 - [Las claves del comercio electrónico en 2023](https://speakerdeck.com/aleyda/the-keys-for-ecommerce-seo-success-for-2023)
+
+https://www.sanity.io/ecommerce-seo

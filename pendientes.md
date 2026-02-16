@@ -12,4 +12,5 @@ layout: default_1
 
 - Google Dorks
 - Python Scripts
+- Data sets de Google https://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html
 
