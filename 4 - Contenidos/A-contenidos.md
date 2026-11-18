@@ -7,6 +7,8 @@ folder: contenidos
 layout: default_1
 author: Emirodgar
 permalink: contenidos
+redirect_from:
+  - /ecommerce
   
 ---
 
