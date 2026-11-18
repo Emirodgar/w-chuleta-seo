@@ -1,8 +1,8 @@
 ---
-title: ¿Cómo afecta al SEO la inteligencia artificial?
-description: ChatGPT y Bard tendrán un gran impacto en el posicionamiento orgánico a medio plazo. 
+title: SEO e inteligencia artificial - Guía de GEO y búsqueda con IA
+description: "Cómo funciona la búsqueda con IA (AI Overviews, AI Mode y ChatGPT) y qué hacer para que tu contenido sea elegido como fuente: GEO paso a paso."
 date: 09/02/2023
-date_modified: 11/03/2023
+date_modified: 19/11/2026
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -10,132 +10,127 @@ permalink: seo-inteligencia-artificial
   
 ---
 
+{:.lead} La búsqueda con IA no sustituye al SEO, pero cambia lo que significa "salir en Google". Ahora no basta con aparecer en una lista de enlaces: hay que ser una fuente que la IA decida usar en su respuesta. A eso se le llama **GEO** (*Generative Engine Optimization*).
 
+> Esta guía se escribió en febrero de 2023, cuando solo existían ChatGPT y Bard. La he rehecho en noviembre de 2026 con lo que Google y OpenAI documentan hoy. Cuando algo es opinión mía y no documentación oficial, lo digo.
 
-<div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">02/2023</span>  Ya te puedes apuntar para <a href="https://www.bing.com/new?form=MW00XV&OCID=MW00XV">usar en Bing las búsquedas basadas en inteligencia artificial</a>.</div>
+## Qué es la búsqueda con IA
 
+Hoy conviven varias experiencias que responden con texto generado en lugar de solo listar enlaces:
 
-La inteligencia artificial ha llegado al mundo SEO para quedarse. Creo que **aportará más beneficios que perjuicios** y que, junto con los resultados orgánicos tradicionales, **se podrá ofrecer al usuario una mejor experiencia y resultados**.
+- **AI Overviews (Google):** resúmenes que aparecen en el buscador para ayudar a entender un tema complejo, con enlaces para profundizar. Solo salen cuando Google considera que aportan algo más que los resultados clásicos.
+- **AI Mode (Google):** una experiencia pensada para consultas que piden explorar, razonar o comparar, con una respuesta más completa y enlaces de apoyo.
+- **Búsqueda de ChatGPT:** ChatGPT también consulta la web para responder y cita las páginas que usa.
+- **Otros buscadores de respuestas:** Perplexity, Gemini y similares siguen la misma idea.
 
-> Google ha lanzado una publicación [para aclarar conceptos sobre contenidos generados por IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content). Ellos siguen apostando por la calidad, y la relación con la intención de búsqueda del usuario, independientemente de cómo haya sido generado el contenido.
+Dos conceptos útiles: **GEO** es optimizar para que te citen estos sistemas y **AEO** (*Answer Engine Optimization*) es el mismo objetivo visto desde las respuestas directas. En la práctica son lo mismo y se apoyan en el SEO de siempre.
 
-## Contexto y evolución
+## Cómo eligen las fuentes
 
-[ChatGPT](https://openai.com/blog/chatgpt/), herramienta de inteligencia artificial desarrollada por OpenAI y respaldada por Microsoft, ha sorprendido al mundo por su capacidad para ofrecer resultados de búsqueda rápidos y fiables. En sólo dos meses, la aplicación -en abierto para cualquiera- ha atraído a más de 100 millones de usuarios.
+Google lo documenta así para AI Overviews y AI Mode:
 
-> Para contextualizarlo, Instagram consiguió el millón de usuarios en 2 meses y medio en 2010. Spotify obtuvo el primer millón de usuarios 5 meses después de su lanzamiento en 2008. Netflix lo consiguió en 2003, después de casi 4 años. Y Facebook en 2004 llegó al millón de usuarios en 10 meses. 
+1. **Query fan-out.** Ante una consulta, el sistema lanza varias búsquedas relacionadas (subpreguntas) para reunir un conjunto más amplio de fuentes. Por eso una página puede aparecer citada por una pregunta que no era su palabra clave principal.
+2. **Requisitos técnicos mínimos.** Para ser fuente, la página debe estar **indexada** y ser **elegible para mostrarse con snippet** en Google. No hay más requisitos, pero cumplirlos no garantiza que te muestren.
+3. **Sin marcado especial.** Google indica que no hace falta ningún marcado ni archivo específico para aparecer en estas experiencias.
 
-La integración de ChatGPT con el motor de búsqueda Bing ([anunciado en febrero del 2023](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)) supone una amenaza significativa para Google, que ha reaccionado lanzando un chatbot de inteligencia artificial llamado [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates), impulsado por su modelo de lenguaje LaMDA para aplicaciones de diálogo.
+Con ChatGPT ocurre algo parecido: para salir en sus respuestas de búsqueda, su rastreador de búsqueda tiene que poder acceder a tu web (lo detallamos más abajo).
 
-> Aunque ChatGPT ha impresionado por sus capacidades, Bard (basado en LaMDA) ofrece una alternativa ligera que requiere menos potencia de cálculo, por lo que es más fácil de escalar e integrar. Microsoft ha ganado en el planteamiento a corto plazo, pero este proceso será mucho más complejo a medio y largo plazo.
+## Qué hacer para que te elijan
 
-La única certeza, es que la IA ha venido para quedarse y, viendo que ambos gigantes apuestan por ella, el futuro de las búsquedas y las aplicaciones basadas en inteligencia artificial será brillante.
+Los fundamentos oficiales son los de siempre. Encima de ellos, estas son las prácticas que yo aplico y recomiendo en la [newsletter](https://newsletter.chuletaseo.com/p/google-ai-mode-guia-para-posicionar):
 
-> Para que estos algoritmos tengan éxito necesitan de materia prima (contenido) para poder aprender. Si somos celosos de nuestra información, [podemos bloquear el acceso y evitar que nuestros datos formen parte de su aprendizaje](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/).
+### Lo básico (documentado por Google)
 
-### Timeline
+- **Que Googlebot pueda rastrear y renderizar la página.** Sin bloqueos en `robots.txt` ni en el CDN o hosting, y con código 200.
+- **Contenido útil y original**, pensado para las personas que hacen la búsqueda, no para el buscador.
+- **Texto importante en formato texto**, no solo en imágenes o scripts.
+- **Buena experiencia de página**, en móvil y en escritorio.
+- **Datos estructurados coherentes** con el contenido visible. Validados, y sin marcar cosas que el usuario no ve.
+- **Imágenes y vídeo de calidad** que apoyen el contenido, y los datos de Merchant Center y Perfil de Empresa al día si te aplican.
 
-- `Diciembre 2022` - Nace ChatGPT de la mano de OpenIA (Microsoft). Se abre a millones de usuarios.
-- `Febrero 2023` - Bing anuncia la integración de ChatGPT en su buscador.
-- `Febrero 2023` - Google anuncia Bard, la IA que evoluciona desde su modelo de lenguaje LaMDA.
-- `Febrero 2023` - Opera (navegador) anuncia que integra ChatGPT y Quora lanza Poe, su respuestas basadas en IA.
-- `Febrero 2023` - Se anuncia ChatGPT Plus, con más funcionalidades y sin esperas (20 dólares al mes).
+### Cómo escribir para ser citado (mi criterio)
 
+- **Secciones modulares.** Bloques cortos que responden por sí solos a una pregunta concreta, sin perder el hilo de toda la página.
+- **Encabezados en forma de pregunta**, con las preguntas reales de tu audiencia.
+- **Cubrir intenciones relacionadas.** Si el fan-out genera subpreguntas, tu contenido debería responder también a las variantes del tema.
+- **Estructura clara:** listas, tablas, definiciones y ejemplos concretos.
+- **Marca y autoría reconocibles.** Que se sepa quién escribe y por qué merece confianza.
 
-## Predicciones sobre el SEO y la inteligencia artificial
+Esto es criterio práctico, no una receta oficial. Google insiste en que no hay un truco específico para la IA.
 
-De momento podemos hacer muchas conjeturas, pero si nos basamos en los hechos que conocemos, podemos poner el foco en aspectos que serán relevantes a corto plazo:
+## Qué no hace falta
 
-1. Bard citará las fuentes en las que base su aprendizaje. Importante trabajar nuestro EAT (Experiencia, Autoridad y Confianza).
-2. Las respuestas de IA se basarán en portales de terceros, principalmente agregadores (estilo wikipedia).
-3. Los títulos de nuestras página y el material multimedia, tendrá especial repercursión.
-4. Los términos longtail (frases) tendrán más repercursión que hasta ahora.
-5. Nuestra marca y reputación serán muy relevantes.
+Google no pide archivos ni formatos nuevos para aparecer en sus experiencias de IA, ni un tipo de contenido distinto al que ya funciona en búsqueda. Si alguien te vende un "archivo para IA" como imprescindible para Google, pídele la documentación oficial.
 
+## Rastreadores de IA y robots.txt
 
-Los primeros dos puntos son muy relevantes dado que dar el salto de basarse en un dataset real a intentar emular o predecir resultados, podría generar muchos errores.
+Decidir a quién dejas entrar es una decisión de negocio. Esto es lo que documentan las dos empresas:
 
-Por ejemplo, ya se han constatado [múltiples errores en Bard (Google)](https://www.bbc.com/news/business-64576225), lo que nos hace pensar hasta qué punto podremos llegar a confiar en algo que está limitado a los contenidos que ha podido analizar, pero no necesariamente a la realidad. 
+<div class="table-responsive" markdown="1">
 
-## ¿Cuál será el impacto de la IA en el SEO?
+| Rastreador | Para qué sirve | Si lo bloqueas |
+|---|---|---|
+| **Googlebot** | Rastreo e indexación de Google, base de AI Overviews y AI Mode | Dejas de ser elegible para Search y para sus experiencias de IA |
+| **Google-Extended** | Controla el uso de tu contenido en entrenamiento y otros sistemas de Google | Limitas ese uso. Google lo indica como control, no como requisito de Search |
+| **OAI-SearchBot** | Búsqueda de ChatGPT | No apareces en las respuestas de búsqueda de ChatGPT |
+| **GPTBot** | Recopilar contenido para entrenar los modelos de OpenAI | Indicas que no quieres entrenamiento. No afecta a la búsqueda |
+| **ChatGPT-User** | Visitas que inicia un usuario desde ChatGPT | Según OpenAI, las reglas de `robots.txt` pueden no aplicarse a estas visitas |
 
-El objetivo de Google con Bard es que los usuarios reciban en los resultados de su búsqueda respuestas resumidas de la IA en lugar de tener que abrir los enlaces manualmente.
+</div>
 
-Las principales consecuencias a nivel SEO, son:
+Un ejemplo para salir en ChatGPT pero no entrenar sus modelos:
 
- - Si el usuario recibe una respuesta satisfactoria a través de los resultados de la IA, es lógico pensar que el tráfico hacia páginas externas (orgánico) se reduzca.
+    User-agent: OAI-SearchBot
+    Allow: /
 
- - Si no apareces en la primera página (primeros 10 resultados), es poco probable que generes tráfico.
+    User-agent: GPTBot
+    Disallow: /
 
-Google gana dinero con la visualización de los anuncios; si esta comportamiento implica que un usuario no navegará hacia nuevas páginas, a corto plazo significará una reducción de sus ganancias. Veremos cómo gestiona este limitante. 
+Revisa también tu CDN y tu firewall. Algunos servicios bloquean bots de IA por defecto y puedes estar fuera de las respuestas sin saberlo, aunque tu `robots.txt` diga lo contrario.
 
-Desde mi punto de vista el SEO no está muerto, sólo está cambiando y tendrá que adaptarse. 
+## Cómo medirlo
 
-## ¿De dónde saca la información Google Bard?
+- **Search Console:** las impresiones y clics de AI Overviews y AI Mode se cuentan dentro del informe de rendimiento, en la búsqueda "Web". No hay un filtro separado, así que no puedes aislar su tráfico solo con esa herramienta.
+- **Analítica:** revisa los referidos de ChatGPT, Perplexity y similares para ver cuánta visita llega desde ahí.
+- **Valor, no solo clics:** Google recomienda evaluar conversiones (ventas, registros, consultas) y no solo visitas, porque el tráfico que llega desde estas respuestas suele ser más cualificado.
 
-Google Bard se basa en LaMDA, entrenada a partir del conjunto de datos definido como **Infiniset**. Según el [paper compartido por Google](https://arxiv.org/pdf/2201.08239.pdf), la IA se entrenó con 1.5 trillones de palabras derivadas de:
+En la newsletter he explicado cómo [analizar el tráfico de IA que llega a tu web](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
 
-- 12.5% C4-based data
-- 12.5% English language Wikipedia
-- 12.5% code documents from programming Q&A websites, tutorials, and others
-- 6.25% English web documents
-- 6.25% Non-English web documents
-- 50% dialogs data from public forums
+## Cómo ha cambiado esto desde 2023
 
-## Diferencias entre Bard (Google) y ChatGPT (OpenIA)
+- `Diciembre 2022` - Nace ChatGPT y se abre a millones de usuarios.
+- `Febrero 2023` - Bing integra ChatGPT en su buscador y Google anuncia Bard.
+- `Mayo 2025` - Google publica sus recomendaciones oficiales para tener éxito en AI Overviews y AI Mode.
+- `Junio 2025` - Publico en la newsletter la guía para posicionar en AI Mode.
 
-## ¿Para qué podemos usar la IA en SEO?
+## Preguntas frecuentes
 
-Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las ventajas que nos ofrece ChatGPT podemos encontrar:
+**¿Qué es GEO?** *Generative Engine Optimization*. Son las prácticas para que tu contenido sea elegido y citado por buscadores con IA como AI Overviews, AI Mode o ChatGPT.
 
-- Crear borradores para disponer de una plantilla de inicio evitando enfrentarnos a una "hoja en blanco".
-- Ofrecer posibles títulos para nuestras publicaciones a modo de ejemplos e ideas.
-- Acceder a un listado de fuentes.
-- Generar una primera versión de meta descripciones (recordemos que no son un factor SEO directo).
-- Identificar y generar clústeres de contenidos.
-- Conseguir ideas de nuevos contenidos.
-- Modificar nuestra línea de escritura/comunicación o dar una vuelta a ciertas partes de nuestro contenido que no generar engagement.
-- Listar preguntas comunes que pueden suscitar nuestros contenidos a nuestos visitantes.
+**¿Es distinto del SEO?** Se apoya en él. Para ser fuente en Google tu página tiene que estar indexada y ser elegible con snippet. La diferencia está en cómo escribes y estructuras el contenido para responder preguntas concretas.
 
+**¿Necesito un marcado o archivo especial para aparecer en AI Overviews?** No. Google indica que no hace falta ningún marcado ni archivo específico.
+
+**¿Debo bloquear a los bots de IA?** Depende de tu objetivo. Si quieres salir en las respuestas de ChatGPT, tienes que permitir OAI-SearchBot. Si no quieres que se use tu contenido para entrenar sus modelos, puedes bloquear GPTBot sin afectar a la búsqueda.
 
 ## Recursos
 
-- `[Inglés]` - [¿Cómo podría afectar la inteligencia artificial al SEO local?](https://www.localseoguide.com/what-could-ai-for-local-search-look-like/)
-- `[Inglés]` - [Bloquear nuestros contenidos para que no sean utilizados por los robots de inteligencia artificial](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
-- `[Inglés]` - [IA Chat y SEO](https://www.jasper.ai/blog/ai-chat-for-seo)
-- [30 Maneras de usar ChatGPT para el SEO](https://www.linkedin.com/posts/artemklimkin_30-chatgpt-prompts-for-seo-activity-7017086489813553152-Zutt)
-- [Cómo bloquear para que ChatGPT no utilice el contenido de tu sitio](https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/)
-- `[Inglés]` - [Postura oficial de Google acerca de los contenidos generados con IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
-- `[Inglés]` - [Aportes de la IA a la búsqueda](http://www.seobook.com/ai-driven-search)
-- [Cómo utilizar ChatGPT para que responda de la mejor manera posible](https://www.instagram.com/p/CoXyiBILhxp/)
-- [Automatizar publicaciones de Instagram a través de ChatGPT](https://www.instagram.com/p/CnxF2pvIfJz/)
-- [Acciones de marketing digital que puedes hacer con ChatGPT](https://www.instagram.com/p/Cn2UwJ-oIX1/)
-- [Usa ChatGPT para extraer valor para tus estrategias SEO](https://searchengineland.com/chatgpt-prompts-seo-393523)
-- [Guía para hacer OSINT con ChatGPT](https://www.linkedin.com/posts/cyberabogada_osint-con-chatgpt-activity-7035240539310407680-y4aY/)
-- `[Inglés]` - [Cómo entrenar una IA en las directrices de calidad de Google](https://www.localseoguide.com/training-gpt-on-google-quality-rater-guidelines-and-why-you-shouldnt-do-it/)
+- [Funciones de IA y tu sitio web (documentación de Google)](https://developers.google.com/search/docs/appearance/ai-features)
+- [Cómo tener éxito en la búsqueda con IA (blog de Google Search Central, mayo de 2025)](https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search)
+- [Rastreadores de OpenAI: OAI-SearchBot, GPTBot y ChatGPT-User](https://developers.openai.com/api/docs/bots)
+- [Postura oficial de Google sobre contenido generado con IA](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
+- [Guía de AI Mode para posicionar (newsletter ChuletaSEO)](https://newsletter.chuletaseo.com/p/google-ai-mode-guia-para-posicionar)
+- [Common Crawl y su importancia para el SEO (newsletter ChuletaSEO)](https://newsletter.chuletaseo.com/p/common-crawl-y-su-importancia-para)
 
-
-## Herramientas
-
-- [ChatGPT](https://openai.com/blog/chatgpt/): chatbot de inteligencia artificial.
-- [Quillbot](https://quillbot.com/): herramienta de generación de contenido artificial que intenta emular la conversación de un humano.
-- [Reescribir nuestros metas con Google Sheets y ChatPGT](https://searchministry.co/how-to-add-chatgpt-in-google-sheets-and-rewrite-your-meta-data-in-bulk)
-- [Clasificador para saber si un texto ha sido escrito por IA](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text)
-- [SEO GPT](https://seovendor.co/seo-gpt/): herramienta para generar contenidos orientados al SEO.
-- [Perplexity](https://www.perplexity.ai/): realiza resúmenes de nuestras peticiones y también integra búsquedas en la red social de Twitter.
-- [Elicit](https://elicit.org/): realiza una investigación en base a las posibles respuestas a nuestra pregunta para tener toda la información y contexto posible.
-- [Stable Attribution](https://www.stableattribution.com/): dada una imagen generada por IA, nos indica en qué otras imágenes se ha basado para generarla.
-- [BlogNLP](https://www.blognlp.com/): herramienta para generación y optimización de contenido en lenguaje natural. Cuenta con múltiples funcionalidaes entre las que se incluyen la corrección ortográfica, la corrección gramatical o la identificación de frases complejas o confusas.
-- [CrowdView](https://crowdview.ai/): es una plataforma de análisis y monitorización de redes sociales que utiliza inteligencia artificial y aprendizaje automático para proporcionar información valiosa sobre la marca, el mercado y la competencia.
-- [GrahamAI](https://www.grahamai.co/): genera tuits de manera aleatoria seleccionando una temática.
-- [Maester APP](https://maester.app/): dviersas funcionalidades para generar contenidos vía IA.
-- [Entrena ChatGPT3 con los datos que tienes en tus bases de datos](https://twitter.com/dannyrichman/status/1625178646649487370).
-- [Optimo](https://askoptimo.com/seo-title-&-meta-description): Genera título y metadescripción a partir de una descripción de tu página.
-- [GPT for Slides](https://www.gptforslides.app/)
-- [WriteSonic](https://writesonic.com/chat)
-- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=es): Extensión de Chrome que nos ayuda a mejorar las funcionalidades de ChatGPT, especialmente desde el punto de vista del SEO.
-- [Roomgpt](https://www.roomgpt.io/): dada una imagen de una casa, la convierte siguiendo el estilo que hayamos seleccionado a través de la IA. No tiene aplicación SEO directo pero nos ayuda a entender las posibilidades de optimización de imágenes con inteligencia artificial.
-- [Character](https://character.ai): conversa con múltiples personajes.
-- [Simplified](https://simplified.com/): múltiples herramientas para mejorar el rendimiento digital. Creación de vídeos, de mensajes para redes sociales, etc.
-- [Colossyan](https://www.colossyan.com/): crea vídeos con personajes virtuales creados por IA.
-- [Jasper](https://www.jasper.ai/): crea imágenes.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "¿Qué es GEO?", "acceptedAnswer": { "@type": "Answer", "text": "GEO (Generative Engine Optimization) son las prácticas para que tu contenido sea elegido y citado por buscadores con IA como AI Overviews, AI Mode o ChatGPT." } },
+    { "@type": "Question", "name": "¿Es distinto del SEO?", "acceptedAnswer": { "@type": "Answer", "text": "Se apoya en el SEO. Para ser fuente en Google la página tiene que estar indexada y ser elegible para mostrarse con snippet. La diferencia está en cómo se escribe y estructura el contenido para responder preguntas concretas." } },
+    { "@type": "Question", "name": "¿Necesito un marcado o archivo especial para aparecer en AI Overviews?", "acceptedAnswer": { "@type": "Answer", "text": "No. Google indica que no hace falta ningún marcado ni archivo específico para aparecer en AI Overviews y AI Mode." } },
+    { "@type": "Question", "name": "¿Debo bloquear a los bots de IA?", "acceptedAnswer": { "@type": "Answer", "text": "Depende del objetivo. Para salir en las respuestas de búsqueda de ChatGPT hay que permitir OAI-SearchBot. Si no quieres que tu contenido se use para entrenar los modelos de OpenAI, puedes bloquear GPTBot sin afectar a la búsqueda." } }
+  ]
+}
+</script>
