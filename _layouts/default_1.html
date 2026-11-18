@@ -12,7 +12,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W9GZ3MP');</script>
 {% seo %}
 <link rel="stylesheet" type="text/css" href="cdn/css/styles.pure.css" />
-</head>
+		<style>
+			.nl-cta{background:#fff8d6;border:2px solid #14120f;border-radius:12px;padding:20px 24px;margin:24px 0;display:flex;gap:16px 24px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+			.nl-cta strong{display:block;font-size:1.05rem;margin-bottom:2px;color:#14120f}
+			.nl-cta span{color:#4a463e;font-size:.95rem}
+			.nl-cta .btn{white-space:nowrap}
+			.nl-cta-end{margin:0 0 32px;padding:28px}
+			.nl-cta-end strong{font-size:1.25rem}
+		</style>
+	</head>
 
 <body data-spy="scroll" data-target=".spyscroll" data-offset="125">
 
@@ -163,6 +171,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h1>{{ page.title }}</h1>
         <p class="lead">{{ page.description }}</p>
 		{% if page.folder != "autor" %}
+		<div class="nl-cta" role="complementary" aria-label="Newsletter ChuletaSEO">
+			<div><strong>Lo que cambia en SEO, cada jueves en tu email</strong><span>Cada jueves, el resumen SEO y GEO filtrado y listo para aplicar.</span></div>
+			<a class="btn btn-primary js-nl-cta" data-cta="guia-inicio" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-inicio&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
+		</div>
+		{% endif %}
+		{% if page.folder != "autor" %}
 		<hr>
 		<div class="row">
 			<div class="col-sm-6 col-lg-4">
@@ -209,6 +223,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- Changelog
 		============================ -->
 		
+        {% if page.folder != "autor" %}
+        <div class="nl-cta nl-cta-end" role="complementary" aria-label="Newsletter ChuletaSEO">
+			<div><strong>¿Te ha servido? Recibe lo nuevo cada jueves</strong><span>La newsletter SEO en español sobre Google, GEO y búsqueda con IA. Sin ruido, solo lo aplicable.</span></div>
+			<a class="btn btn-primary js-nl-cta" data-cta="guia-final" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-final&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
+		</div>
+        {% endif %}
+
         <section id="cs_servicios">
           <h2>Servicios adicionales</h2>
           <p class="text-4">Aprovecha al máximo el conocimiento SEO de este portal suscribiéndote a la newsletter que enviamos cada semana con las novedades del mundo SEO. También te ofrecemos recursos y herramientas gratuitas para ser más eficiente en tus estrategias.</p>
@@ -262,5 +283,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="cdn/vendor/jquery.easing/jquery.easing.min.js"></script> 
 <!-- Custom Script -->
 <script src="cdn/js/theme.js"></script>
+<script>
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('.js-nl-cta');if(!a)return;window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'newsletter_cta_click',cta_location:a.getAttribute('data-cta'),page_path:location.pathname});});
+</script>
 </body>
 </html>
