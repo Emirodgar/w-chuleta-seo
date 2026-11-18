@@ -1,48 +1,53 @@
 ---
-title: Cómo realizar un keyword research
-description: Aprende a trabajar los contenidos SEO de forma eficiente a través de los análisis de palabras clave
+title: Cómo hacer un keyword research (guía paso a paso)
+description: "Aprende a hacer un keyword research: de las palabras semilla a un plan de contenidos priorizado, con intención de búsqueda, clusters y herramientas gratuitas."
 date: 16/08/2022
-date_modified: 18/05/2023
+date_modified: 19/11/2026
 folder: contenidos
 author: Emirodgar
 layout: default_1
 permalink: keyword-research
-  
+
 ---
 
-También conocido como **análisis de palabras clave** o ***keyword analysis***, se trata de una táctica SEO mediante la cual realizamos un estudio para **conocer las tendencias de búsqueda de nuestro público objetivo**. El objetivo es identificar aquellos términos que son empleados por los usuarios para encontrar nuestros servicios o productos y trasladarlos posteriormente a nuestra página web para poder posicionar por ellos.
+{:.lead} El **keyword research** (o análisis de palabras clave) es el estudio de **qué buscan las personas que podrían ser tu cliente o tu lector** y con qué palabras lo hacen. Su resultado no es una lista de términos: es la decisión de **qué páginas crear, mejorar o descartar**.
 
-Es un proceso clave para asegurar que la futura [estrategia SEO de contenidos](https://chuletaseo.com/estrategia-contenidos) impactará en el público objetivo adecuado.
+Es la base de cualquier [estrategia SEO de contenidos](https://chuletaseo.com/estrategia-contenidos). Si te saltas este paso, acabas escribiendo sobre lo que tú quieres contar y no sobre lo que se busca.
 
 ## Pasos para hacer un keyword research
 
-Aunque no hay una única manera de abordar el análisis de palabras clave, sí podemos definir algunos pasos claves del proceso que asegurarán un buen resultado.
+No hay un único método, pero este orden es el que mejor me funciona.
 
-### 1. Definir los objetivos del sitio web 
+### 1. Define el objetivo de la web
 
-Define claramente los objetivos de tu sitio web. Identifica si deseas aumentar el tráfico, generar ventas, obtener suscriptores, etc. Con eso en mente podrás avanzar para identificar las palabras clave más relevantes.
+Antes de buscar términos, decide qué quieres conseguir: ventas, leads, suscriptores o tráfico informativo. Un mismo término puede ser útil para uno de esos objetivos y no servir para otro.
 
-### 2. Analiza tu audiencia objetivo
+### 2. Reúne tus palabras semilla
 
-Comprende a tu audiencia objetivo, sus necesidades, preguntas y cómo buscarían información en los buscadores. Esto te ayudará a seleccionar palabras clave relevantes que coincidan con sus intenciones de búsqueda.
+Son 5-10 términos obvios del negocio, los que usarías para describirlo en una frase. Sácalos de tus productos o servicios, de las preguntas que te hacen los clientes y de los textos de tus competidores.
 
-### 3. Volumen de búsqueda y relevancia 
+### 3. Amplía el listado con fuentes reales
 
-Busca palabras clave relevantes que tengan un volumen de búsqueda adecuado. Considera palabras clave de alto volumen para obtener más tráfico, pero también incluye palabras clave de baja competencia para tener una mejor oportunidad de clasificación y conversión. El propósito es identificar conceptos y búsquedas, no necesariamente utilizarlo como tal en nuestros contenidos. Siempre tendremos que emplear las palabra clave de manera natural.
+Lo importante es ampliar con búsquedas reales, no con intuición:
 
-### 4. Long tail keywords 
+- **Search Console.** Si ya tienes web, es la fuente más infravalorada: te dice por qué consultas ya apareces y con qué posición.
+- **Sugerencias de Google.** El autocompletado, las "Preguntas relacionadas" y las búsquedas relacionadas del final de la página.
+- **Google Trends.** Para comparar términos y ver estacionalidad.
+- **Competidores.** Qué páginas les traen tráfico y por qué términos, con una herramienta SEO.
+- **Tus clientes.** Correos, llamadas y conversaciones. Es el vocabulario real, que no siempre coincide con el de las herramientas.
 
-Identifica e incluye palabras clave de cola larga (*long tail keywords*) en tu análisis. Estas son frases más específicas y detalladas que tienen un volumen de búsqueda más bajo pero una intención de compra más clara.
+### 4. Analiza cada término
 
-### 5. Variaciones y sinónimos
+Para cada candidato, mira cuatro cosas:
 
-Ten en cuenta las diferentes variaciones y sinónimos de tus palabras clave principales. Esto ampliará tu alcance y te ayudará a captar diferentes segmentos de audiencia.
+1. **Volumen de búsquedas.** Es una referencia, no una promesa. Cuidado con descartar términos de volumen bajo: pueden ser los que convierten.
+2. **Dificultad.** Cuánto cuesta competir. Las herramientas la estiman, pero lo que de verdad cuenta es la SERP.
+3. **Intención de búsqueda.** Qué quiere hacer la persona (ver tabla más abajo).
+4. **La SERP real.** Busca el término en Google. Si los diez resultados son comparadores y tú tienes un artículo, ya sabes que ese formato no encaja.
 
+### 5. Clasifica por intención de búsqueda
 
-### 6. Análisis de intención de búsqueda
-
-Considera la intención de búsqueda detrás de las palabras clave. ¿Los usuarios buscan información, buscan realizar una acción o comprar algo? Asegúrate de seleccionar palabras clave que se alineen con la intención de búsqueda de tu audiencia y de clasificarlas en los diferentes niveles:
-
+La intención decide qué tipo de página necesitas. Estas son las cuatro categorías clásicas:
 
 <table class="table table-bordered table-responsive">
   <thead>
@@ -78,128 +83,70 @@ consejos, tips, ejemplos, aprende"</td>
   </tbody>
 </table>
 
-### 7. Palabras clave de marca
+### 6. Agrupa en clusters y asigna cada grupo a una URL
 
-Si tu marca es conocida y la gente la busca, analiza el impacto de la combinación de marca + producto o marca + servicio. También es importante en estos casos vigilar si la competencia puja por nuestra marca, dado que si nosotros no lo hacemos, parte del tráfico orgánico puede estar siendo captado por anuncios de nuestros competidores.
+Agrupa los términos que significan lo mismo o se responden con el mismo contenido, y elige **una página por grupo**. Es lo que evita la canibalización: dos páginas peleando por la misma búsqueda. Si en la SERP aparecen los mismos resultados para dos términos, normalmente van en la misma página.
 
-### 8. Actualizaciones periódicas
+### 7. Prioriza
 
-El keyword research no es un proceso único. Realiza revisiones periódicas para adaptarte a las tendencias cambiantes y ajustar tu estrategia de palabras clave en función de los resultados y el rendimiento.
+No puedes hacerlo todo a la vez. Ordena los grupos según:
 
+- **Impacto:** valor de negocio y volumen.
+- **Esfuerzo:** si tienes que crear la página o solo mejorar una existente.
+- **Probabilidad:** si hoy tienes autoridad para competir o conviene empezar por términos de menor dificultad.
 
+Las **mejoras sobre páginas que ya existen** (términos en posiciones 8-20) suelen ser lo más rentable al principio.
 
-## Actualizaciones de algoritmo que han impactado en los contenidos 
+### 8. Mide y repite
 
-Aunque muchas de las [actualizaciones de algoritmo](https://chuletaseo.com/algoritmos-google), como las [core](https://chuletaseo.com/actualizacion-core), tienen impacto en los contenidos, hay algunas específicas para potenciar las páginas con contenido de calidad y útil para los visitantes. 
+El keyword research no es un trabajo de una vez. Revisa Search Console cada cierto tiempo, mira qué términos han subido y cuáles aparecen sin clics y ajusta el plan.
 
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th>Año</th>
-      <th>Días / Mes</th>
-      <th>Nombre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>2022</code></td>
-      <td>5 de diciembre</td>
-      <td><b>Helpful Content Update</b> - Google ha lanzado la actualización  que potenciará los contenidos que aporten valor a los usuarios y penalizará los escritos para buscadores.</td>
-    </tr>
-    <tr>
-      <td><code>2022</code></td>
-      <td>25 de agosto</td>
-      <td><b>Helpful Content Update</b> - <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update?hl=es" target="_blank">Publicación oficial</a>.</td>
-    </tr>
-    <tr>
-      <td><code>2021</code></td>
-      <td>8 de abril</td>
-      <td><b>Product Review Update</b> - Recompensa las valoraciones de productos con un contenido optimizado y de valor para los usuarios.</td>
-    </tr>
-    <tr>
-      <td><code>2011</code></td>
-      <td>3 de noviembre</td>
-      <td><b>Freshness Update</b> - <a href="https://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html" target="_blank">Publicación oficial</a></td>
-    </tr>
-    <tr>
-      <td><code>2011</code></td>
-      <td>2 de junio</td>
-      <td><b>Schema.org</b> - Los contenidos se integran con el marcado estructurado para facilitar el contexto a los buscadores.</td>
-    </tr>
-    <tr>
-      <td><code>2011</code></td>
-      <td>2 de junio</td>
-      <td><b>Panda</b> - Penaliza a granjas de contenidos con poco valor para el usuario y con exceso de anuncios.</td>
-    </tr>
-    <tr>
-      <td><code>2011</code></td>
-      <td>28 de enero</td>
-      <td><b>Attribution Update</b> - Penaliza el contenido scrapeado y copiado de otras páginas.</td>
-    </tr>
-    <tr>
-      <td><code>2010</code></td>
-      <td>10 de mayo</td>
-      <td><b>May Day</b> - Afecta negativamente a las páginas con poco contenido o de escaso valor.</td>
-    </tr>
-  </tbody>
-</table>
+## Keyword research y búsqueda con IA
 
+Las consultas en buscadores con IA son más largas y específicas, y Google explica que AI Overviews y AI Mode lanzan varias búsquedas relacionadas (*query fan-out*) para reunir fuentes. Por eso, además del término principal, conviene cubrir **las subpreguntas que lo rodean**. Si quieres profundizar, tienes la guía de [SEO e inteligencia artificial](https://chuletaseo.com/seo-inteligencia-artificial).
 
+## El entregable
+
+Un buen keyword research termina en una hoja con, como mínimo:
+
+- el término o grupo de términos,
+- volumen mensual y dificultad,
+- posición actual (si ya posicionas),
+- intención de búsqueda,
+- URL asignada (existente o por crear),
+- prioridad.
+
+## Actualizaciones de algoritmo y contenidos
+
+Muchas [actualizaciones de algoritmo](https://chuletaseo.com/algoritmos-google), como las [core](https://chuletaseo.com/actualizacion-core), afectan a los contenidos. Tienes el historial completo en la guía de algoritmos de Google.
 
 <section  id="cs_recursos"></section>
 
-
 ## Guías para hacer keyword research
 
-> Search Engine Journal ha hecho el ebook [How to do keyword research for SEO: the ultimate guide](https://www.searchenginejournal.com/keyword-research/){:target="_blank"} que se puede descargar gratuitamente.
-
-Las principales guías (y más actualizadas) las encontramos en las grandes empresas SEO, tipo Ahrefs, Moz o Semrush.
+Las guías más completas las publican las grandes herramientas SEO:
 
 - [Semrush - ¿Qué es un keyword research?](https://es.semrush.com/blog/que-es-un-keyword-research/){:target="_blank"}
 - `Inglés` - [Ahrefs - Keyword research](https://ahrefs.com/blog/keyword-research/){:target="_blank"}
 - `Inglés` - [Moz - Keyword research guide](https://moz.com/keyword-research-guide){:target="_blank"}
 - `Inglés` - [Backlinko - Keyword research](https://backlinko.com/keyword-research){:target="_blank"}
-- `Inglés` - [How to Do Keyword Research for SEO: A Step-by-Step Guide](https://www.searchenginejournal.com/keyword-research-seo-beginners-guide/379386/){:target="_blank"}
-- `Inglés` - [Video tutorial: Guide, Steps, Tips and Tools](https://www.youtube.com/watch?v=ek0yCkmfVuM){:target="_blank"}
-
-
-
-
+- `Inglés` - [Search Engine Journal - Keyword research, guía paso a paso](https://www.searchenginejournal.com/keyword-research-seo-beginners-guide/379386/){:target="_blank"}
 
 <section  id="cs_herramientas"></section>
 
-
 ## Herramientas gratuitas
 
+En el apartado de herramientas SEO tienes un bloque específico de [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos).
 
-En el apartado de herramientas SEO disponemos de un bloque específico para hacer [keyword research](https://chuletaseo.com/herramientas-seo#keyword-research--contenidos). 
-
-> Una manera de identificar términos relevantes es usar las **sugerencias de Google**. Cuando estamos realizando una búsqueda, Google muestra algunas propeustas que nos podrían interesar. Están basadas en búsquedas similares que el buscador considera relevantes.
-
-- [Google Trends](https://trends.google.com/trends/?geo=US){:target="_blank"}: identifica tendencias de búsqueda en múltiples países.
-- [Keyword generator](https://ahrefs.com/keyword-generator){:target="_blank"}: herramienta de Ahrefs que nos permitirá identificar términos relevantes.
-- [Keyword explorer](https://moz.com/explorer){:target="_blank"} 
-- [Chuleta auditoría de calidad de contenidos](https://docs.google.com/spreadsheets/d/12-F9Z4NzDADOFRQtOiN-CtjY2aaqj-R5CcrJNCuTha4/edit#gid=0){:target="_blank"}: audita tus contenidos para saber si son de calidad.
--  [Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1){:target="_blank"}: cuenta con su propio planificador de palabras clave.
--   [Bing Keyword Research Tool](http://www.bing.com/toolbox/keywords){:target="_blank"}: similar al de Google Ads.
--   [Soolve](http://www.soovle.com/){:target="_blank"}: ofrece las búsquedas de varios portales como Amazon, Wikipedia, Youtube o Ebay.
--   [UberSuggest](https://ubersuggest.io/){:target="_blank"}: identifica términos clave a través de las páginas que mejor posicionan.
--   [SEOBook Keyword List Generator](http://tools.seobook.com/keyword-list/generator.php){:target="_blank"}: genera de manera sencilla múltiples combinaciones de términos.
--   [Wordtracker](https://www.wordtracker.com/){:target="_blank"}: otra heramienta más para encontrar términos relevantes.
--   [Thesaurus.com](http://www.thesaurus.com/){:target="_blank"}: para buscar sinónimos y evitar repetir términos clave.
--   [Synonym.com](http://www.synonym.com/){:target="_blank"}: otra página para encontrar términos equivalentes o similares.
-- [Script en python para hacer una búsqueda de palabras clave](https://twitter.com/alton_lex/status/1631042188116365312?s=46&t=GhkMpnPAzrymKSlKpYKwRQ){:target="_blank"}
-
-Hay varios proyectos que utilizan la inteligencia artificial para analizar, optimizar o generar contenidos. Entre los más destacados tenemos los siguientes:
-
-- [Utilizando GPT3 para clasificar los términos de un sitio web](https://www.seotraininglondon.org/how-to-use-gpt3-to-classify-keywords/){:target="_blank"}
-
-### Extensiones para Google Chrome
-
-- [WhatsMySERP](https://whatsmyserp.com/extension){:target="_blank"}: nos integrará análisis de palabras y volúmenes directamente en nuestras búsquedas de Google. Es gratuito.
-- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es){:target="_blank"}: cualificará y añadirá nuevas funcionalidades a la herramienta de Google Trends.
-
-
+- [Google Search Console](https://search.google.com/search-console): tus propias consultas, clics y posiciones. Gratis y con datos reales.
+- [Google Trends](https://trends.google.com/trends/?geo=ES){:target="_blank"}: tendencias y estacionalidad de búsquedas por país.
+- [Planificador de palabras clave de Google Ads](https://ads.google.com/intl/es_ES/home/?pli=1){:target="_blank"}: requiere cuenta de Google Ads y, si no inviertes, muestra el volumen en rangos y no en cifras exactas.
+- [Keyword generator de Ahrefs](https://ahrefs.com/keyword-generator){:target="_blank"}: ideas de términos a partir de una palabra, en su versión gratuita.
+- [Keyword Explorer de Moz](https://moz.com/explorer){:target="_blank"}: análisis de términos, con límite de consultas gratuitas.
+- [Ubersuggest](https://ubersuggest.com/){:target="_blank"}: ideas de términos y datos de competidores.
+- [Soovle](http://www.soovle.com/){:target="_blank"}: sugerencias de varios portales a la vez (Amazon, Wikipedia, YouTube, etc.).
+- [Wordtracker](https://www.wordtracker.com/){:target="_blank"}: otra herramienta para encontrar términos.
+- [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es){:target="_blank"}: extensión de Chrome que añade datos a Google Trends.
 
 <section  id="cs_pr"></section>
 
@@ -270,4 +217,14 @@ Hay varios proyectos que utilizan la inteligencia artificial para analizar, opti
           </div>
         </div>
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "¿Cuál es el entregable de un keyword research?", "acceptedAnswer": { "@type": "Answer", "text": "Por norma general suele ser un listado de términos cualificados por volumen de búsquedas mensual, índice de dificultad, posicionamiento actual (si es que posicionamos por ello) y tipo de búsqueda (informacional, navegacional, comercial o transaccional)." } },
+    { "@type": "Question", "name": "¿Cómo se clasifica cada palabra clave?", "acceptedAnswer": { "@type": "Answer", "text": "Lo más lógico es hacerlo a través de la intención de búsqueda del usuario, lo cual nos permite clasificarlas en cuatro posibles categorías: comercial, transaccional, informacional y navegacional." } },
+    { "@type": "Question", "name": "¿Qué tipos de palabras clave podemos analizar?", "acceptedAnswer": { "@type": "Answer", "text": "Generalmente se emplea la clasificación basada en tres niveles: términos generales de gran volumen, términos core que cualifican la búsqueda genérica y términos long tail, con poco volumen pero mucha conversión." } }
+  ]
+}
+</script>
