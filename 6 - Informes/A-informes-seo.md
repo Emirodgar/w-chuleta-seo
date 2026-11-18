@@ -54,7 +54,6 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
  
 - [Medir la velocidad de un sitio]( https://www.searchenginejournal.com/build-speed-dashboards-google-data-studio/321343/)
 - [Migración web http vs https](https://simoncox.com/article/using-google-data-studio-to-review-your-http-to-https-migration)
-- [Impacto de marca](https://www.morrowlytics.co.uk/google-data-studio/benchmarking-your-search-penetration/)
 - [Analizar cambios de posición de palabras clave]( https://datastudio.google.com/u/0/reporting/1Fm7x1vc0vLokRhGf0WqaMd52mw7wjaSI/page/6zXD)
 - [Rastreo e indexación de ScreamingFrog](https://datastudio.google.com/reporting/4ce5740d-318d-42bb-befc-5dfb6c7e28f0/page/p_mignxmm5rc)
 - [Medir el rendimiento (performance) con un gráfico de burbujas](https://developers.google.com/search/blog/2022/04/performance-optimization-bubble-chart)

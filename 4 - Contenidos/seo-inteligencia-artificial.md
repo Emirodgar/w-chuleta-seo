@@ -125,7 +125,6 @@ Como decíamos antes, la IA es un alineado, no un competidor. Dentro de las vent
 - [Perplexity](https://www.perplexity.ai/): realiza resúmenes de nuestras peticiones y también integra búsquedas en la red social de Twitter.
 - [Elicit](https://elicit.org/): realiza una investigación en base a las posibles respuestas a nuestra pregunta para tener toda la información y contexto posible.
 - [Stable Attribution](https://www.stableattribution.com/): dada una imagen generada por IA, nos indica en qué otras imágenes se ha basado para generarla.
-- [AI Social BIO](https://aisocialbio.com/): genera las descripciones de nuestros perfiles sociales.
 - [BlogNLP](https://www.blognlp.com/): herramienta para generación y optimización de contenido en lenguaje natural. Cuenta con múltiples funcionalidaes entre las que se incluyen la corrección ortográfica, la corrección gramatical o la identificación de frases complejas o confusas.
 - [CrowdView](https://crowdview.ai/): es una plataforma de análisis y monitorización de redes sociales que utiliza inteligencia artificial y aprendizaje automático para proporcionar información valiosa sobre la marca, el mercado y la competencia.
 - [GrahamAI](https://www.grahamai.co/): genera tuits de manera aleatoria seleccionando una temática.

@@ -29,7 +29,6 @@ A continuación tenemos el listado de canales oficiales de Google.
 ## Blogs SEO y Marketing Digital
 
 -   Inside Search:  [goo.gl/ShngX3](http://goo.gl/ShngX3)
--   Webmaster:  [goo.gl/c6fMu6](http://goo.gl/c6fMu6)
 
 
 ## Blogs de productos específicos

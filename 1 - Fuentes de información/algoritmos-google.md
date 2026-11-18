@@ -52,7 +52,6 @@ Algunas de estas herramientas son:
 - [SERPMetrics](https://serpmetrics.com/flux/){:target="_blank"}
 - [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
 - [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
-- [SERPwoo](https://www.serpwoo.com/stats/volatility/){:target="_blank"}
 - [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
 - [Algoroo](https://algoroo.com/){:target="_blank"}
 - [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
@@ -109,9 +108,7 @@ Existen múltiples actualizaciones más específicas como Product Reviews Update
 - `Inglés` - [Cuenta oficial de Google en Twitter](https://twitter.com/searchliaison){:target="_blank"}
 - `Inglés` - [Guía oficial de actualizaciones principales (Core)](https://developers.google.com/search/blog/2019/08/core-updates?hl=es)
 - `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
-- `Inglés` - `2023` - [Aprendizajes SEO del código fuente de Yandex](https://www.kevin-indig.com/seos-are-estimating-the-yandex-leak/){:target="_blank"}
 - `Inglés` - `2023` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
-- `Inglés` - `2023` - [9 años de algoritmos de Google](https://moz.com/blog/nine-years-of-google-algorithm){:target="_blank"}
 - `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
 - `Inglés` - `2023` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
 - `Inglés` - `2023` - [Recuperarse de una Helpful Content Update puede llevar meses](https://www.seroundtable.com/google-on-recovering-from-the-helpful-content-update-34979.html){:target="_blank"}
@@ -131,7 +128,6 @@ A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la
 - [SERPMetrics](https://serpmetrics.com/flux/){:target="_blank"}
 - [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
 - [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
-- [SERPwoo](https://www.serpwoo.com/stats/volatility/){:target="_blank"}
 - [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
 - [Algoroo](https://algoroo.com/){:target="_blank"}
 - [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}

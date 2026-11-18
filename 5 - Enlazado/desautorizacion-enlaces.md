@@ -17,7 +17,7 @@ permalink: desautorizacion-enlaces
 
 ## ¿Qué es la desautorización de enlaces?
 
-En el mundo de SEO actual, la [construcción de enlaces](https://chuletaseo.com/enlaces), comúnmente conocida como `linkbuilding` juega un papel crucial en la determinación del posicionamiento del sitio web. Sin embargo, no todos los enlaces son iguales y algunos pueden incluso perjudicar los esfuerzos de SEO de su sitio web. `Disavow` es el proceso de eliminar o desautorizar los enlaces que afectan negativamente el ranking de su sitio web. 
+En el mundo de SEO actual, la [construcción de enlaces](https://chuletaseo.com/enlazado), comúnmente conocida como `linkbuilding` juega un papel crucial en la determinación del posicionamiento del sitio web. Sin embargo, no todos los enlaces son iguales y algunos pueden incluso perjudicar los esfuerzos de SEO de su sitio web. `Disavow` es el proceso de eliminar o desautorizar los enlaces que afectan negativamente el ranking de su sitio web. 
 
 ## ¿Qué es un enlace malo o tóxico?
 

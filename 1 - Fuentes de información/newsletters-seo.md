@@ -24,7 +24,6 @@ Seguir a los [perfiles oficiales de los buscadores](https://chuletaseo.com/blogs
 - [SEO for lunch](https://nickleroy.com/newsletter/)
 - [Rich Snippets](https://app.firewards.com/join/trafficthinktank/q6XwG)
 - [SEOPatía](https://seopatia.estevecastells.com/)
-- [The SEO Freelancer](https://www.theseofreelancer.com/)
 
 ## Newsletters de marketing y analítica web
 
@@ -34,11 +33,9 @@ Una parte importante del SEO es saber reportar correctamente nuestra informació
 - [The Simmer](https://www.simoahava.com/newsletter/)
 - [The Marketing <> Analytics Intersect](https://www.kaushik.net/avinash/marketing-analytics-intersect-newsletter/)
 - [TL;DR Marketing](https://tldrmarketing.com/)
-- [Growth Memo](https://www.kevin-indig.com/tag/gm/)
+- [Growth Memo](https://www.growth-memo.com/)
 - [Marketing Brew](https://www.marketingbrew.com/)
 - [Let's talk Shop](https://lukecarthy.com/lets-talk-shop-newsletter/)
-- [Newsletter oficial de Google Trends](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform)
-- [The Marginalised Marketer](https://iamazeemdigital.com/the-marginalised-marketer-newsletter/)
 - [Roar!](https://www.everybodyroar.com/subscribe)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQyMDMyNDQwNywxNzY5MTI0OTldfQ==

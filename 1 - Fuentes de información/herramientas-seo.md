@@ -36,7 +36,6 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [Seolyzer](https://seolyzer.io/)
 -   [Woorank](https://www.woorank.com/)
 -   [Website Auditor](http://www.seopowersuite.es/website-auditor/)
--   [Lipperhey](https://www.lipperhey.com/)
 -   [Google Webmasters Tools](https://www.google.com/webmasters/tools/home?hl=es)
 -   [Siteliner](http://www.siteliner.com/)
 -   [Serpstat](https://serpstat.com/)
@@ -59,11 +58,9 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Seobility](https://www.seobility.net/)
 -   [Dareboost](https://www.dareboost.com/)
 -   [Gtmetrix](https://gtmetrix.com/)
--   [Varvy](https://varvy.com/)
 -   [Xenulink](http://home.snafu.de/tilman/xenulink.html)
 -   [wappalyzer](https://www.wappalyzer.com/)
 -   [Rapidtables](https://www.rapidtables.com/web/tools/redirect-generator.html)
-- [Hreflang checker](https://hreflang.seovis.de/)
 - [Bulk Redirect Generator](https://seotoolbelt.co/tools/bulk-redirect-generator/)
 - [Gephi](https://gephi.org/users/download/)
 
@@ -79,16 +76,14 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Rank-checker](http://tools.seobook.com/firefox/rank-checker/)
 -   [Seopowersuite](http://www.seopowersuite.es/rank-tracker/)
 -   [Seedkeywords](https://www.seedkeywords.com/)
--   [Ubersuggest](https://app.neilpatel.com/es/ubersuggest)
+-   [Ubersuggest](https://ubersuggest.com/)
 -   [Keyworddit](https://www.keyworddit.com/)
 -   [Lsigraph](https://lsigraph.com/)
--   [Safecont](https://safecont.com/)
 -   [Venngage](https://venngage.com/)
 -   [Visualhunt](https://visualhunt.com/)
 -   [Buzzsumo](https://buzzsumo.com/)
 -   [Webfx Faqfox](https://www.webfx.com/seo-tools/faqfox/)
 -   [Soovle](https://soovle.com/)
--   [seo.danzambonini](http://seo.danzambonini.com/)
 -   [Searchvolume](https://searchvolume.io/)
 -   [Alsoasked](https://alsoasked.com/)
 -   [Text Optimizer](https://textoptimizer.com/)
@@ -98,7 +93,6 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Typefully](https://typefully.app/)
 -   [Deepl](https://www.deepl.com/translator)
 -   [NewsFlashBoard](https://newsflashboard.com/)
--   [Missing Topics](https://missingtopics.com/)
 -   [Keyword Dificulty Finder](https://share.streamlit.io/searchsolved/seo/production_code/streamlit/keyword_difficulty_check_serp_api/keyword_difficulty_check.py)
 - [QuestionDB](https://questiondb.io/)
 - [Free Keyword Tool](https://www.wordstream.com/keywords)
@@ -110,7 +104,6 @@ Posiblemente sea una de las ramas más complejas del SEO.
 
 -   [Rich results](https://search.google.com/test/rich-results)
 -   [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
-- [Schema SERP](https://www.neuraltext.com/ai/schema-serp): dada una palabra clave nos indica los resultados enriquecidos que aparecen en las SERPs.
 - [Guía para crear datos estructurados desde GTM](https://gofishdigital.com/blog/how-to-create-dynamic-schema-with-google-tag-manager/)
 
 

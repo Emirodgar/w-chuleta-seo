@@ -67,8 +67,6 @@ Existen herramientas completas que nos permiten definir proyectos y hacer seguim
 
 Otras herramientas no tan conocidas (ni tampoco con tanta funcionalidad) son las siguientes:
 
-- https://www.lipperhey.com
-- https://varvy.com/
 - http://www.siteliner.com (para validar ciertos aspectos de tu web)
 
 

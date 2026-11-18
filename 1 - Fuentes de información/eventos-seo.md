@@ -28,5 +28,4 @@ A lo largo del año tienen lugar múltiples eventos del sector que generan una s
 
 ## Eventos en español
 
-- [Search Central Virtual Unconference en español 2023](https://rsvp.withgoogle.com/events/search-central-virtual-unconference-es-2023)
 - [SEO on the beach](https://seonthebeach.es/)

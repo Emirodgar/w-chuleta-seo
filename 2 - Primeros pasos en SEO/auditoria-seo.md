@@ -47,7 +47,7 @@ No deberíamos de disponer de ninguna URL a más de tres clics de la página pri
 
 ### Comprobar si la web es Mobile-Friendly
 
-Desde comienzos de 2018, Google da prioridad al contenido mobile ([Mobile First Indexing](https://webmasters.googleblog.com/2018/03/rolling-out-mobile-first-indexing.html)) por lo que una acción prioritaria para nuestra auditoría SEO debe ser asegurarnos de que nuestra web es accesible desde cualquier dispositivo mobile.
+Desde comienzos de 2018, Google da prioridad al contenido mobile ([Mobile First Indexing](https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing)) por lo que una acción prioritaria para nuestra auditoría SEO debe ser asegurarnos de que nuestra web es accesible desde cualquier dispositivo mobile.
 
 Es recomendable utilizar [Google Mobile Friendly Tool](https://search.google.com/test/mobile-friendly) para asegurarnos de que ofrecemos una experiencia correcta en cualquier dispositivo.
 

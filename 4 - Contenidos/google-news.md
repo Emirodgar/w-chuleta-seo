@@ -11,7 +11,6 @@ permalink: google-news
 
 
 
-> Suscríbete a la newsletter de [Google Trends](https://docs.google.com/forms/d/e/1FAIpQLScv9kE1CgAkvKyLbw6RMQYmGbveedVjQWE8qJ9UjztgzDdw1A/viewform) de Simon Rogers para estar al día de los contenidos más buscados. 
 Analizando tendencias, sabrás identificar los patrones cuando los veas y aprovecharás mejor el momento.
 
 ## Identificar una tendencia relevante

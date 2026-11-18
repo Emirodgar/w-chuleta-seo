@@ -45,7 +45,6 @@ De la mano de Google, contamos con Discover y News.
 - `Inglés` - [Guía para evitar la canibalización de palabras clave](https://searchengineland.com/keyword-cannibalization-seo-guide-393596)
 - `Inglés` / Vídeo / - [Cómo analizar la implementación de datos estructurados](https://www.youtube.com/watch?v=_g2s0Mli3Hs&t=6s)
 - `Inglés` - [Cómo trabajar el E-E-A-T](https://www.oncrawl.com/technical-seo/times-eeat-why-simple-seo-no-longer-enough/)
-- `Inglés` - [Así miden las grandes compañías la calidad de su contenido](https://www.kevin-indig.com/how-the-best-companies-measure-content-quality/)
 
 
 <section id="cs_herramientas"></section>
@@ -55,7 +54,6 @@ De la mano de Google, contamos con Discover y News.
 - `Inglés` - [Listado de herramientas para identificar contenidos de baja calidad](https://www.gsqi.com/marketing-blog/tools-for-detecting-low-quality-ai-content/)
 - `Inglés` - [Plantilla de Google Sheets para generar meta descripciones con inteligencia artificial](https://seogreetings.com/blogs/news/bulk-generate-ai-meta-descriptions-in-google-sheets)
 - `Inglés` - [Aplicación para extraer principales keywords de las SERP (páginas de resultados)](https://keywords.streamlit.app/)
-- [Schema SERP](https://www.neuraltext.com/ai/schema-serp): dada una palabra clave nos indica los resultados enriquecidos que aparecen en las SERPs.
 
 
 
