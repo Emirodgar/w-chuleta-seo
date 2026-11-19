@@ -14,6 +14,8 @@ permalink: migracion-seo
 Una migración SEO es cualquier cambio que modifica las URLs de un sitio o la forma en que los buscadores lo ven: dominio, estructura, protocolo o plantilla. Hecha con orden, no tiene por qué costar tráfico. Esta guía sigue el orden que uso y se apoya en las recomendaciones oficiales de Google para mover un sitio.
 {:.lead}
 
+<p><a class="btn btn-primary btn-sm" href="https://chuletaseo.com/chuleta-migracion-seo">Descarga la Chuleta Migración SEO en PDF (1 página)</a></p>
+
 1. Índice
 {:toc}
 
