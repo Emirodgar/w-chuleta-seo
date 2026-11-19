@@ -3,6 +3,7 @@ title: Comandos de búsqueda para Google
 description: Mejora tus búsquedas en Google con estos trucos y comandos
 lang: es_ES
 date: 16/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -16,6 +17,8 @@ Google es un gran buscador, y como tal, nos permite interactuar tanto con las b�
 {:toc}
 
 Para ello dispone de una serie de **comandos específicos** que nos ayudarán a encontrar exactamente lo que estamos buscando. **Los podemos utilizar directamente desde la barra de navegación de Google**.
+
+Ten en cuenta que Google solo documenta oficialmente algunos de ellos (comillas, `site:`, `-`, `before:`, `after:` y `filetype:`, según su [ayuda de búsqueda](https://support.google.com/websearch/answer/2466433)). El resto pueden cambiar o dejar de funcionar sin previo aviso: por ejemplo, Google retiró en 2024 el enlace «En caché» de los resultados y, con él, el operador `cache:`.
 
 ## Búsqueda entre comillas
 

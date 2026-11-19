@@ -1,7 +1,8 @@
 ---
 title: Google News 
-description: Estrategias SEO para mejorar la visibilidad y captación de tráfico desde Google Discover 
+description: Estrategias SEO para mejorar la visibilidad y captación de tráfico desde Google News
 date: 09/11/2022
+date_modified: 19/11/2026
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -23,15 +24,15 @@ Analizando tendencias, sabrás identificar los patrones cuando los veas y aprove
 
 1. **Crea contenido de calidad**: Google News se enfoca en proporcionar noticias relevantes y actualizadas a sus usuarios, por lo que es importante crear contenido de calidad y actualizado con regularidad.
 
-2. **Configura Google News Publisher Center**: Regístrate en el Google News Publisher Center y verifica tu sitio web. Allí podrás indicar tus preferencias de contenido, como temas y secciones, y agregar detalles sobre tu sitio web, como el nombre de la publicación, la frecuencia de publicación, etc.
+2. **Valora usar Google Publisher Center**: no hace falta estar dado de alta para aparecer en Google News ni en Top stories, porque la elegibilidad se determina de forma automática (no existe un proceso de solicitud). Publisher Center es una herramienta opcional para gestionar los datos de tu publicación (feeds RSS, URLs del sitio, vídeos) y crear una página de fuente de noticias que permita a los usuarios seguirte, pero usarla no garantiza que tu contenido aparezca.
 
-3. **Cumple con los requisitos de Google News**: Google tiene ciertos requisitos que debes cumplir para aparecer en Google News. Por ejemplo, tu sitio debe tener un número mínimo de artículos, una sección de noticias claramente identificada, y contenido original y exclusivo.
+3. **Cumple con las políticas de Google News**: para ser elegible, tu contenido debe seguir las prácticas recomendadas para páginas de artículos y no infringir las políticas generales ni las de spam de la Búsqueda de Google. Google también espera transparencia: fechas y autores claros, información sobre el autor, la publicación y el editor, y datos de contacto. Si no las cumples, pueden retirar tu contenido de las superficies de noticias.
 
 4. **Optimiza tus artículos para Google News**: Utiliza títulos claros y precisos y asegúrate de incluir información clave en el primer párrafo del artículo. También es importante utilizar palabras clave relevantes y etiquetas de metadatos adecuadas.
 
-5. **Aumenta la autoridad de tu sitio**: La autoridad del sitio web es un factor importante en la clasificación en Google News. Para aumentar la autoridad de tu sitio, trabaja en mejorar la calidad de los enlaces externos que apuntan a tu sitio y aumentar la cantidad de seguidores y compartidos en redes sociales.
+5. **Trabaja los factores de clasificación**: Google News ordena los resultados según la relevancia y la prominencia del contenido, la autoridad del sitio, lo actualizado que está, la usabilidad y la ubicación y el idioma del usuario. Ni los pagos ni participar en AdSense influyen en la posición.
 
-6. **Sigue las pautas de calidad de contenido de Google News**: Es importante seguir las pautas de calidad de contenido de Google News para asegurarse de que tu contenido cumpla con los requisitos de calidad. Esto incluye evitar contenido engañoso, contenido engañoso, contenido no original y contenido de baja calidad.
+6. **Evita el contenido que Google restringe**: las [políticas de Google News](https://support.google.com/news/publisher-center/answer/6204050?hl=es) limitan, entre otros, el contenido manipulado, las prácticas engañosas (como vistas previas que prometen lo que el contenido no ofrece), la publicidad que supere al contenido editorial y el contenido patrocinado disfrazado de editorial (el patrocinio debe indicarse claramente).
 
 
 <section id="cs_recursos"></section>

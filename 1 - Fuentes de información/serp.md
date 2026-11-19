@@ -2,6 +2,7 @@
 title: ¿Qué son las SERP?
 description: 
 date: 06/03/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -9,7 +10,7 @@ permalink: serp
   
 ---
 
-Las `SERP` o *Search Engine Results Page*, es un término que hace referencia a las páginas de resultado de los buscadores. Cuando se realiza una búsqueda, el buscador muestra una lista de resultados relevantes para la consulta del usuario, junto con información adicional, como fragmentos de texto, imágenes, mapas y anuncios. 
+Las `SERP` o *Search Engine Results Page*, es un término que hace referencia a las páginas de resultado de los buscadores. Cuando se realiza una búsqueda, el buscador muestra una lista de resultados relevantes para la consulta del usuario, junto con información adicional, como fragmentos de texto, imágenes, mapas y anuncios. A estos elementos se suman las funciones de IA de Google, como [AI Overviews y AI Mode](https://developers.google.com/search/docs/appearance/ai-features?hl=es){:target="_blank"}, que muestran enlaces de apoyo dentro de la respuesta. 
 
 Las SERP pueden variar en función de la consulta de búsqueda, la [ubicación geográfica del usuario](https://chuletaseo.com/seo-local), el dispositivo utilizado para realizar la búsqueda y otros [factores](https://chuletaseo.com/factores-seo).
 
@@ -23,6 +24,7 @@ Tanto en la versión de escritorio como la móvil, podemos configurar el [icono]
 ## Recursos
 
 - [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
+- [Funciones de IA (AI Overviews y AI Mode) y tu sitio web](https://developers.google.com/search/docs/appearance/ai-features?hl=es)
 - [Configurar nombre de página en resultados](https://developers.google.com/search/docs/appearance/site-names?hl=es)
 - [Configurar el icono de nuestra página para los resultados ](https://developers.google.com/search/docs/appearance/favicon-in-search?hl=es)
 - `Inglés` - [9 consejos para solucionar si tu nombre de empresa aparece mal en los resultados](https://www.gsqi.com/marketing-blog/site-name-problems-google-search)

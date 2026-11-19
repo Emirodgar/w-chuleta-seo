@@ -3,6 +3,7 @@ title: Estrategia SEO
 description: Cómo diseñar y ejecutar una estrategia SEO
 lang: es_ES
 date: 23/08/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -38,6 +39,7 @@ Cuando trabajamos una estrategia que está en curso, hay algunos aspectos que po
  8. Optimizar el SEO local.
  9. Optimizar el enlazado interno.
  10. Medir correctamente el rendimiento de la estrategia. Echa un vistazo a la sección de [informes SEO](https://chuletaseo.com/informes-seo).
+ 11. Revisar la presencia en las respuestas generadas con IA (AI Overviews y AI Mode en Google). Según Google, no requieren optimizaciones especiales más allá del SEO bien hecho: páginas indexadas, con snippet y con contenido útil en texto. Más en [SEO e inteligencia artificial](https://chuletaseo.com/seo-inteligencia-artificial) y en la [Chuleta GEO](https://chuletaseo.com/chuleta-geo).
 
 
 <section id="cs_recursos"></section>
@@ -63,7 +65,7 @@ Existen herramientas completas que nos permiten definir proyectos y hacer seguim
 - Ahrefs
 - Sistrix
 - SEObility 
-- Deepcrawl
+- Lumar (antes Deepcrawl)
 
 Otras herramientas no tan conocidas (ni tampoco con tanta funcionalidad) son las siguientes:
 

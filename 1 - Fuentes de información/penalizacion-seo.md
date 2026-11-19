@@ -2,6 +2,7 @@
 title: Penalización SEO
 description: ¿Qué tipos de penalización existen y cómo podemos evitarlas?
 date: 06/03/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -23,13 +24,21 @@ Las penalizaciones SEO pueden ocurrir debido a varias razones, incluyendo:
 
 5. **Contenido de baja calidad**: si un sitio web tiene contenido de baja calidad, sin valor para los usuarios, puede recibir una penalización.
 
+6. **Abuso de contenido a escala**: crear muchas páginas con el objetivo principal de manipular el ranking, normalmente con contenido poco original y de poco valor. Según Google, la política se aplica sin importar cómo se haya creado el contenido: con IA, con otra automatización o con redactores humanos.
+
+7. **Abuso de dominios caducados**: comprar un dominio caducado para reutilizarlo con contenido de poco o ningún valor con el fin de aprovechar su posicionamiento.
+
+8. **Abuso de reputación del sitio** (`site reputation abuse`): publicar contenido de terceros en un sitio con buen posicionamiento para beneficiarse de su reputación, sin que el propio sitio lo supervise o aporte de forma significativa. Esta política se aplica desde el 5 de mayo de 2024.
+
+Todas estas prácticas figuran en las [políticas de spam de Google](https://developers.google.com/search/docs/essentials/spam-policies?hl=es){:target="_blank"}, junto a otras como el cloaking, los textos ocultos o el spam de enlaces.
+
 Es importante tener en cuenta que las penalizaciones SEO pueden ser perjudiciales para el tráfico y el rendimiento del sitio web. Es por eso que es importante seguir las directrices y reglas de optimización de los motores de búsqueda para evitar cualquier tipo de penalización. Si se recibe una penalización, se deben tomar medidas para solucionar el problema y cumplir con las reglas de optimización.
 
 ## ¿Qué tipos de penalizaciones SEO existen?
 
 Dentro de Google, hay dos tipos de penalizaciones:
 
-1. **Penalización manual**: Una penalización manual se produce cuando un revisor humano de Google encuentra que tu sitio web está violando las directrices de calidad de Google y decide penalizarlo. Esto puede ser el resultado de prácticas como construcción de enlaces artificiales, contenido duplicado o spam de palabras clave.
+1. **Penalización manual**: Una penalización manual se produce cuando un revisor humano de Google encuentra que tu sitio web está violando las directrices de calidad de Google y decide penalizarlo. Esto puede ser el resultado de prácticas como construcción de enlaces artificiales, contenido duplicado o spam de palabras clave. Google la notifica en el [informe de acciones manuales](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"} de Search Console y se puede solicitar su revisión una vez corregido el problema.
 
 2. **Penalización automática o algorítmica**: Una penalización algorítmica es cuando el algoritmo de Google detecta que tu sitio web no cumple con sus directrices de calidad y te penaliza automáticamente. Esto puede deberse a una variedad de factores, como el uso excesivo de palabras clave, contenido duplicado, enlaces de baja calidad y otros comportamientos que se consideran perjudiciales para los usuarios.
 
@@ -41,9 +50,11 @@ Dentro de Google, hay dos tipos de penalizaciones:
 ## Recursos
 
 - [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
-- [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es){:target="_blank"}
+- [Políticas de spam de Google Search](https://developers.google.com/search/docs/essentials/spam-policies?hl=es){:target="_blank"}
+- [Listado oficial de actualizaciones de algoritmo](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history?hl=es){:target="_blank"}
+- [Cronología de actualizaciones de Google](https://chuletaseo.com/actualizacion-core)
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
-- `Inglés` - [Cuenta oficial de Google en Twitter](https://twitter.com/searchliaison){:target="_blank"}
+- `Inglés` - [Cuenta de Google Search Central en X](https://x.com/googlesearchc){:target="_blank"}
 
 
 <section id="cs_herramientas"></section>
@@ -51,7 +62,6 @@ Dentro de Google, hay dos tipos de penalizaciones:
 ## Herramientas
 
 - [Informe de acciones manuales en Google Search Console](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"}
-- `Inglés` - [Validador de penalizaciones de Google](https://fruition.net/google-penalty-checker){:target="_blank"}
 - `Inglés` - [Template de Looker Studio de Aleyda Solis para analizar impacto de cambio de algoritmo](https://www.aleydasolis.com/en/search-engine-optimization/google-update-analysis-search-console-data-studio-report-template/){:target="_blank"}
 
 

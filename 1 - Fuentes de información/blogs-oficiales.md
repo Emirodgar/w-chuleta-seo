@@ -2,7 +2,7 @@
 title: Blogs oficiales de buscadores
 description: Listado de los blogs oficiales de los principales buscadores
 date: 22/06/2022
-date_modified: 11/02/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -18,8 +18,9 @@ Cuando queremos conocer información fiable, actualizada y de primera mano, lo m
 ## Recursos
 
 
-- [Blog de **Google** (Search Blog)](https://developers.google.com/search/blog)
+- [Blog de **Google** (Google Search Central Blog)](https://developers.google.com/search/blog)
 - [Blog de **Bing**](https://blogs.bing.com/)
+- [Blog de **Bing Webmaster**](https://blogs.bing.com/webmaster/)
 - [Blog de **Yandex**](https://webmaster.yandex.ru/blog/)
 
 Además de los blogs oficiales, tenemos una serie de recursos de utilidad para estar al día en SEO.
@@ -30,7 +31,7 @@ Además de los blogs oficiales, tenemos una serie de recursos de utilidad para e
 
 > Una buena práctica para recibir las últimas novedades del mundo SEO es suscribirse a una [newsletters SEO](https://chuletaseo.com/newsletter-seo) o un [podcast](https://chuletaseo.com/podcast-seo).
 
-Además de los blogs, Google tiende a publicar noticias relacionadas con los algoritmos a través de su cuenta de Twitter de [Google Search Central](https://twitter.com/googlesearchc).  
+Además de los blogs, Google comunica las novedades de sus algoritmos en el [panel de estado de Búsqueda](https://status.search.google.com/) (recogido en nuestra [cronología de actualizaciones](https://chuletaseo.com/actualizacion-core)) y a través de sus cuentas de Google Search Central en [X](https://x.com/googlesearchc) y [LinkedIn](https://www.linkedin.com/showcase/googlesearchcentral/).  
 
 
 <section id="cs_herramientas"></section>

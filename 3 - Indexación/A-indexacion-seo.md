@@ -3,7 +3,7 @@ title: Indexación
 description: Mejora el rastreo y la indexación de tu sitio web
 lang: es_ES
 date: 16/03/2022
-date_modified: 23/02/2023
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: indexacion
@@ -23,7 +23,7 @@ Una vez que sabemos que nuestra página puede ser accedida por los motores de b�
 
 1. **Verifica la indexación actual de tu sitio web**: Utiliza el comando `site:` en la barra de búsqueda de Google para verificar cuántas páginas de tu sitio web están indexadas. Si el número de páginas indexadas es significativamente menor que el número de páginas de tu sitio web, es posible que haya problemas de indexación que deban abordarse. Este comando no es exacto, pero nos servirá para hacernos una idea acerca de lo que Google ha indexado.
 
-2. **Genera un mapa del sitio XML (sitemap Xml)**: Un [Sitemap XML](https://chuletaseo.com/sitemap-xml) es un fichero que contiene una lista de todas las páginas de tu sitio web que quieres indexar. Para informar a los buscadores tenemos varias opciones, a través del fichero robots.txt con la instrucción `Sitemap: fichero.xml` o directamente desde Google Search Console o Bing Webmasters Tools podemos enviarlos.
+2. **Genera un mapa del sitio XML (sitemap Xml)**: Un [Sitemap XML](https://chuletaseo.com/sitemap-xml) es un fichero que contiene una lista de todas las páginas de tu sitio web que quieres indexar. Para informar a los buscadores tenemos varias opciones, a través del fichero robots.txt con la instrucción `Sitemap: fichero.xml` o directamente desde Google Search Console o Bing Webmaster Tools podemos enviarlos.
 
 De cara a la indexación, este fichero será crucial dado que desde las plataformas antes mencionadas podremos hacer seguimiento de las URL enviadas en el sitemap y saber cuáles de ellas han sido indexadas y, las que aún no lo están, conocer el motivo.
 
@@ -38,7 +38,7 @@ De cara a la indexación, este fichero será crucial dado que desde las platafor
 7. **Ofrece contenido de calidad**: En SEO debemos buscar calidad antes que cantidad, por lo que no hay que tener miedo de [eliminar páginas de bajo valor](https://chuletaseo.com/eliminar-pagina-indexada-google); esto beneficiará el proceso de indexación global del sitio.
 
 
-> Si estamos recibiendo muchas peticiones de rastreo de Googlebot y queremos reducir su impacto en nuestro servidor, [debemos usar el código `429`](https://developers.google.com/search/blog/2023/02/dont-404-my-yum) con el que le indicaremos `too many requests` (muchas peticiones). Debemos evitar devolver errores de ``403` o `404` ya que el robot lo interpretará de otra manera.
+> Si estamos recibiendo muchas peticiones de rastreo de Googlebot y queremos reducir su impacto en nuestro servidor, [debemos usar el código `429`](https://developers.google.com/search/blog/2023/02/dont-404-my-yum) con el que le indicaremos `too many requests` (muchas peticiones). Debemos evitar devolver errores `403` o `404` ya que el robot lo interpretará de otra manera.
 
 ## Migración
 

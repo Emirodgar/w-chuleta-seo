@@ -1,27 +1,29 @@
 ---
 title: Optimizar tiempo de carga
-description: Proceso para eliminar páginas del índice de los buscadores, en concreto, Google, aunque el proceso es extensible al resto.
+description: Aspectos clave para reducir el tiempo de carga de tu web y mejorar los Core Web Vitals
 lang: es_ES
 permalink: optimizar-tiempo-carga
 author: Emirodgar
 layout: default_1
 folder: indexacion
 date: 15/02/2021
-date_modified: 16/03/2022
+date_modified: 19/11/2026
   
 ---
 
 Optimizar el tiempo de carga de una página es un proceso técnico que implicará optimizar aspectos como el hosting (servidor web donde alojamos nuestro sitio), el código fuente de nuestra página o los diferentes componentes de los que hacemos uso.
 
-A cotninuación mostrarmos algunos aspectos que inciden en el tiempo de carga de nuestra página.
+A continuación mostramos algunos aspectos que inciden en el tiempo de carga de nuestra página.
 
-1. **Optimiza las imágenes**: Las imágenes pueden ralentizar el tiempo de carga de tu página web. Utiliza herramientas como Photoshop o GIMP para reducir el tamaño de las imágenes antes de cargarlas a tu sitio web. Además, asegúrate de utilizar el formato de imagen adecuado para cada imagen. Por ejemplo, utiliza formatos como JPEG para fotografías y PNG para gráficos y logotipos.
+Google mide la experiencia de carga con los [Core Web Vitals](https://web.dev/articles/vitals): `LCP` (carga, bueno por debajo de 2,5 segundos), `INP` (interactividad, bueno por debajo de 200 milisegundos) y `CLS` (estabilidad visual, bueno por debajo de 0,1), evaluados en el percentil 75 de las visitas. `INP` sustituyó a `FID` como métrica estable en 2024.
+
+1. **Optimiza las imágenes**: Las imágenes pueden ralentizar el tiempo de carga de tu página web. Utiliza herramientas como Photoshop o GIMP para reducir el tamaño de las imágenes antes de cargarlas a tu sitio web. Además, asegúrate de utilizar el formato de imagen adecuado para cada imagen. Por ejemplo, formatos modernos como WebP o AVIF comprimen mejor que JPEG y PNG y son compatibles con todos los navegadores modernos; conviene mantener JPEG o PNG como alternativa para los casos en los que no se admitan.
 
 2. **Utiliza un servicio de entrega de contenido (CDN)**: Un servicio de entrega de contenido (CDN) ayuda a distribuir los archivos de tu sitio web a través de una red de servidores en todo el mundo, lo que reduce el tiempo de carga. Cloudflare es una opción popular de CDN para sitios web.
 
 3. **Minimiza el uso de plugins y scripts**: Cada plugin y script que se carga en tu página web puede afectar el tiempo de carga. Asegúrate de utilizar solo los plugins y scripts necesarios y elimina los que no se están utilizando.
 
-4. **Utiliza la compresión de archivos**: La compresión de archivos puede ayudar a reducir el tamaño de los archivos, lo que a su vez reduce el tiempo de carga. Utiliza herramientas de compresión como Gzip para comprimir archivos HTML, CSS y JavaScript.
+4. **Utiliza la compresión de archivos**: La compresión de archivos puede ayudar a reducir el tamaño de los archivos, lo que a su vez reduce el tiempo de carga. Utiliza Brotli (preferible a Gzip, que comprime algo menos) para comprimir archivos HTML, CSS y JavaScript.
 
 5. **Utiliza una herramienta de análisis de velocidad**: Utiliza herramientas de análisis de velocidad como Google PageSpeed Insights o GTmetrix para evaluar el tiempo de carga de tu página web y obtener recomendaciones para mejorarlo.
 
@@ -34,9 +36,9 @@ A cotninuación mostrarmos algunos aspectos que inciden en el tiempo de carga de
 
 ## Recursos
 
-- [Información sobre la experiencia de página en los resultados de la Búsqueda de Google](https://developers.google.com/search/docs/advanced/experience/page-experience?hl=es-419) 
-- [11 claves para mejroar el tiempo de carga](https://rockcontent.com/es/blog/mejorar-el-tiempo-de-carga/)
-- [8 pasos para optimizar el tiempo de carga](https://blog.hubspot.es/marketing/velocidad-paginas-web)
+- [Información sobre la experiencia de página en los resultados de la Búsqueda de Google](https://developers.google.com/search/docs/appearance/page-experience?hl=es) 
+- [11 claves para mejorar el tiempo de carga](https://analoghq.ai/blog/es/mejorar-el-tiempo-de-carga/)
+- [8 pasos para optimizar el tiempo de carga](https://blog.hubspot.es/website/velocidad-pagina-web)
 
 <section id="cs_herramientas"></section>
 
@@ -46,11 +48,6 @@ A cotninuación mostrarmos algunos aspectos que inciden en el tiempo de carga de
 - [GTMetrix](https://gtmetrix.com/): herramienta gratuita que analiza el tiempo de carga de tu página web y te proporciona recomendaciones para mejorarlo. La herramienta también proporciona una puntuación de velocidad para tu página web.
 - [Google PageSpeed](https://pagespeed.web.dev/): es una herramienta gratuita de Google que evalúa el tiempo de carga de tu página web y te proporciona recomendaciones para mejorarlo. La herramienta también proporciona una puntuación de velocidad para tu página web.
 - [Pingdom](https://www.pingdom.com/): herramienta que te permite evaluar el tiempo de carga de tu página web y te proporciona información detallada sobre el rendimiento de tu sitio web.
-
-
-Google PageSpeed Insights: G
-
-GTmetrix: GTmetrix es otra 
 
 
 

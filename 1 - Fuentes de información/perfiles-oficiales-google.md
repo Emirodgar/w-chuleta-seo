@@ -2,139 +2,79 @@
 title: Perfiles oficiales de Google
 description: Listado de todos los perfiles oficiales de Google
 date: 14/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
 permalink: perfiles-oficiales-google
-  
+
 ---
 
 Una buena forma de estar al día es suscribirnos a los perfiles y contenidos más relacionados con nuestros productos y servicios. La principal fuente de información deben de ser los [blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales), no obstante existen otras muchas fuentes de información relevante.
 
 A continuación tenemos el listado de canales oficiales de Google.
 
-1. Íncide de contenidos
+1. Índice de contenidos
 {:toc}
+
+## Google Search Central
+
+Son los canales oficiales del equipo de Google que trabaja con webmasters y profesionales SEO. Si solo vas a seguir uno, que sea este.
+
+- Blog: [developers.google.com/search/blog](https://developers.google.com/search/blog)
+- X: [@googlesearchc](https://x.com/googlesearchc)
+- LinkedIn: [Google Search Central](https://www.linkedin.com/showcase/googlesearchcentral/)
+- YouTube: [Google Search Central](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+- Podcast: [Search Off the Record](https://pod.link/1512522198)
+- Comunidad de ayuda: [Comunidad de Google Search Central](https://support.google.com/webmasters/community)
+- Panel de estado de Búsqueda, donde se registran las actualizaciones de ranking: [status.search.google.com](https://status.search.google.com/). Tienes la cronología completa en [Actualizaciones de Google Search](https://chuletaseo.com/actualizacion-core).
 
 ## Blogs generales
 
-- Google:  [goo.gl/7m92Nj](http://goo.gl/7m92Nj)
-- Think With Google:  [goo.gl/75oPW0](http://goo.gl/75oPW0)
-- Chrome:  [goo.gl/1bCPpa](http://goo.gl/1bCPpa)
-- Online Security:  [goo.gl/03MRU1](http://goo.gl/03MRU1)
--   Google & Your Business:  [goo.gl/V1CBLd](http://goo.gl/V1CBLd)
--   Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
--  Ads Developer: [goo.gl/HGjkyg5](https://googleadsdeveloper.blogspot.com/)
-
-## Blogs SEO y Marketing Digital
-
--   Inside Search:  [goo.gl/ShngX3](http://goo.gl/ShngX3)
-
+- Google: [blog.google](https://blog.google/)
+- Think with Google: [thinkwithgoogle.com](https://www.thinkwithgoogle.com/)
+- Chrome: [blog.google/products/chrome](https://blog.google/products/chrome/)
+- Seguridad: [blog.google/security](https://blog.google/security/)
+- Google Ads y Commerce: [blog.google/products/ads-commerce](https://blog.google/products/ads-commerce/)
 
 ## Blogs de productos específicos
 
--   Google News:  [goo.gl/6ECpH7](http://goo.gl/6ECpH7)
--   Earth & Maps:  [goo.gl/zVX9Go](http://goo.gl/zVX9Go)
--   Drive:  [goo.gl/wouQnB](http://goo.gl/wouQnB)
--   Cloud:  [goo.gl/nQuYBM](http://goo.gl/nQuYBM)
--   Analytics:  [goo.gl/9LKizW](http://goo.gl/9LKizW)
--   Android:  [goo.gl/jo98mU](http://goo.gl/jo98mU)
--  Gmail:  [goo.gl/E2REJQ](http://goo.gl/E2REJQ)
--   Translate:  [goo.gl/TI4ud0](http://goo.gl/TI4ud0)
--   Shopping:  [goo.gl/1BXHif](http://goo.gl/1BXHif)
+- Google Search: [blog.google/products/search](https://blog.google/products/search/)
+- Google News: [blog.google/products/news](https://blog.google/products/news/)
+- Maps: [blog.google/products/maps](https://blog.google/products/maps/)
+- Shopping: [blog.google/products/shopping](https://blog.google/products/shopping/)
+- Android: [blog.google/products/android](https://blog.google/products/android/)
+- Cloud: [cloud.google.com/blog](https://cloud.google.com/blog)
+- Workspace: [workspace.google.com/blog](https://workspace.google.com/blog)
 
 ## Blogs de publicidad
 
--   Inside AdWords:  [goo.gl/DbktUp](http://goo.gl/DbktUp)
--   Inside AdSense:  [goo.gl/UfnfbL](http://goo.gl/UfnfbL)
--   DoubleClick Advertiser:  [goo.gl/VDnsTt](http://goo.gl/VDnsTt)
--   DoubleClick Publishers:  [goo.gl/CpYMeB](http://goo.gl/CpYMeB)
--   DoubleClick Search:  [goo.gl/O9M0Fu](http://goo.gl/O9M0Fu)
--   Mobile Ads:  [goo.gl/BnUzuu](http://goo.gl/BnUzuu)
--   Agency:  [goo.gl/bsjdYf](http://goo.gl/bsjdYf)
+- Google Ads Developer: [developers.google.com/ads/blog](https://developers.google.com/ads/blog)
 
 ## Canales de Youtube
 
--   YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
--   YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
-- Webmasters [goo.gl/Hyut45](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+- [Google Search Central](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA) (antes Webmasters)
   - [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
   - [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
   - [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
 
 ## Foros de ayuda
 
--   Google Products Forums:  [goo.gl/qo30kj](http://goo.gl/qo30kj)
--   Google Search Forum:  [goo.gl/e5QV5O](http://goo.gl/e5QV5O)
--   Google Custom Search:  [goo.gl/1l09Hs](http://goo.gl/1l09Hs)
--   Webmaster Central:  [goo.gl/xJ5PyV](http://goo.gl/xJ5PyV)
--   AdSense in English:  [goo.gl/jHcoMn](http://goo.gl/jHcoMn)
--   DoubleClick for Publishers:  [goo.gl/6IKXMI](http://goo.gl/6IKXMI)
--   DoubleClick Rich Media:  [goo.gl/WUe5ym](http://goo.gl/WUe5ym)
--   Google Affiliate Network:  [goo.gl/aAXRo8](http://goo.gl/aAXRo8)
--   Google Ad Grants Help Forum:  [goo.gl/0U2hgR](http://goo.gl/0U2hgR)
--   Blogger:  [goo.gl/5xR3Ux](http://goo.gl/5xR3Ux)
--   Google Sites:  [goo.gl/hC607O](http://goo.gl/hC607O)
--   Gmail:  [goo.gl/ILriqy](http://goo.gl/ILriqy)
--   Google+:  [goo.gl/dEjCzu](http://goo.gl/dEjCzu)
--   Google Chat:  [goo.gl/T5u5hL](http://goo.gl/T5u5hL)
--   Google Voice Forum:  [goo.gl/DbSDA5](http://goo.gl/DbSDA5)
--   Hangouts:  [goo.gl/CtfISz](http://goo.gl/CtfISz)
--   Google Translator Toolkit API:  [goo.gl/J5ocm1](http://goo.gl/J5ocm1)
--   Google Analytics:  [goo.gl/wSCHqt](http://goo.gl/wSCHqt)
--   Google Calendar:  [goo.gl/E0KSnH](http://goo.gl/E0KSnH)
--   Nexus:  [goo.gl/gkdGAf](http://goo.gl/gkdGAf)
--   Picasa:  [goo.gl/YF2tTi](http://goo.gl/YF2tTi)
--   Postini:  [goo.gl/TPJWXO](http://goo.gl/TPJWXO)
--   Sketchup:  [goo.gl/A6Z3t7](http://goo.gl/A6Z3t7)
--   Google and Your Business:  [goo.gl/oB8p35](http://goo.gl/oB8p35)
--   Google Business Sitebuilder:  [goo.gl/JcsXL6](http://goo.gl/JcsXL6)
--   Google Commerce Search:  [goo.gl/TxyK7r](http://goo.gl/TxyK7r)
--   Google Checkout Merchant:  [goo.gl/taMkrg](http://goo.gl/taMkrg)
--   Google Merchant Center:  [goo.gl/cWyHKr](http://goo.gl/cWyHKr)
--   Google Apps:  [goo.gl/7o1ZAj](http://goo.gl/7o1ZAj)
--   Google Docs:  [goo.gl/CVuDym](http://goo.gl/CVuDym)
--   Google Drive:  [goo.gl/2tyaYM](http://goo.gl/2tyaYM)
--   Google Earth:  [goo.gl/XT7LJr](http://goo.gl/XT7LJr)
--   Google Map Maker:  [goo.gl/YVRQcK](http://goo.gl/YVRQcK)
--   Google Maps:  [goo.gl/6ciOm5](http://goo.gl/6ciOm5)
--   Google Maps Engine Lite:  [goo.gl/V10fWx](http://goo.gl/V10fWx)
--   Google Mobile Help Forum:  [goo.gl/Hd0PlC](http://goo.gl/Hd0PlC)
--   Google Tag Manager:  [goo.gl/iKu2g5](http://goo.gl/iKu2g5)
+- [Comunidad de Google Search Central](https://support.google.com/webmasters/community)
 
-## Perfiles de Twitter oficiales
+## Perfiles de X oficiales
 
-- Accelerate with Google [https://twitter.com/AccelwithGoogle](https://twitter.com/AccelwithGoogle)
-- Android Studio: [https://twitter.com/androidstudio](https://twitter.com/androidstudio)
-- Analytics: [https://twitter.com/googleanalytics](https://twitter.com/googleanalytics)
-- Chrome: [https://twitter.com/googlechrome](https://twitter.com/googlechrome)
-- Chrome Developers: [https://twitter.com/ChromiumDev](https://twitter.com/ChromiumDev)
-- Chrome Dev Tools: [https://twitter.com/chromedevtools](https://twitter.com/chromedevtools)
-- Chrome Experiments: [https://twitter.com/chromeexp](https://twitter.com/chromeexp)
-- Cloud: [https://twitter.com/googlecloud](https://twitter.com/googlecloud)
-- Design: [https://twitter.com/GoogleDesign](https://twitter.com/GoogleDesign)
-- Developers: [https://twitter.com/googledevs](https://twitter.com/googledevs)
-- Display: [https://twitter.com/googledisplay](https://twitter.com/googledisplay)
-- Firebase: [https://twitter.com/firebase](https://twitter.com/firebase)
-- España: [https://twitter.com/googlees](https://twitter.com/googlees)
-- Fonts: [https://twitter.com/googlefonts](https://twitter.com/googlefonts)
-- Global Ads: [https://twitter.com/googleglobalads](https://twitter.com/googleglobalads)
-- G. Suite Developers: [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)
-- Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
-- Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
-- Local guides: [https://twitter.com/localguides](https://twitter.com/localguides)
-- Maps: [https://twitter.com/googlemaps](https://twitter.com/googlemaps)
-- Made with code: [https://twitter.com/madewithcode](https://twitter.com/madewithcode)
-- Photos: [https://twitter.com/googlephotos](https://twitter.com/googlephotos)
-- Small business: [https://twitter.com/googlesmallbiz](https://twitter.com/googlesmallbiz)
-- Summer of code: [https://twitter.com/gsoc](https://twitter.com/gsoc)
-- Trends: [https://twitter.com/googletrends](https://twitter.com/googletrends)
-- Web designer: [https://twitter.com/googlewdesigner](https://twitter.com/googlewdesigner)
-- Webmasters: [https://twitter.com/googlewmc](https://twitter.com/googlewmc)
-- Think with Google: [https://twitter.com/thinkwithgoogle](https://twitter.com/thinkwithgoogle)
+- Google Search Central: [https://x.com/googlesearchc](https://x.com/googlesearchc)
+- Analytics: [https://x.com/googleanalytics](https://x.com/googleanalytics)
+- Chrome: [https://x.com/googlechrome](https://x.com/googlechrome)
+- Chrome Developers: [https://x.com/ChromiumDev](https://x.com/ChromiumDev)
+- Developers: [https://x.com/googledevs](https://x.com/googledevs)
+- España: [https://x.com/googlees](https://x.com/googlees)
+- Global Ads: [https://x.com/googleglobalads](https://x.com/googleglobalads)
+- Local guides: [https://x.com/localguides](https://x.com/localguides)
+- Maps: [https://x.com/googlemaps](https://x.com/googlemaps)
+- Small business: [https://x.com/googlesmallbiz](https://x.com/googlesmallbiz)
+- Trends: [https://x.com/googletrends](https://x.com/googletrends)
+- Think with Google: [https://x.com/thinkwithgoogle](https://x.com/thinkwithgoogle)
 
-Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NDE4MDgsLTEyNjc4OTQ1NzUsMTg2MD
-Y2MzM4N119
--->
+Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://bsky.app/profile/johnmu.com) (Search Advocate en Google, donde coordina el equipo de Search Relations), que también está en [Mastodon](https://mastodon.social/@johnmu) y [LinkedIn](https://www.linkedin.com/in/johnmu). Danny Sullivan dejó en agosto de 2025 el puesto de Search Liaison y la cuenta @searchliaison dejó de estar activa, así que hoy las novedades para webmasters llegan por los canales de Google Search Central ([fuente](https://www.seroundtable.com/danny-sullivan-drops-google-search-liaison-39872.html)).

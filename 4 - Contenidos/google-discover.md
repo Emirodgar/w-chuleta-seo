@@ -2,6 +2,7 @@
 title: Google Discover 
 description: Estrategias SEO para mejorar la visibilidad y captación de tráfico desde Google Discover 
 date: 09/11/2022
+date_modified: 19/11/2026
 folder: contenidos
 author: Emirodgar
 layout: default_1
@@ -16,7 +17,7 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 ## ¿Qué ofrece Discover?
 
 -   Noticias y contenido *evergreen* (que nunca caduca)
--   Da relevancia a contenidos con imágenes, vídeos y AMP Stories
+-   Da relevancia a contenidos con imágenes y vídeos
 -   Se puede acceder desde la home de la aplicación de Google
 -   Disponible en múltiples idiomas
 -   Altamente personalizable
@@ -24,16 +25,20 @@ Fue lanzada en 2017 y ofrece contenido relevante y de calidad a  los usuarios qu
 
 ## Discover es diferente de las búsquedas de Google
 
-> Discover es más que noticias, pero [los medios digitales se llevan la mayor parte de los clics](https://www.searchenginejournal.com/google-discover/361142/%C2%A0), en torno al 46%.
+> Discover es más que noticias, pero [los medios digitales se llevan la mayor parte de los clics](https://www.searchenginejournal.com/google-discover/361142/), en torno al 46%.
 
-Los contenidos de Discover sólo pueden ser accedidos desde la aplicación de Google, mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos aplicaciones distintas.
+Discover es una función de Google Search a la que se accede desde la aplicación de Google (el informe de Discover de Search Console incluye también tráfico de Chrome), mientras que los resultados son los que aparecen al utilizar el buscador. Son, por tanto, dos superficies distintas.
+
+## Core update específica de Discover
+
+El 5 de febrero de 2026 Google lanzó la [primera core update dedicada a Discover](https://developers.google.com/search/blog/2026/02/discover-core-update), una actualización amplia de los sistemas que muestran artículos en el feed. Sus objetivos declarados son mostrar más contenido con relevancia local de sitios del país del usuario, reducir el contenido sensacionalista y el clickbait, y dar más visibilidad a contenido original, más profundo y oportuno de sitios con experiencia en un tema (evaluada por tema y no por sitio completo). Se lanzó inicialmente para usuarios de habla inglesa en EE. UU., con la intención de ampliarla a todos los países e idiomas en los meses siguientes, sin fechas concretas. Google no añade pasos nuevos: remite a su guía de Discover. Tienes la cronología en [actualizaciones de Google](https://chuletaseo.com/actualizacion-core).
 
 ## ¿Cómo aparecer en Google Discover?
 
 > Google da una serie de recomendaciones en su [guía oficial](https://developers.google.com/search/docs/appearance/google-discover?hl=es) para incrementar nuestra presencia.
 
 1. Usar títulos `meta title` que reflejen la esencia del contenido, pero que no sean clickbait.
-2. Usar imágenes atractivas y de alta calidad en el contenido, sobre todo si son de gran tamaño, ya que es más probable que generen visitas en Discover. Las imágenes grandes deben tener al menos 1200 píxeles de ancho y deben estar implementadas con el ajuste `max-image-preview:large` o mediante AMP. 
+2. Usar imágenes atractivas y de alta calidad en el contenido, sobre todo si son de gran tamaño, ya que es más probable que generen visitas en Discover. Las imágenes grandes deben tener al menos 1200 píxeles de ancho (más de 300.000 píxeles en total, con una relación de aspecto 16:9) y deben estar implementadas con el ajuste `max-image-preview:large` o mediante AMP. 
 3. No uses el logotipo de tu sitio como imagen.
 4. No uses tácticas para aumentar artificialmente la interacción. Por ejemplo, no incluyas información engañosa o exagerada en las partes de tu contenido que se muestran primero a los usuarios (es decir, en el título, los fragmentos o las imágenes) para hacer que la página resulte más atractiva.
 5. No ocultes información necesaria para saber de qué trata el contenido.
@@ -79,19 +84,19 @@ Discover lo denomina **Topics, Interests & Entities** y es en lo que se basa par
 
 ## Cómo aparecer en Discover
 
-> Sólo está disponible para dispositivos móviles y es accesible a través de la aplicación de Google.
+> Se accede principalmente en dispositivos móviles a través de la aplicación de Google.
 
 Es un tráfico muy volátil, así que ten mucho cuidado con tener una gran dependencia del mismo. Así como viene, se puede ir.
 
 Antes de nada, debemos cumplir una serie de requisitos
 
 -   La URL debe estar indexada en Google.
--   Debemos cumplir con las políticas de Google Content policies.
+-   Debemos cumplir con las políticas de contenido de Discover.
 -   Debe contener imágenes grandes y de calidad. 
-- Debemos disponer de la etiqueta `max-image-preview:large` configurada en el sitio.
+- Debemos disponer de la etiqueta `max-image-preview:large` configurada en el sitio (o usar AMP). No se requieren otras etiquetas ni datos estructurados.
 -   Los artículos deben tener fechas claras. Información sobre el autor.
--   Site must provide information about the publication, the publisher, company or network behind it, and contact information to better build trust and transparency with visitors.
--   Timely Content
+-   El sitio debe ofrecer información sobre la publicación, el editor, la empresa o red que hay detrás y datos de contacto, para generar confianza y transparencia.
+-   Contenido oportuno.
 
 > Discover ofrece contenidos personalizados, esto implica que no puedes trabajar contenido específico para esta plataforma. Dependerá de los gustos de los usuarios.
 
@@ -100,8 +105,8 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 1.  **Conocer nuestra principal audiencia de Google Discover**. Analizar los intereses de los usuarios basándonos en los artículos con mayor exposición en Discover es un buen punto de partida.
 2.  Ofrecer contenido de calidad. Aunque la mayoría son contenidos de noticias o actualidad, el *evergreen* también tiene su hueco.
 3.  **Incluir imágenes de calidad, únicas y originales**. Mínimo `1200px` y con atributo `alt` establecido.
-4.  **Optimizar para móviles y AMP.** Casi el 60% de los resultados corresponden a versiones AMP.
-5.  **Alinearnos con el concepto de E-A-T**. Debemos incluir información clara y precisa de quiénes somos, cómo contactarnos y quién ha escrito el contenido.  Incluir los datos estructurados de `Person` asociados al autor.
+4.  **Optimizar para móviles.** AMP ya no es imprescindible: según Google, basta con tener activado `max-image-preview:large` (o usar AMP) para las imágenes grandes.
+5.  **Alinearnos con el concepto de E-E-A-T**. Debemos incluir información clara y precisa de quiénes somos, cómo contactarnos y quién ha escrito el contenido.  Incluir los datos estructurados de `Person` asociados al autor.
 6.  **Considerar los factores  "Buzz".** Identificar lo que es tendencia en redes sociales ayuda a alinearse con lo que puede estar ocurriendo en Discover.
 7.  Conseguir un panel de conocimiento. No es requisito indispensable, pero ayuda.
 
@@ -111,7 +116,6 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 ## Recursos para explotar Google Discover
 
 - [Discover y tu sitio web (guía oficial de Google)](https://developers.google.com/search/docs/appearance/google-discover?hl=es)
-- `Inglés` - [Uncover Google Discover mysteries](https://www.newzdash.com/guide/uncover-google-discover-mysteries-john-shehata)
 - `Inglés` - [Categorías con mayor presencia en Discover](https://docs.google.com/spreadsheets/d/1JISDrPFmW2kaGqtMz1yoDH3KASl9_GFy77KTOzMYSKg/edit#gid=0) 
 - `Inglés` - [Optimize for Google Discover](https://wordlift.io/blog/en/optimize-for-google-discover/)
 - [Actualizar tu panel de conocimiento](https://support.google.com/knowledgepanel/answer/7534842?hl=en&ref_topic=7439095%C2%A0)
@@ -142,7 +146,7 @@ Aun así, hay aspectos que sí podemos conocer y potenciar. Por ejemplo:
 <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Es lo mismo Discover que los resultados de búsquedas?</a> </h5>
 </div>
 <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-<div class="card-body">No. Son aplicaciones diferentes. A Discover accedemos a través de la aplicación de Google y únicamente en dispositivos móviles. Los resultados de búsqueda se pueden acceder desde cualquier sitio.   </div>
+<div class="card-body">No. Son superficies diferentes. A Discover accedemos principalmente a través de la aplicación de Google en dispositivos móviles. Los resultados de búsqueda se pueden acceder desde cualquier sitio.   </div>
 </div>
 </div>
 

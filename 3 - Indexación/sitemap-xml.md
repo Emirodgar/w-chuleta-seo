@@ -3,6 +3,7 @@ title: Sitemap XML
 description: Mejora el rastreo y la indexación de tu sitio web
 lang: es_ES
 date: 16/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: indexacion
@@ -16,33 +17,37 @@ Un fichero **sitemap XML** es un archivo que contiene una lista de todas las pá
 
 1. Comenzamos creando una lista completa de todas las páginas del sitio web, incluyendo las páginas principales y secundarias, las publicaciones de blog y cualquier otro tipo de contenido. Es importante organizar la lista en una jerarquía lógica que refleje la estructura del sitio web. Las páginas principales deben estar en la parte superior de la jerarquía, seguidas de las páginas secundarias y el contenido de nivel inferior.
 
-2. Usamos una herramienta de generación de sitemap, como XML Sitemap Generator o Screaming Frog, para crear el archivo sitemap XML. Estas herramientas tienen dos modos de funcionamiento, o bien cargamos el listado generado en el punto anterior para que creen el sitemap con esas URL o hacemos que [rastrean el sitio](https://chuletaseo.com/emular-rastreo) y generan un archivo sitemap XML automáticamente. En este último caso es posible que se incluyan URL poco relevantes o que no nos interese enviar a travésl del sitemap XML.
+2. Usamos una herramienta de generación de sitemap, como XML Sitemap Generator o Screaming Frog, para crear el archivo sitemap XML. Estas herramientas tienen dos modos de funcionamiento, o bien cargamos el listado generado en el punto anterior para que creen el sitemap con esas URL o hacemos que [rastreen el sitio](https://chuletaseo.com/emular-rastreo) y generan un archivo sitemap XML automáticamente. En este último caso es posible que se incluyan URL poco relevantes o que no nos interese enviar a través del sitemap XML.
 
 Un fichero sitemap XML es un listado de páginas. Utiliza la etiqueta `<urlset>` seguida de una serie de etiquetas `<url>` para cada página del sitio web.
 
-En cada etiqueta `<url>`, se incluye la URL de la página, la fecha en que se actualizó por última vez y la frecuencia de actualización. También podemos hacer uso de la etiqueta `<priority>` para indicar la importancia relativa de cada página en comparación con otras del sitio.
+En cada etiqueta `<url>`, se incluye la URL de la página (`<loc>`, siempre como URL absoluta) y la fecha en que se actualizó por última vez (`<lastmod>`). Google utiliza `<lastmod>` solo si es coherente y verificable (por ejemplo, si se corresponde con un cambio real en el contenido principal, los datos estructurados o los enlaces, no con un simple cambio en el copyright). Las etiquetas `<priority>` y `<changefreq>` las [ignora por completo](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=es), por lo que no hace falta incluirlas.
+
+Cada sitemap puede tener como máximo 50 MB (sin comprimir) o 50.000 URL. Si el sitio es mayor, hay que dividirlo en varios sitemaps y enlazarlos desde un archivo de índice de sitemaps.
 
 ## ¿Cómo enviar el fichero Sitemap XML a los buscadores?
 
-El archivo sitemap XML se puede enviar a los motores de búsqueda a través de las herramientas de búsqueda de Google (Search Console) o Bing (Webmasters Tools) y también lo podemos referenciar desde el archivo `robots.txt`. Para esto último, bastará con incluir la siguiente instrucción:
+El archivo sitemap XML se puede enviar a los motores de búsqueda a través de las herramientas de búsqueda de Google (Search Console) o Bing (Webmaster Tools) y también lo podemos referenciar desde el archivo `robots.txt`. Para esto último, bastará con incluir la siguiente instrucción:
 
 ```
-Sitemap: nombre_sitemap.xml
+Sitemap: https://www.ejemplo.com/nombre_sitemap.xml
 ```
+
+El envío del sitemap es solo una sugerencia para Google, que puede decidir no descargarlo ni rastrear todas sus URL. Además, Google [retiró en 2023 el endpoint de ping de sitemaps](https://developers.google.com/search/blog/2023/06/sitemaps-lastmod-ping?hl=es), así que ya no sirve para avisar de cambios: la vía es mantener un `lastmod` fiable y enviar el sitemap desde Search Console o `robots.txt`.
 
 ## ¿Cómo generamos un archivo Sitemap XML?
 
-Si necesitamos generar un sitemap XML con el listado de las páginas del sitio web, podemos hacer uso de múltiples herramientas gratuitas. Si preferimos hacerlo a mano, Lino ha compartido un sencillo código que podemos ejecutar directamente desde la consola de nuestro navegador. Para ello sólo necesitaremos sustituir las URL de nuestras páginas en el array de ```["url1", "url2", "url3"]``` y posteriormente ejecutar el siguiente código desde la consola de nuestro navegaor.
+Si necesitamos generar un sitemap XML con el listado de las páginas del sitio web, podemos hacer uso de múltiples herramientas gratuitas. Si preferimos hacerlo a mano, Lino ha compartido un sencillo código que podemos ejecutar directamente desde la consola de nuestro navegador. Para ello sólo necesitaremos sustituir las URL de nuestras páginas en el array de ```["url1", "url2", "url3"]``` y posteriormente ejecutar el siguiente código desde la consola de nuestro navegador.
 
 ```
-let text = '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n <url>\n';
+let text = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 const urls = ["url1", "url2", "url3"];
 urls.forEach(myFunction);
-text += " </url>\n</urlset>";
+text += "</urlset>";
 console.log(text);
  
 function myFunction(item, index) {
-  text += "  <loc>" + item + "</loc>\n"; 
+  text += " <url>\n  <loc>" + item + "</loc>\n </url>\n";
 }
 
 ```
@@ -55,7 +60,8 @@ function myFunction(item, index) {
 
 ## Recursos
 
- - `[Inglés]` - [Bing: importancia de usar el atributo lastmod en los sitemaps](https://blogs.bing.com/webmaster/february-2023/The-Importance-of-Setting-the-lastmod-Tag-in-Your-Sitemap/)
+ - [Google: Cómo crear y enviar un sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=es)
+ - `[Inglés]` - [Bing: importancia de usar el atributo lastmod en los sitemaps](https://blogs.bing.com/webmaster/2023/2/The-Importance-of-Setting-the-lastmod-Tag-in-Your-Sitemap/)
 
 <section id="cs_herramientas"></section>
 

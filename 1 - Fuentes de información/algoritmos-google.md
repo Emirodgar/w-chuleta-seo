@@ -2,7 +2,7 @@
 title: Cómo funcionan los algoritmos de Google
 description: Todo lo que necisitas saber para reforzar tu estrategia SEO
 date: 14/07/2022
-date_modified: 29/03/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
@@ -29,11 +29,11 @@ Trabajamos con la idea de que **hace uso de unos [200 factores SEO](https://chul
 
 Varias veces al año Google actualiza de manera oficial su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
-> Desde el mes de julio de 2022, Google comparte un [listado oficial de todas las actualizaciones de su algoritmo](https://developers.google.com/search/updates/ranking){:target="_blank"}. También han incluido en el [dashboard de seguimiento de búsquedas](https://status.search.google.com/){:target="_blank"} un apartado para hacer seguimiento de los cambios de algoritmos.
+> Desde el mes de julio de 2022, Google comparte un listado oficial de todas las actualizaciones de su algoritmo. Hoy ese listado vive en el [panel de estado de Búsqueda de Google](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history){:target="_blank"} (la antigua página de la documentación redirige allí).
 
 Google ha explicado en detalle qué implica un 'core update' y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
 
-Últimamente anuncian estos cambios a través de la cuenta de Twitter de Searchliaison por lo que recomiendo seguirla para estar al tanto.
+Anuncian estos cambios en ese panel de estado y a través de las cuentas de Google Search Central en [X](https://x.com/googlesearchc){:target="_blank"} y [LinkedIn](https://www.linkedin.com/showcase/googlesearchcentral/){:target="_blank"}, por lo que recomiendo seguirlas para estar al tanto. La cuenta de Search Liaison (@searchliaison) dejó de estar activa tras la salida de Danny Sullivan de ese puesto en agosto de 2025 ([Search Engine Roundtable](https://www.seroundtable.com/danny-sullivan-drops-google-search-liaison-39872.html){:target="_blank"}).
 
 ### Filtración del código de Yandex
 
@@ -55,9 +55,9 @@ Algunas de estas herramientas son:
 - [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
 - [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
 - [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
-- [Algoroo](https://algoroo.com/){:target="_blank"}
-- [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
-- [RankRanger](https://www.rankranger.com/rank-risk-index){:target="_blank"}
+- [Algoroo](https://dejan.ai/algoroo/){:target="_blank"}
+- [Advanced Web Rankings](https://www.advancedwebranking.com/free-seo-tools/google-algorithm-changes){:target="_blank"}
+- [Similarweb SERP Seismometer (antes Rank Risk Index de RankRanger)](https://www.similarweb.com/serp/){:target="_blank"}
 
 ## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
@@ -69,9 +69,9 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 
 3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente.
 
-> Gary Illyes (Google) comentó en el Pubcon 2023 que si somos penalizaciones por la actualización Helpful Content Update, [podemos tardar meses en recuperar la confianza de Google](https://www.seroundtable.com/google-on-recovering-from-the-helpful-content-update-34979.html) y que nuestros contenidos vuelvan a posicionar. 
+> Desde marzo de 2024 el sistema de contenido útil (Helpful Content) ya no es una actualización separada: forma parte de los [sistemas principales de ranking de Google](https://developers.google.com/search/docs/appearance/ranking-systems-guide?hl=es){:target="_blank"}. Y Google recuerda que, aunque algunos cambios se notan en días, [puede tardar varios meses en confirmar la calidad de un sitio](https://developers.google.com/search/docs/appearance/core-updates?hl=es){:target="_blank"}; si pasados esos meses no hay mejora, la siguiente core update puede ser la próxima oportunidad.
 
-En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es){:target="_blank"}.  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
+En el caso de que hagamos uso de Google Analytics (GA4), podemos cruzar las fechas de inicio y fin de cada actualización del panel oficial con nuestras sesiones orgánicas para analizar el impacto.
 
 ## Tipos de actualizaciones del algoritmo
 
@@ -99,20 +99,23 @@ A mayores de las actualizaciones principales `core update` existen otras con una
 
 Existen múltiples actualizaciones más específicas como Product Reviews Update, Page Title Rewrites o Passage Indexing cuyo objetivo es mejorar o subsanar aspectos concretos de la experiencia de los usuarios y funcionalidades del buscador.
 
+También hay actualizaciones contra el spam (`spam updates`), que mejoran los sistemas que lo detectan. Muchos de los sistemas que antes llegaban como actualizaciones propias, como Panda (2015), Penguin (2016) o el sistema de contenido útil (marzo de 2024), [pasaron a formar parte de los sistemas principales de ranking](https://developers.google.com/search/docs/appearance/ranking-systems-guide?hl=es){:target="_blank"}. En nuestra [cronología de actualizaciones de Google](https://chuletaseo.com/actualizacion-core) tienes todas las registradas por el panel oficial y, para conocer qué prácticas persigue Google, sus [políticas de spam](https://developers.google.com/search/docs/essentials/spam-policies?hl=es){:target="_blank"} (abuso de contenido a escala, de dominios caducados o de reputación del sitio, entre otras).
+
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
-- [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es)
+- [Listado oficial de actualizaciones de algoritmo](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history?hl=es)
+- [Cronología de actualizaciones de Google](https://chuletaseo.com/actualizacion-core)
+- [Guía de los sistemas de ranking de Google](https://developers.google.com/search/docs/appearance/ranking-systems-guide?hl=es)
 - [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
 - [Dashboard de seguimiento de búsquedas](https://status.search.google.com/){:target="_blank"}
-- `Inglés` - [Cuenta oficial de Google en Twitter](https://twitter.com/searchliaison){:target="_blank"}
+- `Inglés` - [Cuenta de Google Search Central en X](https://x.com/googlesearchc){:target="_blank"}
 - `Inglés` - [Guía oficial de actualizaciones principales (Core)](https://developers.google.com/search/blog/2019/08/core-updates?hl=es)
 - `Inglés` - `2020` - [Diferencias entre cambio de algoritmo y penalización SEO](https://searchengineland.com/google-algorithms-vs-google-penalties-explained-by-an-ex-googler-345011){:target="_blank"}
-- `Inglés` - `2023` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/yandex-local-seo-ranking-factors/){:target="_blank"}
-- `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsivedigital.com/insights/news/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
-- `Inglés` - `2023` - [Predicciones SEO](https://www.conductor.com/academy/seo-predictions/){:target="_blank"}
+- `Inglés` - `2023` - [Aprendizajes SEO local del código fuente de Yandex](https://www.localseoguide.com/blog/yandex-local-seo-ranking-factors/){:target="_blank"}
+- `Inglés` - `2023` - [Análisis Content Helpful Update 2023](https://www.amsive.com/insights/seo/how-googles-latest-helpful-content-system-update-is-impacting-serps/){:target="_blank"}
 - `Inglés` - `2023` - [Recuperarse de una Helpful Content Update puede llevar meses](https://www.seroundtable.com/google-on-recovering-from-the-helpful-content-update-34979.html){:target="_blank"}
 
 <section id="cs_herramientas"></section>
@@ -131,10 +134,10 @@ A continuación se ofrecen herramientas que nos permiten hacer seguimiento de la
 - [Accuranker](https://www.accuranker.com/grump/){:target="_blank"}
 - [Cognitive SEO](https://cognitiveseo.com/signals/){:target="_blank"}
 - [SEMRush](https://es.semrush.com/sensor/){:target="_blank"}
-- [Algoroo](https://algoroo.com/){:target="_blank"}
-- [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/){:target="_blank"}
-- [RankRanger](https://www.rankranger.com/rank-risk-index){:target="_blank"}
-- [Sistrix Radar Update](https://app.sistrix.com/es/google-update-radar){:target="_blank}
+- [Algoroo](https://dejan.ai/algoroo/){:target="_blank"}
+- [Advanced Web Rankings](https://www.advancedwebranking.com/free-seo-tools/google-algorithm-changes){:target="_blank"}
+- [Similarweb SERP Seismometer (antes Rank Risk Index de RankRanger)](https://www.similarweb.com/serp/){:target="_blank"}
+- [Sistrix Radar Update](https://app.sistrix.com/es/google-update-radar){:target="_blank"}
 
 <section id="cs_pr"></section>
 

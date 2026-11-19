@@ -2,6 +2,7 @@
 title: SEO local - Estrategias, cursos y recursos
 description: Aprende a desarrollar una estrategia efectiva
 date: 23/08/2022
+date_modified: 19/11/2026
 folder: indexacion
 layout: default_1
 author: Emirodgar
@@ -17,9 +18,11 @@ A la hora de trabajar el SEO local, existen una serie de factores que determinar
 
 Al igual que en cualquier estrategia SEO, los enlaces (internos, externos, autoridad de dominio, etc.) serán determinantes para nuestro posicionamiento. En este caso será más relevante aquellos enlaces desde empresas locales y que tengan cierto contexto con nuestra ubicación.
 
-### Google Business Profiles (antiguo Google My Business)
+### Google Business Profile (antes Google My Business)
 
-Disponer de un perfil de GMB será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
+Disponer de un perfil de empresa en Google (Google Business Profile, GBP; antes GMB) será clave para poder acceder a una mayor visibilidad dentro de las búsquedas locales. Es importante tenerlo actualizado y contestar a las preguntas que nos realicen los potenciales clientes.
+
+Según la [ayuda oficial de Perfil de Empresa](https://support.google.com/business/answer/7091?hl=es), los resultados locales se basan principalmente en tres factores: **relevancia** (cuánto coincide el perfil con lo que busca el usuario), **distancia** (entre la empresa y quien busca) y **prominencia** (lo conocida que es la empresa, donde también influyen los enlaces desde otras webs y el número de reseñas).
 
 #### Recomendaciones para las imágenes del perfil de Google
 
@@ -31,7 +34,7 @@ Disponer de un perfil de GMB será clave para poder acceder a una mayor visibili
 
 4- Una imagen del exterior del negocio es preferible para mostrar por parte del algoritmo. Intenta que no tenga muchos detalles de fondo y sea un primer plano.
 
-5- Utiliza las dimensiones 1332 x 750 para la foto que quieras mostrar de portada.
+5- Utiliza fotos en formato JPG o PNG, de entre 10 kB y 5 MB, con una resolución recomendada de 720 x 720 píxeles (mínimo 250 x 250), bien enfocadas y que representen la realidad, sin retoques excesivos ni filtros. Ten en cuenta que elegir una foto de portada no garantiza que sea la primera que se muestre ([fuente](https://support.google.com/business/answer/6103862?hl=es)).
 
 ### Comportamiento
 
@@ -56,7 +59,7 @@ Aunque la mayor parte de los cursos existentes son de pago, tenemos alguno gratu
 
 - /2022 - Moz - [The Essential Local SEO Strategy Guide](https://moz.com/local-seo-guide)
 - /2022 - Moz - [Cómo hacer una auditoría SEO local](https://moz.com/blog/basic-local-competitive-audit)
-- /2021 - Whitespark - [Local Search Ranking Factors](https://whitespark.ca/local-search-ranking-factors/)
+- /2026 - Whitespark - [Local Search Ranking Factors](https://whitespark.ca/local-search-ranking-factors/)
 
 ## Blogs y podcast sobre SEO local
 
@@ -74,8 +77,8 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 - [Google Review Link Generator](https://whitespark.ca/google-review-link-generator/): para conseguir un enlace corto que poder compartir con nuestros clientes y que nos dejen valoraciones en nuestro perfil.
 - [SERPerator](https://mobilemoxie.com/tools/mobile-serp-test/): realiza búsquedas geolocalizadas por país, ciudad e incluso código postal.
-- [GMBspy](https://chrome.google.com/webstore/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
-- [GMB Everywhere](https://chrome.google.com/webstore/detail/gmb-everywhere-gbp-audit/oibcaeeplepnjfjhokfcabnaafodppik): a extensión de Chrome para ejecutar auditorías de perfiles de GMB.
+- [GMBspy](https://chromewebstore.google.com/detail/gmbspy/hijfnlgdhfpmnckieikhinolopcolofe?hl=en-US): extensión de Google Chrome para analizar los perfiles de la competencia.
+- [GMB Everywhere](https://chromewebstore.google.com/detail/gmb-everywhere-gbp-audit/oibcaeeplepnjfjhokfcabnaafodppik): a extensión de Chrome para ejecutar auditorías de perfiles de GMB.
 - [Microdata generator](https://microdatagenerator.org/localbusiness-microdata-generator/): nos ayuda a generar datos estructurados de un negocio local para poder generar resultados enriquecidos.
 - `[Inglés]` - [¿Impactan los servicios en el posicionamiento de Business Profile?](https://www.sterlingsky.ca/services-in-google-business-profile-impact-ranking/)
 - `[Inglés]` - [Ranking de factores SEO locales](https://whitespark.ca/local-search-ranking-factors/)
@@ -88,10 +91,10 @@ Si vamos a trabajar en Estados Unidos, uno de los grupos más interesantes es [T
 
 ## Preguntas y respuestas
 
-### ¿Es necesario tener perfil de Google My Business para posicionar en SEO local?
+### ¿Es necesario tener perfil de Google Business Profile (antes Google My Business) para posicionar en SEO local?
 
 No es necesario, pero sí muy recomendable, dado que de esta forma conseguimos generar una mayor visibilidad dentro de los resultados de Google.
 
 ### ¿Qué datos estructurados se pueden usar para el SEO local?
 
-Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/advanced/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [logo](https://developers.google.com/search/docs/advanced/structured-data/logo).
+Los más recomendados son el de [negocio local](https://developers.google.com/search/docs/appearance/structured-data/local-business) (especificando correctamente el tipo de negocio a través de la propiedad *[type](https://schema.org/LocalBusiness#subtypes)*) y el de [organización](https://developers.google.com/search/docs/appearance/structured-data/organization), que incluye la propiedad `logo`.

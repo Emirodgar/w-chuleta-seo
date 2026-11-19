@@ -7,7 +7,7 @@ author: Emirodgar
 layout: default_1
 folder: indexacion
 date: 15/02/2021
-date_modified: 16/03/2022
+date_modified: 19/11/2026
   
 ---
 
@@ -35,7 +35,7 @@ date_modified: 16/03/2022
 
 2. Utiliza la última versión de `PHP`, eso garantizará una mejor respuesta.
 
-3. Habilita `php OpCache` para cachear las peticiones a la base de datos y mejorar el acceso a la información.
+3. Habilita `php OpCache`, que almacena en memoria el código PHP ya compilado (bytecode) para no tener que cargarlo y analizarlo en cada petición.
 
 4. Instala `Redis` y configura la integración con WordPress usando el complemento `Redis Object Cache`.
 
@@ -47,8 +47,6 @@ date_modified: 16/03/2022
 
 8️. Instala el complemento `Speed   Up - Clean WP` para deshabilitar los scripts `comment-reply.min.js`, `jquery-migrate.js`, incrustaciones y emojis.
 
-9️. Usa el complemento para la optimización de la base de datos `Optimize Database after Deleting Revisions`.
-
 
 <section id="cs_recursos"></section>
 
@@ -59,8 +57,11 @@ date_modified: 16/03/2022
 
 <section id="cs_herramientas"></section>
 
+## Herramientas
+
 - [GTMMetrix](https://gtmetrix.com/)
-- [Google PageSpeed](https://pagespeed.web.dev/)
+- [Google PageSpeed Insights](https://pagespeed.web.dev/)
+- [Core Web Vitals (LCP, INP y CLS)](https://web.dev/articles/vitals): métricas con las que Google mide la carga, la interactividad y la estabilidad visual.
 
 
 <section id="cs_pr"></section>

@@ -7,7 +7,7 @@ author: Emirodgar
 layout: default_1
 folder: indexacion
 date: 15/02/2021
-date_modified: 29/03/2023
+date_modified: 19/11/2026
   
 ---
 
@@ -22,13 +22,13 @@ Si no tenemos dado de alta el dominio en Search Console, lo creamos.
 
 ### La página existe
 
-Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta oficial de Google para eliminar páginas de su índice](https://www.google.com/webmasters/tools/url-removal){:target="_blank"}. Podemos acceder a la misma a través de: `Índice de Google` > `Eliminar URLs`. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
+Si se trata de **una página que existe** -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la [herramienta de eliminaciones de Search Console](https://search.google.com/search-console/removals){:target="_blank"}. Podemos acceder a la misma desde el menú lateral, en `Eliminaciones`. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
 
 ### La página ya no existe
 
-En el caso de que se trate de un contenido que **ya no existe en nuestra web, pero que aun así sigue indexado en Google**, debemos emplear la [herramienta de eliminación de contenido obsoleto](https://www.google.com/webmasters/tools/removals){:target="_blank"}.
+En el caso de que se trate de un contenido que **ya no existe en nuestra web, pero que aun así sigue indexado en Google**, debemos emplear la herramienta de eliminaciones o, si no somos los propietarios del sitio, la [herramienta para actualizar contenido obsoleto](https://search.google.com/search-console/remove-outdated-content){:target="_blank"}.
 
-Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una **acción temporal** (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una **acción temporal** (dura unos 6 meses) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
 
 ## Evitar de nuevo su indexación (`noindex` o error `4XX`)
 
@@ -36,7 +36,7 @@ Para evitar que una página se indexe tenemos a nuestra disposición varios mét
 
 ### Noindex: La página sigue existiendo pero no queremos que se indexe
 
-En ese caso, usaremos la [etiqueta noindex](https://developers.google.com/search/reference/robots_meta_tag?hl=es#directivas-de-indexacin-y-publicacin-vlidas){:target="_blank"} para indicar al buscador que esa página no debe ser indexada.
+En ese caso, usaremos la [etiqueta noindex](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es){:target="_blank"} para indicar al buscador que esa página no debe ser indexada.
 Su uso es sencillo, bastará con incluir en la cabecera de la página (sección `<head>`) la siguiente línea:
 
 ```
@@ -65,7 +65,7 @@ X-Robots-Tag: noindex
 (…)
 ```
 
-En los ejemplos anteriores estamos bloqueando la indexación a todos los robots de búsqueda. En la etiqueta `name` podríamos especificar, en lugar de `robots` el nombre concreto de un bot para limitar su indexación. Aquí tenemos el [listado de los robots de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers?hl=es){:target="_blank"}.
+En los ejemplos anteriores estamos bloqueando la indexación a todos los robots de búsqueda. En la etiqueta `name` podríamos especificar, en lugar de `robots` el nombre concreto de un bot para limitar su indexación. Aquí tenemos el [listado de los robots de Google](https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers?hl=es){:target="_blank"}.
 
 ### Limitamos el rastreo del robot
 
@@ -84,35 +84,35 @@ Ambas opciones conseguirán que la URL indexada desaparezca del índice de Googl
 
 ## Eliminar ficheros indexados
 
-Si se han indexado ficheros ubicados en nuestro servidor, es recomendable bloquear el acceso a los mismos y únicamente permitir los documentos orientados a la página web. Para ello, en el caso del **servidor Apache**, debemos bloquear el [listado de directorios](https://wiki.apache.org/httpd/DirectoryListings){:target="_blank"} haciendo uso de esta instrucción en nuestro fichero .htaccess:  
+Si se han indexado ficheros ubicados en nuestro servidor, es recomendable bloquear el acceso a los mismos y únicamente permitir los documentos orientados a la página web. Para ello, en el caso del **servidor Apache**, debemos bloquear el [listado de directorios](https://cwiki.apache.org/confluence/spaces/HTTPD/pages/115522289/DirectoryListings){:target="_blank"} haciendo uso de esta instrucción en nuestro fichero .htaccess:  
 
 ```
 Options -Indexes
 ```
-Para que funcione, la opción `AllowOverides` debe estar a `on`. Una vez activado, si accedemos a un directorio, este no debe mostrar el listado de los documentos que contiene, sino un error de acceso.
+Para que funcione, el servidor debe permitir sobrescribir esta opción desde `.htaccess` (directiva `AllowOverride`). Una vez activado, si accedemos a un directorio, este no debe mostrar el listado de los documentos que contiene, sino un error de acceso.
 
 > Existen multitud de [opciones que podemos configurar en Apache](codigos-htaccess-apache) para mejorar el rendimiento y añadir funcionalidades SEO a nuestra página.
 
 ## Consejos adicionales
 
-Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos que sigan indexadas, podemos hacer uso de la etiqueta [unavailable_after](https://googleblog.blogspot.com/2007/07/robots-exclusion-protocol-now-with-even.html){:target="_blank"} de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
+Si se trata de páginas que sabemos que, tras un tiempo publicadas, no queremos que sigan indexadas, podemos hacer uso de la regla [unavailable_after](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es){:target="_blank"} de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
 
-En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information){:target="_blank"}, ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1){:target="_blank"}.
+En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos [seguir estos pasos](https://developers.google.com/search/docs/crawling-indexing/remove-information?hl=es){:target="_blank"}, ya que debemos hacerlo a través del [portal legal de Google](https://support.google.com/legal/answer/3110420?hl=es){:target="_blank"}.
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
  - `Inglés` - `2023` - [Experimento para desindexar URL con etiqueta unavailable_after](https://ohgm.co.uk/another-way-to-deindex-urls/){:target="_blank"}
- - [Listado de los robots de búsqueda de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers?hl=es){:target="_blank"}
+ - [Listado de los robots de búsqueda de Google](https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers?hl=es){:target="_blank"}
 
 <section id="cs_herramientas"></section>
 
 ## Herramientas
 
-- [Google: Solicitud de retirada de URL de su índice](https://search.google.com/search-console/removals){:target="_blank"}
-- [Google: Solicitud de retirada de contenido obsoleto](https://search.google.com/search-console/remove-outdated-content){:target="_blank"}
-- [Google: Denunciar contenido ilegal](https://support.google.com/legal/answer/3110420?visit_id=638156855509177681-2977660644&rd=1){:target="_blank"}
+- [Google: Herramienta de eliminaciones de Search Console](https://search.google.com/search-console/removals){:target="_blank"}
+- [Google: Actualizar contenido obsoleto](https://search.google.com/search-console/remove-outdated-content){:target="_blank"}
+- [Google: Denunciar contenido ilegal](https://support.google.com/legal/answer/3110420?hl=es){:target="_blank"}
 
 <section id="cs_pr"></section>
 
@@ -142,7 +142,7 @@ En el caso de que queramos que desaparezca información alojada en otras página
                   <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿la eliminación de una página es permanente?</a> </h5>
                 </div>
                 <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
-                  <div class="card-body"> Si hemos utilizado las herramientas de Google para solicitar la eliminación, esta medida será temporal (aproximadamente 2 ó 3 meses). Por ello, en paralelo debemos bloquear la indexación de dicha página para evitar que vuelva a aparecer en el índice del buscador.</div>
+                  <div class="card-body"> Si hemos utilizado las herramientas de Google para solicitar la eliminación, esta medida será temporal (aproximadamente 6 meses). Por ello, en paralelo debemos bloquear la indexación de dicha página para evitar que vuelva a aparecer en el índice del buscador.</div>
                 </div>
               </div>
               <div class="card">

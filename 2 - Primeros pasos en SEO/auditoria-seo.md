@@ -3,6 +3,7 @@ title: Auditoría SEO
 description: Pasos y acciones para desarrollar una correcta auditoría SEO.
 lang: es_ES
 date: 16/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -29,13 +30,13 @@ Reducir el número de páginas indexadas en fundamental para que los robots se c
  
 ### Comprobar problemas de indexación
 
-A través de Google Search Console podremos analizar si el buscador está teniendo problemas para indexar nuestra página. Debemos acceder a Índice > cobertura > Válidas para ver en detalle las URLs que son válidas y las que están generando error. Podemos hacer una segunda validación con [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) en busca de páginas obsoletas, que dan error o bloqueadas.
+A través de Google Search Console podremos analizar si el buscador está teniendo problemas para indexar nuestra página. Debemos acceder al informe **Indexación > Páginas**, donde veremos en detalle qué URLs están indexadas y por qué motivo otras no lo están. Podemos hacer una segunda validación con [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) en busca de páginas obsoletas, que dan error o bloqueadas.
 
 ### Solucionar errores de enlazado interno
 
-A través de Google Searh Console, en el mismo apartado que antes Índice > cobertura > Error, podemos consultar aquellas páginas que han generado error al ser visitadas por Google. El objetivo es descubrir y corregir el problema para evitar que se sigan detectando errores. Normalmente, estos problemas se origina por un mal enlazado interno o por [eliminar páginas](https://chuletaseo.com/eliminar-pagina-indexada-google) sin haber sido [migradas correctamente](https://chuletaseo.com/migracion-seo).
+A través de Google Search Console, en el mismo informe de indexación de páginas (tabla «Por qué no se indexan las páginas»), podemos consultar aquellas que han generado error al ser visitadas por Google. El objetivo es descubrir y corregir el problema para evitar que se sigan detectando errores. Normalmente, estos problemas se origina por un mal enlazado interno o por [eliminar páginas](https://chuletaseo.com/eliminar-pagina-indexada-google) sin haber sido [migradas correctamente](https://chuletaseo.com/migracion-seo).
 
-Podemos completar este informe con herramientas externas como [Broken Link Check](http://www.brokenlinkcheck.com/).
+Podemos completar este informe con herramientas externas como [Broken Link Check](https://www.brokenlinkcheck.com/).
 
 ### Verificar la arquitectura del sitio
 
@@ -49,7 +50,7 @@ No deberíamos de disponer de ninguna URL a más de tres clics de la página pri
 
 Desde comienzos de 2018, Google da prioridad al contenido mobile ([Mobile First Indexing](https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing)) por lo que una acción prioritaria para nuestra auditoría SEO debe ser asegurarnos de que nuestra web es accesible desde cualquier dispositivo mobile.
 
-Es recomendable utilizar [Google Mobile Friendly Tool](https://search.google.com/test/mobile-friendly) para asegurarnos de que ofrecemos una experiencia correcta en cualquier dispositivo.
+Google retiró en diciembre de 2023 la Prueba de optimización para móviles y el informe de usabilidad móvil de Search Console. Hoy podemos apoyarnos en [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) y en la navegación real desde distintos dispositivos para asegurarnos de que ofrecemos una experiencia correcta.
 
 ### Optimiza el tiempo de carga
  
@@ -61,9 +62,11 @@ El tiempo de acceso a una web es crucial tanto para usuarios como para buscadore
  - Comprimir GZIP las peticiones entre servidor y usuario
  - Utilizar un CDN
  
+Google mide la experiencia de carga con las [Core Web Vitals](https://developers.google.com/search/docs/appearance/core-web-vitals): LCP (carga, menos de 2,5 segundos), INP (interactividad, menos de 200 milisegundos; sustituyó a FID en marzo de 2024) y CLS (estabilidad visual, menos de 0,1). Podemos consultarlas en el informe Core Web Vitals de Search Console. Más detalle en la guía para [optimizar el tiempo de carga](https://chuletaseo.com/optimizar-tiempo-carga).
+
 Algunas de las herramientas que podemos utilizar son:
  
- - [GTMetrix](https://gtmetrix.com/), [Webpagetest](https://www.webpagetest.org/) o [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/) para conocer problemas en el tiempo de carga.
+ - [GTMetrix](https://gtmetrix.com/), [Webpagetest](https://www.webpagetest.org/) o [PageSpeed Insights](https://pagespeed.web.dev/) para conocer problemas en el tiempo de carga.
  - [Kraken](https://kraken.io/) para optimizar el tamaño de las imágenes.
  
 ### Evitar el contenido duplicado
@@ -77,7 +80,7 @@ Nuestra página puede ser accedida de múltiples formas, por lo que tenemos que 
  
 Debemos aplicar una **redirección 301** de todas las versiones hacia la que decidamos que será la permitida.
 
-A mayores, podemos consultar el informe de HTML duplicados dentro de Google Search Console para identificar otras páginas internas que estén generando contenido duplicado.
+A mayores, podemos detectar títulos y contenidos duplicados con un rastreo (por ejemplo con Screaming Frog) y revisar en el informe de indexación de páginas de Search Console las URLs que Google excluye por duplicidad o por elegir otra canónica.
  
 ## Análisis SEO
 
@@ -100,6 +103,8 @@ Disponer de **enlaces de calidad** es realmente importante para conseguir un bue
 
  - [Ahrefs](https://ahrefs.com/)
  - [Majestic SEO](https://majestic.com/)
+
+Encontrarás más opciones en el [listado de herramientas SEO](https://chuletaseo.com/herramientas-seo).
  
 ### Análisis de competidores
 
@@ -111,7 +116,7 @@ También podemos conocer qué optimizaciones SEO tienen, desde qué dominios del
 
 ### Optimizar el contenido
 
-Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el contenido es de valor para los usuarios y está bien presentado. Doy algunos ejemplos:
+Ya no se trata de cantidad, sino de calidad. Desde marzo de 2024 Google ha reforzado sus sistemas de ranking para mostrar resultados más útiles y ha añadido políticas contra el spam (contenido abusivo a escala, abuso de dominios caducados y abuso de reputación del sitio); puedes seguir los cambios en la [cronología de actualizaciones](https://chuletaseo.com/actualizacion-core). Debemos asegurarnos de que el contenido es de valor para los usuarios y está bien presentado. Doy algunos ejemplos:
 
  - Uso de cabeceras HTML (H1, H2, etc.)
  - Pequeños párrafos en lugar de grandes piezas de contenido
@@ -120,12 +125,11 @@ Ya no se trata de cantidad, sino de calidad. Debemos asegurarnos de que el conte
  
 ### Atrapa al usuario
  
-El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas como tiempo en el sitio o porcentaje de rebote nos dará información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
+El tráfico SEO que recibamos en nuestra página encuentre lo que estaba buscando. Métricas de Google Analytics 4 como la tasa de interacción (el porcentaje de rebote es su inversa) o el tiempo de interacción medio nos darán información de interés sobre si somos capaces de atrapar al usuario en nuestro sitio o si, por el contrario, vuelve a Google para visitar a un competidor orgánico.
 
 ### Guías externas
 
 - [Auditoría SEO de Semrush](https://www.semrush.com/blog/seo-audit/)
-- [How to Perform an SEO Audit in 18 Steps](https://www.semrush.com/blog/seo-audit/)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0ODY1MTA4MDMsLTg1MzQ4NjM4OSwtNT

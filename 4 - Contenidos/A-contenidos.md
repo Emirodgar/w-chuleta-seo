@@ -2,7 +2,7 @@
 title: Contenidos SEO - Guías y herramientas gratuitas
 description: Aprende a trabajar los contenidos SEO de forma eficiente
 date: 23/08/2022
-date_modified: 11/04/2023
+date_modified: 19/11/2026
 folder: contenidos
 layout: default_1
 author: Emirodgar
@@ -16,7 +16,7 @@ redirect_from:
 
 Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos. Trabajarlos adecuadamente nos ayudará a generar una ventaja competitiva dentro de nuestro sector.
 
-> ChatGPT y otras [soluciones de inteligencia artificial tendrán un impacto en SEO](https://chuletaseo.com/seo-inteligencia-artificial) a medio y largo plazo. Entender el comportamiento de estas herramientas será clave para alinearnos y potenciar nuestro valor diferencial.
+> ChatGPT y otras [soluciones de inteligencia artificial tienen un impacto en SEO](https://chuletaseo.com/seo-inteligencia-artificial). Entender el comportamiento de estas herramientas es clave para alinearnos y potenciar nuestro valor diferencial. Si quieres trabajar tus contenidos para que los citen los motores de respuesta, consulta la [Chuleta GEO](https://chuletaseo.com/chuleta-geo).
 
 ## Primeros pasos en contenidos SEO 
 
@@ -30,8 +30,8 @@ Uno de los pilares fundamentales de cualquier estrategia SEO son los contenidos.
 Como fuentes de datos adicionales al tráfico orgánico de las búsquedas, tenemos el de plataformas complementarias.
 De la mano de Google, contamos con Discover y News.
 
-- [Google News](https://chuletaseo.com/google-news): en esta plataorma sólo podrán entrar páginas catalogadas como medios digitales (prensa digital). Google rastreará nuestras publicaciones y napareceremos en su portal de noticias, generando marca y una captación adicional.
-- [Google Discover](https://chuletaseo.com/google-discover): cualquier dispositivo móvil Android tiene acceso a un feed de contenido personalizado y adaptado a cada usuario. En ese listado podemos aparecer y conseguir así un incremento de nuestro tráfico orgánico. En el caso de `iOs`, sólo podrá ser accedido si el usuario ha instalado la aplicación de Google en su teléfono.
+- [Google News](https://chuletaseo.com/google-news): pensado para medios digitales (prensa digital) y contenido informativo. Google decide de forma automática qué sitios son elegibles y, si cumple sus políticas, aparecerás en su portal de noticias y en superficies como Top stories, generando marca y una captación adicional.
+- [Google Discover](https://chuletaseo.com/google-discover): cualquier dispositivo móvil Android tiene acceso a un feed de contenido personalizado y adaptado a cada usuario. En ese listado podemos aparecer y conseguir así un incremento de nuestro tráfico orgánico. En el caso de `iOS`, sólo podrá ser accedido si el usuario ha instalado la aplicación de Google en su teléfono. Google ya ha lanzado una [core update específica de Discover](https://chuletaseo.com/actualizacion-core) (febrero de 2026).
 
 
 <section id="cs_recursos"></section>

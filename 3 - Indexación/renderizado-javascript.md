@@ -1,8 +1,8 @@
 ---
 title: Renderizado JavaScript
-description: Estrategias SEO para mejorar la visibilidad y captación de tráfico desde Google Discover 
+description: Cómo renderiza Google el JavaScript y qué debemos tener en cuenta para que nuestro contenido se indexe
 date: 09/11/2022
-date_modified: 23/02/2023
+date_modified: 19/11/2026
 folder: indexacion
 author: Emirodgar
 layout: default_1
@@ -16,6 +16,17 @@ El **renderizado JavaScript** es el proceso de interpretación y ejecución del 
 El renderizado JavaScript es esencial para la interactividad y la dinamicidad de las páginas web modernas, ya que permite crear efectos de animación, actualizar dinámicamente el contenido de una página o crear experiencias interactivas. Además, el renderizado JavaScript permite que los sitios web interactúen con los usuarios y con otras aplicaciones, mejorando la funcionalidad y la experiencia del usuario.
 
 Sin embargo, el renderizado JavaScript puede ser un proceso que requiere muchos recursos, especialmente en páginas web que tienen mucho contenido y código JavaScript. Por esta razón, es importante optimizar el código JavaScript y utilizar técnicas como la carga asíncrona de scripts para mejorar la velocidad y el rendimiento de una página web.
+
+## Cómo renderiza Google el JavaScript
+
+Google ejecuta el JavaScript con una [versión evergreen de Chromium](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics?hl=es) (siempre actualizada). Googlebot rastrea la URL y, si devuelve un código `200`, la añade a una cola de renderizado, donde puede esperar unos segundos o más hasta que un Chromium sin interfaz la renderiza. Lo que no aparezca en el HTML renderizado no se indexará, por lo que conviene comprobarlo con la herramienta de inspección de URL de Search Console.
+
+Algunas cuestiones a tener en cuenta:
+
+- Si una página incluye `noindex` en el código original, Google puede omitir el renderizado, así que no podemos confiar en que el JavaScript lo elimine después.
+- Googlebot [rastrea los primeros 2 MB de cada archivo](https://developers.google.com/search/docs/crawling-indexing/googlebot?hl=es) compatible (64 MB en el caso de los PDF), sin comprimir. Cada recurso referenciado (CSS, JavaScript) se descarga por separado y tiene el mismo límite. Si se supera, Googlebot deja de descargar e indexa solo lo que ya ha recibido.
+- Google recomienda el renderizado en servidor (SSR) o el prerenderizado, que además aceleran la web para los usuarios y para los bots que no ejecutan JavaScript.
+- El [renderizado dinámico](https://developers.google.com/search/docs/crawling-indexing/javascript/dynamic-rendering?hl=es) (servir HTML estático solo a los bots) ya no se recomienda: Google lo considera una solución provisional y no una solución a largo plazo.
 
 <section id="cs_recursos"></section>
 

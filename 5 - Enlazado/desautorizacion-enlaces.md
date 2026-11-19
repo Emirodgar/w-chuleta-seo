@@ -2,6 +2,7 @@
 title: Desautorización de enlaces (disavow) en SEO
 description: ¿Cuándo debemos utilizar la herramienta de disavow?
 date: 23/02/2023
+date_modified: 19/11/2026
 folder: enlazado
 layout: default_1
 author: Emirodgar
@@ -12,7 +13,9 @@ permalink: desautorizacion-enlaces
 <div class="alert alert-warning"><span class="badge badge-danger text-uppercase mr-2">Importante</span>  La función de desautorizar enlaces es avanzada y si no la hacemos bien podría perjudicar nuestro posicionamiento en Google.</div>
 
 
-> Google ha dicho en varias ocasiones que si no tenemos una penalización manual, [no es recomendado hacer una desautorización de nuestros enlaces](https://www.seroundtable.com/google-disavow-manual-action-24751.html).
+> Google ha dicho en varias ocasiones que si no tenemos una penalización manual, [no es recomendado hacer una desautorización de nuestros enlaces](https://www.seroundtable.com/google-disavow-manual-action-24751.html). Su [documentación oficial](https://support.google.com/webmasters/answer/2648487?hl=es) indica que la herramienta sólo debe usarse si hay muchos enlaces artificiales, fraudulentos o de baja calidad que han causado, o es muy probable que causen, una acción manual, y que Google suele identificar por sí mismo qué enlaces son fiables, por lo que casi nunca hace falta.
+
+> Desde la [link spam update de diciembre de 2022](https://developers.google.com/search/blog/2022/12/december-22-link-spam-update), SpamBrain (el sistema antispam de Google basado en IA) neutraliza los enlaces no naturales, incluidos los de sitios que compran enlaces: en lugar de penalizar, esos enlaces dejan de transmitir crédito. Es otra razón para no desautorizar a ciegas. Más información sobre qué se considera *link spam* en las [políticas de spam de Google](https://developers.google.com/search/docs/essentials/spam-policies?hl=es).
 
 
 ## ¿Qué es la desautorización de enlaces?
@@ -27,14 +30,15 @@ Los backlinks malos son enlaces que provienen de sitios web de baja calidad o sp
 
 Podemos hacerlo de dos maneras, manuel o automático.
 
-- **Proceso manual**: El proceso de desautorización manual implica crear un archivo de desautorización y enviarlo a Google. El archivo de desautorización debe contener una lista de URL o dominios que desee desautorizar. Podemos crear un archivo de desautorización con un editor de texto y guardarlo en formato `.txt`. Una vez creado el archivo de desautorización, lo enviamos a Google mediante Google Search Console.
+- **Proceso manual**: El proceso de desautorización manual implica crear un archivo de desautorización y enviarlo a Google. El archivo de desautorización debe contener una lista de URL o dominios que desee desautorizar. Podemos crear un archivo de desautorización con un editor de texto y guardarlo en formato `.txt`. Una vez creado el archivo de desautorización, lo subimos a la [herramienta de desautorizar enlaces](https://search.google.com/search-console/disavow-links) de Google. Esta herramienta no es compatible con las propiedades de dominio y, al subir una lista nueva, sustituye a la anterior.
 
-- **Proceso automático**: El proceso es similar al manual, pero lo realizamos a través de una herramienta de terceros. La herramienta analiza el perfil de backlinks e identifica aquellos spam o de baja calidad. A continuación, crea un archivo de desautorización y lo envía directamente a Google en nuestro nombre. Algunas de las herramientas más populares para la desautorización automática son Ahrefs, SEMrush o Moz.
+- **Proceso automático**: El proceso es similar al manual, pero lo realizamos a través de una herramienta de terceros. La herramienta analiza el perfil de backlinks e identifica aquellos spam o de baja calidad. A continuación, genera un archivo de desautorización que tendremos que subir nosotros mismos a Google, ya que sólo los propietarios del sitio pueden hacerlo. Algunas de las herramientas más populares para la desautorización automática son Ahrefs, SEMrush o Moz.
 
 Si optamos por el proceso manual, debemos tener en cuenta lo siguiente:
 
 - Sólo desautorizar  enlaces que estén perjudicando el SEO.
-- Incluir sólo URLs en lugar de dominios enteros.
+- Incluir una URL o dominio por línea. Para desautorizar un dominio o subdominio completo se usa el prefijo `domain:` (por ejemplo `domain:example.com`); no se pueden desautorizar subrutas completas. Las líneas que empiezan por `#` son comentarios.
+- El archivo debe ser `.txt` (UTF-8 o ASCII de 7 bits) y tener como máximo 100.000 líneas y 2 MB.
 - Guarda  una copia del archivo de desautorización enviado a Google.
 
 

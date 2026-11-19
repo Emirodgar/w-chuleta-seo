@@ -2,7 +2,7 @@
 title: Campos personalizados en Looker Studio
 description: Saca más rendimiento a Looker Studio creando campos específicos para tus necesidades
 date: 25/10/2022
-date_modified: 26/10/2022
+date_modified: 19/11/2026
 folder: informes
 author: Emirodgar
 layout: default_1
@@ -55,17 +55,17 @@ A través de Google Search Console sólo podemos obtener el posicionamiento medi
 
 ```
 case 
- when REGEXP_MATCH(Rank, "1|2|3") then "Top 1-3" 
- when regexp_match(Rank, "4|5|6|7|8|9|10") then "Top 4-10" 
- when regexp_match(Rank, "11|12|13|14|15|16|17|18|19|20") then "Top 11-20" 
- when REGEXP_CONTAINS(Rank, "[21-50]") then "Top 21-50" 
- when regexp_Contains(Rank, "[51-100]*") then "Top 51-100" 
+ when Rank < 4 then "Top 1-3" 
+ when Rank < 11 then "Top 4-10" 
+ when Rank < 21 then "Top 11-20" 
+ when Rank < 51 then "Top 21-50" 
+ else "Top 51-100" 
 end
 ```
 
 ### Agrupar búsquedas por intención del usuario
 
-Analizando los términos por los que hemos generado impresiones o clics (Google Search Console) podemos
+Analizando los términos por los que hemos generado impresiones o clics (Google Search Console) podemos clasificarlos por intención de búsqueda. El siguiente ejemplo está en inglés, así que adapta los términos a tu idioma y mercado.
 
     case 
      when REGEXP_CONTAINS(Keyword, "how|why|does|which|when|who|which|guide|tutorial|learn|examples|resource|ideas|tips") then "Informational Intent" 
@@ -75,7 +75,7 @@ Analizando los términos por los que hemos generado impresiones o clics (Google 
 
 ### Clasificar URLs por categorías
 
-Es importante en cualquier estrategia analizar los bloques lógicos, además de tener siempre la visión global. En el caso de Data Studio podemos agrupar y generar nuestros propios bloques en función de lo que nos interese monitorizar.
+Es importante en cualquier estrategia analizar los bloques lógicos, además de tener siempre la visión global. En el caso de Looker Studio podemos agrupar y generar nuestros propios bloques en función de lo que nos interese monitorizar.
 
 ```
 case 
@@ -150,9 +150,10 @@ END
 ## Recursos
 
 - [Galería de templates de Looker Studio](https://datastudio.google.com/gallery)
+- [Campos calculados en Looker Studio (documentación oficial)](https://docs.cloud.google.com/looker/docs/studio/about-calculated-fields?hl=es)
 - `Inglés` - [Guía de expresiones regulares para Looker Studio](https://www.databloo.com/blog/google-looker-studio-regex/)
-- `Inglés` - [Diferencia dimensiones y métricas](https://www.databloo.com/blog/google-data-studio-dimension-vs-metric/)
-- `Inglés` - [Cómo formatear fechas en Looker Studio](https://www.databloo.com/blog/data-studio-date-format/)
+- `Inglés` - [Diferencia dimensiones y métricas](https://www.databloo.com/blog/google-looker-studio-dimension-vs-metric/)
+- `Inglés` - [Cómo formatear fechas en Looker Studio](https://www.databloo.com/blog/looker-studio-date-format/)
 
 <section id="cs_herramientas"></section>
 

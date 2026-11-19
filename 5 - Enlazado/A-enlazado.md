@@ -2,7 +2,7 @@
 title: Enlaces SEO - Estrategias de link building
 description: Diseña y ejecuta una estrategia de enlazado natural
 date: 23/08/2022
-date_modified: 23/02/2023
+date_modified: 19/11/2026
 folder: enlazado
 layout: default_1
 author: Emirodgar
@@ -24,6 +24,8 @@ El **link building** es una técnica importante en la optimización de motores d
 
 6. **Monitoriza tus enlaces**: Una vez que hayas empezado a construir enlaces, monitorea tus enlaces para asegurarte de que sean relevantes y de calidad. Utiliza herramientas de análisis de enlaces para rastrear tus enlaces y descubrir enlaces rotos.
 
+> Cuidado con los enlaces comprados: según las [políticas de spam de Google](https://developers.google.com/search/docs/essentials/spam-policies?hl=es), crear enlaces principalmente para manipular el posicionamiento (comprar o vender enlaces para posicionar, intercambios excesivos, programas automatizados, etc.) es *link spam*. Los enlaces publicitarios o de pago deben marcarse con `rel="sponsored"` (o `nofollow`), y los de contenido generado por usuarios, como comentarios o foros, con `rel="ugc"`, tal y como explica la [guía de Google para calificar enlaces salientes](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=es). Si ya tienes enlaces problemáticos, consulta la guía de [desautorización de enlaces](https://chuletaseo.com/desautorizacion-enlaces).
+
 Siguiendo estos pasos, podrás crear una estrategia de link building efectiva que te ayudará a aumentar la autoridad de tu sitio web y mejorar tus posiciones en los motores de búsqueda. Recuerda que la construcción de enlaces no es una tarea fácil y puede llevar tiempo y esfuerzo. Pero si te mantienes enfocado en tu público objetivo y en la calidad de tu contenido, podrás construir enlaces efectivos y atraer tráfico a tu sitio web.
 
 <section id="cs_recursos"></section>
@@ -32,7 +34,8 @@ Siguiendo estos pasos, podrás crear una estrategia de link building efectiva qu
 ## Recursos
 
 - `Inglés` - [¿Qué métrica de enlazado correlaciona mejor con el tráfico orgánico?](https://moz.com/blog/link-metric-serp-correlation-study)
-- [Guía oficial de Google - Cómo gestiona Google los diferentes tipos de enlaces](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=es)
+- [Guía oficial de Google - Buenas prácticas con enlaces (rastreables y texto ancla)](https://developers.google.com/search/docs/crawling-indexing/links-crawlable?hl=es)
+- [Guía oficial de Google - Cómo calificar enlaces salientes (sponsored, ugc, nofollow)](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=es)
 - `Inglés` - [19 preguntas que hacer a tu agencia de linkbuilding](https://digitalolympus.net/things-to-ask-your-link-building-agency/)
 - `Inglés` - [Estrategia de enlazado para ecommerce](https://searchengineland.com/6-link-building-techniques-for-ecommerce-395224)
 

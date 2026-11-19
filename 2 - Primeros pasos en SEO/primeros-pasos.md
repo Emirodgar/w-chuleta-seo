@@ -2,6 +2,7 @@
 title: Primeros pasos en SEO
 description: Aprende SEO de la mejor manera y con recursos gratuitos
 date: 14/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -26,7 +27,7 @@ Una parte importante es estar correctamente informado de cómo evolucionan los a
 
 De manera complementaria, podemos formarnos por nuestra cuenta en otros aspectos que nos ayudarán a desarrollar un perfil SEO más completo y profesional. Algunas de estas recomendaciones, son:
 
-1. Como punto de partida, es recomendable leer la documentación de Google Search, principalmente en inglés, dado que a veces las traducciones son están actualizadas a la última versión.
+1. Como punto de partida, es recomendable leer la documentación de Google Search, principalmente en inglés, dado que a veces las traducciones no están actualizadas a la última versión.
 
 2. Es interesante estudiar HTML, CSS, JS y algunos de los frameworks más utilizados. Existen muchos cursos prácticos en plataformas como Udemy o Domestika.
 
@@ -42,7 +43,7 @@ De manera complementaria, podemos formarnos por nuestra cuenta en otros aspectos
 
 8. Aporta valor realizar cursos complementarios en áreas como diseño de productos digitales y metodologías como Scrum o Lean UX.
 
-9. Aprender acerca de la analítica web y la generación de informes en herramientas como Locker Studio es fundamental para medir y mejorar el rendimiento.
+9. Aprender acerca de la analítica web y la generación de informes en herramientas como Google Analytics 4 y Looker Studio es fundamental para medir y mejorar el rendimiento.
 
 10. Finalmente, es importante tener paciencia y enfocarse en una ruta de aprendizaje especializada, como bases de datos, SQL y otros lenguajes que puedan ayudar a automatizar procesos.
 
@@ -56,5 +57,7 @@ De manera complementaria, podemos formarnos por nuestra cuenta en otros aspectos
 
 - [Comandos de búsqueda en Google](https://chuletaseo.com/comandos-busqueda-google)
 - [Listado de herramientas SEO](https://chuletaseo.com/herramientas-seo)
+- [Glosario SEO](https://chuletaseo.com/glosario-seo)
+- [SEO e inteligencia artificial](https://chuletaseo.com/seo-inteligencia-artificial)
 
 

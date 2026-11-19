@@ -2,7 +2,7 @@
 title: Informes SEO
 description: Aprende a demostrar la valía de tu trabajo con los gráficos e informes adecuados
 date: 14/10/2022
-date_modified: 21/02/2023
+date_modified: 19/11/2026
 folder: informes
 layout: default_1
 author: Emirodgar
@@ -69,9 +69,10 @@ Nuestra preferencia para reflejar los avances de un proyecto SEO son las siguien
 ## Mejora los datos de Google Analytics 4
 
  - [Eliminar tráfico SPAM](https://chuletaseo.com/eliminar-trafico-spam-robot)
+ - [Guía de Google Analytics 4](https://chuletaseo.com/google-analytics)
 
 
-## Scripts en Ptyhon
+## Scripts en Python
 
 - [Exportar y normalizar datos de GA3 y GA4](https://github.com/locomotive-agency/GA3toGA4) 
 
