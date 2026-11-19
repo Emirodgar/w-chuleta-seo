@@ -17,6 +17,8 @@ El algoritmo de Google es el código que utiliza para encontrar y validar los mi
 
 > El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
 
+> Cronología oficial y actualizada de las actualizaciones de ranking: [Actualizaciones de Google Search](https://chuletaseo.com/actualizacion-core).
+
 Cuando diseñamos una [estrategia SEO](https://chuletaseo.com/estrategia-seo) sabemos que tenemos que cumplir con las [directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"} para poder aparecer en los resultados de búsqueda y [evitar penalizaciones](https://chuletaseo.com/penalizacion-seo). Cumplir esos requisitos nos permite aparecer en los resultados pero el hecho de que lo hagamos en las primeras o últimas posiciones **dependerá en exclusiva del algoritmo de Google**.
 
 Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador recibe los mejores resultados posibles.

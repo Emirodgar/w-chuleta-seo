@@ -1,183 +1,211 @@
 ---
-title: Actualización Core (Principal) de Google
-description: ¿Qué es una actualización principal de Google y qué debemos hacer para que no nos perjudique?
+title: Actualizaciones de Google Search - Cronología de core updates y spam updates
+description: "Cronología de las actualizaciones de ranking de Google desde 2021 hasta hoy: core, spam, contenido útil, reseñas y Discover, con fechas, duración y qué hacer si cambia tu tráfico."
 date: 21/03/2022
-date_modified: 17/05/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
 permalink: actualizacion-core
-  
+
 ---
 
-Una actualización `core` o `principal` de Google afecta a la forma en que se clasifican los sitios web en los resultados de búsqueda (`SERPs`). Estas actualizaciones se implementan en el núcleo del [algoritmo](https://chuletaseo.com/algoritmos-google) y pueden afectar a un gran número de sitios web y búsquedas. 
+Cronología de las actualizaciones de ranking de Google Search, tal y como las registra el [panel oficial de estado de Búsqueda de Google](https://status.search.google.com/), desde diciembre de 2021 hasta hoy. Revisada el 19 de noviembre de 2026.
+{:.lead}
 
-> Según Google, no hay que hacer ningún cambio ni ajuste de nuestro lado. Cuando perdemos visibilidad en una `core`, no es debido a que hayamos sido penalizaciones, sino que otros competidores orgánicos han sido beneficiados. 
+> **Última actualización registrada:** la **core update de noviembre de 2026**, que empezó el 10 de noviembre. A fecha de esta revisión el panel no publica su duración, así que no sé si ha terminado. Antes de analizar tu tráfico, confirma en el panel que ya ha cerrado.
 
-Algunas actualizaciones core, como la actualización de `Medic` de 2018, se han centrado en mejorar la calidad y la relevancia de los resultados de búsqueda para búsquedas relacionadas con la salud, mientras que otras actualizaciones han tenido como objetivo combatir el spam, el contenido de baja calidad o simplemente ofrecer una mejor experiencia a los usuarios de Google.
+1. Índice
+{:toc}
 
-> En el caso de ser afectados negativamente por una actualización core, deberemos esperar a la siguiente actualización para que los datos se normalicen, siempre y cuando hayamos optimizado nuestro contenido siguiendo las directrices del buscador.  
+## Resumen de 2026
 
-Es importante tener en cuenta que las actualizaciones core pueden tener un impacto a corto plazo en la clasificación de tu sitio, pero también pueden ser una oportunidad para **mejorar la calidad y relevancia del contenido de tu página** y, en última instancia, mejorar su clasificación a largo plazo. Es importante seguir las [directrices de Google para webmasters](https://developers.google.com/search/docs/essentials?hl=es){:target="_blank"} y mantener un enfoque equilibrado en la optimización para lograr el mejor rendimiento del sitio.
+Hasta el 10 de noviembre de 2026 el panel registra **8 actualizaciones: 3 core, 4 spam y 1 de Discover**. Más abajo tienes la cronología completa.
 
-## Listado de las últimas actualizaciones core de Google
+<div class="table-responsive" markdown="1">
 
+| Actualización | Tipo | Inicio | Duración |
+|---|---|---|---|
+| Core update de noviembre de 2026 | Core | 10 nov 2026 | Sin duración publicada |
+| Spam update de septiembre de 2026 | Spam | 24 sep 2026 | 13 d 16 h |
+| Spam update de agosto de 2026 | Spam | 18 ago 2026 | 2 d 16 h |
+| Spam update de junio de 2026 | Spam | 24 jun 2026 | 2 d 1 h |
+| Core update de mayo de 2026 | Core | 21 may 2026 | 11 d 21 h |
+| Core update de marzo de 2026 | Core | 27 mar 2026 | 12 d 4 h |
+| Spam update de marzo de 2026 | Spam | 24 mar 2026 | 19 h 30 min |
+| Discover update de febrero de 2026 | Discover | 5 feb 2026 | 21 d 17 h |
 
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th>Año</th>
-      <th>Días / Mes</th>
-      <th>Nombre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>2023</code></td>
-      <td>15 de marzo</td>
-      <td>March 2023 Core Update - <a target="_blank" href="https://twitter.com/googlesearchc/status/1636012534426640384">Anuncio oficial</a></td>
-    </tr>
-     <tr>
-      <td><code>2022</code></td>
-      <td>15 de septiembre</td>
-      <td>September 2022 Core Update </td>
-    </tr>
-     <tr>
-      <td><code>2022</code></td>
-      <td>25 de mayo</td>
-      <td>May 2022 Core Update </td>
-    </tr>
-    <tr>
-      <td><code>2021</code></td>
-      <td>17 de noviembre</td>
-      <td>November 2021 Core Update </td>
-    </tr>
-    <tr>
-      <td><code>2021</code></td>
-      <td>1 de julio</td>
-      <td>July 2021 Core Update   </td>
-    </tr>
-    <tr>
-      <td><code>2021</code></td>
-      <td>2 de junio</td>
-      <td>June 2021 Core Update   </td>
-    </tr>
-    <tr>
-      <td><code>2020</code></td>
-      <td>13 de enero</td>
-      <td>January 2020 Core Update    </td>
-    </tr>	
-    <tr>
-      <td><code>2019</code></td>
-      <td>24 de septiembre</td>
-      <td>September 2019 Core Update</td>
-    </tr>
-    <tr>
-      <td><code>2019</code></td>
-      <td>2 de junio</td>
-      <td>June 2019 Core Update </td>
-    </tr>
-    <tr>
-      <td><code>2019</code></td>
-      <td>12 de marzo</td>
-      <td>March 2019 Core Update </td>
-    </tr>
-    <tr>
-      <td><code>2018</code></td>
-      <td>1 de agosto</td>
-      <td>Medic Update </td>
-    </tr>
-    <tr>
-      <td><code>2018</code></td>
-      <td>16 de abril</td>
-      <td>Broad Core Update</td>
-    </tr>
-    <tr>
-      <td><code>2018</code></td>
-      <td>9 de marzo</td>
-      <td>Broad Core Update </td>
-    </tr>
-    <tr>
-      <td><code>2017</code></td>
-      <td>12 de diciembre</td>
-      <td>Small Core Update</td>
-    </tr> 
-  </tbody>
-</table>
+</div>
 
+## Cronología completa por año
 
+El panel oficial recoge actualizaciones desde diciembre de 2021. Muestra la fecha de inicio y la duración, y no incluye el detalle de qué cambia en cada una.
+
+### 2025
+
+<div class="table-responsive" markdown="1">
+
+| Actualización | Tipo | Inicio | Duración |
+|---|---|---|---|
+| Core update de diciembre de 2025 | Core | 11 dic 2025 | 18 d 2 h |
+| Spam update de agosto de 2025 | Spam | 26 ago 2025 | 26 d 15 h |
+| Core update de junio de 2025 | Core | 30 jun 2025 | 16 d 18 h |
+| Core update de marzo de 2025 | Core | 13 mar 2025 | 13 d 21 h |
+
+</div>
+
+### 2024
+
+<div class="table-responsive" markdown="1">
+
+| Actualización | Tipo | Inicio | Duración |
+|---|---|---|---|
+| Spam update de diciembre de 2024 | Spam | 19 dic 2024 | 7 d 2 h |
+| Core update de diciembre de 2024 | Core | 12 dic 2024 | 6 d 4 h |
+| Core update de noviembre de 2024 | Core | 11 nov 2024 | 23 d 13 h |
+| Incidencia de ranking sin nombre | Incidencia | 15 ago 2024 | 4 d 11 h |
+| Core update de agosto de 2024 | Core | 15 ago 2024 | 19 d 4 h |
+| Spam update de junio de 2024 | Spam | 20 jun 2024 | 7 d 1 h |
+| Spam update de marzo de 2024 | Spam | 5 mar 2024 | 14 d 21 h |
+| Core update de marzo de 2024 | Core | 5 mar 2024 | 45 d |
+
+</div>
+
+### 2023
+
+<div class="table-responsive" markdown="1">
+
+| Actualización | Tipo | Inicio | Duración |
+|---|---|---|---|
+| Reviews update de noviembre de 2023 | Reseñas | 8 nov 2023 | 29 d |
+| Core update de noviembre de 2023 | Core | 2 nov 2023 | 25 d 21 h |
+| Core update de octubre de 2023 | Core | 5 oct 2023 | 13 d 23 h |
+| Incidencia de ranking sin nombre | Incidencia | 5 oct 2023 | 26 d |
+| Spam update de octubre de 2023 | Spam | 4 oct 2023 | 15 d 12 h |
+| Helpful content update de septiembre de 2023 | Contenido útil | 14 sep 2023 | 13 d 11 h |
+| Core update de agosto de 2023 | Core | 22 ago 2023 | 16 d 3 h |
+| Reviews update de abril de 2023 | Reseñas | 12 abr 2023 | 13 d 2 h |
+| Core update de marzo de 2023 | Core | 15 mar 2023 | 13 d 7 h |
+| Product reviews update de febrero de 2023 | Reseñas | 21 feb 2023 | 14 d |
+
+</div>
+
+### 2022 y diciembre de 2021
+
+<div class="table-responsive" markdown="1">
+
+| Actualización | Tipo | Inicio | Duración |
+|---|---|---|---|
+| Link spam update de diciembre de 2022 | Spam | 14 dic 2022 | 29 d |
+| Helpful content update de diciembre de 2022 | Contenido útil | 5 dic 2022 | 38 d |
+| Spam update de octubre de 2022 | Spam | 19 oct 2022 | 2 d |
+| Product reviews update de septiembre de 2022 | Reseñas | 20 sep 2022 | 6 d |
+| Core update de septiembre de 2022 | Core | 12 sep 2022 | 14 d |
+| Helpful content update de agosto de 2022 | Contenido útil | 25 ago 2022 | 15 d |
+| Product reviews update de julio de 2022 | Reseñas | 27 jul 2022 | 6 d |
+| Core update de mayo de 2022 | Core | 25 may 2022 | 15 d |
+| Product reviews update de marzo de 2022 | Reseñas | 23 mar 2022 | 14 d |
+| Page experience update para escritorio | Experiencia de página | 22 feb 2022 | 9 d |
+| Product reviews update de diciembre de 2021 | Reseñas | 1 dic 2021 | 20 d |
+
+</div>
+
+## Tipos de actualización
+
+- **Core update (actualización principal).** Un cambio amplio en los sistemas de clasificación de Google, pensado para mejorar los resultados en conjunto. No apunta a sitios concretos y, según Google, ocurren varias veces al año.
+- **Spam update.** Mejora de los sistemas que detectan y combaten el spam en los resultados.
+- **Helpful content y reviews updates.** Ajustes de los sistemas de contenido útil y de reseñas de productos. En el panel aparecen entre 2021 y 2023 y ya no figuran con ese nombre desde 2024.
+- **Discover update.** Cambio específico de Google Discover.
+- **Page experience update.** Actualización de experiencia de página para escritorio, de febrero de 2022.
+- **Incidencias de ranking.** Entradas sin nombre que indican un problema en los sistemas de clasificación, no una actualización.
+
+## Cuánto dura una core update
+
+Mucho más de lo que se solía pensar. Las seis core updates completadas entre diciembre de 2024 y mayo de 2026 duraron entre **6 d 4 h y 18 d 2 h**, y la de marzo de 2024 llegó a 45 días. Por eso la idea de que "se despliegan en una semana" ya no encaja con los datos recientes.
+
+Y en cuanto a la frecuencia, el panel registra 4 core updates en 2024, 3 en 2025 y 3 en lo que va de 2026.
+
+## Qué hacer si tu tráfico cambia
+
+Google recomienda un proceso concreto antes de tocar nada:
+
+1. **Confirma que la actualización ha terminado** en el panel de estado y anota su fecha de inicio y de fin.
+2. **Espera al menos una semana completa** después de que cierre.
+3. **Compara periodos en Search Console:** la semana posterior a la actualización con una semana anterior a su inicio.
+4. **Revisa tus páginas y consultas principales.** Si la caída es pequeña, no hace falta una acción drástica y conviene no tocar lo que ya funciona. Si es grande y sostenida, merece una evaluación a fondo.
+5. **Analiza por separado** los tipos de búsqueda (web, imágenes, vídeo, noticias).
+
+Sobre qué arreglar, Google no ofrece un cambio concreto que lo solucione. Recomienda mejorar el contenido de forma significativa: más útil, fiable y centrado en las personas, y evaluarlo con objetividad, mejor con opiniones de personas ajenas al sitio. Eliminar contenido es el último recurso. Las mejoras pueden notarse en días o tardar varios meses, y a veces habrá que esperar a la siguiente actualización.
+
+Dos matices que conviene recordar:
+
+- **Una caída no es una penalización.** Las core updates no sancionan sitios concretos. Una [penalización](https://chuletaseo.com/penalizacion-seo) es otra cosa y se notifica como acción manual en Search Console.
+- **Las posiciones se mueven por muchas razones.** Google hace además ajustes menores sin anunciar, así que no toda subida o bajada se debe a una actualización.
+
+## Cómo seguirlas
+
+- **El panel oficial:** [status.search.google.com](https://status.search.google.com/) es la fuente. Aquí aparece cada actualización cuando empieza y cuando termina.
+- **La newsletter:** las comento en [ChuletaSEO](https://newsletter.chuletaseo.com) cuando ocurren, con lo que implican para la práctica.
+- **Tus propios datos:** guarda un informe de Search Console antes y después de cada actualización. Tienes ayuda en la guía de [informes SEO](https://chuletaseo.com/informes-seo).
+- **Contexto:** para entender cómo funcionan los algoritmos, la guía de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) y el [glosario](https://chuletaseo.com/glosario-seo#core-update-actualizacion-principal).
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
-- [Página oficial sobre actualizaciones principales de Google](https://developers.google.com/search/updates/core-updates?hl=es){:target="_blank"}
-- [Directrices de calidad para webmasters de Google](https://developers.google.com/search/docs/essentials?hl=es){:target="_blank"}
-- [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es){:target="_blank"}
-- [Información sobre los algoritmos de Google](https://chuletaseo.com/algoritmos-google)
-- [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
-
-
-
-<section id="cs_herramientas"></section>
-
-## Herramientas
-
-- [Dashboard en Looker Studio para analizar el impacto del cambio de algoritmo](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c){:target="_blank"}
-- [Informe de acciones manuales en Google Search Console](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"}
-
+- [Panel de estado de Búsqueda de Google](https://status.search.google.com/)
+- [Core updates y tu sitio web (documentación de Google)](https://developers.google.com/search/docs/appearance/core-updates)
+- [Crear contenido útil, fiable y centrado en las personas (Google)](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+- [Informe de acciones manuales de Search Console](https://support.google.com/webmasters/answer/9044175?hl=es)
+- [Dashboard en Looker Studio para analizar el impacto de una actualización](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c)
 
 ## Preguntas frecuentes
 
-<section id="cs_pr"></section>
+**¿Cuántas core updates hace Google al año?** Google dice que varias veces al año. El panel registra 4 en 2024, 3 en 2025 y 3 hasta el 10 de noviembre de 2026.
 
-<div class="row">
-    <div class="col-lg-12">
-        <div class="accordion accordion-alterate arrow-right" id="popularTopics">
-            <div class="card">
-                <div class="card-header" id="heading1">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cuándo ocurren las actualizaciones principales del algoritmo de Google?</a> </h5>
-                </div>
-                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
-                    <div class="card-body">Las actualizaciones principales del algoritmo de Google ocurren varias veces al año. Google no anuncia una fecha específica y suelen ser desplegadas sin previo aviso. Lo normal suele ser entre 2 y 3 actualizaciones anuales, aunque no está garantizado. </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="heading2">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Qué impacto puede tener una actualización principal del algoritmo de Google en mi sitio web?</a> </h5>
-                </div>
-                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
-                    <div class="card-body"> Puede ser positivo o negativo. Suele afectar a un porcentaje alto de búsquedas por lo que lo normal es ver un crecimiento o decrecimiento significativo en nuestro tráfico orgánico.</div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="heading3">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Cómo puedo saber si mi sitio web se vio afectado por una actualización principal del algoritmo de Google?</a> </h5>
-                </div>
-                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
-                    <div class="card-body"> Tras el anuncio de una actualización core por parte de Google, revisa el número de palabras clave por las que posicionas así como el tráfico orgánico. Normalmente suelen tardar en torno a una semana en desplegarse por lo que debemos analizar cualquier variación de nuestro tráfico durante ese periodo. Una vez finalizado, nos quedaremos con ese flujo de captación orgánica hasta la siguiente actualización principal.</div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="heading4">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Qué debo hacer si mi sitio web se ve afectado negativamente por una actualización principal del algoritmo de Google?</a> </h5>
-                </div>
-                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
-                    <div class="card-body">Revisa el contenido de tu página. No tienes que hacer ningún cambio ni ajuste a nivel técnico, pero tendrás que analizar si tu contenido está alineado con la intención de búsqueda de los usuarios.</div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="heading5">
-                    <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">¿Qué consejos puedo seguir para adaptarme a las actualizaciones principales del algoritmo de Google?</a> </h5>
-                </div>
-                <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
-                    <div class="card-body">Seguir las directrices de calidad de Google, para garantizar que el robot de búsqueda puede acceder, rastrear e indexar nuestro sitio y alinear nuestro contenido a la intención de búsqueda de nuestro público objetivo.</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-    
+**¿Cuánto dura una core update?** Las seis completadas entre diciembre de 2024 y mayo de 2026 duraron entre 6 d 4 h y 18 d 2 h. La de marzo de 2024 duró 45 días.
 
+**¿Qué hago si mi tráfico cae tras una core update?** Espera a que termine y al menos una semana más, compara en Search Console la semana posterior con una anterior y revisa tus páginas principales. No hay un arreglo rápido: Google recomienda mejorar el contenido de forma significativa.
 
+**¿Dónde se anuncian las actualizaciones de Google?** En el panel de estado de Búsqueda de Google (status.search.google.com), que incluye el historial desde diciembre de 2021.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cuántas core updates hace Google al año?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google dice que varias veces al año. El panel de estado registra 4 en 2024, 3 en 2025 y 3 hasta el 10 de noviembre de 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuánto dura una core update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Las seis completadas entre diciembre de 2024 y mayo de 2026 duraron entre 6 d 4 h y 18 d 2 h. La de marzo de 2024 duró 45 días."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué hago si mi tráfico cae tras una core update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Espera a que termine y al menos una semana más, compara en Search Console la semana posterior con una anterior y revisa tus páginas principales. No hay un arreglo rápido: Google recomienda mejorar el contenido de forma significativa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Dónde se anuncian las actualizaciones de Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En el panel de estado de Búsqueda de Google (status.search.google.com), que incluye el historial desde diciembre de 2021."
+      }
+    }
+  ]
+}
+</script>
