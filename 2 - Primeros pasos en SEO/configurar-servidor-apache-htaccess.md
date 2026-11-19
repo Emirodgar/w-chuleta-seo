@@ -1,345 +1,430 @@
 ---
-title: Listado de códigos para .htaccess (Apache)
-description: Mejora tus búsquedas en Google con estos trucos y comandos
+title: Códigos .htaccess (Apache) - Redirecciones, seguridad y rendimiento
+description: "Listado de códigos .htaccess listos para usar en Apache: redirecciones 301, forzar HTTPS y www, seguridad, caché, compresión y directivas SEO."
 lang: es_ES
 permalink: codigos-htaccess-apache
 date: 14/03/2022
-date_modified: 16/03/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
 
-  
 ---
 
-Configurar un servidor web debe hacerse con sumo cuidado, ya que podríamos dejar la página inaccesible si no sabemos lo que estamos haciendo. El servidor Apache dispone del fichero `.htaccess` para gestionar diversos comportamientos y funcionalidades. A continuación encontrarás diversos códigos listos para ser usados en dicho fichero.
+El fichero `.htaccess` permite configurar el comportamiento de un servidor Apache **por directorio**, sin tocar la configuración principal. Es el sitio habitual para las redirecciones 301 de una [migración SEO](https://chuletaseo.com/migracion-seo), para forzar HTTPS, para proteger ficheros o para mejorar el rendimiento. Aquí tienes una colección de códigos listos para copiar.
 
 1. Índice
 {:toc}
 
+## Antes de empezar
+
+- **Haz una copia del fichero** antes de cada cambio. Un error de sintaxis deja el sitio devolviendo un error 500.
+- **Prueba en un entorno de pruebas** si puedes. Si no, cambia una regla cada vez.
+- **Si hay un 500, mira el log de errores del servidor.** Apache indica la directiva que falla y es el primer sitio donde revisar.
+- **Tiene que estar habilitado.** `.htaccess` solo se lee si la directiva `AllowOverride` lo permite para ese directorio (por defecto no lo hace). En hosting compartido suele venir activado.
+- **Solo vale para Apache.** Nginx no lee `.htaccess`: allí las reglas van en su configuración.
+- **Es más lento que la configuración principal.** Según la documentación de Apache, si tienes acceso a la configuración del servidor es preferible poner las reglas allí, porque `.htaccess` se busca y se lee en cada petición. En hosting compartido o con un CMS es lo normal y funciona bien.
+
+En los ejemplos, sustituye `example.com` por tu dominio.
+
 ## Accesos a la página
 
-En este apartado encontraremos códigos que pueden condicionar el acceso a una página, tanto a nivel de URL como de seguridad.
+### Forzar HTTPS y www en una sola redirección
 
-### Forzar el acceso con www
+Si tienes que unificar HTTPS y `www`, hazlo con **una sola regla**. Encadenar dos redirecciones (primero HTTPS y luego www) añade saltos innecesarios.
 
-    RewriteEngine on
-    RewriteCond %{HTTP_HOST} ^example\.com [NC]
-    RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
+```apache
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.example.com%{REQUEST_URI} [L,R=301]
+```
 
+La regla de `www` redirige **cualquier** host que no empiece por `www.`, incluidos otros subdominios (`blog.example.com`, por ejemplo). Si el mismo `.htaccess` sirve subdominios, limítala a tu dominio con otra condición.
 
-### Forzar el acceso sin www
+Para la versión **sin www**, usa esta variante:
 
-    RewriteEngine on
-    RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
-    RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+```apache
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://example.com%{REQUEST_URI} [L,R=301]
+```
 
-### Forzar el acceso seguro con HTTPS
+> **Cuidado con los bucles de redirección.** Si tu web está detrás de un CDN o un proxy (Cloudflare, por ejemplo), Apache puede ver siempre la petición como HTTP y la regla entra en bucle. En ese caso comprueba la cabecera `X-Forwarded-Proto` en lugar de `%{HTTPS}`:
+>
+>     RewriteCond %{HTTP:X-Forwarded-Proto} !https
 
-    RewriteEngine on
-    RewriteCond %{HTTPS} !on
-    RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+### Solo forzar HTTPS
 
-Cuando forzamos el acceso seguro a través de `https`, es recomendable también habilitar `HSTS` (*HTTP Strict Transport Security*) para una configuración de seguridad más completa.
+```apache
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+```
 
-    <IfModule mod_headers.c>
-        Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
-    </IfModule>
+Es importante indicar `R=301`. Sin ese código, Apache usa una redirección 302 (temporal) por defecto, y los buscadores no la tratan como un cambio permanente.
 
+Cuando forzamos HTTPS, es recomendable activar también `HSTS` (*HTTP Strict Transport Security*), que obliga al navegador a usar siempre conexión segura. Actívalo solo cuando estés seguro de que todo el sitio funciona bien con HTTPS.
+
+```apache
+<IfModule mod_headers.c>
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+```
 
 ### Forzar la barra final
 
-    RewriteCond %{REQUEST_URI} /+[^\.]+$
-    RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+```apache
+RewriteCond %{REQUEST_URI} /+[^\.]+$
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+```
 
 ### Eliminar la barra final
 
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_URI} (.+)/$
-    RewriteRule ^ %1 [R=301,L]
+```apache
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+```
 
-### Configurar páginas asociadas a códigos de estado
+### Configurar páginas para los códigos de estado
 
-    ErrorDocument 500 "Ha ocurrido un error 500."
-    ErrorDocument 401 http://error.example.com/mordor.html
-    ErrorDocument 404 /errors/halflife3.html
+```apache
+ErrorDocument 500 "Ha ocurrido un error 500."
+ErrorDocument 401 https://error.example.com/acceso.html
+ErrorDocument 404 /errors/404.html
+```
+
+Si usas una ruta local (como la del 404), la página devuelve el código de estado correcto. Si usas una URL completa, Apache hace una redirección y el usuario recibe otro código de estado, así que evítalo para los 404.
 
 ### Forzar la descarga de un tipo de fichero
 
-    <Files *.pdf>
-        ForceType application/octet-stream
-        Header set Content-Disposition attachment
-    </Files>
+```apache
+<Files *.pdf>
+    ForceType application/octet-stream
+    Header set Content-Disposition attachment
+</Files>
+```
 
 ### Evitar la descarga de un tipo de fichero
 
-    <FilesMatch "\.(tex|log|aux)$">
-        Header set Content-Type text/plain
-    </FilesMatch>
+```apache
+<FilesMatch "\.(tex|log|aux)$">
+    Header set Content-Type text/plain
+</FilesMatch>
+```
 
 ## Redirecciones
 
-Cuando realizamos una [migración SEO](https://chuletaseo.com/migracion-seo) es vital que apliquemos redirecciones para ayudar tanto a buscadores como a usuarios a entender la nueva estructura de URL.
+Cuando hacemos una [migración SEO](https://chuletaseo.com/migracion-seo) es vital aplicar redirecciones 301 para que buscadores y usuarios entiendan la nueva estructura de URLs. Comprueba siempre el resultado (mira el apartado "Cómo probar los cambios").
 
 ### Redirección simple
 
-    Redirect 301 /seo.html http://chuletaseo.com/seo.html
-    Redirect 301 /posicionamiento-web.html /seo.html
+```apache
+Redirect 301 /seo.html https://example.com/seo.html
+Redirect 301 /posicionamiento-web.html /seo.html
+```
 
 ### Redirección de todo el sitio a un nuevo dominio
 
-    Redirect 301 / https://chuletaseo.org/
+```apache
+Redirect 301 / https://nuevo-dominio.com/
+```
+
+Esta regla conserva la ruta: `/pagina` pasa a `https://nuevo-dominio.com/pagina`.
 
 ### Redirección de una subcarpeta a otro dominio
 
-    RedirectMatch 301 /seo(.*) https://chuletaseo.org/seo/$1
+```apache
+RedirectMatch 301 ^/seo/(.*)$ https://nuevo-dominio.com/seo/$1
+```
+
+El `^` del principio es importante. Sin él, la regla afectaría a cualquier URL que contenga `/seo` en cualquier parte de la ruta, por ejemplo `/blog/seo-tips`.
 
 ### Redirección para eliminar una subcarpeta
 
-    RedirectMatch 301 ^/seo/(.*)$ /$1
-
+```apache
+RedirectMatch 301 ^/seo/(.*)$ /$1
+```
 
 ### Redirección para cambiar de subcarpeta
 
-    RedirectMatch 301 ^/seo/(.*)$ /posicionamiento-web/$1
+```apache
+RedirectMatch 301 ^/seo/(.*)$ /posicionamiento-web/$1
+```
 
-### Excluir una URL de ser redireccionada
+### Marcar una URL como eliminada (410)
 
-Esto es útil si tenemos un dominio redireccionado y queremos que el fichero `robots.txt` siga estando accesible para los robots de los buscadores.
+Si una página ya no existe y no tiene sustituta, un 410 (*Gone*) indica de forma explícita que se ha eliminado.
 
-    RewriteEngine On
-    RewriteRule ^robots.txt - [L]
+```apache
+Redirect gone /pagina-eliminada
+```
+
+### Redirigir todo menos el fichero robots.txt
+
+Es útil cuando un dominio está redirigido y queremos que `robots.txt` siga accesible para los buscadores. La regla excluye ese fichero con una expresión regular:
+
+```apache
+RedirectMatch 301 ^/(?!robots\.txt$)(.*)$ https://nuevo-dominio.com/$1
+```
 
 ## Seguridad
 
-### Que no entre nadie salvo yo (mi ip)
+### Que no entre nadie salvo yo (mi IP)
 
-Si, por seguridad, queremos evitar cualquier acceso al sitio (por ejemplo, en una intranet) podemos configurarlo de la siguiente manera. La parte de `xxx.xxx.xxx.xxx` deberá ser sustituida por nuestra dirección IP, ya que será la única a la que el servidor permita acceso.
+Para evitar cualquier acceso al sitio (por ejemplo, en un entorno de pruebas) puedes permitir solo tu dirección IP. Sustituye `xxx.xxx.xxx.xxx` por la tuya.
 
-De los siguientes dos bloques sólo tendremos que usar uno de ellos, que dependerá de la versión de Apache que estemos usando, 2.2 o 2.4.
+```apache
+# Apache 2.4 (la versión actual)
+Require all denied
+Require ip xxx.xxx.xxx.xxx
+```
 
-    ## Apache 2.2
-    Order deny,allow
-    Deny from all
-    Allow from xxx.xxx.xxx.xxx
-    
-    ## Apache 2.4
+En Apache 2.2, una versión antigua, la sintaxis era distinta:
+
+```apache
+# Apache 2.2
+Order deny,allow
+Deny from all
+Allow from xxx.xxx.xxx.xxx
+```
+
+Usa solo el bloque que corresponda a tu versión.
+
+### Bloquear el acceso a ficheros y directorios ocultos
+
+```apache
+RewriteCond %{SCRIPT_FILENAME} -d [OR]
+RewriteCond %{SCRIPT_FILENAME} -f
+RewriteRule "(^|/)\." - [F]
+```
+
+Ojo: esta regla también bloquea la carpeta `.well-known`, que se usa para validar certificados SSL. Si la necesitas, excluye esa ruta.
+
+### Bloquear el acceso a tipos de fichero concretos
+
+En un servidor hay ficheros que no deberían estar accesibles desde la web: copias de seguridad, logs, ficheros de configuración, etc.
+
+```apache
+<FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
+    # Apache 2.4
     Require all denied
-    Require ip xxx.xxx.xxx.xxx
-
-### Bloquear acceso a ficheros ocultos y directorios
-
-    RewriteCond %{SCRIPT_FILENAME} -d [OR]
-    RewriteCond %{SCRIPT_FILENAME} -f
-    RewriteRule "(^|/)\." - [F]
-
-### Bloquear el acceso a los tipos de fichero que queramos
-
-Dentro de un servidor web existen muchos ficheros y no sólo los que están orientados a ser ejecutados y accesibles para los visitantes. Por ejemplo, copias de seguridad, logs, archivos de configuración, etc. Con este código podremos determinar aquellos que no queremos que sean accedidos vía web.
-
-    <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
-        ## Apache 2.2
-        Order allow,deny
-        Deny from all
-        Satisfy All
-    
-      ## Apache 2.4
-       Require all denied
-    </FilesMatch>
-
-Sólo debemos utilizar uno de los dos bloques, que dependerá de la versión de Apache que estemos utilizando.
+</FilesMatch>
+```
 
 ### Bloquear la navegación por directorios
 
-De esta forma obligamos a que sólo se pueda acceder a los ficheros que generan un HTML que nosotros controlamos y los usuarios no pueden navegador por los directorios ni visualizar otros elementos no cruciales para la página web.
+Evita que se pueda ver el listado de ficheros de una carpeta que no tiene `index`.
 
-    Options All -Indexes
+```apache
+Options -Indexes
+```
 
 ### Bloquear el hotlinking de imágenes
 
-Evita que otras páginas empleen tus imágenes a costa de los recursos de tu servidor web.
+Evita que otras webs empleen tus imágenes a costa de los recursos de tu servidor.
 
-    RewriteEngine on
-    # Elimina la siguiente línea si quieres bloquear las peticiones de referers desconocidos
-    RewriteCond %{HTTP_REFERER} !^$
-    
-    RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
-    RewriteRule \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
-    
-    # Si quieres mostrar una imagen avisando del bloqueo, sustituye línea anterior por:
-    # RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+```apache
+RewriteEngine On
+# Elimina la siguiente línea si quieres bloquear también las peticiones sin referer
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example\.com [NC]
+RewriteRule \.(jpe?g|png|gif|bmp|webp)$ - [NC,F,L]
+```
 
-### Bloquear con contraseña el accceso al sitio
+### Proteger el acceso al sitio con contraseña
 
-Necesitarás crear un fichero  `.htpasswd`  dentro del servidor web donde se guardarán los datos de acceso. Después bastará con incluir el siguiente código en el fichero `.htaccess`.
+Necesitas un fichero `.htpasswd` en el servidor con los datos de acceso. Después, incluye esto en el `.htaccess`:
 
-    AuthType Basic
-    AuthName "Nombre"
-    AuthUserFile /home/fellowship/.htpasswd
+```apache
+AuthType Basic
+AuthName "Zona privada"
+AuthUserFile /ruta/completa/.htpasswd
+Require valid-user
+```
+
+### Proteger ficheros concretos con contraseña
+
+```apache
+AuthName "Zona privada"
+AuthType Basic
+AuthUserFile /ruta/completa/.htpasswd
+
+<Files "informe.pdf">
     Require valid-user
+</Files>
+```
 
-### Bloquear con contraseña el accceso a ficheros
+### Evitar que el sitio se cargue en un iframe
 
-    AuthName "Nombre"
-    AuthType Basic
-    AuthUserFile /home/fellowship/.htpasswd
-    
-    <Files "one-ring.o">
-    Require valid-user
-    </Files>
-    
-    <FilesMatch ^((one|two|three)-rings?\.o)$>
-    Require valid-user
-    </FilesMatch>
+```apache
+Header set X-Frame-Options SAMEORIGIN
+```
 
-### Evitar que el sitio sea incluido en un iframe
-
-    SetEnvIf Request_URI "/starry-night" allow_framing=true
-    Header set X-Frame-Options SAMEORIGIN env=!allow_framing
-
+Para un control más fino, la alternativa actual es la directiva `frame-ancestors` de la cabecera `Content-Security-Policy`.
 
 ## Rendimiento
 
 ### Comprimir los ficheros de texto
 
-    <IfModule mod_deflate.c>
-    
-            # Force compression for mangled headers.
-            # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
-            <IfModule mod_setenvif.c>
-                <IfModule mod_headers.c>
-                    SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
-                    RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
-                </IfModule>
-            </IfModule>
-        
-            # Compress all output labeled with one of the following MIME-types
-            # (for Apache versions below 2.3.7, you don't need to enable `mod_filter`
-            #  and can remove the `<IfModule mod_filter.c>` and `</IfModule>` lines
-            #  as `AddOutputFilterByType` is still in the core directives).
-            <IfModule mod_filter.c>
-                AddOutputFilterByType DEFLATE application/atom+xml \
-                                              application/javascript \
-                                              application/json \
-                                              application/rss+xml \
-                                              application/vnd.ms-fontobject \
-                                              application/x-font-ttf \
-                                              application/x-web-app-manifest+json \
-                                              application/xhtml+xml \
-                                              application/xml \
-                                              font/opentype \
-                                              image/svg+xml \
-                                              image/x-icon \
-                                              text/css \
-                                              text/html \
-                                              text/plain \
-                                              text/x-component \
-                                              text/xml
-            </IfModule>
-        
-        </IfModule>
+```apache
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/atom+xml \
+                                  application/javascript \
+                                  application/json \
+                                  application/rss+xml \
+                                  application/xhtml+xml \
+                                  application/xml \
+                                  image/svg+xml \
+                                  text/css \
+                                  text/html \
+                                  text/javascript \
+                                  text/plain \
+                                  text/xml
+</IfModule>
+```
 
-### Establecer el tiempo que será cacheado un elemento (expire headers)
+Esta regla usa `mod_deflate` (gzip). Si tu servidor tiene `mod_brotli` (disponible desde Apache 2.4.26), puedes usarlo para una compresión mejor.
 
-    <IfModule mod_expires.c>
-        ExpiresActive on
-        ExpiresDefault                                      "access plus 1 month"
-    
-      # CSS
-        ExpiresByType text/css                              "access plus 1 year"
-    
-      # Data interchange
-        ExpiresByType application/json                      "access plus 0 seconds"
-        ExpiresByType application/xml                       "access plus 0 seconds"
-        ExpiresByType text/xml                              "access plus 0 seconds"
-    
-      # Favicon (cannot be renamed!)
-        ExpiresByType image/x-icon                          "access plus 1 week"
-    
-      # HTML components (HTCs)
-        ExpiresByType text/x-component                      "access plus 1 month"
-    
-      # HTML
-        ExpiresByType text/html                             "access plus 0 seconds"
-    
-      # JavaScript
-        ExpiresByType application/javascript                "access plus 1 year"
-    
-      # Manifest files
-        ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
-        ExpiresByType text/cache-manifest                   "access plus 0 seconds"
-    
-      # Media
-        ExpiresByType audio/ogg                             "access plus 1 month"
-        ExpiresByType image/gif                             "access plus 1 month"
-        ExpiresByType image/jpeg                            "access plus 1 month"
-        ExpiresByType image/png                             "access plus 1 month"
-        ExpiresByType video/mp4                             "access plus 1 month"
-        ExpiresByType video/ogg                             "access plus 1 month"
-        ExpiresByType video/webm                            "access plus 1 month"
-    
-      # Web feeds
-        ExpiresByType application/atom+xml                  "access plus 1 hour"
-        ExpiresByType application/rss+xml                   "access plus 1 hour"
-    
-      # Web fonts
-        ExpiresByType application/font-woff2                "access plus 1 month"
-        ExpiresByType application/font-woff                 "access plus 1 month"
-        ExpiresByType application/vnd.ms-fontobject         "access plus 1 month"
-        ExpiresByType application/x-font-ttf                "access plus 1 month"
-        ExpiresByType font/opentype                         "access plus 1 month"
-        ExpiresByType image/svg+xml                         "access plus 1 month"
-    </IfModule>
+### Establecer el tiempo de caché de los elementos (expire headers)
 
-### Deshabilitar ETags
+```apache
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault                       "access plus 1 month"
 
-Al eliminar la cabecera `ETag`, se impide el acceso a las cachés y que los navegadores puedan validar los archivos, por lo que se ven obligados a confiar en la cabecera `Cache-Control` y `Expires` que hayamos definido en el punto anterior.
+    # HTML: no cachear
+    ExpiresByType text/html              "access plus 0 seconds"
 
-    <IfModule mod_headers.c>
-        Header unset ETag
-    </IfModule>
-    FileETag None
+    # Datos y feeds
+    ExpiresByType application/json       "access plus 0 seconds"
+    ExpiresByType application/xml        "access plus 0 seconds"
+    ExpiresByType application/rss+xml    "access plus 1 hour"
+    ExpiresByType application/atom+xml   "access plus 1 hour"
+
+    # CSS y JavaScript
+    ExpiresByType text/css               "access plus 1 year"
+    ExpiresByType text/javascript        "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+
+    # Imágenes y vídeo
+    ExpiresByType image/gif              "access plus 1 month"
+    ExpiresByType image/jpeg             "access plus 1 month"
+    ExpiresByType image/png              "access plus 1 month"
+    ExpiresByType image/webp             "access plus 1 month"
+    ExpiresByType image/svg+xml          "access plus 1 month"
+    ExpiresByType video/mp4              "access plus 1 month"
+
+    # Fuentes
+    ExpiresByType font/woff2             "access plus 1 month"
+    ExpiresByType font/woff              "access plus 1 month"
+</IfModule>
+```
+
+> **Cuidado con la caché de un año en CSS y JavaScript.** Solo es seguro si los nombres de los ficheros cambian cuando cambia su contenido (por ejemplo `estilos.a1b2c3.css`). Si no, los visitantes pueden seguir viendo una versión antigua durante meses. Si no usas ficheros versionados, reduce el plazo.
+
+### Deshabilitar ETags (solo en casos concretos)
+
+Las cabeceras `ETag` permiten al navegador comprobar si un fichero ha cambiado sin descargarlo de nuevo. Quitarlas era un consejo clásico para servidores con varias máquinas, donde cada una genera una etiqueta distinta. En una instalación normal no hace falta y es mejor dejarlas activas.
+
+```apache
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+FileETag None
+```
 
 ### Codificar los ficheros con UTF-8
 
-    # Use UTF-8 encoding for anything served text/plain or text/html
-    AddDefaultCharset utf-8
-    
-    # Force UTF-8 for a number of file formats
-    AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+```apache
+AddDefaultCharset utf-8
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+```
 
-### Enviar imágenes en formato .WebP
+### Servir imágenes en formato WebP
 
-El siguiente código sólo funcionará si existe un fichero de imagen de mismo nombre pero con extensión `.webp` de tal forma que si el servidor detecta compatibilidad en el navegador, sustituirá la imagen actual por su versión `.webp`.
+Este código solo funciona si existe una imagen con el mismo nombre y extensión `.webp` junto a la original. Si el navegador es compatible, el servidor entrega la versión `.webp`.
 
-    RewriteEngine On
-    RewriteCond %{HTTP_ACCEPT} image/webp
-    RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
-    RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+```apache
+RewriteEngine On
+RewriteCond %{HTTP_ACCEPT} image/webp
+RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+
+<IfModule mod_headers.c>
+    Header append Vary Accept env=REDIRECT_accept
+</IfModule>
+AddType image/webp .webp
+```
+
+La cabecera `Vary: Accept` evita que una caché intermedia entregue el `.webp` a un navegador que no lo soporta.
 
 ## SEO
 
 ### Activar noindex para todo el sitio
 
-En el caso de que queramos desindexar todo un dominio, podemos activar las directivas `noindex` y `nofollow` de la etiqueta `meta robots` de la siguiente manera:
+Si quieres desindexar un dominio completo (por ejemplo, un entorno de pruebas), puedes enviar la directiva `noindex` en la cabecera HTTP:
 
-    <ifModule mod_headers.c>
+```apache
+<IfModule mod_headers.c>
     Header set X-Robots-Tag "noindex, nofollow"
-    </ifModule>
+</IfModule>
+```
 
-Si lo queremos hacer únicamente para una subcarpeta, deberemos especificarlo así:
+Para hacerlo solo en una subcarpeta:
 
-    <If "%{REQUEST_URI} =~ m#^/seo/#">
+```apache
+<If "%{REQUEST_URI} =~ m#^/seo/#">
     Header set X-Robots-Tag "noindex"
-    </If>
+</If>
+```
 
-Para más información acerca de la directiva `meta robots`, podemos ir a la [documentación oficial de Google](https://developers.google.com/search/docs/advanced/robots/robots_meta_tag?hl=es).
+Para más información sobre las directivas de robots, consulta la [documentación oficial de Google](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es).
 
+## Cómo probar los cambios
 
+Después de cada cambio, comprueba la respuesta del servidor. Con `curl -I` ves el código de estado y la URL de destino de una redirección:
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODg3MzM3OCwyMDQ3MDYxMTQ4LDEyMj
-Q3MTc2MywzNDA2Mjc5MzUsMTczNDQwMzQ4MSwtMTA5MDEyNjAw
-LC0xNzQyMjM4Nzc1LDc0NDUwMjgwNiwtMTcxOTA2MTY4OSwtMT
-g5MjE3MTA2NSw0OTY1OTQ2OTIsLTY5NTM4NDM3NV19
--->
+```bash
+curl -I http://example.com/pagina
+```
+
+Fíjate en que:
+
+- el código sea **301** y no 302,
+- la cabecera `Location` apunte a la URL final correcta,
+- la redirección sea **un solo salto**. Con `curl -IL` puedes seguir la cadena completa y ver si hay saltos de más.
+
+## Recursos
+
+- [Documentación oficial de Apache: tutorial de .htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
+- [Apache mod_rewrite](https://httpd.apache.org/docs/2.4/mod/mod_rewrite.html)
+- [Apache mod_alias (Redirect y RedirectMatch)](https://httpd.apache.org/docs/2.4/mod/mod_alias.html)
+- [Apache mod_deflate](https://httpd.apache.org/docs/2.4/mod/mod_deflate.html)
+- [Apache mod_expires](https://httpd.apache.org/docs/2.4/mod/mod_expires.html)
+- Guía de [migración SEO](https://chuletaseo.com/migracion-seo)
+
+## Preguntas frecuentes
+
+**¿Qué es el fichero .htaccess?** Es un fichero de configuración de Apache que se aplica al directorio donde está (y a sus subdirectorios). Sirve para redirecciones, seguridad, caché, compresión y otras directivas, sin editar la configuración principal del servidor.
+
+**¿Dónde está el .htaccess?** Normalmente en la carpeta raíz de la web, junto a `index.html` o `index.php`. Al empezar por punto es un fichero oculto, así que tu cliente FTP o el administrador de ficheros debe estar configurado para mostrar ficheros ocultos.
+
+**¿Funciona en Nginx?** No. Nginx no lee `.htaccess`; las reglas equivalentes se escriben en su propia configuración.
+
+**¿Qué hago si tras un cambio la web devuelve un error 500?** Revierte el último cambio y revisa el log de errores del servidor, que indica la directiva que falla.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "¿Qué es el fichero .htaccess?", "acceptedAnswer": { "@type": "Answer", "text": "Es un fichero de configuración de Apache que se aplica al directorio donde está y a sus subdirectorios. Sirve para redirecciones, seguridad, caché, compresión y otras directivas, sin editar la configuración principal del servidor." } },
+    { "@type": "Question", "name": "¿Dónde está el .htaccess?", "acceptedAnswer": { "@type": "Answer", "text": "Normalmente en la carpeta raíz de la web, junto a index.html o index.php. Al empezar por punto es un fichero oculto, así que el cliente FTP o el administrador de ficheros debe mostrar los ficheros ocultos." } },
+    { "@type": "Question", "name": "¿Funciona .htaccess en Nginx?", "acceptedAnswer": { "@type": "Answer", "text": "No. Nginx no lee .htaccess; las reglas equivalentes se escriben en su propia configuración." } },
+    { "@type": "Question", "name": "¿Qué hago si tras un cambio en .htaccess la web devuelve un error 500?", "acceptedAnswer": { "@type": "Answer", "text": "Revierte el último cambio y revisa el log de errores del servidor, que indica la directiva que falla." } }
+  ]
+}
+</script>
