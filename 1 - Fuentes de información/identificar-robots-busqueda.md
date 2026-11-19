@@ -31,3 +31,7 @@ En el caso del robot de búsqueda de Bing, hace uso de los siguientes user-agent
 `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/**W.X.Y.Z** Mobile Safari/537.36 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)`
 
 Para verificar que una visita es realmente de Bingbot, Bing publica el [listado de las IPs que utiliza](https://www.bing.com/toolbox/bingbot.json).
+
+## Rastreadores de IA
+
+Además de los buscadores clásicos, hoy visitan tu web rastreadores de empresas de IA (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended...). Cada uno sirve a un propósito distinto y se controla por separado. Tienes la tabla completa y ejemplos de robots.txt en [rastreadores de IA y robots.txt](https://chuletaseo.com/rastreadores-ia-robots-txt).
