@@ -9,7 +9,8 @@ permalink: glosario-seo
 
 ---
 
-{:.lead} 45 términos de SEO y de búsqueda con IA, explicados en una o dos frases y con enlace a la guía donde profundizo en cada uno. Úsalo como consulta rápida o para compartirlo con quien está empezando.
+45 términos de SEO y de búsqueda con IA, explicados en una o dos frases y con enlace a la guía donde profundizo en cada uno. Úsalo como consulta rápida o para compartirlo con quien está empezando.
+{:.lead}
 
 1. Índice
 {:toc}

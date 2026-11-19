@@ -2,289 +2,199 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-<link rel="icon" href="cdn/images/hash.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="img/hash.png" />
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-W9GZ3MP');</script>
 {% seo %}
-<link rel="stylesheet" type="text/css" href="cdn/css/styles.pure.css" />
-		<style>
-			.nl-cta{background:#fff8d6;border:2px solid #14120f;border-radius:12px;padding:20px 24px;margin:24px 0;display:flex;gap:16px 24px;align-items:center;justify-content:space-between;flex-wrap:wrap}
-			.nl-cta strong{display:block;font-size:1.05rem;margin-bottom:2px;color:#14120f}
-			.nl-cta span{color:#4a463e;font-size:.95rem}
-			.nl-cta .btn{white-space:nowrap}
-			.nl-cta-end{margin:0 0 32px;padding:28px}
-			.nl-cta-end strong{font-size:1.25rem}
-		</style>
-	</head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/chuleta.css?v=20261119" />
+</head>
 
-<body data-spy="scroll" data-target=".spyscroll" data-offset="125">
-
+<body>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9GZ3MP"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
+<a class="skip" href="#contenido">Saltar al contenido</a>
 
-
-<!-- Document Wrapper   
-=============================== -->
-<div id="main-wrapper"> 
-  
-  <!-- Header
-  ============================ -->
-  <header id="header" class="sticky-top"> 
-    <!-- Navbar -->
-    <nav class="primary-menu navbar navbar-expand-lg navbar-dropdown-dark">
-      <div class="container-fluid">
-        <!-- Sidebar Toggler -->
-		<button id="sidebarCollapse" class="navbar-toggler d-block d-md-none" type="button"><span></span><span class="w-75"></span><span class="w-50"></span></button>
-		
-		<!-- Logo --> 
-        <a class="logo ml-md-3" href="https://chuletaseo.com" title="Chuleta SEO">CS</a> 
-		<span class="text-2 ml-2">v3.2</span> 
-        <!-- Logo End -->
-        
-		<!-- Navbar Toggler -->
-		<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#header-nav"></button>
-        
-
-        <!--<ul class="social-icons social-icons-sm ml-lg-2 mr-2">
-          <li class="social-icons-twitter"><a data-toggle="tooltip" href="https://twitter.com/emirodgar" target="_blank" title="" data-original-title="Twitter"><i class="fab fa-twitter"></i></a></li>
-          <li class="social-icons-facebook"><a data-toggle="tooltip" href="https://es.linkedin.com/in/emirodgar" target="_blank" title="" data-original-title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
-        </ul>-->
-      </div>
-    </nav>
-    <!-- Navbar End --> 
-  </header>
-  <!-- Header End --> 
-  
-  <!-- Content
-  ============================ -->
-  <div id="content" role="main">
-    
-	<!-- Sidebar Navigation
-	============================ -->
-	<div class="idocs-navigation bg-light">
-	  {% if page.folder != "autor" %}
-	  <ul class="nav flex-column spyscroll">
-        <li class="nav-item"><a class="nav-link active" href="#cs_principio">Secciones</a>
-			<ul class="nav flex-column">
-			  <li class="nav-item"><a class="nav-link" href="#cs_intro">Introducción</a></li>
-			  <li class="nav-item"><a class="nav-link" href="#cs_recursos">Recursos</a></li>
-			  <li class="nav-item"><a class="nav-link" href="#cs_herramientas">Herramientas</a></li>
-			  <li class="nav-item"><a class="nav-link" href="#cs_pr">Preguntas y respuestas</a></li>
-			</ul>
-		</li>
-		<li class="nav-item"><a class="nav-link" href="#cs_servicios">Chuleta SEO</a>
-			<ul class="nav flex-column">
-            <li class="nav-item"><a class="nav-link" href="#newsletter">Newsletter</a></li>
-          </ul>
-		</li>
-	  </ul>
-	  {% endif %}
-	  <ul class="nav flex-column ">
-		<li class="nav-item"><a 
-      
-      {% if page.folder == "fuentes-informacion" %}
-        class="nav-link nav-menu active"
-      {% else %}
-        class="nav-link nav-menu"
-      {% endif %}
-      
-      href="">Empezar en SEO</a>
-          <ul class="nav flex-column">
-            <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></li>                       
-            <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/guias-seo">Guías SEO</a></li>
-            <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/herramientas-seo">Herramientas SEO</a></li>
-            <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/auditoria-seo">Auditoría SEO</a></li> 
-            <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/primeros-pasos-seo">Primeros pasos</a></li>
-          </ul>
-        </li>
-        <li class="nav-item"><a 
-          
-          {% if page.folder == "indexacion" %}
-        class="nav-link nav-menu active"
-      {% else %}
-        class="nav-link nav-menu"
-      {% endif %}
-          
-          href="">Indexación</a>
-          <ul class="nav flex-column" >
-            <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/migracion-seo">Migración SEO</a></li>  
-          </ul>
-        </li>
-        <li class="nav-item"><a 
-          
-          {% if page.folder == "contenidos" %}
-        class="nav-link nav-menu active"
-      {% else %}
-        class="nav-link nav-menu"
-      {% endif %}
-          
-          href="">Contenidos</a>
-			<ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/keyword-research">Keyword research</a></li>
-            
-          </ul>
-		</li>
-        <li class="nav-item"><a 
-          
-          {% if page.folder == "enlazado" %}
-        class="nav-link nav-menu active"
-      {% else %}
-        class="nav-link nav-menu"
-      {% endif %}
-          
-          
-          href="">Enlazado</a>
-          <ul class="nav flex-column" style="display:none;">
-            <li class="nav-item"><a class="nav-link external" data-target="#link" href="https://chuletaseo.com/enlazado">Estrategia de enlazado</a></li>
-          </ul>
-        </li>
-		<li class="nav-item"><a 
-      {% if page.folder == "informes" %}
-        class="nav-link nav-menu active"
-      {% else %}
-        class="nav-link nav-menu"
-      {% endif %}
-
-      data-target="#link" href="">Informes</a>
-		      <ul class="nav flex-column">
-            <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/informes-seo">Informes SEO</a></li>
-            <li class="nav-item"><a class="nav-link external" href="https://chuletaseo.com/google-analytics">Google Analytics</a></li>
-          </ul>
-    </li>
-      </ul>
+<nav class="site-nav">
+  <div class="wrap nav-in">
+    <a class="logo" href="https://chuletaseo.com/">Chuleta<span>SEO</span></a>
+    <div class="nav-links">
+      <a href="https://chuletaseo.com/fuentes-informacion">Guías</a>
+      <a href="https://chuletaseo.com/glosario-seo">Glosario</a>
+      <a href="https://chuletaseo.com/entrevistas-seo">Entrevistas</a>
+      <a href="https://chuletaseo.com/chuleta-geo">Chuleta GEO</a>
+      <a class="btn sm js-nl-cta" data-cta="nav" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=nav&amp;utm_content={{ page.permalink }}">Suscribirme</a>
     </div>
-    
-    <!-- Docs Content
-	============================ -->
-    <div class="idocs-content">
-      <div class="container"> 
-        
-        <!-- Getting Started
-		============================ -->
-        <section id="cs_principio">
-        <h1>{{ page.title }}</h1>
-        <p class="lead">{{ page.description }}</p>
-		{% if page.folder != "autor" %}
-		<div class="nl-cta" role="complementary" aria-label="Newsletter ChuletaSEO">
-			<div><strong>Lo que cambia en SEO, cada jueves en tu email</strong><span>Cada jueves, el resumen SEO y GEO filtrado y listo para aplicar.</span></div>
-			<a class="btn btn-primary js-nl-cta" data-cta="guia-inicio" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-inicio&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
-		</div>
-		{% endif %}
-		{% if page.folder != "autor" %}
-		<hr>
-		<div class="row">
-			<div class="col-sm-6 col-lg-4">
-				<ul class="list-unstyled">
-					<li><strong>Tiempo de lectura:</strong> {% assign words = content | number_of_words %}
-						{% if words < 360 %}
-						  1 minuto
-						{% else %}
-						  {{ words | divided_by:180 }} minutos
-						{% endif %}</li>
-					<li><strong>Autor:</strong>
-            {% if page.author == "Emirodgar" %}
-                <a href="{{ site.url }}/emirodgar">Emirodgar</a>          
-            {% else %}
-              {{ page.author }} 
-            {% endif %}
-            
-          </li>
-				</ul>
-			</div>
-			<div class="col-sm-6 col-lg-4">
-				<ul class="list-unstyled">
-					<li><strong class="font-weight-700">Publicado:</strong> {{ page.date |  date: ' %d/%m/%Y' }}</li>
-					{% if page.date_modified != null %}
-					<li><strong>Actualizado:</strong> {{ page.date_modified |  date: ' %d/%m/%Y' }}</li>
-					{% endif %}
-				</ul>
-			</div>
-		</div>
-		{% endif %}
-        </section>
-        
-		<hr class="divider">
-		
-        <!-- Installation
-		============================ -->
-        <section id="cs_intro">
-			{{ content }}          
-        </section>
-        
-		<hr class="divider">
-		
-		
-        <!-- Changelog
-		============================ -->
-		
-        {% if page.folder != "autor" %}
-        <div class="nl-cta nl-cta-end" role="complementary" aria-label="Newsletter ChuletaSEO">
-			<div><strong>¿Te ha servido? Recibe lo nuevo cada jueves</strong><span>La newsletter SEO en español sobre Google, GEO y búsqueda con IA. Sin ruido, solo lo aplicable.</span></div>
-			<a class="btn btn-primary js-nl-cta" data-cta="guia-final" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-final&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
-		</div>
-        {% endif %}
-
-        <section id="cs_servicios">
-          <h2>Servicios adicionales</h2>
-          <p class="text-4">Aprovecha al máximo el conocimiento SEO de este portal suscribiéndote a la newsletter que enviamos cada semana con las novedades del mundo SEO. También te ofrecemos recursos y herramientas gratuitas para ser más eficiente en tus estrategias.</p>
-		  
-		  <h3 id="newsletter">Newsletter <small class="text-muted"></small></h3>
-
-      <a class="btn btn-primary" target="_blank" href="https://www.linkedin.com/newsletters/chuleta-seo-6975060536694632448/"> Suscribirse a la newsletter en Linkedin</a>
-         
-      <ul class="changelog" > <br/> 
-			    <p class=""> Más de <b>2.600 personas</b> están suscritas a nuestra <a target="_blank" href="https://newsletter.chuletaseo.com">Newsletter de Chuleta SEO</a> y reciben todas las semanas las últimas noticias del sector.</p>
-  
-          </ul>
-
-
-          <h3 id="newsletter">Dashboard <small class="text-muted"></small></h3>
-
-          <a class="btn btn-primary" target="_blank" href="https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c"> Dashboard SEO gratuito</a>
-       
-    
-
-
-        </section>        
-        
-      </div>
-    </div>
-	
   </div>
-  <!-- Content end --> 
-  
-  <!-- Footer
-  ============================ -->
-  <footer id="footer" class="section footer-text-dark">
-    <div class="container">
-      <p class="text-center lead"> <strong>ChuletaSEO</strong></p>
-	  <p class="text-2 text-center mb-0">Programado por <a class="btn-link" target="_blank" href="https://emirodgar.com">Emirodgar</a> / <a href="https://twitter.com/emirodgar" target="_blank">Twitter</a> / <a href="https://es.linkedin.com/in/emirodgar" target="_blank">LinkedIn</a> / <a class="btn-link" href="https://chuletaseo.com/mapa-web">Mapa web</a></p>
+</nav>
+
+{% assign cat_name = "" %}{% assign cat_url = "" %}
+{% if page.path contains "1 - Fuentes" %}{% assign cat_name = "Fuentes de información" %}{% assign cat_url = "fuentes-informacion" %}
+{% elsif page.path contains "2 - Primeros" %}{% assign cat_name = "Primeros pasos en SEO" %}{% assign cat_url = "primeros-pasos-seo" %}
+{% elsif page.path contains "3 - Indexa" %}{% assign cat_name = "Indexación" %}{% assign cat_url = "indexacion" %}
+{% elsif page.path contains "4 - Contenidos" %}{% assign cat_name = "Contenidos" %}{% assign cat_url = "contenidos" %}
+{% elsif page.path contains "5 - Enlazado" %}{% assign cat_name = "Enlazado" %}{% assign cat_url = "enlazado" %}
+{% elsif page.path contains "6 - Informes" %}{% assign cat_name = "Informes" %}{% assign cat_url = "informes-seo" %}
+{% endif %}
+
+<header class="page-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="https://chuletaseo.com/">Inicio</a>{% if cat_name != "" and page.permalink != cat_url %} &rsaquo; <a href="https://chuletaseo.com/{{ cat_url }}">{{ cat_name }}</a>{% endif %} &rsaquo; {{ page.title }}</div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="desc">{{ page.description }}</p>{% endif %}
+    {% if page.folder != "autor" %}
+    <div class="meta">
+      <span>{% assign words = content | number_of_words %}{% if words < 360 %}1 min de lectura{% else %}{{ words | divided_by:180 }} min de lectura{% endif %}</span>
+      <span>Por {% if page.author == "Emirodgar" %}<a href="{{ site.url }}/emirodgar">Emilio Rodríguez</a>{% else %}{{ page.author }}{% endif %}</span>
+      {% if page.date %}<span>Publicado {{ page.date | date: "%d/%m/%Y" }}</span>{% endif %}
+      {% if page.date_modified %}<span>Actualizado {{ page.date_modified | date: "%d/%m/%Y" }}</span>{% endif %}
     </div>
-  </footer>
-  <!-- Footer end -->
-  
+    {% endif %}
+  </div>
+</header>
+
+<div class="wrap page-grid">
+  <main class="prose" id="contenido">
+    {% if page.folder != "autor" %}
+    <div class="nl-cta" role="complementary" aria-label="Newsletter ChuletaSEO">
+      <div><strong>Lo que cambia en SEO, cada jueves en tu email</strong><span>El resumen SEO y GEO filtrado y listo para aplicar.</span></div>
+      <a class="btn js-nl-cta" data-cta="guia-inicio" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-inicio&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
+    </div>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.folder != "autor" %}
+    <div class="nl-cta nl-cta-end" role="complementary" aria-label="Newsletter ChuletaSEO">
+      <div><strong>¿Te ha servido? Recibe lo nuevo cada jueves</strong><span>La newsletter SEO en español sobre Google, GEO y búsqueda con IA. Sin ruido, solo lo aplicable.</span></div>
+      <a class="btn js-nl-cta" data-cta="guia-final" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=cta-final&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
+    </div>
+    <p class="extras">
+      <a href="https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_r8ghtzle4c" target="_blank" rel="noopener">Dashboard SEO gratuito</a>
+      <a href="https://www.linkedin.com/newsletters/chuleta-seo-6975060536694632448/" target="_blank" rel="noopener">Newsletter en LinkedIn</a>
+    </p>
+    {% endif %}
+  </main>
+
+  <aside class="side">
+    <div class="toc" id="toc" hidden></div>
+    {% if page.folder != "autor" %}
+    <div class="side-card">
+      <strong>Newsletter SEO cada jueves</strong>
+      <p>SEO, GEO y búsqueda con IA, filtrado y listo para aplicar.</p>
+      <a class="btn sm js-nl-cta" data-cta="lateral" href="https://newsletter.chuletaseo.com/?utm_source=chuletaseo.com&amp;utm_medium=guia&amp;utm_campaign=lateral&amp;utm_content={{ page.permalink }}">Suscribirme gratis</a>
+    </div>
+    {% endif %}
+    <h2>Guías</h2>
+    <ul class="side-links">
+      <li><a href="https://chuletaseo.com/fuentes-informacion">Fuentes de información</a></li>
+      <li><a href="https://chuletaseo.com/primeros-pasos-seo">Primeros pasos en SEO</a></li>
+      <li><a href="https://chuletaseo.com/indexacion">Indexación</a></li>
+      <li><a href="https://chuletaseo.com/contenidos">Contenidos</a></li>
+      <li><a href="https://chuletaseo.com/enlazado">Enlazado</a></li>
+      <li><a href="https://chuletaseo.com/informes-seo">Informes</a></li>
+      <li><a href="https://chuletaseo.com/glosario-seo">Glosario SEO y GEO</a></li>
+      <li><a href="https://chuletaseo.com/newsletter-seo">Mejores newsletters SEO</a></li>
+    </ul>
+  </aside>
 </div>
-<!-- Document Wrapper end --> 
 
-<!-- Back To Top --> 
-<a id="back-to-top" data-toggle="tooltip" title="Subir arriba" href="javascript:void(0)"><i class="fa fa-chevron-up"></i></a> 
+<section class="library">
+  <div class="wrap">
+    <span class="eyebrow">Biblioteca gratuita</span>
+    <h2>Sigue explorando la chuleta.</h2>
+    <p class="sub">Guías, herramientas y recursos SEO ordenados por tema.</p>
+    <div class="lib-grid">
+      <a class="lib" href="https://chuletaseo.com/fuentes-informacion"><span>01</span><h3>Fuentes de información</h3><p>Dónde informarte con fiabilidad.</p></a>
+      <a class="lib" href="https://chuletaseo.com/primeros-pasos-seo"><span>02</span><h3>Primeros pasos en SEO</h3><p>La base para empezar bien.</p></a>
+      <a class="lib" href="https://chuletaseo.com/indexacion"><span>03</span><h3>Indexación</h3><p>Rastreo, índice y técnica.</p></a>
+      <a class="lib" href="https://chuletaseo.com/contenidos"><span>04</span><h3>Contenidos</h3><p>Cómo crear lo que posiciona.</p></a>
+      <a class="lib" href="https://chuletaseo.com/enlazado"><span>05</span><h3>Enlazado</h3><p>Autoridad y link building.</p></a>
+      <a class="lib" href="https://chuletaseo.com/informes-seo"><span>06</span><h3>Informes</h3><p>Medir y reportar bien.</p></a>
+    </div>
+  </div>
+</section>
 
-<!-- JavaScript
-============================ -->
-<script src="cdn/vendor/jquery/jquery.min.js"></script> 
-<script src="cdn/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> 
-<!-- Easing --> 
-<script src="cdn/vendor/jquery.easing/jquery.easing.min.js"></script> 
-<!-- Custom Script -->
-<script src="cdn/js/theme.js"></script>
+<footer class="site-footer">
+  <div class="wrap f">
+    <div>© 2026 ChuletaSEO · Newsletter SEO en español sobre SEO, GEO y búsqueda con IA</div>
+    <div>
+      <a href="https://newsletter.chuletaseo.com/archive">Ediciones</a>
+      <a href="https://chuletaseo.com/newsletter-seo">Mejores newsletters SEO</a>
+      <a href="https://chuletaseo.com/glosario-seo">Glosario SEO</a>
+      <a href="https://chuletaseo.com/mapa-web">Mapa web</a>
+    </div>
+  </div>
+</footer>
+
 <script>
-document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('.js-nl-cta');if(!a)return;window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'newsletter_cta_click',cta_location:a.getAttribute('data-cta'),page_path:location.pathname});});
+(function () {
+  // Acordeón de preguntas (sustituye a jQuery + Bootstrap)
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('[data-toggle="collapse"]');
+    if (!a) return;
+    e.preventDefault();
+    var t = document.querySelector(a.getAttribute('data-target'));
+    if (!t) return;
+    var open = t.classList.contains('show');
+    var par = t.getAttribute('data-parent') || a.getAttribute('data-parent');
+    if (par && !open) {
+      document.querySelectorAll(par + ' .collapse.show').forEach(function (x) {
+        x.classList.remove('show');
+        var l = document.querySelector('[data-target="#' + x.id + '"]');
+        if (l) { l.classList.add('collapsed'); l.setAttribute('aria-expanded', 'false'); }
+      });
+    }
+    t.classList.toggle('show', !open);
+    a.classList.toggle('collapsed', open);
+    a.setAttribute('aria-expanded', String(!open));
+  });
+
+  // Clics en los CTA de newsletter (evento para GTM)
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('.js-nl-cta');
+    if (!a) return;
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event: 'newsletter_cta_click', cta_location: a.getAttribute('data-cta'), page_path: location.pathname });
+  });
+
+  // Índice lateral "En esta página"
+  var prose = document.getElementById('contenido');
+  var box = document.getElementById('toc');
+  if (!prose || !box) return;
+  var inline = prose.querySelector('#markdown-toc');
+  if (inline) inline.classList.add('inline-toc');
+  var hs = Array.prototype.slice.call(prose.querySelectorAll('h2[id], h3[id]')).filter(function (h) { return !h.closest('.nl-cta, .accordion'); });
+  if (hs.length < 3) return;
+  if (hs.length > 24) hs = hs.filter(function (h) { return h.tagName === 'H2'; });
+  var html = '<h2>En esta página</h2>';
+  hs.forEach(function (h) {
+    html += '<a href="#' + h.id + '"' + (h.tagName === 'H3' ? ' class="sub"' : '') + '>' + h.textContent.replace(/</g, '&lt;') + '</a>';
+  });
+  box.innerHTML = html;
+  box.hidden = false;
+  document.body.classList.add('has-side-toc');
+  if (!('IntersectionObserver' in window)) return;
+  var links = {};
+  box.querySelectorAll('a').forEach(function (a) { links[a.getAttribute('href').slice(1)] = a; });
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (en.isIntersecting) {
+        box.querySelectorAll('a.on').forEach(function (x) { x.classList.remove('on'); });
+        var l = links[en.target.id];
+        if (l) l.classList.add('on');
+      }
+    });
+  }, { rootMargin: '-90px 0px -70% 0px' });
+  hs.forEach(function (h) { io.observe(h); });
+})();
 </script>
 </body>
 </html>

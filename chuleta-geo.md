@@ -9,7 +9,8 @@ permalink: chuleta-geo
   
 ---
 
-{:.lead} Una página, cuatro bloques y cero relleno. La Chuleta GEO resume lo que Google y OpenAI documentan para que tu contenido sea elegido como fuente en la búsqueda con IA.
+Una página, cuatro bloques y cero relleno. La Chuleta GEO resume lo que Google y OpenAI documentan para que tu contenido sea elegido como fuente en la búsqueda con IA.
+{:.lead}
 
 <p>
   <a class="btn btn-primary" href="/chuletas/chuleta-geo.pdf" download onclick="window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'chuleta_download',chuleta:'geo'});">Descargar la Chuleta GEO (PDF)</a>

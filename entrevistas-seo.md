@@ -9,7 +9,8 @@ permalink: entrevistas-seo
   
 ---
 
-{:.lead} Cada cierto tiempo entrevisto en la newsletter a una persona que trabaja en SEO: cómo organiza su día, qué herramientas usa, qué le ha funcionado y cómo ve el futuro de la búsqueda con IA. Aquí tienes las 15 entrevistas publicadas hasta ahora, de la más reciente a la más antigua.
+Cada cierto tiempo entrevisto en la newsletter a una persona que trabaja en SEO: cómo organiza su día, qué herramientas usa, qué le ha funcionado y cómo ve el futuro de la búsqueda con IA. Aquí tienes las 15 entrevistas publicadas hasta ahora, de la más reciente a la más antigua.
+{:.lead}
 
 Los cargos son los que figuraban en cada edición en la fecha de su publicación, y pueden haber cambiado desde entonces.
 

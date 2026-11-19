@@ -1,8 +1,8 @@
 ---
-title: Herramientas SEO / SEO toolkit
-description: Todas las herramientas necesarias para llevar a cabo una estrategia SEO
+title: Herramientas SEO - Listado de herramientas gratuitas y de pago
+description: "Listado de herramientas SEO gratuitas y de pago, ordenadas por tarea: auditoría, SEO técnico, keywords, enlaces, analítica, extensiones y scripts."
 date: 23/08/2022
-date_modified: 27/02/2023
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: fuentes-informacion
@@ -14,7 +14,11 @@ permalink: herramientas-seo
 {:toc}
 
 
-En el mercado existe una gran variedad de herramientas para trabajar el SEO, tanto gratuitas como de pago. En este apartado hemos recopilado las que consideramos más interesantes.
+En el mercado hay herramientas SEO para casi cualquier tarea, gratuitas y de pago. Esta es la colección que he ido reuniendo, ordenada por tipo de trabajo. No hace falta usarlas todas: empieza por las gratuitas de Google ([Search Console](https://search.google.com/search-console), [Google Analytics 4](https://chuletaseo.com/google-analytics) y Lighthouse) y suma otras cuando tengas una necesidad concreta.
+
+> **Revisada en noviembre de 2026.** He quitado las herramientas que ya no existen o que Google ha retirado (Google Optimize, el Mobile-Friendly Test y la herramienta de pruebas de datos estructurados, sustituida por el Schema Markup Validator) y he actualizado los enlaces de las que han cambiado de dirección.
+
+Si lo que buscas es la parte de IA, tienes la [guía de SEO e inteligencia artificial](https://chuletaseo.com/seo-inteligencia-artificial) y la [Chuleta GEO](https://chuletaseo.com/chuleta-geo). Para los términos, el [glosario SEO](https://chuletaseo.com/glosario-seo).
 
 <section id="cs_recursos"></section>
 
@@ -35,8 +39,7 @@ Si queremos una suite que nos permita entender cómo está en términos SEO una 
 -   [Seositecheckup](https://seositecheckup.com/)
 -   [Seolyzer](https://seolyzer.io/)
 -   [Woorank](https://www.woorank.com/)
--   [Website Auditor](http://www.seopowersuite.es/website-auditor/)
--   [Google Webmasters Tools](https://www.google.com/webmasters/tools/home?hl=es)
+-   [Website Auditor](https://www.link-assistant.com/es/website-auditor/)
 -   [Siteliner](http://www.siteliner.com/)
 -   [Serpstat](https://serpstat.com/)
 -   [Beamusup](http://beamusup.com/)
@@ -53,8 +56,6 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Speedmonitor.io](https://speedmonitor.io/)
 -   [Browseo](http://www.browseo.net/)
 -   [Screamingfrog](https://www.screamingfrog.co.uk/seo-spider/)
--   [Spyonweb](http://spyonweb.com/)
--   [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 -   [Seobility](https://www.seobility.net/)
 -   [Dareboost](https://www.dareboost.com/)
 -   [Gtmetrix](https://gtmetrix.com/)
@@ -71,10 +72,9 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Answerthepublic](https://answerthepublic.com/)
 - [Keyword generator](https://ahrefs.com/keyword-generator)
 -   [Textoptimizer](https://textoptimizer.com/)
--   [Keywordshitter](http://keywordshitter.com/)
 -   [Metatags](https://metatags.io/)
 -   [Rank-checker](http://tools.seobook.com/firefox/rank-checker/)
--   [Seopowersuite](http://www.seopowersuite.es/rank-tracker/)
+-   [Seopowersuite](https://www.link-assistant.com/es/rank-tracker/)
 -   [Seedkeywords](https://www.seedkeywords.com/)
 -   [Ubersuggest](https://ubersuggest.com/)
 -   [Keyworddit](https://www.keyworddit.com/)
@@ -83,7 +83,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Visualhunt](https://visualhunt.com/)
 -   [Buzzsumo](https://buzzsumo.com/)
 -   [Webfx Faqfox](https://www.webfx.com/seo-tools/faqfox/)
--   [Soovle](https://soovle.com/)
+-   [Soovle](https://www.seo.com/soovle/)
 -   [Searchvolume](https://searchvolume.io/)
 -   [Alsoasked](https://alsoasked.com/)
 -   [Text Optimizer](https://textoptimizer.com/)
@@ -103,25 +103,23 @@ Posiblemente sea una de las ramas más complejas del SEO.
 ## Datos estructurados
 
 -   [Rich results](https://search.google.com/test/rich-results)
--   [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
+-   [Schema Markup Validator](https://validator.schema.org/)
 - [Guía para crear datos estructurados desde GTM](https://gofishdigital.com/blog/how-to-create-dynamic-schema-with-google-tag-manager/)
 
 
 ## Enlaces / Linkbuilding
 
 -   [Backlinkshitter](https://backlinkshitter.com/)
--   [Seopowersuite](http://www.seopowersuite.es/seo-spyglass/)
+-   [Seopowersuite](https://www.link-assistant.com/es/seo-spyglass/)
 -   [Backlink-checker](https://ahrefs.com/es/backlink-checker)
 -   [Canirank](https://www.canirank.com/)
--   [Disavow links](https://www.google.com/webmasters/tools/disavow-links-main)
+-   [Disavow links](https://search.google.com/search-console/disavow-links)
 -   [lLnk explorer](https://moz.com/link-explorer)
--   [Domain authority checker/](https://www.seoweather.com/domain-authority-checker/)
 
 ## Mobile SEO
 
 -   [Zeo mfi](https://zeo.org/seo-tools/mfi/)
 -   [Mobile serp test/](https://mobilemoxie.com/tools/mobile-serp-test/)
--   [Mobile friendly](https://search.google.com/test/mobile-friendly)
 
 ## SEO Local
 
@@ -149,14 +147,13 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Finteza](https://www.finteza.com/)
 -   [Hotjar](https://www.hotjar.com/)
 -   [Crazyegg](https://www.crazyegg.com/)
--   [Google Optimize](https://optimize.google.com/)
 -  [Clarify](https://clarity.microsoft.com/)
 
 ## Cambios de algoritmo
 
 -   [Mozcast](https://moz.com/mozcast/)
 -   [Flux](https://serpmetrics.com/flux/)
--   [Algoroo.com](https://algoroo.com/)
+-   [Algoroo.com](https://dejan.ai/algoroo/)
 -   [Accuranker](https://www.accuranker.com/grump)
 -   [Signals](https://cognitiveseo.com/signals/)
 -   [Website penalty indicator](https://feinternational.com/website-penalty-indicator/)
@@ -177,7 +174,7 @@ Posiblemente sea una de las ramas más complejas del SEO.
 -   [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
 -   [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
 -   [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
--   [SEO Minion](https://seominion.com/)
+-   [SEO Minion](https://keywordseverywhere.com/seominion/)
 -   [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 -   [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 -   [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
@@ -263,3 +260,23 @@ Listado de otras herramientas que pueden resultar útiles para nuestro trabajo e
 - [Epieos](https://epieos.com/)
 - [Have I been p0wned](https://haveibeenpwned.com/)
 - [Reverse Contact](https://www.reversecontact.com/)
+
+## Preguntas frecuentes
+
+**¿Qué herramientas SEO gratuitas son imprescindibles?** Las de Google: Search Console para ver cómo te rastrea e indexa Google, Google Analytics 4 para medir el tráfico y Lighthouse para revisar velocidad y calidad técnica. Para datos estructurados, el Rich Results Test y el Schema Markup Validator.
+
+**¿Hace falta pagar por una herramienta SEO?** No para empezar. Las herramientas de pago aportan datos de competencia, volúmenes y enlaces que las gratuitas no ofrecen, y compensan cuando ya sabes qué necesitas medir.
+
+**¿Qué ha pasado con Google Optimize y el Mobile-Friendly Test?** Google los ha retirado. Por eso ya no aparecen en esta lista.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "¿Qué herramientas SEO gratuitas son imprescindibles?", "acceptedAnswer": { "@type": "Answer", "text": "Las de Google: Search Console para ver cómo te rastrea e indexa Google, Google Analytics 4 para medir el tráfico y Lighthouse para revisar velocidad y calidad técnica. Para datos estructurados, el Rich Results Test y el Schema Markup Validator." } },
+    { "@type": "Question", "name": "¿Hace falta pagar por una herramienta SEO?", "acceptedAnswer": { "@type": "Answer", "text": "No para empezar. Las herramientas de pago aportan datos de competencia, volúmenes y enlaces que las gratuitas no ofrecen, y compensan cuando ya sabes qué necesitas medir." } },
+    { "@type": "Question", "name": "¿Qué ha pasado con Google Optimize y el Mobile-Friendly Test?", "acceptedAnswer": { "@type": "Answer", "text": "Google los ha retirado. Por eso ya no aparecen en esta lista." } }
+  ]
+}
+</script>

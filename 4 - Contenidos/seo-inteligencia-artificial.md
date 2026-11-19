@@ -10,7 +10,8 @@ permalink: seo-inteligencia-artificial
   
 ---
 
-{:.lead} La búsqueda con IA no sustituye al SEO, pero cambia lo que significa "salir en Google". Ahora no basta con aparecer en una lista de enlaces: hay que ser una fuente que la IA decida usar en su respuesta. A eso se le llama **GEO** (*Generative Engine Optimization*).
+La búsqueda con IA no sustituye al SEO, pero cambia lo que significa "salir en Google". Ahora no basta con aparecer en una lista de enlaces: hay que ser una fuente que la IA decida usar en su respuesta. A eso se le llama **GEO** (*Generative Engine Optimization*).
+{:.lead}
 
 <p><a class="btn btn-primary btn-sm" href="https://chuletaseo.com/chuleta-geo">Descarga la Chuleta GEO en PDF (1 página)</a></p>
 

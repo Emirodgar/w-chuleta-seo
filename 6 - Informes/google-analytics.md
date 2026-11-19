@@ -18,7 +18,8 @@ redirect_from:
 
 ## Instalar y configurar Google Analytics 4
 
-{:.lead} GA4 es la herramienta de análisis web de Google. Medir bien es la base para demostrar el resultado de cualquier estrategia SEO.
+GA4 es la herramienta de análisis web de Google. Medir bien es la base para demostrar el resultado de cualquier estrategia SEO.
+{:.lead}
 
 > Google Analytics Universal `GA3` [dejó de procesar datos en julio de 2023](https://support.google.com/analytics/answer/11583528?hl=es). Hoy GA4 es la única opción estándar.
 

@@ -11,7 +11,8 @@ permalink: migracion-seo
 
 ---
 
-{:.lead} Una migración SEO es cualquier cambio que modifica las URLs de un sitio o la forma en que los buscadores lo ven: dominio, estructura, protocolo o plantilla. Hecha con orden, no tiene por qué costar tráfico. Esta guía sigue el orden que uso y se apoya en las recomendaciones oficiales de Google para mover un sitio.
+Una migración SEO es cualquier cambio que modifica las URLs de un sitio o la forma en que los buscadores lo ven: dominio, estructura, protocolo o plantilla. Hecha con orden, no tiene por qué costar tráfico. Esta guía sigue el orden que uso y se apoya en las recomendaciones oficiales de Google para mover un sitio.
+{:.lead}
 
 1. Índice
 {:toc}

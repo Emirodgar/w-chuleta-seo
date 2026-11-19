@@ -32,7 +32,7 @@ Aunque existe formación de pago, en Internet tenemos accesible multitud de info
 - [Guías SEO oficiales](https://chuletaseo.com/guias-seo): Una buena aproximación inicial puede ser revisar las guías oficiales de los buscadores, donde nos detallarán los principcios básicos del SEO.
 - [Listado de Newsletters SEO](https://chuletaseo.com/newsletter-seo): Además de la nuestra, existen muchas otras newsletters con una gran calidad.
 - [Listado de Podcast SEO](https://chuletaseo.com/podcast-seo): Si prefieres esuchar a leer, los podcast serán tu aliado. Lo único, debes saber que la mayoría de ellos están en inglés.
-- Las páginas [SparkToro](https://sparktoro.com/trending), [SEOAsked](https://seoasked.com/)  y [SEOTweets](https://seotweets.io/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
+- Las páginas [SparkToro](https://sparktoro.com/trending) y [SEOAsked](https://seoasked.com/) recopilan información interesante acerca del mundo SEO, especialmente comentarios desde fuentes oficiales y tuits con gran repercusión.
 - Nuestra sección de [algoritmos de Google](https://chuletaseo.com/algoritmos-google) para hacer seguimiento y alinearnos de los cambios que ocurren con el buscador.
 
 <section id="cs_recursos"></section>

@@ -10,7 +10,8 @@ permalink: keyword-research
 
 ---
 
-{:.lead} El **keyword research** (o análisis de palabras clave) es el estudio de **qué buscan las personas que podrían ser tu cliente o tu lector** y con qué palabras lo hacen. Su resultado no es una lista de términos: es la decisión de **qué páginas crear, mejorar o descartar**.
+El **keyword research** (o análisis de palabras clave) es el estudio de **qué buscan las personas que podrían ser tu cliente o tu lector** y con qué palabras lo hacen. Su resultado no es una lista de términos: es la decisión de **qué páginas crear, mejorar o descartar**.
+{:.lead}
 
 Es la base de cualquier [estrategia SEO de contenidos](https://chuletaseo.com/estrategia-contenidos). Si te saltas este paso, acabas escribiendo sobre lo que tú quieres contar y no sobre lo que se busca.
 
@@ -144,7 +145,7 @@ En el apartado de herramientas SEO tienes un bloque específico de [keyword rese
 - [Keyword generator de Ahrefs](https://ahrefs.com/keyword-generator){:target="_blank"}: ideas de términos a partir de una palabra, en su versión gratuita.
 - [Keyword Explorer de Moz](https://moz.com/explorer){:target="_blank"}: análisis de términos, con límite de consultas gratuitas.
 - [Ubersuggest](https://ubersuggest.com/){:target="_blank"}: ideas de términos y datos de competidores.
-- [Soovle](http://www.soovle.com/){:target="_blank"}: sugerencias de varios portales a la vez (Amazon, Wikipedia, YouTube, etc.).
+- [Soovle](https://www.seo.com/soovle/){:target="_blank"}: sugerencias de varios portales a la vez (Amazon, Wikipedia, YouTube, etc.).
 - [Wordtracker](https://www.wordtracker.com/){:target="_blank"}: otra herramienta para encontrar términos.
 - [Glimpse](https://chrome.google.com/webstore/detail/google-trends-supercharge/ocmojhiloccgbpjnkeiooioedaklapap?hl=es){:target="_blank"}: extensión de Chrome que añade datos a Google Trends.
 
