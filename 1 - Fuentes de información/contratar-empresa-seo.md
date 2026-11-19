@@ -1,80 +1,134 @@
 ---
-title: Cómo contratar una empresa SEO para mejorar tu posicionamiento en Google
-description: Si buscas mejorar el posicionamiento de tu página web en los resultados de búsqueda de Google, contratar una empresa SEO es la mejor opción. En este artículo, te explicamos todo lo que necesitas saber para elegir la mejor opción.
+title: Contratar SEO - Cómo elegir consultor o agencia (precios y señales de alarma)
+description: "Guía para contratar servicios SEO: consultor, agencia o equipo interno, cuánto cuesta, qué debe incluir el contrato, qué preguntar y las señales de alarma que cita Google."
 date: 24/05/2023
+date_modified: 19/11/2026
 folder: fuentes-informacion
 author: Emirodgar
 layout: default_1
 permalink: contratar-empresa-seo
-  
+
 ---
 
-¿Tienes una página web y quieres que aparezca en los primeros resultados de búsqueda de Google? Entonces necesitas una **empresa SEO** que te ayude a mejorar tu posicionamiento. Pero, ¿cómo elegir la mejor opción? En este artículo te explicamos todo lo que necesitas saber sobre cómo contratar una empresa SEO.
+**Contratar SEO** es encargar a un consultor, una agencia o un profesional interno que mejore la visibilidad de tu web en los buscadores. Esta guía te ayuda a decidir **a quién contratar, cuánto puede costar, qué debe incluir el acuerdo** y qué señales indican que conviene huir.
+{:.lead}
 
-## ¿Qué es una empresa SEO?
-Antes de explicar cómo elegir una empresa SEO, es importante entender qué es y qué hace este tipo de compañías. En resumen, una empresa SEO es aquella que se dedica a mejorar el posicionamiento de una página web en los resultados de búsqueda de Google.
+1. Índice
+{:toc}
 
-## ¿Por qué contratar una empresa SEO?
-Si tienes una página web, el objetivo principal es que esta sea visible para el mayor número de personas posible. Y la forma más efectiva de lograr esto es apareciendo en los primeros resultados de búsqueda de Google. Contratar una empresa SEO te ayudará a lograr este objetivo de la forma más efectiva.
+## ¿Cuándo conviene contratar servicios SEO?
 
-## ¿Cuándo es el mejor momento para contratar una agencia o un consultor SEO?
+No siempre hace falta. Google explica que un negocio pequeño puede hacer buena parte del trabajo por su cuenta si parte de su [guía de inicio de SEO](https://developers.google.com/search/docs/fundamentals/seo-starter-guide){:target="_blank"}. Contratar tiene más sentido cuando:
 
-- Cuando no estamos bien posicionados o no estamos obteniendo suficiente tráfico orgánico.
-- Cuando no tienes tiempo, recursos o conocimientos para gestionar el SEO de tu empresa.
-- Cuando necesitas estar por delante de tu competencia.
+- **Vas a rediseñar o migrar la web.** Google recomienda implicar a un SEO cuanto antes en esos proyectos. Mira la [guía de migración SEO](https://chuletaseo.com/migracion-seo).
+- **No tienes tiempo ni conocimientos** para sostener el trabajo técnico, de contenidos y de enlaces.
+- **El tráfico orgánico no crece** o ha caído y no sabes por qué.
+- **Compites en un sector exigente** y necesitas un criterio que no tienes.
 
-## Algunas de las razones por las que deberías contratar una empresa SEO son:
+## Qué hace un profesional SEO
 
-- Mejorar tu posicionamiento en Google: una empresa SEO te ayudará a optimizar tu página web para que aparezca en los primeros resultados de búsqueda de Google.
-- Ahorrar tiempo: el SEO es un trabajo constante y requiere tiempo y dedicación. Al contratar una empresa SEO, podrás ahorrar tiempo y dedicarte a otras tareas importantes.
-- Obtener resultados más rápidos: una empresa SEO cuenta con la experiencia y los conocimientos necesarios para obtener resultados rápidos y efectivos.
+Según Google, un SEO puede revisar el contenido y la estructura de tu sitio, dar asesoramiento técnico (alojamiento, redirecciones, páginas de error, JavaScript), desarrollar contenido, investigar palabras clave, formar a tu equipo y optimizar también para las funciones de IA generativa. En la práctica, un servicio completo suele incluir:
 
-## ¿Qué es mejor contratar un SEO interno en mi empresa o contratar una agencia SEO?
+- **Auditoría inicial** técnica, de contenidos y de enlaces. Aquí tienes cómo se hace una [auditoría SEO](https://chuletaseo.com/auditoria-seo).
+- **Estrategia y objetivos** ligados al negocio, no solo a posiciones. Mira [objetivos SEO](https://chuletaseo.com/objetivos-seo) y [estrategia SEO](https://chuletaseo.com/estrategia-seo).
+- **Investigación de palabras clave** y plan de contenidos. Guía de [keyword research](https://chuletaseo.com/keyword-research).
+- **Optimización técnica y de contenidos** de las páginas existentes.
+- **Creación de contenido y enlaces** de forma natural y dentro de las políticas de Google.
+- **Medición e informes** periódicos.
 
-Cada situación será diferente y por ende, es difícil de responder. La decisión de contratar a un SEO interno o a una agencia SEO dependerá de las necesidades y recursos de tu empresa.
+Hoy también entra la visibilidad en las respuestas de IA. Tienes el detalle en [SEO e inteligencia artificial](https://chuletaseo.com/seo-inteligencia-artificial) y en la [Chuleta GEO](https://chuletaseo.com/chuleta-geo).
 
-Si tu empresa tiene suficiente presupuesto y recursos para contratar a un especialista en SEO a tiempo completo, entonces puede ser beneficioso tener a alguien trabajando internamente en el sitio web de tu empresa. El especialista en SEO interno puede tener un mejor conocimiento del negocio y de la marca, lo que puede ser útil para desarrollar una estrategia de SEO personalizada.
+## Consultor SEO, agencia o SEO interno
 
-Sin embargo, si no tienes suficiente presupuesto o recursos para contratar a un especialista en SEO a tiempo completo, entonces puede ser más beneficioso contratar a una agencia SEO. Una agencia SEO cuenta con un equipo de expertos en SEO que pueden trabajar juntos para desarrollar una estrategia de SEO efectiva para tu sitio web.
+No hay una opción mejor para todos. Depende de presupuesto, volumen de trabajo y control que quieras tener.
 
-Además, una agencia SEO tiene experiencia trabajando con una variedad de clientes y puede tener una perspectiva más amplia sobre cómo mejorar tu sitio web. También pueden proporcionar informes regulares y análisis de datos para medir el éxito de la estrategia de SEO.
+| Opción | Ventajas | Inconvenientes |
+|---|---|---|
+| **Autónomo o consultor** | Trato directo, coste más contenido, flexibilidad. | Una sola persona: menos capacidad si el proyecto es grande. |
+| **Agencia SEO** | Equipo con varios perfiles, procesos e informes. | Coste mayor y riesgo de que el trabajo lo haga alguien junior. |
+| **SEO interno** | Conoce a fondo el negocio y la marca. | Salario fijo, formación continua y dependencia de una persona. |
 
-## ¿Cómo contratar una empresa SEO?
-Ahora que sabes qué es y por qué es importante contratar una empresa SEO, es momento de explicar cómo elegir la mejor opción. Aquí te dejamos algunos consejos para que puedas contratar una empresa SEO de forma efectiva:
+Algunos consejos para decidir:
 
-### 1. Define tus objetivos
-Antes de contratar una empresa SEO, es importante que tengas claros tus objetivos. ¿Quieres mejorar el posicionamiento de tu página web en un sector específico? ¿O quizás quieres aumentar el tráfico en tu sitio web? Sea cual sea tu objetivo, es importante que lo tengas claro antes de empezar a buscar una empresa SEO.
+- **Pregunta quién hará el trabajo.** Quien vende el proyecto no siempre es quien lo ejecuta.
+- **Una agencia especializada en SEO** suele dar más profundidad que una multiagencia que hace también redes sociales, publicidad o inbound.
+- **Una fórmula intermedia** es contratar a un consultor para marcar la estrategia y que tu equipo la ejecute.
 
-### 2. Investiga las empresas SEO
-Una vez que tengas claros tus objetivos, es momento de empezar a buscar empresas SEO. Investiga en internet, lee reseñas y busca referencias de empresas que hayan trabajado con anterioridad. También es importante que te asegures de que la empresa SEO que elijas tenga experiencia en el sector en el que se encuentra tu negocio.
+## Cuánto cuesta contratar SEO
 
-Conocer el equipo humano que trabaja el SEO de la agencia también es importante. Así es más fácil saber la experiencia del mismo.
+El precio varía mucho según el proveedor, el alcance y la experiencia. Como referencia, el estudio de Ahrefs [Precio SEO: preguntamos a 439 profesionales](https://ahrefs.com/es/blog/precio-seo/){:target="_blank"} (abril de 2025, cifras en dólares) recoge estos importes medios:
 
-Otras consideraciones a tener en cuenta:
+| Tipo de proveedor | Cuota mensual media |
+|---|---|
+| Autónomos | unos 1.350 dólares |
+| Agencias | unos 3.200 dólares |
+| Consultorías | unos 3.250 dólares |
+| Media general | unos 2.900 dólares |
 
-- Algunas agencias te obligan a hacer contratos de larga duración. Bien es cierto que para ver resultados SEO necesitamos al menos varios meses (entre 3 y 6), por lo que un contrato de 6 meses, prorrogable otros 6, podría ser un buen acuerdo.
-- Elegir una agencia especializada en SEO puede ser una buena opción frente a otras multiagencias con departamentos de performance, inbound, redes sociales, etc. 
-- No selecciones un contrato por el precio. A veces lo barato sale caro y una mala estrategia SEO podría generar penalizaciones en tu página.
-- Pregunta si tienen algún cliente que se pudiera considerar como competencia de tu empresa.
-- Determina, antes de comenzar a trabajar, cómo se reportará o informará de las acciones llevadas a cabo y con qué perioricidad.
+Tres matices para leer estas cifras:
 
-### 3. Pide referencias
-No tengas miedo de pedir referencias a la empresa SEO que estás considerando contratar. Una buena empresa SEO no tendrá problemas en proporcionarte referencias de clientes anteriores, especialmente del mismo mercado o vertical que tu empresa, así sabrás que tienen experiencia real en clientes como tú. Además, también es importante que te asegures de que la empresa SEO que elijas tenga una buena reputación en el mercado.
+- **No son precios de España.** El propio estudio pide tomar los resultados con cautela por la falta de datos en algunas regiones, y la muestra viene de usuarios de una empresa de herramientas SEO.
+- **Son medias**, y el rango habitual es muy amplio: de unos 250 a 10.000 dólares al mes.
+- **El SEO local suele ser más barato** que el global: la media del estudio ronda los 1.550 dólares al mes frente a unos 3.500.
 
-### 4. Pregunta sobre las técnicas que utilizan
+El estudio recoge además tres formas de cobrar, que pueden combinarse: **cuota mensual** (la más habitual), **proyecto cerrado** (una auditoría o una migración) y **por horas**. Pide siempre presupuesto a **varios proveedores**, con el alcance detallado, para poder comparar lo comparable.
 
-Es importante que te asegures de que la empresa SEO que elijas utiliza técnicas éticas y legales.
+## Qué debe incluir el contrato
+
+- **Alcance concreto:** qué se hará cada mes y qué queda fuera.
+- **Objetivos y cómo se miden:** métricas de negocio (leads, ventas, ingresos) además de tráfico y posiciones.
+- **Duración y salida:** para ver resultados hacen falta meses, así que un compromiso de seis meses prorrogable puede ser razonable. Desconfía de permanencias largas sin cláusula de salida.
+- **Informes:** qué contenido y con qué periodicidad. Define también quién los lee y cuándo hay reunión.
+- **Transparencia de cambios:** que te expliquen **qué se modifica y por qué**, sobre todo si tocan tu servidor o tu CMS.
+- **Propiedad de todo:** cuentas, contenidos, enlaces y accesos son tuyos.
+- **Conflictos de interés:** pregunta si trabajan con competidores directos tuyos.
+
+## Preguntas que conviene hacer antes de contratar
+
+Google recomienda entrevistar al candidato cuanto antes y preguntar:
+
+- ¿Puedes enseñarme **trabajos anteriores y casos de éxito**?
+- ¿Sigues las [Google Search Essentials](https://developers.google.com/search/docs/essentials){:target="_blank"}?
+- ¿Qué resultados esperas, **en qué plazo** y cómo medirás el éxito?
+- ¿Tienes **experiencia en mi sector**, en mi país o en sitios internacionales?
+- ¿Cómo nos comunicaremos y me explicarás **todos los cambios y sus razones**?
+- ¿Puedes darme **referencias** de clientes anteriores?
+
+Además, un buen profesional te hará preguntas a ti: qué hace único a tu negocio, quién es tu competencia y cómo te encuentran tus clientes. Si no le interesa tu negocio, mala señal.
+
+## Señales de alarma
+
+Google avisa de estas prácticas. Si las ves, busca a otra persona:
+
+- **Garantías de posición.** Nadie puede garantizar el primer puesto en Google, y quien lo promete miente. Lo mismo con una "relación especial" con Google o un "envío prioritario".
+- **Falta de claridad** sobre lo que van a hacer. Si tienen acceso a tu servidor, deben explicar los cambios.
+- **Esquemas de enlaces:** compra masiva de enlaces o redes de webs para enlazarte.
+- **Técnicas contrarias a las políticas antispam** de Google. Pueden hacer que tu web pierda visibilidad o incluso salga del índice. Detalle en [penalización SEO](https://chuletaseo.com/penalizacion-seo).
+- **Contenido generado a escala sin valor.** Es una de las políticas de spam de Google desde marzo de 2024, junto con el abuso de dominios caducados y de reputación del sitio. Mira la [cronología de actualizaciones](https://chuletaseo.com/actualizacion-core).
+- **Presión comercial por correo no solicitado** y promesas de resultados en días.
+- **Herramientas "aprobadas por Google".** Google no respalda herramientas de terceros ni les da acceso a datos internos de posicionamiento.
+
+## Qué accesos dar al SEO
+
+Si te ofrecen una auditoría, Google aconseja dar **solo acceso de lectura** a Search Console en esa etapa. Pasa a permisos de edición cuando haya confianza y un acuerdo claro. Consulta [qué herramientas usan los SEO](https://chuletaseo.com/herramientas-seo) para saber qué cuentas pueden pedirte.
+
+## Cómo seguir el trabajo después de contratar
+
+- **Fija una línea base** antes de empezar: Search Console, analítica y un rastreo completo.
+- **Pide acceso a los informes**, no solo a un PDF mensual.
+- **Revisa con calma los primeros meses:** el SEO se valora por tendencia, no por una semana concreta.
+- **Contrasta las recomendaciones** con la documentación de Google: un profesional serio las respalda con fuentes fiables.
+- **Aprende lo básico.** Con la [guía de primeros pasos](https://chuletaseo.com/primeros-pasos-seo) y el [glosario SEO y GEO](https://chuletaseo.com/glosario-seo) podrás entender los informes.
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
-- [Directrices de calidad de Google](https://support.google.com/publisherpolicies/answer/11035931?hl=es){:target="_blank"}
-- [Listado oficial de actualizaciones de algoritmo](https://developers.google.com/search/updates/ranking?hl=es){:target="_blank"}
+- [¿Necesitas un SEO? (Google Search Central)](https://developers.google.com/search/docs/fundamentals/do-i-need-seo){:target="_blank"}
+- [Políticas de spam de Google](https://developers.google.com/search/docs/essentials/spam-policies){:target="_blank"}
+- [Precio SEO: preguntamos a 439 profesionales (Ahrefs)](https://ahrefs.com/es/blog/precio-seo/){:target="_blank"}
 - [Información sobre los algoritmos de Google](https://chuletaseo.com/algoritmos-google)
-- [Listado de blogs oficiales de los buscadores](https://chuletaseo.com/blogs-oficiales)
-
-
+- [Entrevistas a expertos SEO](https://chuletaseo.com/entrevistas-seo)
 
 <section id="cs_herramientas"></section>
 
@@ -82,6 +136,53 @@ Es importante que te asegures de que la empresa SEO que elijas utiliza técnicas
 
 - [Informe de acciones manuales en Google Search Console](https://support.google.com/webmasters/answer/9044175?hl=es){:target="_blank"}
 
-
-
 <section id="cs_pr"></section>
+
+## Preguntas y respuestas
+
+<div class="row">
+          <div class="col-lg-12">
+            <div class="accordion accordion-alterate arrow-right" id="popularTopics">
+              <div class="card">
+                <div class="card-header" id="heading1">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">¿Cuánto cuesta contratar SEO?</a> </h5>
+                </div>
+                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#popularTopics">
+                  <div class="card-body">Depende del tipo de proveedor y del alcance. Un estudio de Ahrefs con 439 profesionales (2025, en dólares y con una muestra sesgada hacia usuarios de herramientas SEO) sitúa la media en unos 2.900 dólares al mes. Por tipo: unos 1.350 los autónomos, unos 3.200 las agencias y unos 3.250 las consultorías. Son referencias, no tarifas para España: pide siempre presupuesto a varios proveedores.</div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading2">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">¿Cuánto tarda en notarse el SEO?</a> </h5>
+                </div>
+                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#popularTopics">
+                  <div class="card-body">Google no da plazos y depende del punto de partida, la competencia y lo que se haga. Como orientación de experiencia, los cambios suelen empezar a verse en meses, no en semanas. Desconfía de quien te prometa resultados en días.</div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading3">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">¿Qué es mejor, contratar un consultor SEO o una agencia?</a> </h5>
+                </div>
+                <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#popularTopics">
+                  <div class="card-body">Un consultor o un autónomo suele salir más barato y te da trato directo. Una agencia aporta un equipo con distintos perfiles (técnico, contenidos, enlaces) y capacidad para proyectos grandes. Lo que cuenta es quién hará realmente el trabajo en tu proyecto, no el tamaño de la empresa.</div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading4">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">¿Puede alguien garantizarme la primera posición en Google?</a> </h5>
+                </div>
+                <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#popularTopics">
+                  <div class="card-body">No. Google lo dice expresamente: nadie puede garantizar el primer puesto, y si alguien lo hace, conviene buscar a otra persona.</div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="heading5">
+                  <h5 class="mb-0"> <a href="#" class="collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">¿Qué accesos debo dar a un SEO?</a> </h5>
+                </div>
+                <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#popularTopics">
+                  <div class="card-body">Durante una auditoría, Google recomienda dar solo acceso de lectura a Search Console. Da permisos de escritura únicamente cuando haya confianza y un acuerdo claro sobre qué se va a modificar.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
