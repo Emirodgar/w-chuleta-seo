@@ -1,106 +1,163 @@
 ---
-title: Migración SEO
-description: Aprende a realizar una correcta migración SEO para evitar perder tráfico y posicionamiento.
+title: Migración SEO - Guía paso a paso para no perder tráfico
+description: "Cómo hacer una migración SEO sin perder posicionamiento: tipos de migración, mapa de redirecciones 301, lanzamiento, sitemaps, cambio de dirección y errores frecuentes."
 lang: es_ES
 date: 14/11/2022
+date_modified: 19/11/2026
 author: Emirodgar
 layout: default_1
 folder: indexacion
 permalink: migracion-seo
 
-
 ---
 
-No pierdas posicionamiento ni tráfico SEO al cambiar de dominio, estructura o de plantilla web. Te enseño a seguir los pasos adecuados para asegurar una migración correcta.
+{:.lead} Una migración SEO es cualquier cambio que modifica las URLs de un sitio o la forma en que los buscadores lo ven: dominio, estructura, protocolo o plantilla. Hecha con orden, no tiene por qué costar tráfico. Esta guía sigue el orden que uso y se apoya en las recomendaciones oficiales de Google para mover un sitio.
 
+1. Índice
+{:toc}
 
-## 1- Analizamos la estructura actual
+## Tipos de migración
 
-El primer paso es identificar todas las páginas que componen nuestro sitio web. Para ello podemos hacer uso de herramientas como Google Search Console, ScreamingFrog, los ficheros sitemaps o los logs de servidor.
+Google distingue las migraciones **con cambio de URLs** (las que trata su guía de mudanza de sitio) de las que no las cambian:
 
-## 2- Cualificamos y clasificamos las páginas existentes
+- **Cambio de protocolo:** de HTTP a HTTPS.
+- **Cambio de dominio o de nombre de host:** a otro dominio, o unir varios dominios o subdominios.
+- **Cambio en la ruta de las URLs:** por ejemplo, una estructura de carpetas nueva o quitar extensiones de fichero.
+- **Sin cambio de URLs:** cambiar de hosting o de diseño manteniendo las direcciones. Tiene sus propias comprobaciones.
 
-En este paso clasificaremos y organizaremos todas las páginas que hemos identificado según los criterios de **posicionamiento**, **tráfico** y **conversión**. Nuestro objetivo será disponer de dos bloques principales: páginas que queremos conservar y las que no.
+Dos consejos que repite Google y que comparto:
 
-### Páginas relevantes 
+- **Haz un cambio cada vez.** Primero el dominio, después el diseño. Cambiar todo a la vez dificulta saber qué ha fallado.
+- **Programa la migración en una época de poco tráfico.** Y migra de una sola vez si el sitio es pequeño o mediano. Solo los sitios muy grandes deberían hacerlo por secciones.
 
-Dentro de este bloque ubicamos las páginas con un buen posicionamiento SEO, páginas que generan buen tráfico, páginas que asisten a la conversión y páginas que nos interesa conservar a nivel interno.
+## Antes de empezar: guarda la línea base
 
-### Páginas con baja calidad
-  
-> En el caso de que se trata de URL que no están bajo nuestro control, podemos [solicitar su eliminación a Google](https://chuletaseo.com/eliminar-pagina-indexada-google).
+Es mi aportación a la lista oficial: sin datos de partida no sabrás si la migración ha ido bien. Guarda, como mínimo:
 
-Al igual que hemos identificado las páginas que queremos conservar debido a su relevancia, tenemos que ser conscientes de aquellas que no lo son. Crearemos otros dos bloques: páginas que actualmente dan error y páginas que no tendrán equivalente en la nueva versión.
+- Un export de **Search Console** (páginas y consultas) de los últimos 12 meses.
+- Un export de **analítica** con las páginas de más tráfico y conversión.
+- Un **rastreo completo** de la web actual, con sus códigos de estado, títulos, canonicals y enlaces internos.
+- Las **posiciones** de tus 50-100 términos principales.
 
-## 3- Creamos el fichero de mapeado o redirección
+## 1. Analiza la estructura actual
 
-> Cuando hacemos una migración es muy posible que se realicen cientos o miles de redirecciones. Para evitar que el servidor se sature y que afecte a la métrica TTFB (Time To First Byte), podemos realizar un mapeado de redirecciones (`Inglés` - [Mapeado de redirecciones para mejorar rendimiento del servidor tras una migración](https://gauravswaroop.medium.com/nginx-bulk-url-redirect-with-map-47c2cd6ad50a))
+Identifica todas las URLs del sitio. Combina varias fuentes para no dejarte ninguna: sitemaps, rastreo con Screaming Frog, Search Console, la analítica, los logs del servidor y el propio CMS. Incluye también imágenes, vídeos, CSS y JavaScript si reciben tráfico o enlaces.
 
-El objetivo de esta migración es que los buscadores entiendan el cambio de página web sin que este afecte al posicionamiento ni a la experiencia de los usuarios.
+## 2. Clasifica las páginas
 
-Para ello necesitamos aplicar redirecciones 301 (permanentes) entre las URL de la página antigua hacia la nueva página. Para hacer sencillo este paso, recomiendo generar un fichero de mapeado o redirección donde indicamos, por cada URL de la vieja estructura que queremos mantener, cuál será su equivalente en la nueva página.
+Organiza cada URL según su **posicionamiento**, **tráfico** y **conversión**. El objetivo es separar dos bloques:
 
-### Páginas relevantes para la estrategia SEO
+- **Páginas que quieres conservar:** buen posicionamiento, tráfico, apoyo a la conversión o importancia interna.
+- **Páginas que no:** de baja calidad, que dan error o que no tendrán equivalente en la web nueva.
 
-Serán redireccionadas, una a una, a su versión en la nueva web. Si no existiera, se recomienda generarla para poder mantener la popularidad y posicionamiento existentes.
+> Si se trata de URLs que no están bajo tu control, puedes [solicitar su eliminación a Google](https://chuletaseo.com/eliminar-pagina-indexada-google).
 
-### Páginas de baja calidad
+## 3. Crea el mapa de redirecciones
 
-Las páginas de baja calidad o que no se mantendrán en la nueva versión serán redireccionadas a categorías similares o a la página principal.
+Es el documento más importante de la migración: una tabla con la URL antigua y su equivalente en la nueva. Reglas que conviene seguir:
 
-### Páginas con error
+- **Redirección permanente** (301 o 308) de cada URL antigua a su destino definitivo.
+- **Directa al destino final.** Evita las cadenas de redirecciones. Google recomienda, como mucho, unos pocos saltos, y lo ideal es uno.
+- **Una a una para las páginas relevantes.** Si una página no tiene equivalente, crea una antes de migrar para mantener su posicionamiento.
+- **No mandes todo a la portada.** Redirigir muchas URLs a una página genérica no es una buena equivalencia. Para páginas que desaparecen, redirige a una categoría similar solo si es de verdad equivalente. Si no, deja que devuelvan 404 o 410.
+- **Páginas con error: no las redirijas.** Deben devolver un código de error (404 o 410), para evitar que se indexen.
 
-No deben ser redireccionadas y debemos asegurarnos que el código de estado HTTP devuelto es un error (así evitamos que se indexen).
-  
-## 4- Comprobamos que la página es accesible
+> Cuando hay cientos o miles de redirecciones conviene resolverlas con un mapeo eficiente para no saturar el servidor ni empeorar el TTFB. En Nginx, por ejemplo, con la directiva `map` ([guía en inglés](https://gauravswaroop.medium.com/nginx-bulk-url-redirect-with-map-47c2cd6ad50a)). En Apache tienes ejemplos en la guía de [códigos .htaccess](https://chuletaseo.com/codigos-htaccess-apache).
 
-Es bastante común que durante el desarrollo de una nueva web ésta sea bloqueada a la indexación de los buscadores para evitar miradas indiscretas y contenido duplicado. A veces ocurre que cuando se publica en producción los mecanismos que impiden su indexación siguen presentes y lastran su posicionamiento.
+## 4. Prepara la web nueva
 
-Para asegurarnos que nuestra nueva página es accesible, justo antes de la migración debemos comprobar que:
+Antes del lanzamiento, comprueba en la web nueva que:
 
-- No se está bloqueando desde el fichero robots.txt.
-- No incluye la meta etiqueta noindex ni nofollow.
+- Los **canonical** son autorreferenciados y apuntan a las URLs nuevas.
+- Los **enlaces internos** y los **hreflang** (si los hay) usan las URLs nuevas.
+- El contenido, las imágenes y los ficheros están migrados.
+- El **certificado SSL** es válido, si pasas a HTTPS. Puedes comprobarlo con [SSL Labs](https://www.ssllabs.com/ssltest/index.html).
+- El servidor aguanta el aumento de rastreo que provoca una migración.
+- Tienes **verificadas en Search Console** todas las variantes del sitio antiguo y del nuevo.
 
-> En este punto es importante validar que el certificado de seguridad SSL es válido. Para ello podemos hacer uso de [esta herramienta](https://www.ssllabs.com/ssltest/index.html).
+### Comprueba que la web es accesible
 
-## 5- Comprobamos los códigos de medición
+Es muy común que una web en desarrollo esté bloqueada para los buscadores. El problema llega cuando esos bloqueos siguen activos al publicarla. Justo antes de migrar, comprueba que:
 
-Es muy importante -de cara a poder evaluar el impacto de la migración- validar que los códigos de medición (plataforma analítica web, campañas de pago, modelos de atribución, etc.) están presentes en la nueva página. De no ser así, debemos incluirlos antes de la migración.
+- No se bloquea desde `robots.txt`.
+- No incluye `noindex` ni `nofollow` en la meta etiqueta ni en la cabecera HTTP.
 
-## 6- Envío y supervisión de la nueva estructura
+## 5. Revisa los códigos de medición
 
-Para ayudar a los buscadores a entender el cambio de estructura es importante, además de las redirecciones aplicadas en el fichero de mapeado, que dispongamos de un fichero sitemap XML que incluya todas las páginas relevantes de nuestro sitio web que queremos posicionar.
+Para evaluar el impacto de la migración, la web nueva debe tener la analítica, las campañas de pago y los píxeles de atribución antes del lanzamiento.
 
-A través de Google Search Console y Bing Search Console podremos cargar dicho fichero y analizar la evolución de las páginas que son indexadas, las que dan error, etc.
+## 6. Lanza la migración
 
-A mayores, utilizaremos la [herramienta de cambio de dirección](https://support.google.com/webmasters/answer/83106?hl=es) de Google Search Console para informar al buscador del cambio de dominio.
+El orden recomendado por Google:
 
-## 7- Comprobaciones finales
+1. **Activa las redirecciones** del mapa, de la URL antigua directamente a la nueva.
+2. **Comprueba el resultado:** que los canonical, los `noindex` y las redirecciones funcionan como esperabas. Prueba una muestra de URLs de cada tipo (con `curl -I`, por ejemplo).
+3. **Herramienta de cambio de dirección** en Search Console, solo si cambias de **dominio o subdominio**. No hace falta para pasar de HTTP a HTTPS, de `www` a sin `www` ni para cambiar rutas. Si cambias de dominio, envíala para todas las variantes verificadas. Tienes [la ayuda oficial](https://support.google.com/webmasters/answer/9370220?hl=es).
+4. **Mantén las redirecciones al menos un año.** Más, si siguen recibiendo enlaces o tráfico.
+5. **Envía el sitemap nuevo** a Search Console. Durante un tiempo, mantén también el antiguo: es normal que avise de redirecciones, y con los días las páginas indexadas del antiguo bajan mientras suben las del nuevo.
+6. **Actualiza cuanto antes** los enlaces internos, los externos que controles (perfiles sociales, directorios, campañas) y los de tus herramientas.
 
-Una vez ejecutada la migración debemos buscar posibles errores y subsanarlos a la mayor brevedad. Para ello recomiendo llevar a cabo las siguientes acciones:
+## 7. Supervisa tras el lanzamiento
 
-- **Análisis del log de servidor**: Veremos en tiempo real qué páginas están dando error y podremos solucionarlo lo antes posible.
+Busca errores y corrígelos cuanto antes. Estas son las revisiones, de más rápida a más lenta:
 
-- **Análisis de enlazado interno**: A través de aplicaciones como ScreamingFrog analizaremos todas las páginas en busca de enlaces internos erróneos (páginas que han sido enlazadas de forma incorrecta y generar páginas de error) y otro tipo de problemas.
+- **Análisis del log del servidor.** Muestra casi en tiempo real qué URLs dan error y qué rastrea Google.
+- **Rastreo de la web nueva** con Screaming Frog u otra herramienta, para detectar enlaces internos rotos, cadenas de redirecciones y canonical erróneos.
+- **Search Console.** El informe de indexación y el de estadísticas de rastreo. Es la última línea de defensa, porque los errores tardan en aparecer.
+- **Compara con la línea base** del principio: tráfico, páginas indexadas y posiciones.
 
-Los dos puntos anteriores deben ser llevados a cabo tras la migración porque podremos encontrar problemas casi en tiempo real. A continuación muestro otra opción a medio y largo plazo (como control) porque a corto plazo no será efectiva, pues tarda en actualizar los datos.
+## Cuánto tarda en recuperarse
 
-- **Análisis en Search Console**: Los buscadores nos indicarán qué páginas se han encontrado con error. Este es el último recurso, ya que para cuando aparezca un error en Search Console habrá pasado bastante tiempo. Aquí aparecerán, lógicamente, los que no hemos encontrado tras la migración o los nuevos que se han ido generando si se trata de una página dinámica. 
+Es normal que la visibilidad fluctúe durante semanas. Según Google, el proceso puede tardar unas semanas en un sitio pequeño o mediano, y más en uno grande. Depende del número de URLs y de la velocidad del servidor, y Google no da un plazo fijo. Si pasados varios meses el tráfico sigue claramente por debajo de la línea base, revisa los errores de la lista siguiente.
 
+## Errores frecuentes
 
+- **Dejar el `noindex` o el bloqueo de `robots.txt`** que solo servían durante el desarrollo.
+- **Redirigir a URLs que no existen** o a páginas que no son equivalentes.
+- **Cadenas de redirecciones** o redirigir todo a la portada.
+- **Olvidar el sitemap nuevo** y los enlaces internos.
+- **Cambiar demasiadas cosas a la vez.**
+- **No tener una línea base** para comparar.
+- **Servidor sin capacidad** para el pico de rastreo.
 
 <section id="cs_recursos"></section>
 
 ## Recursos
 
-- [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
-- `Inglés` - [The 2023 SEO Guide To Successful Website Migration](https://ipullrank.com/website-migration)
+- [Mudanza de un sitio con cambios de URL (documentación de Google)](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes)
+- [Herramienta de cambio de dirección de Search Console](https://support.google.com/webmasters/answer/9370220?hl=es)
+- `Inglés` - [The SEO Guide to Successful Website Migration (iPullRank)](https://ipullrank.com/website-migration)
 - `Inglés` - [La localización del CDN no afecta al SEO](https://www.seroundtable.com/google-international-seo-cdn-location-does-not-matter-35170.html)
+- [Errores cometidos durante una migración](https://lukecarthy.com/blog/poundland-has-made-a-costly-ecommerce-mistake-and-heres-why/)
+- Guías relacionadas: [códigos .htaccess](https://chuletaseo.com/codigos-htaccess-apache), [sitemap XML](https://chuletaseo.com/sitemap-xml) y [eliminar páginas del índice](https://chuletaseo.com/eliminar-pagina-indexada-google)
 
 <section id="cs_herramientas"></section>
 
 ## Herramientas
 
-- [Generador online de sitemaps XML](https://sitemapgenerator.xyz/)
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): rastreo del sitio antes y después de migrar.
+- [Google Search Console](https://search.google.com/search-console): indexación, errores y cambio de dirección.
+- [SSL Labs](https://www.ssllabs.com/ssltest/index.html): comprobación del certificado SSL.
 
+## Preguntas frecuentes
 
+**¿Qué es una migración SEO?** Es el cambio de dominio, de estructura de URLs, de protocolo o de plataforma de un sitio, planificado para que los buscadores entiendan el cambio y no se pierda posicionamiento.
+
+**¿Durante cuánto tiempo hay que mantener las redirecciones?** Google recomienda mantenerlas al menos un año, y más si las URLs antiguas siguen recibiendo enlaces o tráfico.
+
+**¿Hay que usar la herramienta de cambio de dirección de Search Console?** Solo si cambias de dominio o de subdominio. No hace falta para pasar de HTTP a HTTPS, de www a no-www ni para cambios de ruta.
+
+**¿Cuánto tarda en recuperarse el tráfico tras migrar?** Es normal una fluctuación durante semanas. Según Google, el proceso puede tardar unas semanas en sitios pequeños y medianos, y más en los grandes.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "¿Qué es una migración SEO?", "acceptedAnswer": { "@type": "Answer", "text": "Es el cambio de dominio, de estructura de URLs, de protocolo o de plataforma de un sitio, planificado para que los buscadores entiendan el cambio y no se pierda posicionamiento." } },
+    { "@type": "Question", "name": "¿Durante cuánto tiempo hay que mantener las redirecciones en una migración?", "acceptedAnswer": { "@type": "Answer", "text": "Google recomienda mantenerlas al menos un año, y más si las URLs antiguas siguen recibiendo enlaces o tráfico." } },
+    { "@type": "Question", "name": "¿Hay que usar la herramienta de cambio de dirección de Search Console?", "acceptedAnswer": { "@type": "Answer", "text": "Solo si cambias de dominio o de subdominio. No hace falta para pasar de HTTP a HTTPS, de www a no-www ni para cambios de ruta." } },
+    { "@type": "Question", "name": "¿Cuánto tarda en recuperarse el tráfico tras una migración?", "acceptedAnswer": { "@type": "Answer", "text": "Es normal una fluctuación durante semanas. Según Google, el proceso puede tardar unas semanas en sitios pequeños y medianos, y más en los grandes." } }
+  ]
+}
+</script>
